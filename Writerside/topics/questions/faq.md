@@ -117,7 +117,7 @@ und [AngelEvents](events.md#fishing-event) statt.
 > {style="note"}
 
 #### Hat man als Veteran Vorteile? {collapsible="true" default-state="collapsed" id="veteran-info"}
-Als Dankeschön für viele Spielstunden erhalten Veteranen einen bevorzugten Platz in der Warteschlange und kommen so schneller auf den Server, wenn ein Platz frei wird.
+Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevorzugten Platz in der Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz frei wird.
 
 > Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
 > {style="note"}
