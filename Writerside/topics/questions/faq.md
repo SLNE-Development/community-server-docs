@@ -90,7 +90,7 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 > Ausschluss vom Server bestraft!
 > {style="warning"}
 
-#### Was mache ich, wenn ich versehentlich gebannt werde? {collapsible="true" default-state="collapsed" id="false-ban"}
+#### Was kann ich tun, wenn ich zu Unrecht gebannt wurde? {collapsible="true" default-state="collapsed" id="false-ban"}
 
 Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, erstelle
 einen [Entbannungsantrag](support.md#unban-ticket)!
@@ -107,7 +107,7 @@ Performance und spart uns einiges an Festplattenspeicher. \
 Das End ist die einzige Dimension, welche nicht vorher generiert wird und es generiert somit bei einem Überflug
 massenhaft neue Chunks.
 
-#### Wann ist wieder ein Event? {collapsible="true" default-state="collapsed" id="next-event"}
+#### Wann findet wieder ein Event statt? {collapsible="true" default-state="collapsed" id="next-event"}
 
 Auf dem Survival Server finden regelmäßige [MiningEvents](events.md#mining-event)
 und [AngelEvents](events.md#fishing-event) statt.
@@ -117,8 +117,7 @@ und [AngelEvents](events.md#fishing-event) statt.
 > {style="note"}
 
 #### Hat man als Veteran Vorteile? {collapsible="true" default-state="collapsed" id="veteran-info"}
-
-Nein, als Veteran hat man keine großen Vorteile. Man kann dennoch den Server betreten, obwohl er schon voll ist.
+Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevorzugten Platz in der Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz frei wird.
 
 > Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
 > {style="note"}
@@ -131,11 +130,10 @@ zurücklegen. Die einzige Ausnahme bildet hier der Übergang zwischen den versch
 wechseln, müsst ihr jedoch trotzdem immer zurück zum Spawn um mit dem Schiffskapitän zu sprechen, welcher euch dann an
 den gewünschten Ort bringt.
 
-#### Kann ich LightBlocks und unsichtbare Itemframes bekommen? {collapsible="true" default-state="collapsed" id="lightblocks-and-invisible-itemframes" }
+#### Kann ich Lichtblöcke und unsichtbare Rahmen bekommen? {collapsible="true" default-state="collapsed" id="lightblocks-and-invisible-itemframes" }
 
-Für alle Baubegeisterten bieten wir die Möglichkeit LightBlocks und unsichtbare ItemFrames auch im Survival zu
-erhalten und auch zu verwenden. Wie du die Items bekommst, erfährst
-du [HIER](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
+Für alle Baubegeisterten bieten wir die Möglichkeit Lichtblöcke und unsichtbare Rahmen auch im Survival zu
+erhalten und auch zu verwenden. Wie du die Gegenstände bekommst, erfährst du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
 #### Kann ich Rüstungsständer anpassen? {collapsible="true" default-state="collapsed" id="modify-armorstands"}
 
