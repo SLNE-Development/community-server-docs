@@ -133,7 +133,7 @@ den gewünschten Ort bringt.
 #### Kann ich Lichtblöcke und unsichtbare Rahmen bekommen? {collapsible="true" default-state="collapsed" id="lightblocks-and-invisible-itemframes" }
 
 Für alle Baubegeisterten bieten wir die Möglichkeit Lichtblöcke und unsichtbare Rahmen auch im Survival zu
-erhalten und auch zu verwenden. Wie du die Gegenstände bekommst, erfährst du [HIER](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
+erhalten und auch zu verwenden. Wie du die Gegenstände bekommst, erfährst du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
 #### Kann ich Rüstungsständer anpassen? {collapsible="true" default-state="collapsed" id="modify-armorstands"}
 
