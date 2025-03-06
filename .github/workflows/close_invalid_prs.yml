@@ -1,31 +1,34 @@
-name: Close invalid PRs
+name: Close Invalid Pull Requests
 
 on:
-  pull_request_target:
-    types: [ opened ]
+  pull_request:
+    types: [opened, reopened, synchronize]
+  workflow_dispatch:
 
 jobs:
-  run:
-    if: |
-      github.repository != github.event.pull_request.head.repo.full_name &&
-      (
-        github.head_ref == 'master' ||
-        github.event.pull_request.head.repo.owner.type != 'User'
-      )
+  close_invalid_pr:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-          
-      - id: "master_branch"
-        if: github.head_ref == 'master'
-        run: gh pr close $PR_NUMBER --comment "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Get Default Branch
+        id: get-default-branch
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
-          
-      - id: "org_account"
-        if: github.event.pull_request.head.repo.owner.type != 'User' && steps.master_branch.outcome == 'skipped'
-        run: gh pr close ${{ github.event.pull_request.number }} --comment "Please do not open pull requests from non-user accounts like organizations. Create a fork on a user account instead."
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DEFAULT_BRANCH=$(gh repo view --json defaultBranchRef --template '{{.defaultBranchRef.name}}')
+          echo "default_branch=$DEFAULT_BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Close PRs from Default Branch
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DEFAULT_BRANCH=${{ steps.get-default-branch.outputs.default_branch }}
+          PR_NUMBERS=$(gh pr list --state open --json number,headRefName --template '{{range .}}{{if eq .headRefName "'"$DEFAULT_BRANCH"'"}}{{.number}} {{end}}{{end}}')
+
+          for PR_NUMBER in $PR_NUMBERS; do
+            echo "Closing PR #$PR_NUMBER from default branch '$DEFAULT_BRANCH'."
+            gh pr close $PR_NUMBER --comment "This pull request is invalid because it's created from the default branch '$DEFAULT_BRANCH'. Please use a feature branch."
+          done
+        shell: bash
