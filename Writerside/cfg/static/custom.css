@@ -1,8 +1,14 @@
 @import url(https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Lexend:wght@100..900&display=swap);
+@import "Cuprite.css";
 
 .article__p {
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
     font-weight: 300;
+}
+
+:root {
+    /* REPLACE 247, 92, 98 WITH YOUR BRANDING'S COLOR IN RGB */
+    --actual-primary-color: 27, 159, 142;
 }
