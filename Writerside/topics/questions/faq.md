@@ -27,7 +27,8 @@ Es gibt verschiedene Webseiten, auf denen man Log-Dateien hochladen kann und dan
 - [Paste](https://paste.ee)
 - [mclo.gs](https://mclo.gs)
 
-##### Wo finde ich den Log? {id="find-minecraft-log"}
+<chapter title="Wie finde ich den Log?" id="find-minecraft-log">
+
 <tabs>
 <tab title="CurseForge" id="minecraft-log-curseforge">
 
@@ -61,6 +62,8 @@ In deinem `.minecraft` Ordner findest du den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
 </tab>
 </tabs>
+
+</chapter>
 
 > - Der Log ist nicht der CrashReport.
 > - Wenn du den Log als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!

@@ -8,7 +8,8 @@ Der Server ist in 3 Bereiche unterteilt:
 <tabs>
 <tab title="Survival Server" id="survival">
 
-**Um auf dem Survival Server zu spielen, müsst ihr diese Anforderungen erfüllen:**
+<deflist>
+<def title="Um auf dem Survival Server zu spielen, müsst ihr diese Anforderungen erfüllen:">
 
 - Ihr benötigt die [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) in der
   Version [%required_game_version%](%required_game_version_link%), um auf dem Server spielen zu
@@ -23,17 +24,22 @@ Der Server ist in 3 Bereiche unterteilt:
 
 Wenn ihr alle Anforderungen erfüllt, könnt ihr den Survival Server über den Kompass betreten.
 Weitere Informationen findet ihr [hier](servers.md).
+
+</def>
+</deflist>
 </tab>
 <tab title="Event Server" id="events">
 
-Es gibt keine Voraussetzungen, um an den Events teilzunehmen. Wie ihr dies genau macht, findet
-ihr [hier](how-to-take-part-in-an-event.md).
+> Es gibt keine Voraussetzungen, um an den Events teilzunehmen.
+> Wie ihr dies genau macht, findet
+> ihr [hier](how-to-take-part-in-an-event.md).
 
 </tab>
 <tab title="Lobby Server" id="lobby">
 
-Sobald ihr das Netzwerk betretet, werdet ihr in die Lobby gesendet. Diese könnt ihr von den anderen
-Servern über `/hub` betreten.
+> Sobald ihr das Netzwerk betretet, werdet ihr in die Lobby gesendet.
+> Diese könnt ihr von den anderen
+> Servern über `/hub` betreten.
 
 </tab>
 </tabs>

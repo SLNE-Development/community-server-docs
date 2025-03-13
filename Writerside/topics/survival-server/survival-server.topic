@@ -14,7 +14,7 @@
         </description>
 
         <spotlight>
-            <a href="rules.md" type="install" summary="Lerne die Regeln des Community Servers kennen, bevor du auf ihm spielst.">Regeln</a>
+            <a href="rules.md" type="check-list" summary="Lerne die Regeln des Community Servers kennen, bevor du auf ihm spielst.">Regeln</a>
             <a href="how-to-join.md" type="start">Wie kann ich dem Server beitreten?</a>
         </spotlight>
 
