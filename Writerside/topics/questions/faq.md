@@ -4,10 +4,8 @@
 
 ## FAQ
 
-#### Wie verknüpfe ich meinen Twitch-Account mit Discord? {collapsible="true" default-state="collapsed" id="link-twitch"}
-
-<deflist>
-<def title="Twitch-Account mit Discord verknüpfen:" id="twitch-link">
+<deflist collapsible="true" default-state="collapsed">
+<def title="Wie verknüpfe ich meinen Twitch-Account mit Discord?" id="link-twitch">
 
 1. Klicke in Discord auf Benutzereinstellungen.
 2. Klicke auf den Punkt "Verknüpfungen".
@@ -19,15 +17,8 @@
 > {style="note"}
 
 </def>
-</deflist>
+<def title="Wie teile ich meinen Log?" id="how-to-share-log">
 
-#### Wie teile ich meinen Log? {id="how-to-share-log" collapsible="true" default-state="collapsed"}
-
-##### Minecraft Logs {id="minecraft-log-info"}
-Wenn du ein Problem mit Minecraft hast und Hilfe benötigst, musst du den Minecraft Log hochladen.
-Der Minecraft Log enthält Informationen und detaillierte Fehlermeldungen, um herauszufinden, was der Fehler ist.
-
-##### Wie lade ich den Log hoch? {id="minecraft-log-upload"}
 Es gibt verschiedene Webseiten, auf denen man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
 **Bitte nie den Log als lange Nachricht in einen Chat posten!**
 
@@ -78,11 +69,13 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 >
 {style="note" title="Wichtig"}
 
-#### Was tue ich, wenn ein Spieler mich betrügt oder beklaut? {collapsible="true" default-state="collapsed" id="player-scam" }
+</def>
+<def title="Was tue ich, wenn ein Spieler mich betrügt oder beklaut?" id="player-scam">
 
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
 
-#### Wie gehe ich vor, wenn ich einen Bug entdecke? {collapsible="true" default-state="collapsed" id="bugreport"}
+</def>
+<def title="Wie gehe ich vor, wenn ich einen Bug entdecke?" id="bugreport">
 
 Öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket "%click-more-info%").
 
@@ -90,24 +83,30 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 > Ausschluss vom Server bestraft!
 > {style="warning"}
 
-#### Was kann ich tun, wenn ich zu Unrecht gebannt wurde? {collapsible="true" default-state="collapsed" id="false-ban"}
+</def>
+<def title="Was kann ich tun, wenn ich zu Unrecht gebannt wurde?" id="false-ban">
 
 Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, erstelle
 einen [Entbannungsantrag](support.md#unban-ticket)!
 
-#### Wieso gibt es keine Villager? {collapsible="true" default-state="collapsed" id="why-no-villager"}
+</def>
+<def title="Wieso gibt es keine Villager?" id="why-no-villager">
 
 > Siehe [Besonderheiten](specials.md#no-villagers "Klicke hier für mehr Information").
 
-#### Wieso sind Elytren im End deaktiviert? {collapsible="true" default-state="collapsed" id="why-no-elytra-in-end"}
+</def>
+<def title="Wieso sind Elytren im End deaktiviert?" id="why-no-elytra-in-end">
 
-Diese Änderung ist für uns in mehrerlei Hinsicht sinnvoll. Es gestaltet das “Ende des Spiels” anspruchsvoller, erhält
+Diese Änderung ist für uns in mehrerlei Hinsicht sinnvoll.
+Es gestaltet das „Ende des Spiels“ anspruchsvoller, erhält
 den Wert von Elytren und anderen Items aus dem End, welche vorher einfach verschenkt wurden, und es verbessert die
-Performance und spart uns einiges an Festplattenspeicher. \
+Performance und spart uns einiges an Festplattenspeicher.
+\
 Das End ist die einzige Dimension, welche nicht vorher generiert wird und es generiert somit bei einem Überflug
 massenhaft neue Chunks.
 
-#### Wann findet wieder ein Event statt? {collapsible="true" default-state="collapsed" id="next-event"}
+</def>
+<def title="Wann findet wieder ein Event statt?" id="next-event">
 
 Auf dem Survival Server finden regelmäßige [MiningEvents](events.md#mining-event)
 und [AngelEvents](events.md#fishing-event) statt.
@@ -116,31 +115,47 @@ und [AngelEvents](events.md#fishing-event) statt.
 > unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
 > {style="note"}
 
-#### Hat man als Veteran Vorteile? {collapsible="true" default-state="collapsed" id="veteran-info"}
-Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevorzugten Platz in der Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz frei wird.
+</def>
+<def title="Hat man als Veteran Vorteile?" id="veteran-info">
+
+Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevorzugten Platz in der
+Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz
+frei wird.
 
 > Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
 > {style="note"}
 
-#### Wieso gibt es keine Teleportation? {collapsible="true" default-state="collapsed" id="why-no-teleportation"}
+</def>
+<def title="Wieso gibt es keine Teleportation?" id="why-no-teleportation">
 
-Auf dem Server funktioniert die Fortbewegung noch altmodisch wie in Vanilla Minecraft. Es gibt keine Möglichkeit der
-Teleportation, sondern die Spieler müssen die Strecken z. B. über die von der Community erbauten Nether Highways
-zurücklegen. Die einzige Ausnahme bildet hier der Übergang zwischen den verschiedenen Servern. Um die Server zu
-wechseln, müsst ihr jedoch trotzdem immer zurück zum Spawn um mit dem Schiffskapitän zu sprechen, welcher euch dann an
+Auf dem Server funktioniert die Fortbewegung noch altmodisch wie in Vanilla Minecraft. Es gibt keine
+Möglichkeit der
+Teleportation, sondern die Spieler müssen die Strecken z. B. über die von der Community erbauten
+Nether Highways
+zurücklegen. Die einzige Ausnahme bildet hier der Übergang zwischen den verschiedenen Servern. Um
+die Server zu
+wechseln, müsst ihr jedoch trotzdem immer zurück zum Spawn um mit dem Schiffskapitän zu sprechen,
+welcher euch dann an
 den gewünschten Ort bringt.
 
-#### Kann ich Lichtblöcke und unsichtbare Rahmen bekommen? {collapsible="true" default-state="collapsed" id="lightblocks-and-invisible-itemframes" }
+</def>
+<def title="Kann ich Lichtblöcke und unsichtbare Rahmen bekommen?" id="lightblocks-and-invisible-itemframes">
 
 Für alle Baubegeisterten bieten wir die Möglichkeit Lichtblöcke und unsichtbare Rahmen auch im Survival zu
-erhalten und auch zu verwenden. Wie du die Gegenstände bekommst, erfährst du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
+erhalten und auch zu verwenden.
+Wie du die Gegenstände bekommst, erfährst du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
-#### Kann ich Rüstungsständer anpassen? {collapsible="true" default-state="collapsed" id="modify-armorstands"}
+</def>
+<def title="Kann ich Rüstungsständer anpassen?" id="modify-armorstands">
 
 [Rüstungsständer können mithilfe eines Feuersteins angepasst werden](cosmetics.md "%click-more-info%").
 Damit kannst du den Rüstungsständern zum Beispiel Arme geben und alle Körperteile separat rotieren. Durch diese
 Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 
-#### Ist der Seed des Servers öffentlich? {collapsible="true" default-state="collapsed" id="server-seed" }
+</def>
+<def title="Ist der Seed des Servers öffentlich?" id="server-seed">
 
 Nein, der Seed ist nicht öffentlich.
+
+</def>
+</deflist>
