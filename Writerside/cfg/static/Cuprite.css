@@ -398,15 +398,15 @@
         box-shadow: 0 0 0 0 var(--rs-color-success);
     }
 
-    70% {
-        transform: scale(1);
-        box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
-    }
+    /*70% {*/
+    /*    transform: scale(1);*/
+    /*    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);*/
+    /*}*/
 
-    100% {
-        transform: scale(1);
-        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-    }
+    /*100% {*/
+    /*    transform: scale(1);*/
+    /*    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);*/
+    /*}*/
 }
 
 .prompt__wrapper--type-tip {
@@ -419,15 +419,15 @@
         box-shadow: 0 0 0 0 var(--wh-color-tip);
     }
 
-    70% {
-        transform: scale(1);
-        box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
-    }
+    /*70% {*/
+    /*    transform: scale(1);*/
+    /*    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);*/
+    /*}*/
 
-    100% {
-        transform: scale(1);
-        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-    }
+    /*100% {*/
+    /*    transform: scale(1);*/
+    /*    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);*/
+    /*}*/
 }
 
 .article__figure .article__img {
