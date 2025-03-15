@@ -60,5 +60,5 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 </tab>
 </tabs>
 
-Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem Discord.
-[Füge zudem deinen Log an](faq.md#how-to-share-log).
+Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem [Discord](%dc_link%).
+Damit wir dir effizient helfen können, füge zudem deinen [Client-Log](faq.md#how-to-share-log) an und führe bei Verbindungsproblemen einen [MTR-Test](mtr.md) durch.
