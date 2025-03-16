@@ -97,7 +97,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > Casinos werden aufgrund des Bestandschutzes auf dem Survival Server aktuell noch geduldet. In der 1.22 werden diese jedoch auch dort untersagt sein.
    >
    {style="note"}   
-   > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen mit sich ziehen.
+   > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen nach sich ziehen.
    > - Das Zitieren oder Nachahmen unangemessener Aussagen, unabhängig vom Kontext, wird nicht toleriert.
    > - Das bewusste Ansprechen oder Nachfragen nach verbotenen oder unangemessenen Inhalten wird ebenfalls geahndet.
    > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md) bei der Moderatrion Moderator und stellt, wenn möglich, Beweise (z.B. Screenshots, Chatlogs, Videos) bereit.
