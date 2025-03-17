@@ -200,7 +200,7 @@ This applies, among other things, to chat, books, signs, item names, skins, buil
    > Casinos are currently tolerated on the Survival Server due to legacy protection. However, in version 1.22 they will also be prohibited there.
    >
    {style="note"}
-   > - Statements made as jokes or irony will not be tolerated and may lead to consequences.
+   > - Statements intended as jokes or irony will not be tolerated and may result in consequences.
    > - Quoting or imitating inappropriate statements, regardless of context, will not be tolerated.
    > - Deliberately addressing or inquiring about prohibited or inappropriate content will also be penalized.
    > - If you witness a rule violation, please report it immediately via [support](support.md) to the server staff and provide evidence (e.g., screenshots, chat logs, videos) if possible.
