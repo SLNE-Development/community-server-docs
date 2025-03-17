@@ -194,9 +194,8 @@ A detailed list of these rules can be found below.
    it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
 
 6. **The dissemination of inappropriate or <tooltip term='harmful-content$English'>content harmful to minors</tooltip> is strictly prohibited.**
-   It is strictly forbidden to disseminate offensive, discriminatory, racist, sexist, anti-Semitic
-   sexist, extremist, violence-glorifying, illegal or otherwise inappropriate content in any form.
-   This applies, among other things, to chat, books, signs, item names, skins, buildings and any other representations and forms of expression.
+   It is strictly forbidden to express, depict, distribute, or promote offensive, discriminatory, racist, sexist, anti-Semitic, extremist, violence-glorifying, illegal, or otherwise inappropriate content in any form.
+This applies, among other things, to chat, books, signs, item names, skins, buildings, and any other representations and forms of expression.
    
    > Casinos are currently tolerated on the Survival Server due to legacy protection. However, in version 1.22 they will also be prohibited there.
    >
