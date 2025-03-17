@@ -119,7 +119,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 <def title="Beschreibung" id="description-external-developer">
 
 Unser Server besteht aus vielen spannenden technischen Projekten, die für eine bessere Spieler- und Nutzererfahrung sorgen.
-Wir arbeiten kontinuierlich an neuen Features, Verbesserungen und coolen Tools.
+Wir arbeiten kontinuierlich an neuen Funktionen und Verbesserungen.
 Da wir immer weiter wachsen und neue Ideen umsetzen möchten, brauchen wir Unterstützung von engagierten Entwicklern!
 Viele unserer Funktionen & Plugins sind [öffentlich auf GitHub](https://github.com/SLNE-Development) zugänglich.
 An diesen könnt ihr, als externe Entwickler aktiv mitarbeiten!
