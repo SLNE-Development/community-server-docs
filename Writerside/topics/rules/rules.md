@@ -100,7 +100,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen nach sich ziehen.
    > - Das Zitieren oder Nachahmen unangemessener Aussagen, unabhängig vom Kontext, wird nicht toleriert.
    > - Das bewusste Ansprechen oder Nachfragen nach verbotenen oder unangemessenen Inhalten wird ebenfalls geahndet.
-   > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md) bei der Moderation und stellt, wenn möglich, Beweise (z.B. Screenshots, Chatlogs, Videos) bereit.
+   > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md) bei der Moderation und stellt, wenn möglich, Beweise (z. B. Screenshots, Chatlogs, Videos) bereit.
    >
    {style="warning" title="Ein Verstoß kann zu einem permanenten Ausschluss vom gesamten Netzwerk und allen anderen Plattformen führen!"}
 
