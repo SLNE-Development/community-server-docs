@@ -100,7 +100,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen nach sich ziehen.
    > - Das Zitieren oder Nachahmen unangemessener Aussagen, unabhängig vom Kontext, wird nicht toleriert.
    > - Das bewusste Ansprechen oder Nachfragen nach verbotenen oder unangemessenen Inhalten wird ebenfalls geahndet.
-   > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md) bei der Moderation und stellt, wenn möglich, Beweise (z. B. Screenshots, Chatlogs, Videos) bereit.
+   > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md#report-ticket) bei der Moderation und stellt, wenn möglich, Beweise (z. B. Screenshots, Chatlogs, Videos) bereit.
    >
    {style="warning" title="Ein Verstoß kann zu einem permanenten Ausschluss vom gesamten Netzwerk und allen anderen Plattformen führen!"}
 
@@ -203,7 +203,7 @@ This applies, among other things, to chat, books, signs, item names, skins, buil
    > - Statements intended as jokes or irony will not be tolerated and may result in consequences.
    > - Quoting or mimicking inappropriate statements, regardless of context, is strictly prohibited.
    > - Deliberately bringing up or inquiring about prohibited or inappropriate content will also be penalized.
-   > - If you witness a rule violation, please report it immediately via [support](support.md) to the server staff and provide evidence (e.g., screenshots, chat logs, videos) if possible.
+   > - If you witness a rule violation, please report it immediately via [support](support.md#report-ticket-english) to the server staff and provide evidence (e.g., screenshots, chat logs, videos) if possible.
    >
    {style="warning" title="A violation may result in a permanent ban from the entire network and all other platforms!"}
 
