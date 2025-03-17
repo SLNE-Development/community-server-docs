@@ -212,8 +212,8 @@ A detailed list of these rules can be found below.
    refrain from engaging in lengthy discussions. If a moderator or admin asks you to stop doing something, please
    respect their request without further argument. There is always a valid reason for such decisions.
 
-> As soon as you enter the server, you automatically confirm that you have read and accepted the rules.\
-> Ignorance is no defence against punishment.
+> By entering the server, you automatically confirm that you have read and accepted the rules.
+> Ignorance is no excuse for violations.
 >
 {style="warning"}
 
