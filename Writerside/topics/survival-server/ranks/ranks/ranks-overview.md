@@ -121,7 +121,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 Unser Server besteht aus vielen spannenden technischen Projekten, die für eine bessere Spieler- und Nutzererfahrung sorgen.
 Wir arbeiten kontinuierlich an neuen Features, Verbesserungen und coolen Tools.
 Da wir immer weiter wachsen und neue Ideen umsetzen möchten, brauchen wir Unterstützung von engagierten Entwicklern!
-Viele unserer Features & Plugins sind [öffentlich auf GitHub](https://github.com/SLNE-Development) zugänglich.
+Viele unserer Funktionen & Plugins sind [öffentlich auf GitHub](https://github.com/SLNE-Development) zugänglich.
 An diesen könnt ihr, als externe Entwickler aktiv mitarbeiten!
 Wir suchen sowohl erfahrene Entwickler als auch Anfänger, die motiviert sind, sich in neue Themen einzuarbeiten.
 Es gibt sowohl komplexe Projekte für Fortgeschrittene als auch kleinere Aufgaben, die sich ideal für den Einstieg eignen.
