@@ -90,7 +90,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte auffallen, dass Spieler und/oder deren
    Freunde diese Mechaniken ausnutzen, wird dies mit einem Ausschluss für beide geahndet.
 
-6. **Die Verbreitung unangemessener oder <tooltip term="harmful-content">jugendgefährdende Inhalte</tooltip> ist strengstens untersagt.**
+6. **Die Verbreitung unangemessener oder <tooltip term="harmful-content">jugendgefährdender Inhalte</tooltip> ist strengstens untersagt.**
    Es ist strikt verboten, beleidigende, diskriminierende, rassistische,
    sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswiedrige oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
    Dies betrifft unter anderem den Chat, Bücher, Schilder, Item-Namen, Skins, Bauwerke und jegliche andere Darstellungen und Ausdrucksformen.
