@@ -130,7 +130,7 @@ Durch die Zusammenarbeit mit dem Team und das Mitwirken an den Projekten bietet 
 </def>
 <def title="Anforderungen als externer Entwickler" id="requirements-external-developer">
 
-- Du erlernst selbständig die Fähigkeiten, die du für die Projekte benötigst
+- Du erlernst selbstständig die Fähigkeiten, die du für die Projekte benötigst
 - Du hast Erfahrungen mit [GitHub](https://github.com)
 - **Weitere Informationen findest du im [Discord](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202)**
 
