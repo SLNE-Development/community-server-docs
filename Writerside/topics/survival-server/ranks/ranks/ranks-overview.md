@@ -47,12 +47,6 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
-> Möchtest du Teil unseres Entwicklerteams werden?\
-> Alle weiteren Informationen findest du auf
-> unserem [Discord-Server](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202).
->
-{style="info" title="Bewerbungsphase für das Entwicklerteam"}
-
 Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <tabs>
 <tab title="Builder" id="application-builder">
@@ -118,6 +112,29 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du kennst dich mit Gradle, Git, Spring und MySQL aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
+
+</def>
+</deflist>
+</tab>
+<tab title="Externer Entwickler" id="application-external-developer">
+<deflist>
+<def title="Beschreibung" id="description-external-developer">
+
+Unser Server besteht aus vielen spannenden technischen Projekten, die für eine bessere Spieler- und Nutzererfahrung sorgen.
+Wir arbeiten kontinuierlich an neuen Funktionen und Verbesserungen.
+Da wir immer weiter wachsen und neue Ideen umsetzen möchten, brauchen wir Unterstützung von engagierten Entwicklern!
+Viele unserer Funktionen & Plugins sind [öffentlich auf GitHub](https://github.com/SLNE-Development) zugänglich.
+An diesen könnt ihr, als externe Entwickler aktiv mitarbeiten!
+Wir suchen sowohl erfahrene Entwickler als auch Anfänger, die motiviert sind, sich in neue Themen einzuarbeiten.
+Es gibt sowohl komplexe Projekte für Fortgeschrittene als auch kleinere Aufgaben, die sich ideal für den Einstieg eignen.
+Durch die Zusammenarbeit mit dem Team und das Mitwirken an den Projekten bietet sich eine wertvolle Gelegenheit, technische Fähigkeiten zu erweitern und neue Technologien zu erlernen.
+
+</def>
+<def title="Anforderungen als externer Entwickler" id="requirements-external-developer">
+
+- Du erlernst selbstständig die Fähigkeiten, die du für die Projekte benötigst
+- Du hast Erfahrungen mit [GitHub](https://github.com)
+- **Weitere Informationen findest du im [Discord](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202)**
 
 </def>
 </deflist>
