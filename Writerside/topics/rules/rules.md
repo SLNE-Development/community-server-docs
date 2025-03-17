@@ -110,7 +110,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    für solche Entscheidungen.
 
 > Sobald du den Server betrittst, bestätigst du automatisch, dass du
-> das Regelwerk gelesen und akzeptiert hast.\
+> das Regelwerk gelesen und akzeptiert hast.
 > Unwissenheit schützt nicht vor Strafe.
 >
 {style="warning"}
