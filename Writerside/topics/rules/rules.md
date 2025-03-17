@@ -92,7 +92,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
 6. **Die Verbreitung unangemessener oder <tooltip term="harmful-content">jugendgefährdender Inhalte</tooltip> ist strengstens untersagt.**
    Es ist strikt verboten, beleidigende, diskriminierende, rassistische,
-   sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswiedrige oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
+   sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswidrige oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
    Dies betrifft unter anderem den Chat, Bücher, Schilder, Item-Namen, Skins, Bauwerke und jegliche andere Darstellungen und Ausdrucksformen.
    > Casinos werden aufgrund des Bestandschutzes auf dem Survival Server aktuell noch geduldet. Auf dem nächsten Server werden diese jedoch untersagt sein.
    >
