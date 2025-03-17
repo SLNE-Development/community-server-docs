@@ -14,4 +14,4 @@ Dicord-Server hinzufügen {id="clan-link-discord"}
 : Mit dem Befehl `/clan setdiscord <URL>` kannst du deinem Clan einen eigenen Discord-Server zuweisen.
 Dieser Link wird dann angezeigt, wenn man sich die [Informationen zum Clan](clan-more-info.md#clan-info) ansieht.
 Indem du deinen Discord-Link zum Clan hinzufügst, erleichterst du es anderen, sich zu verbinden, auszutauschen und Teil eines aktiven Clans zu werden. \
-Das Hinzufügen von einem Discord-Link ist erst ab 30 Mitgliedern möglich.
+Das Hinzufügen eines Discord-Links ist erst ab 30 Mitgliedern möglich.
