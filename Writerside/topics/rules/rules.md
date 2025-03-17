@@ -203,7 +203,7 @@ This applies, among other things, to chat, books, signs, item names, skins, buil
    > - Statements intended as jokes or irony will not be tolerated and may result in consequences.
    > - Quoting or mimicking inappropriate statements, regardless of context, is strictly prohibited.
    > - Deliberately bringing up or inquiring about prohibited or inappropriate content will also be penalized.
-   > - If you witness a rule violation, please report it immediately via [support](support.md#report-ticket-english "Open a report-ticket") to the server staff and provide evidence (e.g., screenshots, chat logs, videos) if possible.
+   > - If you witness a rule violation, please report it immediately via [support](support.md#report-ticket-english "Open a report-ticket!") to the server staff and provide evidence (e.g., screenshots, chat logs, videos) if possible.
    >
    {style="warning" title="A violation may result in a permanent ban from the entire network and all other platforms!"}
 
