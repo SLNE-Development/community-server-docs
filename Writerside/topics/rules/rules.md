@@ -90,12 +90,19 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    tatsächliche Absicht zu haben, aktiv am Spielgeschehen teilzunehmen. Sollte auffallen, dass Spieler und/oder deren
    Freunde diese Mechaniken ausnutzen, wird dies mit einem Ausschluss für beide geahndet.
 
-6. **Es ist nicht erlaubt, <tooltip term="harmful-content">jugendgefährdende Inhalte</tooltip> öffentlich zugänglich zu machen, 
-   zu verbreiten oder zu bewerben.** Dies schließt Bauwerke (z. B. Casinos), umbenannte Items und alle anderen Darstellungen ein, 
-   die solche Inhalte fördern.
-   > Casinos werden aufgrund des Bestandschutzes auf dem Survival Server aktuell noch geduldet. In der 1.22 werden diese jedoch auch dort untersagt sein.
+6. **Die Verbreitung unangemessener oder <tooltip term="harmful-content">jugendgefährdender Inhalte</tooltip> ist strengstens untersagt.**
+   Es ist strikt verboten, beleidigende, diskriminierende, rassistische,
+   sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswidrige oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
+   Dies betrifft unter anderem den Chat, Bücher, Schilder, Item-Namen, Skins, Bauwerke und jegliche andere Darstellungen und Ausdrucksformen.
+   > Casinos werden aufgrund des Bestandschutzes auf dem Survival-Server aktuell noch geduldet. Auf dem nächsten Server werden diese jedoch untersagt sein.
    >
-   {style="note"}
+   {style="note"}   
+   > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen nach sich ziehen.
+   > - Das Zitieren oder Nachahmen unangemessener Aussagen, unabhängig vom Kontext, wird nicht toleriert.
+   > - Das bewusste Ansprechen oder Nachfragen nach verbotenen oder unangemessenen Inhalten wird ebenfalls geahndet.
+   > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md) bei der Moderation und stellt, wenn möglich, Beweise (z. B. Screenshots, Chatlogs, Videos) bereit.
+   >
+   {style="warning" title="Ein Verstoß kann zu einem permanenten Ausschluss vom gesamten Netzwerk und allen anderen Plattformen führen!"}
 
 7. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
    stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn euch ein Moderator oder Admin
@@ -104,6 +111,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
 > Sobald du den Server betrittst, bestätigst du automatisch, dass du
 > das Regelwerk gelesen und akzeptiert hast.
+> Unwissenheit schützt nicht vor Strafe.
 >
 {style="warning"}
 
@@ -185,16 +193,26 @@ A detailed list of these rules can be found below.
    Advent calendar, and then immediately disconnect without a genuine intent to actively participate in the gameplay. If
    it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
 
-6. **It is not permitted to make <tooltip term="harmful-content$English">youth-endangering content</tooltip> publicly accessible, to distribute it, or to promote it.** This includes structures (e.g., casinos), renamed items, and all other representations that promote such content.
+6. **The dissemination of inappropriate or <tooltip term='harmful-content$English'>content harmful to minors</tooltip> is strictly prohibited.**
+   It is strictly forbidden to express, depict, distribute, or promote offensive, discriminatory, racist, sexist, anti-Semitic, extremist, violence-glorifying, illegal, or otherwise inappropriate content in any form.
+This applies, among other things, to chat, books, signs, item names, skins, buildings, and any other representations and forms of expression.
+   
    > Casinos are currently tolerated on the Survival Server due to legacy protection. However, in version 1.22 they will also be prohibited there.
    >
    {style="note"}
+   > - Statements intended as jokes or irony will not be tolerated and may result in consequences.
+   > - Quoting or mimicking inappropriate statements, regardless of context, is strictly prohibited.
+   > - Deliberately bringing up or inquiring about prohibited or inappropriate content will also be penalized.
+   > - If you witness a rule violation, please report it immediately via [support](support.md) to the server staff and provide evidence (e.g., screenshots, chat logs, videos) if possible.
+   >
+   {style="warning" title="A violation may result in a permanent ban from the entire network and all other platforms!"}
 
 7. **Moderators and admins have the final say**, even if it contradicts the official rules. We kindly ask that you
    refrain from engaging in lengthy discussions. If a moderator or admin asks you to stop doing something, please
    respect their request without further argument. There is always a valid reason for such decisions.
 
-> As soon as you enter the server, you automatically confirm that you have read and accepted the rules.
+> By entering the server, you automatically confirm that you have read and accepted the rules.
+> Ignorance is no excuse for violations.
 >
 {style="warning"}
 
