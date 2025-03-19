@@ -12,35 +12,34 @@
             die du brauchst, um an den Events teilzunehmen und zu gewinnen. Wir wünschen dir viel Spaß und Erfolg!
         </description>
 
-        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="rules.md" type="install"
-               summary="Lerne die Regeln kennen, bevor du an einem Event teilnimmst. Beachte das dar&uuml;ber hinaus eventuell spezifische Eventregeln gelten."/>
-            <a href="how-to-take-part-in-an-event.md" summary="Wie du an einem Event teilnehmen kannst, erf&auml;hrst du hier." type="start"/>
+            <card href="rules.md" badge="check-list"
+                  summary="Lerne die Regeln kennen, bevor du an einem Event teilnimmst. Beachte das darüber hinaus eventuell spezifische Eventregeln gelten."/>
+            <card href="how-to-take-part-in-an-event.md" badge="start"
+                  summary="Wie du an einem Event teilnehmen kannst, erfährst du hier."/>
         </spotlight>
 
-        <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>Kommende Events</title>
-            <a href="building-event.md" type="creative"/>
-            <a href="nether-event.md" type="world" />
+            <card href="nether-event.md" badge="world"/>
+            <card href="building-event.md" badge="creative"/>
         </primary>
 
-        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
-        <secondary>
-            <title>Bereits stattgefundene Events</title>
-            <a href="skyblock.md" />
-            <a href="oceanblock.md"/>
-            <a href="flatworld.md"/>
-            <a href="anarchy-event.md"/>
-            <a href="stoneblock-event.md"/>
-            <a href="civilisation-event.md"/>
-            <a href="anarchy-event.md" />
-            <a href="creative2.md" />
-            <a href="diamondevent.md" />
-            <a href="one-chunk.md" />
-            <a href="tilted.md" />
-        </secondary>
+        <misc>
+            <cards narrow="true">
+                <title>Bereits stattgefundene Events</title>
+                <card href="skyblock.md" badge="cloud" summary="Mehr Informationen"/>
+                <card href="oceanblock.md" badge="world" summary="Mehr Informationen"/>
+                <card href="flatworld.md" badge="container" summary="Mehr Informationen"/>
+                <card href="anarchy-event.md" badge="bug" summary="Mehr Informationen"/>
+                <card href="stoneblock-event.md" badge="data" summary="Mehr Informationen"/>
+                <card href="civilisation-event.md" badge="community" summary="Mehr Informationen"/>
+                <card href="creative2.md" badge="creative" summary="Mehr Informationen"/>
+                <card href="diamondevent.md" badge="top" summary="Mehr Informationen"/>
+                <card href="one-chunk.md" badge="container" summary="Mehr Informationen"/>
+                <card href="tilted.md" badge="cross-check" summary="Mehr Informationen"/>
+            </cards>
+        </misc>
 
     </section-starting-page>
 
