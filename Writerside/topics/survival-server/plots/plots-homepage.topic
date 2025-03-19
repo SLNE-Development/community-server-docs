@@ -1,48 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+    SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Grundstücke" id="plots-homepage">
 
-    <!--    A section combines multiple topics dedicated to a specific subject.
-                Add a starting page to provide an overview of the topics in the section.
-                Start with two topics you want to promote in the <spotlight> group,
-                several important topics in the <primary> group (for example, where to start),
-                several less important topics in the <secondary> group (for example, more advanced topics),
-                and optionally add any other relevant topics in the <misc> group as cards and lists of links
-                (maybe related topics from other sections).
-                Only the spotlight section is limited to two topics.
-                For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
+  <section-starting-page id="plots">
+    <title>Grundstücke</title>
+    <description id="plots-desc">
+      Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Die Anzahl der beanspruchbaren Blöcke
+      erhöht sich mit der Spielzeit und Grundstücke können durch Platzieren von Redstone-Fackeln definiert werden.
+    </description>
 
-    <section-starting-page id="plots">
-        <title>Grundstücke</title>
-        <description id="plots-desc">
-            <!--            Add an introductory paragraph: explain what this section is about in 2-3 short sentences.-->
-            Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Die Anzahl der beanspruchbaren Blöcke
-            erhöht sich mit der Spielzeit und Grundstücke können durch Platzieren von Redstone-Fackeln definiert werden.
-        </description>
+    <spotlight>
+      <card href="plot-creation.md" badge="lock"
+            summary="Hier erfährst du, wie du ein Grundstück erstellst.">
+        Grundstück erstellen
+      </card>
+      <card href="plot-add-member.md" badge="community"
+            summary="So kannst du die Mitglieder deines Grundstücks verwalten.">
+        Mitglieder verwalten
+      </card>
+    </spotlight>
 
-        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
-        <spotlight>
-            <a href="plot-creation.md" type="tools"
-               summary="Hier erf&auml;hrst du, wie du ein Grundst&uuml;ck erstellst.">Grundstück erstellen</a>
-            <a href="plot-add-member.md" type="community"
-               summary="So kannst du die Mitglieder deines Grundst&uuml;cks verwalten.">Mitglieder verwalten</a>
-        </spotlight>
+    <primary>
+      <title>Grundstücke</title>
+      <card href="plot-expand.md" badge="integration"
+            summary="So kannst du dein Grundstück erweitern."/>
+      <card href="plot-edit-flags.md" badge="settings"
+            summary="So kannst du die Flags deines Grundstücks bearbeiten."/>
 
-        <!--    Add several topics that are most important for this section.    -->
-        <primary>
-            <title>Grundstücke</title>
-            <a href="plot-expand.md" summary="So kannst du dein Grundst&uuml;ck erweitern."/>
-            <a href="plot-edit-flags.md" summary="So kannst du die Flags deines Grundst&uuml;cks bearbeiten."/>
-        </primary>
+    </primary>
 
-        <secondary>
-            <title>Sonstiges</title>
-            <a href="plot-visualizer.md" summary="So kannst du dir andere Grundst&uuml;cke anzeigen lassen."/>
-            <a href="plot-other.md" summary="Hier findest du weitere Informationen zu Grundst&uuml;cken."/>
-        </secondary>
-    </section-starting-page>
+    <secondary>
+      <title>Sonstiges</title>
+      <card href="plot-visualizer.md" badge="presentation"
+            summary="So kannst du dir andere Grundstücke anzeigen lassen."/>
+      <card href="plot-other.md" badge="idea"
+            summary="Hier findest du weitere Informationen zu Grundstücken."/>
+    </secondary>
+  </section-starting-page>
 
 </topic>
