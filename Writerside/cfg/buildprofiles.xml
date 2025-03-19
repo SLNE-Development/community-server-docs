@@ -38,8 +38,7 @@
         <llms-txt/>
     </build-profile>
     <footer>
-        <copyright>CastCrafter Community Server 2021–2025 | Not an official Minecraft Product. Not
-            approved by or associated with Mojang or Microsoft
+        <copyright>CastCrafter Community Server 2021–2025
         </copyright>
         <social type="discord" href="https://discord.gg/castcrafter">Discord</social>
         <social type="youtube" href="https://www.youtube.com/@CastCrafter">YouTube</social>
@@ -50,6 +49,8 @@
 
         <link href="https://www.twitch.tv/castcrafter">Twitch</link>
         <link href="https://castcrafter.de/impressum">Impressum</link>
+
+        <notice>Not an official Minecraft Product. Not approved by or associated with Mojang or Microsoft</notice>
     </footer>
 
 </buildprofiles>
