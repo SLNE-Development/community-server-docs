@@ -12,20 +12,26 @@
         </description>
 
         <spotlight>
-            <a href="survival-server.topic" type="container" summary="Lerne den Survival Server kennen und informiere dich &uuml;ber seine Funktionen und Features"/>
-            <a href="event-server.topic" type="cup" summary="Informiere dich &uuml;ber aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst"/>
+            <card href="survival-server.topic" badge="container"
+                  summary="Lerne den Survival Server kennen und informiere dich über seine Funktionen und Features"/>
+            <card href="event-server.topic" badge="cup"
+                  summary="Informiere dich über aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst"/>
         </spotlight>
 
         <primary>
             <title>Mache dich mit den Regeln vertraut</title>
-            <a href="rules.md" summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst">Regeln</a>
-            <a href="verified-mods.md" summary="Eine Liste mit gepr&uuml;ftenn Modifikationen, welche ihr auf dem Server verwenden d&uuml;rft">Geprüfte Modifikationen</a>
+            <card href="rules.md" badge="check-list"
+                  summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
+            <card href="verified-mods.md" badge="cross-check"
+                  summary="Eine Liste mit geprüften Modifikationen, welche ihr auf dem Server verwenden dürft"/>
         </primary>
 
         <secondary>
             <title>Nützliche Informationen</title>
-            <a href="faq.md" summary="In diesem Artikel findest du Antworten auf die am h&auml;ufigsten gestellten Fragen!"/>
-            <a href="troubleshooting.md" summary="Du hast Probleme? Dieser Artikel hilft dir sie selber zu l&ouml;sen!"/>
+            <card href="faq.md" badge="search"
+                  summary="In diesem Artikel findest du Antworten auf die am häufigsten gestellten Fragen!"/>
+            <card href="troubleshooting.md" badge="tools"
+                  summary="Du hast Probleme? Dieser Artikel hilft dir sie selber zu lösen!"/>
         </secondary>
 
     </section-starting-page>
