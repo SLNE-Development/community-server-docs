@@ -5,35 +5,35 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Skills" id="skill-system">
 
-<!--    A section combines multiple topics dedicated to a specific subject.
-            Add a starting page to provide an overview of the topics in the section.
-            Start with two topics you want to promote in the <spotlight> group,
-            several important topics in the <primary> group (for example, where to start),
-            several less important topics in the <secondary> group (for example, more advanced topics),
-            and optionally add any other relevant topics in the <misc> group as cards and lists of links
-            (maybe related topics from other sections).
-            Only the spotlight section is limited to two topics.
-            For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
-
     <section-starting-page>
         <title>Skills</title>
         <description>
-            Erfahre mehr über das Skillsystem:
+            Erfahre mehr über das Skillsystem
         </description>
 
-        <spotlight>
-            <a href="skills.md" type="idea"/>
-            <a href="skills.md#das-skillmenu" type="tools">Das Skillmenu</a>
-        </spotlight>
+      <spotlight>
+        <card href="skills.md" badge="idea"
+              summary="Hier erfährst du, wie das Skillsystem funktioniert und welche Fähigkeiten es gibt."/>
+        <card href="skills.md#das-skillmenu" badge="navigation"
+              summary="Das Skillmenü zeigt dir deine Fortschritte, Belohnungen und in Zukunft auch Leaderboards an.">
+          Das Skillmenü
+        </card>
+      </spotlight>
 
-        <misc>
+
+      <misc>
             <cards narrow="true">
                 <title>Alle Skills im Überblick</title>
-                <a href="combat.md" summary="Erfahre mehr über den Combat Skill und seine Fähigkeiten"/>
-                <a href="mining.md" summary="Erfahre mehr über den Mining Skill und seine Fähigkeiten"/>
-                <a href="woodcutting.md" summary="Erfahre mehr über den Woodcutting Skill und seine Fähigkeiten"/>
-                <a href="farming.md" summary="Erfahre mehr über den Farming Skill und seine Fähigkeiten"/>
-                <a href="fishing.md" summary="Erfahre mehr über den Fishing Skill und seine Fähigkeiten"/>
+              <card href="combat.md" badge="community"
+                    summary="Erfahre mehr über den Combat Skill und seine Fähigkeiten"/>
+              <card href="mining.md" badge="tools"
+                    summary="Erfahre mehr über den Mining Skill und seine Fähigkeiten"/>
+              <card href="woodcutting.md" badge="container"
+                    summary="Erfahre mehr über den Woodcutting Skill und seine Fähigkeiten"/>
+              <card href="farming.md" badge="experiment"
+                    summary="Erfahre mehr über den Farming Skill und seine Fähigkeiten"/>
+              <card href="fishing.md" badge="world"
+                    summary="Erfahre mehr über den Fishing Skill und seine Fähigkeiten"/>
             </cards>
         </misc>
     </section-starting-page>
