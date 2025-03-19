@@ -14,37 +14,51 @@
         </description>
 
         <spotlight>
-            <a href="rules.md" type="check-list" summary="Lerne die Regeln des Community Servers kennen, bevor du auf ihm spielst.">Regeln</a>
-            <a href="how-to-join.md" type="start">Wie kann ich dem Server beitreten?</a>
+            <card href="rules.md" badge="check-list"
+                  summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
+            <card href="how-to-join.md" badge="start"
+                  summary="Wie kann ich dem Server beitreten?"/>
         </spotlight>
 
         <primary>
             <title>Features</title>
-            <a href="plots-homepage.topic" summary="Auf dem Server k&ouml;nnen Spieler Grundst&uuml;cke beanspruchen und gestalten. Die Anzahl der beanspruchbaren Bl&ouml;cke
-            erh&ouml;ht sich mit der Spielzeit und Grundst&uuml;cke k&ouml;nnen durch Platzieren von Redstone-Fackeln definiert werden."/>
-            <a href="economy.md" summary="Auf dem Community Server gibt es verschiedene W&auml;hrungen, darunter z.B. %main_currency%s. Wie du sie bekommst und wof&uuml;r du sie ausgeben kannst, erf&auml;hrst du hier."/>
-            <a href="custom-enchantments.md"/>
+            <card href="plots-homepage.topic" badge="key"
+                  summary="Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Erfahre hier mehr!"/>
+            <card href="economy.md" badge="offer"
+                  summary="Auf dem Server gibt es verschiedene Währungen, darunter z. B. %main_currency%s. Wie du sie bekommst und wofür du sie ausgeben kannst, erfährst du hier."/>
+            <card href="custom-enchantments.md" badge="experiment"
+                  summary="Auf dem Server gibt es spezielle Verzauberungen, die du auf deinen Gegenständen anwenden kannst. Erfahre hier mehr!"/>
             <!--<a href="shops-starting-page.topic"/>-->
         </primary>
 
         <secondary>
             <title>Besonderheiten</title>
-            <a href="changed-vanilla-mechanics.md" summary="Auf dem Community Server gibt es einige ver&auml;nderte Vanilla-Mechaniken. Welche das sind, erf&auml;hrst du hier."/>
-            <a href="cosmetics.md"/>
-            <a href="events.md" summary="Auf dem Community Server finden regelm&auml;&szlig;ig Events statt. Welche das sind, erf&auml;hrst du hier."/>
-            <a href="specials.md" summary="Hier findest du eine &Uuml;bersicht &uuml;ber alle Besonderheiten, die du auf dem Community Server finden kannst."/>
+            <card href="changed-vanilla-mechanics.md" badge="settings"
+                  summary="Auf dem Server gibt es einige veränderte Vanilla-Mechaniken. Welche das sind, erfährst du hier."/>
+            <card href="cosmetics.md" badge="creative"
+                  summary="Auf dem Server gibt es verschiedene Cosmetics, die du nutzen kannst. Welche das sind, erfährst du hier."/>
+            <card href="events.md" badge="community"
+                  summary="Auf dem Server finden regelmäßig Events statt. Welche das sind, erfährst du hier."/>
+            <card href="specials.md" badge="idea"
+                  summary="Hier findest du eine Übersicht über alle Besonderheiten, die du sonst noch auf dem Server finden kannst."/>
         </secondary>
 
 
         <misc>
             <cards narrow="true">
                 <title>Andere relevante Themen</title>
-                <a href="support.md" summary="Hier erf&auml;hrst du wie du den Support kontaktierst, um z.B. Griefing oder einen Bug zu melden."/>
-                <a href="servers.md" summary="Auf dem Community Server gibt es verschiedene Server. Hier erf&auml;hrst du wie du sie betrittst und was du auf ihnen tun kannst."/>
-                <a href="commands.md" summary="Hier findest du eine &Uuml;bersicht &uuml;ber alle Commands, die du auf dem Community Server nutzen kannst."/>
-                <a href="faq.md" summary="Hier findest du Antworten auf h&auml;ufig gestellte Fragen."/>
-                <a href="troubleshooting.md" summary="Hier findest du L&ouml;sungsans&auml;tze f&uuml;r h&auml;ufige Probleme"/>
-                <a href="map-downloads.md" summary="Hier findest du die Downloads zu den alten Maps."/>
+                <card href="support.md" badge="support"
+                      summary="Hier erfährst du, wie du den Support kontaktierst, um z. B. Griefing oder einen Bug zu melden."/>
+                <card href="servers.md" badge="server"
+                      summary="Auf dem Community Server gibt es verschiedene Server. Hier erfährst du, wie du sie betrittst und was du auf ihnen tun kannst."/>
+                <card href="commands.md" badge="keyboard"
+                      summary="Hier findest du eine Übersicht über alle Commands, die du auf dem Server nutzen kannst."/>
+                <card href="faq.md" badge="search"
+                      summary="Hier findest du Antworten auf häufig gestellte Fragen."/>
+                <card href="troubleshooting.md" badge="tools"
+                      summary="Hier findest du Lösungsansätze für häufige Probleme"/>
+                <card href="map-downloads.md" badge="folder"
+                      summary="Hier findest du die Downloads zu den alten Maps."/>
             </cards>
         </misc>
 
