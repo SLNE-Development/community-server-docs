@@ -3,9 +3,6 @@
 
 # Vorbau Event
 
-> Aktuell steht noch kein Starttermin für das Event fest.
-> 
-
 ## Über das Event {id="general-info"}
 
 Das Ziel des Events ist es, talentierte Builder für unser Team zu rekrutieren. Dazu veranstalten wir ein Bau-Event, bei
