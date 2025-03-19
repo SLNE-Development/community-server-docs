@@ -1,17 +1,17 @@
 # Befehle
 
-## Folgende Befehle kannst du auf dem Server verwenden:
+## Folgende Befehle kannst du auf dem Server verwenden: {id="commands"}
 
 #### Chat und Textnachrichten {collapsible="true" default-state="collapsed" id="survival-server-chat-commands"}
 
-/msg &lt;player&gt; &lt;message&gt;
+/msg &lt;player&gt; &lt;message&gt; {id="msg"}
 : Schickt eine Privatnachricht an den angegebenen Spieler.
 
-/r &lt;message&gt;
+/r &lt;message&gt; {id="reply"}
 : Schreibe dem Spieler, der dich zuletzt angeschrieben hat, eine Nachricht.
 
 <deflist>
-<def title="/ignore <player>">
+<def title="/ignore <player>" id="ignore"> 
 Blockiert den angegebenen Spieler im Chat.
 
 > Um einen Spieler wieder freizugeben, gebe den Befehl erneut ein.
@@ -19,32 +19,32 @@ Blockiert den angegebenen Spieler im Chat.
 </def>
 </deflist>
 
-/toggle pm
+/toggle pm {id="toggle-pm"}
 : Aktiviere oder deaktiviere deine Privatnachrichten.
 
 #### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
 
-/playtime
+/playtime {id="playtime"}
 : Zeigt die aktuelle <tooltip term="Spielstunde">Spielzeit</tooltip> auf dem Server an.
 
-/balance &lt;%main_currency%|%event_coin%&gt;
+/balance &lt;%main_currency%|%event_coin%&gt; {id="balance"}
 : Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
 
 #### Köpfe {collapsible="true" default-state="collapsed" id="survival-server-head-commands"}
 
-/phead &lt;player&gt;
+/phead &lt;player&gt; {id="phead"}
 : Gibt dir den Kopf des angegebenen Spielers.
 
-/heads
+/heads {id="heads"}
 : Öffnet ein Menü, aus welchem man Köpfe bekommen kann. Siehe auch [Köpfe](cosmetics.md)
 
 #### Grundstücke {collapsible="true" default-state="collapsed" id="survival-server-plot-commands"}
 
-/pwho
+/pwho {id="pwho"}
 : Zeigt an, auf welchem Grundstück du dich gerade befindest.
 
 <deflist>
-<def title="/unstuck">
+<def title="/unstuck" id="unstuck">
 Befreit dich, falls du auf einem fremden Grundstück feststeckst.
 
 > Dieser Befehl ist dafür gedacht, dich aus einem **fremden Grundstück** zu **befreien**,
@@ -55,37 +55,40 @@ Befreit dich, falls du auf einem fremden Grundstück feststeckst.
 </def>
 </deflist>
 
-/protect
+/protect {id="protect"}
 : Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren, oder um dir
 eine Liste aller Grundstücke, welche in deinem Besitz sind anzuzeigen.
 
 #### Chestprotect {collapsible="true" default-state="collapsed" id="survival-server-chestprotect-commands"}
 
-/chestprotect
+/chestprotect {id="chestprotect"}
 : Öffnet das Hauptmenü von Chestprotect.
 
-/lock
+/lock {id="lock"}
 : Sperrt eine Kiste nach anschließendem Anklicken.
 
-/trust &lt;player&gt;
+/unlock {id="unlock"}
+: Entsperrt eine Kiste nach anschließendem Anklicken.
+
+/trust &lt;player&gt; {id="trust"}
 : Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
 
-/untrust &lt;player&gt;
+/untrust &lt;player&gt; {id="untrust"}
 : Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem Anklicken der Kiste.
 
 #### Positionen {collapsible="true" default-state="collapsed" id="survival-server-position-commands"}
 
-/lay
+/lay {id="lay"}
 : Mit diesem Befehl kannst du dich auf den Boden legen.
 
-/crawl
+/crawl {id="crawl"}
 : Mit diesem Befehl kannst du auf dem Boden krabbeln.
 
-/bellyflop
+/bellyflop {id="bellyflop"}
 : Mit diesem Befehl kannst du dich auf den Boden legen.
 
 <deflist>
-<def title="/sit">
+<def title="/sit" id="sit">
 Mit diesem Befehl kannst du dich hinsetzen.
 
 > Du kannst dich auch auf Treppen setzen, indem du mit einer leeren Hand auf die Treppe klickst.
@@ -93,7 +96,7 @@ Mit diesem Befehl kannst du dich hinsetzen.
 </def>
 </deflist>
 
-/sit toggle [on|off]
+/sit toggle [on|off] {id="toggle-sit"}
 : Mit diesem Befehl kannst du das automatische Hinsetzen auf Treppen durch Anklicken mit der leeren
 Hand deaktivieren oder aktivieren.
 
