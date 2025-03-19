@@ -35,6 +35,7 @@
             <noindex-content>false</noindex-content>
         </variables>
         <sitemap priority="0.5" change-frequency="daily"/>
+        <llms-txt/>
     </build-profile>
     <footer>
         <copyright>CastCrafter Community Server 2021–2024 | Not an official Minecraft Product. Not approved by or associated with Mojang or Microsoft</copyright>
