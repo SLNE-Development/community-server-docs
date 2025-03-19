@@ -70,6 +70,13 @@
   <secondary-label id="creative2-mc-version" name="1.21.4" color="purple">
     Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
   </secondary-label>
+  <secondary-label id="nether-event-date" name="21.03.2025 - 23.03.2025" color="blue">Das Event
+    läuft
+    vom 15.02.2025 bis zum 22.02.2025.
+  </secondary-label>
+  <secondary-label id="nether-event-mc-version" name="1.21.4" color="purple">
+    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+  </secondary-label>
 
 
 
