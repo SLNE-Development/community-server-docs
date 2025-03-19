@@ -1,4 +1,6 @@
-<primary-label ref="event-held" />
+<primary-label ref="event-held"/>
+<secondary-label ref="stoneblock-event-mc-version"/>
+<secondary-label ref="stoneblock-event-date"/>
 
 # Stoneblock
 
@@ -7,9 +9,6 @@
 [Map Download](https://drive.google.com/file/d/18sxsHSf7INzd8DzZ8GN5JjyBhaQeyDfR/)
 
 {style="warning" title="Hinweis"}
-
-> Das Event läuft voraussichtlich vom **26.05.2024** um **15:00 Uhr** bis **28.05.2024** um **20:00 Uhr**.
->
 
 ## Über das Event {id="general-info"}
 

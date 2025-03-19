@@ -1,6 +1,6 @@
-<primary-label ref="event-held" />
-<secondary-label ref="civilisation-mc-version" />
-<secondary-label ref="civilisation-date" />
+<primary-label ref="event-held"/>
+<secondary-label ref="civilisation-mc-version"/>
+<secondary-label ref="civilisation-date"/>
 
 # Zivilisationsprojekt
 

@@ -1,14 +1,12 @@
-<primary-label ref="event-held" />
+<primary-label ref="event-held"/>
+<secondary-label ref="oceanblock-event-mc-version"/>
+<secondary-label ref="oceanblock-event-date"/>
 
 # Oceanblock
 
-
-<video src="https://www.youtube.com/watch?v=5LmDttvPDg4" />
+<video src="https://www.youtube.com/watch?v=5LmDttvPDg4"/>
 
 [Map Download](https://drive.google.com/file/d/10FxOaIS7NX0H81DoFieOtLrr9Oq9Ki8W/)
-
-> Das Event läuft voraussichtlich vom **21.06.2024** bis zum **23.06.2024**.
->
 
 ## Über das Event {id="general-info"}
 

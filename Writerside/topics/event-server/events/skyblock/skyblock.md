@@ -1,6 +1,6 @@
-<primary-label ref="event-held" />
-<secondary-label ref="skyblock-mc-version" />
-<secondary-label ref="skyblock-date" />
+<primary-label ref="event-held"/>
+<secondary-label ref="skyblock-mc-version"/>
+<secondary-label ref="skyblock-date"/>
 
 # Skyblock
 

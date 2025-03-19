@@ -1,9 +1,7 @@
-<primary-label ref="event-upcoming" />
+<primary-label ref="event-upcoming"/>
+<secondary-label ref="no-date"/>
 
 # Vorbau Event
-
-> Aktuell steht noch kein Starttermin für das Event fest.
-> 
 
 ## Über das Event {id="general-info"}
 

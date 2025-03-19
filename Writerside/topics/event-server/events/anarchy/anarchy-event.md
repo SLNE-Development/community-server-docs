@@ -1,13 +1,12 @@
-<primary-label ref="event-held" />
+<primary-label ref="event-held"/>
+<secondary-label ref="anarchy-event-mc-version"/>
+<secondary-label ref="anarchy-event-date"/>
 
 # Anarchy
 
-<video src="https://www.youtube.com/watch?v=eJ3wrRLPGIs" />
+<video src="https://www.youtube.com/watch?v=eJ3wrRLPGIs"/>
 
 [Map Download](https://1drv.ms/u/s!Ajc2CthqxhPDiRuchitpjDBO2NQr?e=w8Tx33&v=eJ3wrRLPGIs)
-
-> Das Event läuft vom **8.10.2023** um **17:00 Uhr** bis zum **15.10.2023** um **18:00 Uhr**.
-> 
 
 ## Über das Event {id="general-info"}
 

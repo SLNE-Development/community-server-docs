@@ -1,6 +1,6 @@
-<primary-label ref="event-held" />
-<secondary-label ref="one-block-mc-version" />
-<secondary-label ref="one-block-date" />
+<primary-label ref="event-held"/>
+<secondary-label ref="one-block-mc-version"/>
+<secondary-label ref="one-block-date"/>
 
 # OneChunk
 

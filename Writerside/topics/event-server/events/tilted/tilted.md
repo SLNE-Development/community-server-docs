@@ -1,6 +1,6 @@
-<primary-label ref="event-held" />
-<secondary-label ref="tilted-world-mc-version" />
-<secondary-label ref="tilted-world-date" />
+<primary-label ref="event-held"/>
+<secondary-label ref="tilted-world-mc-version"/>
+<secondary-label ref="tilted-world-date"/>
 
 # Tilted World
 

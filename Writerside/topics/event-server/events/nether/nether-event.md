@@ -1,6 +1,6 @@
-<primary-label ref="event-upcoming" />
-<secondary-label ref="nether-event-mc-version" />
-<secondary-label ref="nether-event-date" />
+<primary-label ref="event-upcoming"/>
+<secondary-label ref="nether-event-mc-version"/>
+<secondary-label ref="nether-event-date"/>
 
 # Nether Event
 
