@@ -38,14 +38,16 @@
         <llms-txt/>
     </build-profile>
     <footer>
-        <copyright>CastCrafter Community Server 2021–2024 | Not an official Minecraft Product. Not approved by or associated with Mojang or Microsoft</copyright>
-        <social type="email" href="castcrafter@blrk.gg">Email</social>
-        <social type="youtube" href="https://www.youtube.com/@CastCrafter">
-            YouTube
-        </social>
-        <social type="twitter" href="https://twitter.com/castcrafter">Twitter</social>
+        <copyright>CastCrafter Community Server 2021–2025 | Not an official Minecraft Product. Not
+            approved by or associated with Mojang or Microsoft
+        </copyright>
+        <social type="discord" href="https://discord.gg/castcrafter">Discord</social>
+        <social type="youtube" href="https://www.youtube.com/@CastCrafter">YouTube</social>
         <social type="instagram" href="https://www.instagram.com/castagram_">Instagram</social>
-        <link href="https://discord.gg/castcrafter">Discord</link>
+        <social type="twitter" href="https://twitter.com/castcrafter">Twitter</social>
+        <social type="github" href="https://github.com/SLNE-Development/">SLNE Development</social>
+        <social type="email" href="castcrafter@blrk.gg">Email</social>
+
         <link href="https://www.twitch.tv/castcrafter">Twitch</link>
         <link href="https://castcrafter.de/impressum">Impressum</link>
     </footer>
