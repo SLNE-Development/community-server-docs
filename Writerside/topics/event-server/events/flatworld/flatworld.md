@@ -1,14 +1,13 @@
-<primary-label ref="event-held" />
+<primary-label ref="event-held"/>
+<secondary-label ref="flatworld-event-mc-version"/>
+<secondary-label ref="flatworld-event-date"/>
 
 # Flatworld
 
 
-<video src="https://www.youtube.com/watch?v=l96KwwMBWzw" />
+<video src="https://www.youtube.com/watch?v=l96KwwMBWzw"/>
 
 [Map Download](https://drive.google.com/file/d/1F3PMXmnfSsb2l-OxLV8HLBev5E0jb4MU/)
-
-> Das Event läuft vom **07.06.2024** um **19:00 Uhr** bis **09.06.2024** um **19:00 Uhr**.
->
 
 ## Über das Event {id="general-info"}
 

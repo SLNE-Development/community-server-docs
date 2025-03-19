@@ -1,100 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
 <labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
 
-  <primary-label id="event-held" short-name="S" name="Bereits stattgefunden" color="blue">
-    Dieses Event hat bereits stattgefunden.
-  </primary-label>
-  <primary-label id="event-upcoming" short-name="N" name="Bevorstehend" color="tangerine">
-    Dieses Event wird noch stattfinden.
-  </primary-label>
-  <primary-label id="event-running" short-name="L" name="Läuft">
-    Dieses Event läuft gerade.
-  </primary-label>
-  <primary-label id="survival-closed" short-name="G" name="Geschlossen" color="red">
-    Der Survival Server ist derzeit geschlossen.
-  </primary-label>
-  <primary-label id="under-development" short-name="E" name="In Entwicklung" color="purple">
-    Dieses Feature befindet sich noch in Entwicklung.
-  </primary-label>
-  <primary-label id="survival-server" short-name="O" name="Survival Server" color="purple">
-    Willkommen auf dem Survival Server!
-  </primary-label>
-  <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
-  </primary-label>
+    <primary-label id="event-held" short-name="S" name="Bereits stattgefunden" color="blue">
+        Dieses Event hat bereits stattgefunden.
+    </primary-label>
+    <primary-label id="event-upcoming" short-name="N" name="Bevorstehend" color="tangerine">
+        Dieses Event wird noch stattfinden.
+    </primary-label>
+    <primary-label id="event-running" short-name="L" name="Läuft">
+        Dieses Event läuft gerade.
+    </primary-label>
+    <primary-label id="survival-closed" short-name="G" name="Geschlossen" color="red">
+        Der Survival Server ist derzeit geschlossen.
+    </primary-label>
+    <primary-label id="under-development" short-name="E" name="In Entwicklung" color="purple">
+        Dieses Feature befindet sich noch in Entwicklung.
+    </primary-label>
+    <primary-label id="survival-server" short-name="O" name="Survival Server" color="purple">
+        Willkommen auf dem Survival Server!
+    </primary-label>
+    <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
+    </primary-label>
 
-<!-- SECONDARY EVENT LABELS -->
-  <secondary-label id="diamond-date" name="12.10.2024 bis 13.10.2024" color="blue">Das Event läuft
-    ab dem 12.10.2024 bis zum Erreichen der 400.000 Diamanterze
-  </secondary-label>
-  <secondary-label id="diamond-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
-  </secondary-label>
-  <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
-    vom 01.08.2024 bis zum 03.08.2024.
-  </secondary-label>
-  <secondary-label id="skyblock-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
-  </secondary-label>
-  <secondary-label id="one-block-date" name="15.10.2024 - 17.10.2024" color="blue">Das Event läuft
-    vom 01.08.2024 bis zum 03.08.2024.
-  </secondary-label>
-  <secondary-label id="civilisation-date" name="10.08.2024 - 11.08.2024" color="blue">
-    Das Event läuft vom 10.08.2024 um 14:00 Uhr bis 11.08.2024 um 14:00 Uhr.
-  </secondary-label>
-  <secondary-label id="civilisation-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
-  </secondary-label>
-  <secondary-label id="one-block-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
-  </secondary-label>
-  <secondary-label id="tilted-world-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
-  </secondary-label>
-  <secondary-label id="tilted-world-date" name="26.01.2025 - 28.01.2025" color="blue">Das Event
-    läuft
-    vom 26.01.2025 bis zum 28.01.2025.
-  </secondary-label>
-  <secondary-label id="limitless-hights-date" name="08.02.2025 - 10.02.2025" color="blue">Das Event
-    läuft
-    vom 08.02.2025 bis zum 10.02.2025.
-  </secondary-label>
-  <secondary-label id="limitless-hights-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
-  </secondary-label>
-  <secondary-label id="creative2-date" name="15.02.2025 - 22.02.2025" color="blue">Das Event
-    läuft
-    vom 15.02.2025 bis zum 22.02.2025.
-  </secondary-label>
-  <secondary-label id="creative2-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
-  </secondary-label>
-  <secondary-label id="nether-event-date" name="21.03.2025 - 23.03.2025" color="blue">Das Event
-    läuft
-    vom 21.03.2025 bis zum 23.03.2025.
-  </secondary-label>
-  <secondary-label id="nether-event-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
-  </secondary-label>
+    <!-- SECONDARY EVENT LABELS -->
+    <secondary-label id="no-date" name="Kein Datum" color="red">
+        Aktuell steht noch kein Datum für dieses Event fest.
+    </secondary-label>
+    <secondary-label id="anarchy-event-date" name="8.10.2023 - 15.10.2023" color="blue">Das Event läuft
+        vom 8.10.2023 bis zum 15.10.2023.
+    </secondary-label>
+    <secondary-label id="anarchy-event-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="stoneblock-event-date" name="26.05.2024 - 28.05.2024" color="blue">Das Event läuft
+        vom 26.05.2024 bis zum 28.05.2024.
+    </secondary-label>
+    <secondary-label id="stoneblock-event-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="flatworld-event-date" name="07.06.2024 - 09.06.2024" color="blue">Das Event läuft
+        vom 07.06.2024 bis zum 09.06.2024.
+    </secondary-label>
+    <secondary-label id="flatworld-event-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="oceanblock-event-date" name="21.06.2024 - 21.06.2024" color="blue">Das Event läuft
+        vom 21.06.2024 bis zum 21.06.2024.
+    </secondary-label>
+    <secondary-label id="oceanblock-event-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="diamond-date" name="12.10.2024 bis 13.10.2024" color="blue">Das Event läuft
+        ab dem 12.10.2024 bis zum Erreichen der 400.000 Diamanterze
+    </secondary-label>
+    <secondary-label id="diamond-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
+        vom 01.08.2024 bis zum 03.08.2024.
+    </secondary-label>
+    <secondary-label id="skyblock-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="one-block-date" name="15.10.2024 - 17.10.2024" color="blue">Das Event läuft
+        vom 01.08.2024 bis zum 03.08.2024.
+    </secondary-label>
+    <secondary-label id="civilisation-date" name="10.08.2024 - 11.08.2024" color="blue">
+        Das Event läuft vom 10.08.2024 um 14:00 Uhr bis 11.08.2024 um 14:00 Uhr.
+    </secondary-label>
+    <secondary-label id="civilisation-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="one-block-mc-version" name="1.21" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    </secondary-label>
+    <secondary-label id="tilted-world-mc-version" name="1.21.4" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    </secondary-label>
+    <secondary-label id="tilted-world-date" name="26.01.2025 - 28.01.2025" color="blue">Das Event
+        läuft
+        vom 26.01.2025 bis zum 28.01.2025.
+    </secondary-label>
+    <secondary-label id="limitless-hights-date" name="08.02.2025 - 10.02.2025" color="blue">Das Event
+        läuft
+        vom 08.02.2025 bis zum 10.02.2025.
+    </secondary-label>
+    <secondary-label id="limitless-hights-mc-version" name="1.21.4" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    </secondary-label>
+    <secondary-label id="creative2-date" name="15.02.2025 - 22.02.2025" color="blue">Das Event
+        läuft
+        vom 15.02.2025 bis zum 22.02.2025.
+    </secondary-label>
+    <secondary-label id="creative2-mc-version" name="1.21.4" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    </secondary-label>
+    <secondary-label id="nether-event-date" name="21.03.2025 - 23.03.2025" color="blue">Das Event
+        läuft
+        vom 21.03.2025 bis zum 23.03.2025.
+    </secondary-label>
+    <secondary-label id="nether-event-mc-version" name="1.21.4" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    </secondary-label>
 
 
+    <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
+        Das maximal erreichbare Level dieses Skills beträgt 50.
+    </secondary-label>
 
+    <secondary-label id="current-minecraft-version" name="%required_game_version%" color="blue">Du
+        benötigst die Java-Edition in der Version %required_game_version%, um auf dem Server spielen zu
+        können.
+    </secondary-label>
 
-  <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
-    Das maximal erreichbare Level dieses Skills beträgt 50.
-  </secondary-label>
+    <secondary-label id="wip" name="WIP" color="purple">Work in progress</secondary-label>
+    <secondary-label id="beta" name="β" color="tangerine">Beta</secondary-label>
 
-  <secondary-label id="current-minecraft-version" name="%required_game_version%" color="blue">Du
-    benötigst die Java-Edition in der Version %required_game_version%, um auf dem Server spielen zu
-    können.
-  </secondary-label>
-
-  <secondary-label id="wip" name="WIP" color="purple">Work in progress</secondary-label>
-  <secondary-label id="beta" name="β" color="tangerine">Beta</secondary-label>
-
-  <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental
-    feature
-  </secondary-label>
-  <secondary-label id="2023.3" name="2023.3" color="blue">New in version 2023.3</secondary-label>
+    <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental
+        feature
+    </secondary-label>
+    <secondary-label id="2023.3" name="2023.3" color="blue">New in version 2023.3</secondary-label>
 </labels>

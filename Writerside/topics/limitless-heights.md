@@ -1,6 +1,6 @@
-<primary-label ref="event-held" />
-<secondary-label ref="limitless-hights-mc-version" />
-<secondary-label ref="limitless-hights-date" />
+<primary-label ref="event-held"/>
+<secondary-label ref="limitless-hights-mc-version"/>
+<secondary-label ref="limitless-hights-date"/>
 
 # Limitless Heights
 

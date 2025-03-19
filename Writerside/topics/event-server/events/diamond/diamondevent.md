@@ -1,6 +1,6 @@
-<primary-label ref="event-held" />
-<secondary-label ref="diamond-version" />
-<secondary-label ref="diamond-date" />
+<primary-label ref="event-held"/>
+<secondary-label ref="diamond-version"/>
+<secondary-label ref="diamond-date"/>
 
 # Diamond-Event (400k Special)
 

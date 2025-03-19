@@ -1,4 +1,5 @@
-<primary-label ref="event-upcoming" />
+<primary-label ref="event-upcoming"/>
+<secondary-label ref="no-date"/>
 
 # Vorbau Event
 
