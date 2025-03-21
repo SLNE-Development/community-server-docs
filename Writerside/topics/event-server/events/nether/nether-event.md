@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming" />
+<primary-label ref="event-running" />
 <secondary-label ref="nether-event-mc-version" />
 <secondary-label ref="nether-event-date" />
 
@@ -13,6 +13,7 @@ Euch erwartet eine komplett neue World-Generation, vollgepackt mit unbekannten S
 Um euer Überleben zu sichern, könnt ihr euch auf die Suche nach Larry, einem neuen NPC, machen.
 Er bietet euch wichtige Items zum Handeln an, die euer Leben deutlich erleichtern könnten.
 
+![limitless heights](nether-event.png){border-effect="rounded"}
 
 ## Geänderte Regeln {id="rules"}
 
