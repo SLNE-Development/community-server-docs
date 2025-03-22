@@ -19,7 +19,7 @@ Um euch mehr Freiraum beim Gestalten eurer Bauwerke zu ermöglichen, wird außer
 Es wird spannend zu sehen, was ihr alles innerhalb einer ganzen Woche erschaffen könnt.
 
 
-## Geänderte Regeln {id="rules"}
+## Regeln {id="rules"}
 
 > Neben den allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt, gilt folgender Zusatz:
 >
