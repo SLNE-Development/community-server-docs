@@ -42,7 +42,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                           |
 | ![Senior Moderator](sr-moderator.png) | <ul><li>`Gh0stface`</li><li>`ImRuBiX232`</li></ul>                                                                                                                                           |
 | ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`MikeyLLP`</li><li>`RicTheCraft`</li><li>`xX_Monster`</li></ul>                                                         |
-| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Koljav`</li><li>`Laluck98`</li><li>`Orangenlimo`</li><li>`Progeilo`</li><li>`Timonso`</li><li>`TobiKro110`</li><li>`Qwoxelias`</li></ul> |
+| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Koljav`</li><li>`Laluck98`</li><li>`Orangenlimo`</li><li>`Progeilo`</li><li>`Timonso`</li><li>`Qwoxelias`</li></ul> |
 | ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                               |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}

@@ -15,7 +15,7 @@ Er bietet euch wichtige Items zum Handeln an, die euer Leben deutlich erleichter
 
 ![nether event](nether-event.png){border-effect="rounded"}
 
-## Geänderte Regeln {id="rules"}
+## Regeln {id="rules"}
 
 > Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
 >
@@ -66,7 +66,7 @@ Hier könnt ihr verschiedene Einstellungen vornehmen und habt einen Überblick �
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft voraussichtlich vom **21.03.2025 - 16:00 Uhr** bis zum **23.03.2025 - 16:00 Uhr**.
+: Das Event läuft voraussichtlich vom **22.03.2025 - 16:00 Uhr** bis zum **24.03.2025 - 16:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21.4** stattfinden.
