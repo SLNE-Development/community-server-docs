@@ -15,7 +15,7 @@ Er bietet euch wichtige Items zum Handeln an, die euer Leben deutlich erleichter
 
 ![nether event](nether-event.png){border-effect="rounded"}
 
-## Geänderte Regeln {id="rules"}
+## Regeln {id="rules"}
 
 > Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
 >
