@@ -4,13 +4,11 @@
 
 # Creative 2.0
 
+<video src="https://www.youtube.com/watch?v=we_QzyCti8w"/>
+
 ## Über das Event {id="general-info"}
 
-Das letzte Creative Event liegt nun ziemlich genau ein halbes Jahr zurück. \
-Vielleicht erinnern sich noch einige, an das Video:
-
-<video src="https://www.youtube.com/watch?v=7l1js8HDF8s"/>
-
+Das [letzte Creative Event](https://www.youtube.com/watch?v=7l1js8HDF8s "YouTube-Video") liegt nun ziemlich genau ein halbes Jahr zurück.\
 Seitdem sind hunderte neue Spieler auf den Server gekommen und es haben sich etliche neue Gruppen gebildet. Daher möchten wir dieses Event noch einmal wiederholen!
 
 Diesmal wird das Event jedoch nicht nur 24 Stunden laufen, sondern volle 7 Tage!
