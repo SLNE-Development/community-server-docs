@@ -71,8 +71,23 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 > - Bitte verändere den Log nicht!
 >
 {style="note" title="Wichtig"}
-
 </def>
+
+<def title="Wie installiere ich das offizielle Servermodpack" id="install-official-server-modpack">
+   <include from="util.md" element-id="mod-pack"/>
+
+   1. **Modrinth installieren**
+      - Lade die [Modrinth App](https://modrinth.com/app) herrunter
+      - Installiere die App
+   2. **Modpack installieren**
+        - Öffne die Modrinth App
+        - Klicke auf die Suche und suche nach `CastCrafter Survival Server`
+        - Klicke auf `Installieren`
+        - Starte das Modpack 
+      
+**Wir wünschen dir viel Spaß auf dem Server!**
+</def>
+
 <def title="Was tue ich, wenn ein Spieler mich betrügt oder beklaut?" id="player-scam">
 
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
