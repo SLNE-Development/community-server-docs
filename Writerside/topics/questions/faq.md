@@ -77,7 +77,7 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
    <include from="util.md" element-id="mod-pack"/>
 
    1. **Modrinth installieren**
-      - Lade die [Modrinth App](https://modrinth.com/app) herrunter
+      - Lade die [Modrinth App](https://modrinth.com/app) herunter
       - Installiere die App
    2. **Modpack installieren**
         - Öffne die Modrinth App
