@@ -1,18 +1,32 @@
+# Köpfe und Rüstungsständer
 
-# Rüstungsständer
+![thumbnail](armorstands-heads-thumbnail.png){ border-effect="rounded" thumbnail="false"}
 
+Für alle kreativen Baumeister auf unserem Server bieten wir die Möglichkeit, mit verschiedenen Köpfen und individuell anpassbaren Rüstungsständern zu arbeiten.
+Du hast Zugriff auf eine [Vielzahl von Köpfen](armorstand.md#heads), die dir beim Bau und der Gestaltung deiner Bauten helfen,
+zudem kannst du Körperteile der [Rüstungsständer separat anpassen](armorstand.md#armorstands). 
+Somit kannst du ihm beispielsweise Arme geben oder ihn so aussehen lassen als ob er gerade läuft.
+
+## Köpfe {id="heads" collapsible="true"}
+
+Mit dem Befehl `/hdb` hast du Zugriff auf ein Menü, in welchem sich verschiedene Köpfe befinden, die du zum Bauen
+verwenden kannst.
+
+Mit dem Befehl `/phead <player>` kannst du dir den Kopf des angegebenen Spielers geben.
+
+## Rüstungsständer {id="armorstands" collapsible="true"}
 
 Um deinen Rüstungsständer zu bearbeiten, mache einen <shortcut>Rechtsklick</shortcut> mit
-einem <tooltip term="Flintstone">Feuerstein</tooltip> direkt auf den Rüstungsständer.
+einem [Feuerstein](https://de.minecraft.wiki/w/Feuerstein) direkt auf den Rüstungsständer.
 \
 Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kannst:
 
-![Armorstand editing menu](armorstand-editing-menu.png)
+![armorstand editing menu](armorstand-editing-menu.png)
 
 > Um einen Rüstungsständer abzubauen, benötigst du eine Axt oder ein Schwert.
 > {style="note"}
 
-## Achsen einstellen {collapsible="true" default-state="collapsed" id="axis"}
+### Achsen einstellen {collapsible="true" default-state="collapsed" id="axis"}
 
 > Wenn du das Flint in der Hand hälst und <shortcut>Shift + Mausrad</shortcut>, kannst du die Achsen auch durch Drehen
 > des Mausrades einstellen.
@@ -28,7 +42,7 @@ y-Achse einstellen
 z-Achse einstellen
 : Klicke die <b>blaue Wolle</b> an.
 
-## Stärke {collapsible="true" default-state="collapsed" id="strength"}
+### Stärke {collapsible="true" default-state="collapsed" id="strength"}
 
 {type="medium"}
 Grobe Anpassung
@@ -40,7 +54,7 @@ Feine Anpassung
 > Der wesentliche Unterschied besteht darin, dass bei der groben Anpassung der Rüstungsständer in größeren Schritten
 > bewegt wird, während die feine Anpassung Bewegungen in kleineren, genaueren Schritten ermöglicht.
 
-## Rotieren/Verschieben des Rüstungsständers {collapsible="true" default-state="collapsed" id="rotation-moving-armor-stand"}
+### Rotieren/Verschieben des Rüstungsständers {collapsible="true" default-state="collapsed" id="rotation-moving-armor-stand"}
 
 <procedure title="Verschieben">
 <step>
@@ -51,7 +65,7 @@ möchtest.
 Klicke in dem Menü auf die <b>Lore</b>.
 </step>
 <step>
-Um den Rüstungsständer zu verschieben, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
+Um den Rüstungsständer zu verschieben, führe mit dem Feuerstein einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
@@ -64,12 +78,12 @@ lassen möchtest.
 Klicke in dem Menü auf den <b>Kompass</b>.
 </step>
 <step>
-Um den Rüstungsständer zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
+Um den Rüstungsständer zu rotieren, führe mit dem Feuerstein einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 
-## Rotieren einzelner Körperteile {collapsible="true" default-state="collapsed" id="change-rotation-of-pose"}
+### Rotieren einzelner Körperteile {collapsible="true" default-state="collapsed" id="change-rotation-of-pose"}
 
 <procedure title="Rotieren des Kopfes" collapsible="true" default-state="collapsed" id="rotation-of-head">
 <step>
@@ -79,7 +93,7 @@ Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den Kopf d
 Klicke in dem Menü auf den <b>Leder Helm</b>.
 </step>
 <step>
-Um den Rüstungsständer zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
+Um den Rüstungsständer zu rotieren, führe mit dem Feuerstein einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
@@ -92,7 +106,7 @@ Klicke in dem Menü zum Rotieren des rechten Arms auf den <b>linken Stock</b> un
 <b>rechten Stock</b>.
 </step>
 <step>
-Um den jeweiligen Arm des Rüstungsständers zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip>
+Um den jeweiligen Arm des Rüstungsständers zu rotieren, führe mit dem Feuerstein
 einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
 </step>
 </procedure>
@@ -104,7 +118,7 @@ Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den Körpe
 Klicke in dem Menü auf die <b>Leder Brustplatte</b>.
 </step>
 <step>
-Um den Körper des Rüstungsständers zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
+Um den Körper des Rüstungsständers zu rotieren, führe mit dem Feuerstein einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
 </step>
 </procedure>
@@ -117,7 +131,7 @@ Klick in dem Menü zum Rotieren des rechten Beines auf die <b>linke Lederhose</b
 <b>rechte Lederhose</b>.
 </step>
 <step>
-Um das jeweilige Bein des Rüstungsständers zu rotieren, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip>
+Um das jeweilige Bein des Rüstungsständers zu rotieren, führe mit dem Feuerstein
 einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
 </step>
 </procedure>
@@ -127,11 +141,11 @@ Um die Pose des Rüstungsständers komplett zurückzusetzen, klicke im Menü auf
 </step>
 <step>
 Um jegliche Posen des gesamten Rüstungsständers zurückzusetzen <shortcut>Links-Klick</shortcut> ihn mit dem 
-<tooltip term="Flintstone">Feuerstein</tooltip>.   
+Feuerstein.   
 </step>
 </procedure>
 
-## Bearbeiten des Inventars {collapsible="true" default-state="collapsed" id="edit-inventory"}
+### Bearbeiten des Inventars {collapsible="true" default-state="collapsed" id="edit-inventory"}
 
 <procedure>
 <img src="armorstand-inventory-menu.png" alt="chest-menu"/>
@@ -139,7 +153,7 @@ Um jegliche Posen des gesamten Rüstungsständers zurückzusetzen <shortcut>Link
 Klick in dem Menü zum Bearbeiten des Inventars auf die <b>Kiste</b>.
 </step>
 <step>
-Um das Inventar des Rüstungsständers zu bearbeiten, führe mit dem <tooltip term="Flintstone">Feuerstein</tooltip> einen 
+Um das Inventar des Rüstungsständers zu bearbeiten, führe mit dem Feuerstein einen 
 <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
 </step>
 <step>
@@ -150,7 +164,7 @@ Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1–6 einlegen.
 </step>
 </procedure>
 
-### Slots von 1-6 {id="slots-1-6"}
+#### Slots von 1-6 {id="slots-1-6"}
 
 1. Helm
 2. Brustplatte
@@ -159,7 +173,7 @@ Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1–6 einlegen.
 5. Erste Hand
 6. Zweite Hand
 
-## Extras {collapsible="true" default-state="collapsed" id="extras"}
+### Extras {collapsible="true" default-state="collapsed" id="extras"}
 
 {collapsible="true"}
 Arme ein- oder ausschalten
@@ -193,7 +207,7 @@ Bodenplatte ein- oder ausschalten
 2. Um die Erdanziehungskraft ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den
    Rüstungsständer aus.
 
-## Kopieren und Einfügen {collapsible="true" default-state="collapsed" id="copy-paste"}
+### Kopieren und Einfügen {collapsible="true" default-state="collapsed" id="copy-paste"}
 
 <procedure title="Kopieren" collapsible="true" default-state="collapsed">
 <step>
