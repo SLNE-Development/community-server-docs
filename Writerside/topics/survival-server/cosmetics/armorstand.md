@@ -4,7 +4,7 @@
 
 Für alle kreativen Baumeister auf unserem Server bieten wir die Möglichkeit, mit verschiedenen Köpfen und individuell anpassbaren Rüstungsständern zu arbeiten.
 Du hast Zugriff auf eine [Vielzahl von Köpfen](armorstand.md#heads), die dir beim Bau und der Gestaltung deiner Bauten helfen,
-zudem kannst Körperteile der [Rüstungsständer separat anpassen](armorstand.md#armorstands). 
+zudem kannst du Körperteile der [Rüstungsständer separat anpassen](armorstand.md#armorstands). 
 Somit kannst du ihm beispielsweise Arme geben oder ihn so aussehen lassen als ob dieser gerade läuft.
 ## Köpfe {id="heads" collapsible="true"}
 
