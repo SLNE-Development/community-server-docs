@@ -116,4 +116,8 @@
         <description>Created after removal of "Adventskalender" from Community Server Docs</description>
         <accepts>advent-calendar.html</accepts>
     </rule>
+    <rule id="1fc26128">
+        <description>Created after removal of "Köpfe und Rüstungsständer" from Community Server Docs</description>
+        <accepts>cosmetics.html</accepts>
+    </rule>
 </rules>

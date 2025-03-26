@@ -46,9 +46,7 @@
                     </toc-element>
                 </toc-element>
             </toc-element>
-                <toc-element topic="cosmetics.md">
-                    <toc-element topic="armorstand.md"/>
-                </toc-element>
+                <toc-element topic="armorstand.md"/>
                 <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>
         </toc-element>
             <toc-element topic="map-downloads.md"/>
