@@ -81,7 +81,7 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
       - Installiere die App
    2. **Modpack installieren**
         - Öffne die Modrinth App
-        - Klicke auf die Suche und suche nach `CastCrafter Survival Server`
+        - Klicke auf die Suchleiste und suche nach `CastCrafter Survival Server`
         - Klicke auf `Installieren`
         - Starte das Modpack 
       
