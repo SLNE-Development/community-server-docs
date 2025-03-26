@@ -164,7 +164,7 @@ Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1–6 einlegen.
 </step>
 </procedure>
 
-### Slots von 1-6 {id="slots-1-6"}
+#### Slots von 1-6 {id="slots-1-6"}
 
 1. Helm
 2. Brustplatte
