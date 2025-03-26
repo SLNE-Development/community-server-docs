@@ -151,7 +151,7 @@ Wie du die Gegenstände bekommst, erfährst du [hier](light-blocks-and-invisible
 </def>
 <def title="Kann ich Rüstungsständer anpassen?" id="modify-armorstands">
 
-[Rüstungsständer können mithilfe eines Feuersteins angepasst werden](cosmetics.md "%click-more-info%").
+[Rüstungsständer können mithilfe eines Feuersteins angepasst werden](armorstand.md "%click-more-info%").
 Damit kannst du den Rüstungsständern zum Beispiel Arme geben und alle Körperteile separat rotieren. Durch diese
 Funktionen sind deiner Kreativität beim Bauen keine Grenzen mehr gesetzt.
 
