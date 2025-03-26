@@ -21,7 +21,7 @@ einem [Feuerstein](https://de.minecraft.wiki/w/Feuerstein) direkt auf den Rüstu
 \
 Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kannst:
 
-![armorstand menu](armorstand-editing-menu.png)
+![armorstand editing menu](armorstand-editing-menu.png)
 
 > Um einen Rüstungsständer abzubauen, benötigst du eine Axt oder ein Schwert.
 > {style="note"}
