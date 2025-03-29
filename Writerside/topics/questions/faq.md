@@ -15,8 +15,23 @@
 
 > Achte bitte darauf, dass deine verknüpften Accounts auch öffentlich einsehbar sind!
 > {style="note"}
-
 </def>
+
+<def title="Wie installiere ich das offizielle Server Modpack" id="install-official-server-modpack">
+   <include from="util.md" element-id="mod-pack"/>
+
+1. **Modrinth installieren**
+   - Lade die [Modrinth App](https://modrinth.com/app) herunter
+   - Installiere die App
+2. **Modpack installieren**
+   - Öffne die Modrinth App
+   - Klicke auf die Suchleiste und suche nach `CastCrafter Survival Server`
+   - Klicke auf `Installieren`
+   - Starte das Modpack
+
+**Wir wünschen dir viel Spaß auf dem Server!**
+</def>
+
 <def title="Wie teile ich meinen Log?" id="how-to-share-log">
 
 Es gibt verschiedene Webseiten, auf denen man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
