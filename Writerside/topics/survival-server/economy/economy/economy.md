@@ -12,7 +12,7 @@ Mit dem Befehl `/pay <Spieler> <Betrag>` kannst du Geld an andere Spieler überw
 {style="note"}
 
 > Sobald dein Kontostand `%paycheck_max_balance% CastCoins` übersteigt, erhältst du keine PayChecks mehr.
-> Diese Maßnahme zielt darauf ab, eine übermäßige Inflation und den Verlust an Wert der Währung zu verhindern.
+> Diese Maßnahme soll eine übermäßige Inflation verhindern und den Wert der Währung stabil halten.
 > 
 {style="warning"}
 
