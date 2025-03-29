@@ -8,6 +8,7 @@
     <var name="main_currency" value="CastCoin"/>
     <var name="event_coin" value="EventCoin"/>
     <var name="paycheck" value="500"/>
+    <var name="paycheck_max_balance" value="100000"/>
 
     <var name="dc_link" value="https://discord.gg/castcrafter"/>
     <var name="tickets_channel" value="https://discord.com/channels/133198459531558912/1124438644523012234"/>
