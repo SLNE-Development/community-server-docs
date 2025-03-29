@@ -4,6 +4,8 @@
 
 # Nether Event
 
+<video src="https://www.youtube.com/watch?v=K5kgVaS6xRY"/>
+
 ## Über das Event {id="general-info"}
 
 Ihr seid für 48 Stunden im Nether eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein End!
