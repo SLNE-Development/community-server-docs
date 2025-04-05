@@ -3,7 +3,7 @@
 
 <tabs>
 <tab title="1.20 Community Server" id="survival-server-1_20">
-<a href="https://castcrafter.sellfy.store/p/community-server-map/">Map Download</a>
+<a href="https://drive.google.com/file/d/1C0xd0zgWUxuYsKnyQESLe23pYV9axxXF/">Map Download</a>
 <video src="https://www.youtube.com/watch?v=4JFUiPN2aX4"/>
 
 <chapter title="Die wichtigsten Cords" collapsible="true" id="points-of-interest-1_20">
