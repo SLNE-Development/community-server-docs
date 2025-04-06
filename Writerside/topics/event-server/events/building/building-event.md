@@ -63,7 +63,7 @@ Um euch das Bauen zu erleichtern, stehen euch folgende Plugins & Tools zur Verf�
 - **goPaint**
 - **Acreon**
 - [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Stock)
-- [Head Database](cosmetics.md "Klicke hier für die Anleitung zu den Köpfen!")
+- [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
 
 > Modifikationen wie `Litematica` oder andere Schematic Tools sind nicht gestattet und können zum Ausschluss
 > führen.

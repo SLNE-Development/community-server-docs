@@ -35,7 +35,7 @@
             <title>Besonderheiten</title>
             <card href="changed-vanilla-mechanics.md" badge="settings"
                   summary="Auf dem Server gibt es einige veränderte Vanilla-Mechaniken. Welche das sind, erfährst du hier."/>
-            <card href="cosmetics.md" badge="creative"
+            <card href="armorstand.md" badge="creative"
                   summary="Auf dem Server gibt es verschiedene Cosmetics, die du nutzen kannst. Welche das sind, erfährst du hier."/>
             <card href="events.md" badge="community"
                   summary="Auf dem Server finden regelmäßig Events statt. Welche das sind, erfährst du hier."/>
