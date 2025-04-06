@@ -9,7 +9,7 @@ Der Server ist in 3 Bereiche unterteilt:
 <tab title="Survival Server" id="survival">
 
 <deflist>
-<def title="Um auf dem Survival Server zu spielen, müsst ihr diese Anforderungen erfüllen:">
+<def title="Um auf dem Survival Server zu spielen, müsst ihr diese Anforderungen erfüllen:" id="survival-dependencies">
 
 - Ihr benötigt die [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) in der
   Version [%required_game_version%](%required_game_version_link%), um auf dem Server spielen zu
