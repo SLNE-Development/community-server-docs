@@ -36,7 +36,7 @@ Blockiert den angegebenen Spieler im Chat.
 : Gibt dir den Kopf des angegebenen Spielers.
 
 /heads {id="heads"}
-: Öffnet ein Menü, aus welchem man Köpfe bekommen kann. Siehe auch [Köpfe](cosmetics.md)
+: Öffnet ein Menü, aus welchem man Köpfe bekommen kann. Siehe auch [Köpfe](armorstand.md)
 
 #### Grundstücke {collapsible="true" default-state="collapsed" id="survival-server-plot-commands"}
 
