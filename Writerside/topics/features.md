@@ -70,11 +70,16 @@ in der Spielerliste als auch im Nametag im Spiel angezeigt.
 ![player-not-streaming](livestream-display-player-not-streaming.png)
 ![player-streaming](livestream-display-player-streaming.png)
 
+> Um dieses Feature verwenden zu können, musst du dich auf der [Whitelist](support.md "%click-more-info%") befinden.
+>
+{style="note" title="Voraussetzungen" id="livestream-display-requirements"}
+
 > - Ohne viele Worte ist sofort sichtbar, ob jemand streamt oder nicht.
 > - Spieler sehen sofort, wer gerade live ist – das sorgt für mehr Aufmerksamkeit und Interaktion.
 > - Spieler, die nicht im Stream auftauchen möchten, können auf einen Blick erkennen, wer gerade streamt, und entsprechend den Stream meiden.
-> 
+>
 {style="note" title="Vorteile der Livestream-Status-Anzeige" id="livestream-display-benefits"}
+
 
 </def>
 </deflist>
