@@ -55,7 +55,7 @@ Somit weißt du immer genau, wie viele XP du beim Leeren des Ofens erhältst.
 
 - Halte hierzu <shortcut>Shift</shortcut> gedrückt und klicke mit <shortcut>Linksklick</shortcut> auf einen Ofen.
 
-> Deine Hände müseen bei diesem Vorgang leer sein.
+> Deine Hände müsen bei diesem Vorgang leer sein.
 >
 {style="note" title="Hinweis"}
 
