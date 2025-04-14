@@ -45,7 +45,7 @@ Dieses Feature gibt dir genau an, wie oft ein bestimmtes Item bereits im Amboss 
 - Jedes Mal, wenn du ein Item im Amboss umbenennst oder verzauberst, wird die Anzahl der Anvil Uses um eins erhöht.
 - Diese Zahl wird direkt unter dem Namen des Items angezeigt, sodass du immer im Blick hast, wie oft dein Item bereits bearbeitet wurde.
   \
-  ![anviluse](anviluse.png)
+![anviluse](anviluse.png)
 
 </def>
 <def title="XP-Füllstandsanzeige bei Öfen" id="furnace-info">
@@ -55,7 +55,7 @@ Somit weißt du immer genau, wie viele XP du beim Leeren des Ofens erhältst.
 
 - Halte hierzu <shortcut>Shift</shortcut> gedrückt und klicke mit <shortcut>Linksklick</shortcut> auf einen Ofen.
 
-> Deine Hände müsen bei diesem Vorgang leer sein.
+> Deine Hände müssen bei diesem Vorgang leer sein.
 >
 {style="note" title="Hinweis"}
 
@@ -79,7 +79,6 @@ in der Spielerliste als auch im Nametag im Spiel angezeigt.
 > - Spieler, die nicht im Stream auftauchen möchten, können auf einen Blick erkennen, wer gerade streamt, und entsprechend den Stream meiden.
 >
 {style="note" title="Vorteile der Livestream-Status-Anzeige" id="livestream-display-benefits"}
-
 
 </def>
 </deflist>
