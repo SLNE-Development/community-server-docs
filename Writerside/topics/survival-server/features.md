@@ -70,7 +70,7 @@ in der Spielerliste als auch im Nametag im Spiel angezeigt.
 ![player-not-streaming](livestream-display-player-not-streaming.png)
 ![player-streaming](livestream-display-player-streaming.png)
 
-> Um dieses Feature verwenden zu können, musst du dich auf der [Whitelist](support.md "%click-more-info%") befinden.
+> Um dieses Feature verwenden zu können, musst du dich auf der [Whitelist](../support.md "%click-more-info%") befinden.
 >
 {style="note" title="Voraussetzungen" id="livestream-display-requirements"}
 
