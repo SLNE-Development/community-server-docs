@@ -21,7 +21,6 @@
 
         <primary>
             <title>Kommende Events</title>
-            <card href="nether-event.md" badge="world"/>
             <card href="building-event.md" badge="creative"/>
         </primary>
 
