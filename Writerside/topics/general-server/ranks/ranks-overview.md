@@ -15,7 +15,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                         |
 | ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                         |
 | ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul> |
-| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, welcher jeder neue Spieler erhält </li></ul>                                        |
+| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                 |
 
 </tab>
 
