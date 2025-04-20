@@ -74,7 +74,7 @@ in der Spielerliste als auch im Nametag im Spiel angezeigt.
 >
 {style="note" title="Voraussetzungen" id="livestream-display-requirements"}
 
-> Solltest du den Namen deines Twitch-Accounts nach der Whitelist ändern, bist du von der Livestream-Status-Anzeige ausgeschlossen.
+> Wenn du den Namen deines Twitch-Accounts nach der Whitelist änderst, funktioniert die Livestream-Statusanzeige nicht mehr.
 > 
 {style="warning" title="Achtung" id="livestream-display-warning"}
 
