@@ -12,7 +12,7 @@ Clanmitglieder angezeigt.
 >
 {style="note" title="Beachte Folgendes bei der Erstellung eines Clans:"}
 
-Beispiel
+Beispiel {id="clan-creation-example"}
 : Der folgende Befehl wurde zur Erstellung des Clans verwendet:\
 `/clan create Democlan DEMO`
 ![clan info](clan-info-command.png)
