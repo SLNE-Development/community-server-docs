@@ -103,7 +103,7 @@
     <secondary-label id="nether-event-mc-version" name="1.21.4" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
     </secondary-label>
-    <secondary-label id="ca-bau-event-date" name="26.04.2025 - 03.05.2025" color="blue">Das Event
+    <secondary-label id="craft-attack-build-event-date" name="26.04.2025 - 03.05.2025" color="blue">Das Event
         läuft
         vom 26.04.2025 bis zum 03.05.2025.
     </secondary-label>
