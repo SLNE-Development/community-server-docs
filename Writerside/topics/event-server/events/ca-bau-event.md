@@ -26,7 +26,7 @@ Folgende Befehle können während des Events verwendet werden:
 
 #### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
 
-/plot claim {id="command-plot-claim"}  
+/plot claim {id="plot-claim-command"}  
 : Beansprucht das aktuelle Plot, auf dem du gerade stehst.
 
 
