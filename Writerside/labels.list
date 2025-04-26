@@ -23,6 +23,7 @@
     </primary-label>
     <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
     </primary-label>
+
     <!-- SECONDARY EVENT LABELS -->
     <secondary-label id="no-date" name="Kein Datum" color="red">
         Aktuell steht noch kein Datum für dieses Event fest.
