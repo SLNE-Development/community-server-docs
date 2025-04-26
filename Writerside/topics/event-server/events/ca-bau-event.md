@@ -13,7 +13,7 @@ indem du einen Würfel auf einem Plot baust, den er in seine Basis integriert.
 
 ## Regeln {id="rules"}
 
-> Neben den allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt, gilt folgender Zusatz:
+> Neben den allgemeinen [Serverregeln](rules.md),gilt folgender Zusatz:
 >
 > In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic Mods nicht gestattet** und kann zu einem Ausschluss führen!
 >
