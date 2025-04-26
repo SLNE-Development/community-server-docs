@@ -44,7 +44,7 @@ Folgende Befehle können während des Events verwendet werden:
 /plot trust &lt;player | *&gt; {id="plot-trust-command"}  
 : Erlaubt einem Spieler, auf einem Plot zu bauen, auch während der Plot-Besitzer offline ist.
 
-/plot add &lt;player | *&gt; {id="command-plot-add"}  
+/plot add &lt;player | *&gt; {id="plot-add-command"}  
 : Erlaubt einem Spieler die Bebauung des Plots, aber nur während der Plot-Besitzer online ist.
 
 /plot remove &lt;player | *&gt; {id="command-plot-remove"}  
