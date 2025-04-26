@@ -1,0 +1,76 @@
+<primary-label ref="event-running"/>  
+<secondary-label ref="ca-bau-event-mc-version"/>  
+<secondary-label ref="ca-bau-event-date"/>  
+
+# Craft Attack Bau Event
+
+
+## Über das Event {id="general-info"}
+Hilf CastCrafters Craft Attack-Basis zu vervollständigen,   
+indem du einen Würfel auf einem Plot baust, den er in seine Basis integriert.
+
+
+
+## Regeln {id="rules"}
+
+> Neben den allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt, gilt folgender Zusatz:
+>
+> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic Mods nicht gestattet** und kann zu einem Ausschluss führen!
+>
+{style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
+
+
+
+## Befehle {id="commands"}
+Folgende Befehle kannst du während des Events verwenden:
+
+#### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
+
+/plot claim {id="command-plot-claim"}  
+: Beansprucht das aktuelle Plot, auf dem du gerade stehst.
+
+
+#### Teleportieren {collapsible="true" default-state="collapsed" id="commands-teleport"}
+
+/plot home {id="command-plot-home"}  
+: Teleportiert dich zu deinem Plot.
+
+/plot kick &lt;player | *&gt; {id="command-plot-kick"}  
+: Wirft einen Spieler von deinem Plot.
+
+
+#### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
+
+/plot trust &lt;player | *&gt; {id="command-plot-trust"}  
+: Erlaubt einem Spieler, auf einem Plot zu bauen, auch während der Plot-Besitzer offline ist.
+
+/plot add &lt;player | *&gt; {id="command-plot-add"}  
+: Erlaubt einem Spieler die Bebauung des Plots, aber nur während der Plot-Besitzer online ist.
+
+/plot remove &lt;player | *&gt; {id="command-plot-remove"}  
+: Entfernt die Erlaubnis für einen Spieler, auf dem Plot zu bauen, die durch `/plot trust` oder `/plot add` erteilt wurde.
+
+
+#### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
+
+/plot info &lt;id&gt; {id="command-plot-info"}  
+: Zeige Informationen über das Plot an.
+
+
+
+## Q&amp;A {id="q-a"}
+
+{collapsible="true" default-state="collapsed"}  
+Wann beginnt das Event? {id="event-date"}  
+: Das Event läuft voraussichtlich vom **26.04.2025** bis zum **03.05.2025**.
+
+Welche Version von Minecraft wird benötigt? {id="event-mc-version"}  
+: Das Event wird in der Version **1.21.4** stattfinden.
+
+Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}  
+: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch  
+bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
+
+Kann man auch später noch dem Event beitreten? {id="event-join-later"}  
+: Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale  
+Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
