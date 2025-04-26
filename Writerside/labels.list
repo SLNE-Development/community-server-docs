@@ -107,7 +107,7 @@
         läuft
         vom 26.04.2025 bis zum 03.05.2025.
     </secondary-label>
-    <secondary-label id="ca-bau-event-mc-version" name="1.21.4" color="purple">
+    <secondary-label id="craft-attack-build-event-mc-version" name="1.21.4" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
     </secondary-label>
 
