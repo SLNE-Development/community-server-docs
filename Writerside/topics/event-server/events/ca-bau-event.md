@@ -22,7 +22,7 @@ indem du einen Würfel auf einem Plot baust, den er in seine Basis integriert.
 
 
 ## Befehle {id="commands"}
-Folgende Befehle kannst du während des Events verwenden:
+Folgende Befehle können während des Events verwendet werden:
 
 #### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
 
