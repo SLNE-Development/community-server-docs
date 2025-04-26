@@ -41,7 +41,7 @@ Folgende Befehle können während des Events verwendet werden:
 
 #### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
 
-/plot trust &lt;player | *&gt; {id="command-plot-trust"}  
+/plot trust &lt;player | *&gt; {id="plot-trust-command"}  
 : Erlaubt einem Spieler, auf einem Plot zu bauen, auch während der Plot-Besitzer offline ist.
 
 /plot add &lt;player | *&gt; {id="command-plot-add"}  
