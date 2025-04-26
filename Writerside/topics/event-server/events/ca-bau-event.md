@@ -1,25 +1,20 @@
 <primary-label ref="event-running"/>  
-<secondary-label ref="ca-bau-event-mc-version"/>  
-<secondary-label ref="ca-bau-event-date"/>  
+<secondary-label ref="craft-attack-build-event-mc-version"/>  
+<secondary-label ref="craft-attack-build-event-date"/>  
 
 # Craft Attack Bau Event
-
 
 ## Über das Event {id="general-info"}
 Hilf CastCrafters Craft Attack-Basis zu vervollständigen,   
 indem du einen Würfel auf einem Plot baust, den er in seine Basis integriert.
 
-
-
 ## Regeln {id="rules"}
 
-> Neben den allgemeinen [Serverregeln](rules.md),gilt folgender Zusatz:
->
-> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic Mods nicht gestattet** und kann zu einem Ausschluss führen!
+> Neben den allgemeinen [Serverregeln](rules.md),gilt folgender Zusatz: \
+> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic Mods nicht gestattet** und kann zu einem
+> Ausschluss führen!
 >
 {style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
-
-
 
 ## Befehle {id="commands"}
 Folgende Befehle können während des Events verwendet werden:
@@ -29,7 +24,6 @@ Folgende Befehle können während des Events verwendet werden:
 /plot claim {id="plot-claim-command"}  
 : Beansprucht das aktuelle Plot, auf dem du gerade stehst.
 
-
 #### Teleportieren {collapsible="true" default-state="collapsed" id="commands-teleport"}
 
 /plot home {id="command-plot-home"}  
@@ -37,7 +31,6 @@ Folgende Befehle können während des Events verwendet werden:
 
 /plot kick &lt;player | *&gt; {id="plot-kick-command"}  
 : Wirft einen Spieler von deinem Plot.
-
 
 #### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
 
@@ -48,15 +41,23 @@ Folgende Befehle können während des Events verwendet werden:
 : Erlaubt einem Spieler die Bebauung des Plots, aber nur während der Plot-Besitzer online ist.
 
 /plot remove &lt;player | *&gt; {id="plot-remove-command"}  
-: Entfernt die Erlaubnis für einen Spieler, auf dem Plot zu bauen, die durch `/plot trust` oder `/plot add` erteilt wurde.
-
+: Entfernt die Erlaubnis für einen Spieler, auf dem Plot zu bauen, die durch `/plot trust` oder `/plot add` erteilt
+wurde.
 
 #### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
 
 /plot info &lt;id&gt; {id="command-plot-info"}  
 : Zeige Informationen über das Plot an.
 
+## Geänderte Mechaniken {id="changed-mechanics"}
+Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
 
+- Redstone ist deaktiviert
+- Ihr könnt keine Items droppen / aufheben
+- Der Nether und das End sind deaktiviert
+- Es stehen grundsätzlich nur Items zur Verfügung, die es auch "normal" gibt. Es können keine modifizierten Items z. B. aus dem Singleplayer genutzt werden
+- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawned werden
+- Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
 
 ## Q&amp;A {id="q-a"}
 
