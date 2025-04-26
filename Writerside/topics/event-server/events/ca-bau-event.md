@@ -35,7 +35,7 @@ Folgende Befehle können während des Events verwendet werden:
 /plot home {id="command-plot-home"}  
 : Teleportiert dich zu deinem Plot.
 
-/plot kick &lt;player | *&gt; {id="command-plot-kick"}  
+/plot kick &lt;player | *&gt; {id="plot-kick-command"}  
 : Wirft einen Spieler von deinem Plot.
 
 
