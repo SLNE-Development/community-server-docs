@@ -60,7 +60,7 @@ Folgende Befehle können während des Events verwendet werden:
 /plot info {id="command-plot-info"} 
 : Zeigt Informationen zu einem Plot an.
 
-## Geänderte Mechaniken {id="changed-mechanics"}
+### Geänderte Mechaniken {id="changed-mechanics"}
 Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
 
 - Redstone ist deaktiviert
