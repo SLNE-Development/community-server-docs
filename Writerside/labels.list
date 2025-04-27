@@ -97,6 +97,20 @@
     <secondary-label id="creative2-mc-version" name="1.21.4" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
     </secondary-label>
+    <secondary-label id="ca-cube-self-date" name="15.02.2025 - 22.02.2025" color="blue">Das Event
+        läuft
+        vom 15.02.2025 bis zum 22.02.2025.
+    </secondary-label>
+    <secondary-label id="ca-cube-self-mc-version" name="1.21.4/1.21.5" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    </secondary-label>
+    <secondary-label id="ca-cube-all-date" name="27.04.2025 - 03.05.2025" color="blue">Das Event
+        läuft
+        vom 27.04.2025 bis zum 03.05.2025.
+    </secondary-label>
+    <secondary-label id="ca-cube-all-mc-version" name="1.21.4/1.21.5" color="purple">
+        Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    </secondary-label>
     <secondary-label id="nether-event-date" name="22.03.2025 - 24.03.2025" color="blue">Das Event
         läuft
         vom 22.03.2025 bis zum 24.03.2025.
