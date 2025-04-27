@@ -54,7 +54,7 @@ Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für
 
 - Redstone ist deaktiviert
 - Items können weder gedroppt noch aufgehoben werden
-- Der Nether und das End sind deaktiviert
+- Nether und End sind deaktiviert
 - Es stehen grundsätzlich nur Items zur Verfügung, die es auch "normal" gibt. Es können keine modifizierten Items z. B. aus dem Singleplayer genutzt werden
 - Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawned werden
 - Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
