@@ -70,7 +70,7 @@ Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für
 - Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden
 - Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
 
-### VoiceChat {id="voicechat"}
+## VoiceChat {id="voicechat"}
 
 In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
 
