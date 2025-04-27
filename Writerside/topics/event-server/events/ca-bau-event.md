@@ -56,7 +56,7 @@ Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für
 - Items können weder gedroppt noch aufgehoben werden
 - Nether und End sind deaktiviert
 - Es stehen nur reguläre Items zur Verfügung; modifizierte Items (z. B. aus dem Singleplayer) sind nicht nutzbar
-- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawned werden
+- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden
 - Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
 
 ## Q&amp;A {id="q-a"}
