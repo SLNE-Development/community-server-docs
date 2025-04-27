@@ -6,7 +6,7 @@
 
 ## Über das Event {id="general-info"}
 
-Das Streamer-Projekt **CraftAttack 12** neigt sich dem Ende. Das Problem ist: Das Bau-Projekt von CastCrafter, ein Würfel ist noch nicht fertig.
+Das Streamer-Projekt **CraftAttack 12** neigt sich dem Ende. Das Problem ist: Das Bau-Projekt von CastCrafter, ein Würfel, ist noch nicht fertig.
 In diesem Event habt ihr die Möglichkeit, einen Teil des Würfels zu bauen.
 
 Das Ziel: Den CraftAttack Würfel mithilfe der Community fertigzustellen. **CastCrafter** wird am Ende des Events die besten Würfel auswählen und diese in CraftAttack nachbauen.
