@@ -22,28 +22,53 @@ Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler 
 
 ## Regeln {id="rules"}
 
-> Bei diesem Event gibt es keine Regeländerungen. \
-> Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
+> Neben den allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt, gilt folgender Zusatz:
 >
-> **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
+> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic Mods nicht gestattet** und kann zu einem Ausschluss führen!
 >
-{style="note" title="Es gelten die allgemeinen Serverregeln!"}
+{style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
 
-### Geänderte Mechaniken {id="changed-mechanics"}
+## Befehle {id="commands"}
+Folgende Befehle können während des Events verwendet werden:
 
+#### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
+
+/plot claim {id="plot-claim-command"}
+: Beansprucht das Plot, auf dem du dich aktuell befindest.
+
+#### Teleportieren {collapsible="true" default-state="collapsed" id="commands-teleport"}
+
+/plot home {id="plot-home"}
+: Wirft einen Spieler von deinem Plot.
+
+/plot kick &lt;player | *&gt; {id="plot-kick-command"}
+: Wirft einen Spieler von deinem Plot.
+
+#### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
+
+/plot trust &lt;player | *&gt; {id="plot-trust-command"} 
+: Erteilt einem Spieler Baurechte, auch wenn du offline bist.
+
+/plot add &lt;player | *&gt; {id="plot-add-command"} 
+: Erlaubt einem Spieler, auf deinem Plot zu bauen, solange du online bist.
+
+/plot remove &lt;player | *&gt; {id="plot-remove-command"}  
+: Hebt die mit `/plot trust` oder `/plot add` vergebenen Baurechte auf.
+
+#### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
+
+/plot info &lt;id&gt; {id="command-plot-info"} 
+: Zeigt Informationen zu einem Plot an.
+
+## Geänderte Mechaniken {id="changed-mechanics"}
 Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
 
-- Der Nether und das End sind deaktiviert
-- Es stehen grundsätzlich nur Items zur Verfügung, die es auch "normal" gibt. Es können keine Custom Items z. B. aus dem Singleplayer genutzt werden
-- Entities wie Mobs, ItemFrames, ArmorStands und Villager sind deaktiviert
-
-### Teleportation {id="teleportation"}
-
-Du kannst dich mit dem Befehl `/plot home` jederzeit zu deinem Plot teleportieren.
-
-> **Achtung:** Um diesem Befehl zu nutzen, musst du einen Plot erstellt haben.
->
-{style="note"}
+- Redstone ist deaktiviert
+- Items können weder gedroppt noch aufgehoben werden
+- Nether und End sind deaktiviert
+- Es stehen nur reguläre Items zur Verfügung; modifizierte Items (z. B. aus dem Singleplayer) sind nicht nutzbar
+- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden
+- Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
 
 ### VoiceChat {id="voicechat"}
 
