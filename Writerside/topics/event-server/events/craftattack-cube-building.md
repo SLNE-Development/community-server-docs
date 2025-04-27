@@ -13,7 +13,7 @@ Das Ziel: Den CraftAttack Würfel mithilfe der Community fertigzustellen. **Cast
 Jeder baut seinen eigenen Würfel. Deinen Plot kannst du mit `/plot auto` claimen und mit `/plot home` jederzeit betreten.
 Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler mit `/plot trust <player>` zu deinem Plot einladen.
  
-> **Achtung:** Der Würfel muss die Maße `44x44x44` Blöcke haben. Das bedeutet, dass die Grundfläche 44x44 Blöcke groß ist und die Höhe 44 Blöcke beträgt.
+> **Achtung:** Der Würfel muss die Maße `44x44x44 Blöcke` haben. Das bedeutet, dass die Grundfläche `44x44 Blöcke` groß ist und die Höhe `44 Blöcke` beträgt.
 > 
 > {style="warning"}
 
