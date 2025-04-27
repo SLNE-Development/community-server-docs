@@ -92,5 +92,4 @@
     <toc-element topic="faq.md"/>
     <toc-element topic="troubleshooting.md"/>
     <toc-element topic="mtr.md" hidden="true"/>
-    <toc-element topic="ca-bau-event.md"/>
 </instance-profile>
