@@ -12,7 +12,7 @@ In diesem Event habt ihr die Möglichkeit, einen Teil des Würfels zu bauen.
 Das Ziel: Den CraftAttack Würfel mithilfe der Community fertigzustellen. **CastCrafter** wird am Ende des Events die besten Würfel auswählen und diese in CraftAttack nachbauen.
 Jeder baut seinen eigenen Würfel. Deinen Plot kannst du mit `/plot auto` claimen und mit `/plot home` jederzeit betreten.
 Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler mit `/plot trust <Spieler>` zu deinem Plot einladen.
->
+ 
 > **Achtung:** Der Würfel muss die Maße `44x44x44` Blöcke haben. Das bedeutet, dass die Grundfläche 44x44 Blöcke groß ist und die Höhe 44 Blöcke beträgt.
 > 
 > {style="warning"}
