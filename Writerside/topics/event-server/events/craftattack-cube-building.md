@@ -57,7 +57,7 @@ Folgende Befehle können während des Events verwendet werden:
 
 #### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
 
-/plot info &lt;id&gt; {id="command-plot-info"} 
+/plot info {id="command-plot-info"} 
 : Zeigt Informationen zu einem Plot an.
 
 ## Geänderte Mechaniken {id="changed-mechanics"}
