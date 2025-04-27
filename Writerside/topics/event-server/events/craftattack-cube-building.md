@@ -86,7 +86,7 @@ Wann beginnt das Event? {id="event-date"}
 : Das Event läuft voraussichtlich vom **26.04.2025** bis zum **03.05.2025**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
-: Das Event wird in der Version **1.21.4/5** stattfinden.
+: Das Event wird in der Version **1.21.4** & **1.21.5** stattfinden.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
