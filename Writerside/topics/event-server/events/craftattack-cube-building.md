@@ -9,7 +9,7 @@
 Das Streamer-Projekt **CraftAttack 12** neigt sich dem Ende. Das Problem ist: Das Bau-Projekt von CastCrafter, ein Würfel ist noch nicht fertig.
 In diesem Event, habt ihr die Möglichkeit, einen Teil des Würfels zu bauen.
 
-Das Ziel: Den CraftAttack würfel mithilfe der Community fertig zu stellen. **CastCrafter** wird am Ende des Events, die besten Würfel auswählen und diese in CratAttack nachbauen.
+Das Ziel: Den CraftAttack würfel mithilfe der Community fertig zu stellen. **CastCrafter** wird am Ende des Events, die besten Würfel auswählen und diese in CraftAttack nachbauen.
 Jeder baut seinen eigenen Würfel. Deinen Plot kannst du mit `/plot auto` claimen und mit `/plot home` jederzeit betreten.
 Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler mit `/plot trust <Spieler>` zu deinem Plot einladen.
 >
