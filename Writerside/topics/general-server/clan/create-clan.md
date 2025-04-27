@@ -12,10 +12,10 @@ Clanmitglieder angezeigt.
 >
 {style="note" title="Beachte Folgendes bei der Erstellung eines Clans:"}
 
-Beispiel
+Beispiel {id="clan-creation-example"}
 : Der folgende Befehl wurde zur Erstellung des Clans verwendet:\
 `/clan create Democlan DEMO`
 ![clan info](clan-info-command.png)
 ![clan members](clan-members-tab.png)
 
-> Das Clankürzel wird erst ab einer Anzahl von 30 Clanmitlgiedern hinter den Mitglieder in der Spielerliste angezeigt.
+> Das Clankürzel wird erst ab einer Anzahl von 30 Clanmitlgiedern hinter den Mitgliedern in der Spielerliste angezeigt.

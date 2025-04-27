@@ -74,6 +74,10 @@ in der Spielerliste als auch im Nametag im Spiel angezeigt.
 >
 {style="note" title="Voraussetzungen" id="livestream-display-requirements"}
 
+> Wenn du den Namen deines Twitch-Accounts nach der Whitelist änderst, funktioniert die Livestream-Statusanzeige nicht mehr.
+> 
+{style="warning" title="Achtung" id="livestream-display-warning"}
+
 > - Ohne viele Worte ist sofort sichtbar, ob jemand streamt oder nicht.
 > - Spieler sehen sofort, wer gerade live ist – das sorgt für mehr Aufmerksamkeit und Interaktion.
 > - Spieler, die nicht im Stream auftauchen möchten, können auf einen Blick erkennen, wer gerade streamt, und entsprechend den Stream meiden.
