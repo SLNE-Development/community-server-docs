@@ -6,13 +6,13 @@
 
 ## Über das Event {id="general-info"}
 
-Das Streamer-Projekt **CraftAttack 12** neigt sich dem Ende. Das Problem ist: Das Bau-Projekt von CastCrafter, ein Würfel ist noch nicht fertig.
-In diesem Event, habt ihr die Möglichkeit, einen Teil des Würfels zu bauen.
+Das Streamer-Projekt **CraftAttack 12** neigt sich dem Ende. Das Problem ist: Das Bau-Projekt von CastCrafter, ein Würfel, ist noch nicht fertig.
+In diesem Event habt ihr die Möglichkeit, einen Teil des Würfels zu bauen.
 
-Das Ziel: Den CraftAttack würfel mithilfe der Community fertig zu stellen. **CastCrafter** wird am Ende des Events, die besten Würfel auswählen und diese in CraftAttack nachbauen.
+Das Ziel: Den CraftAttack Würfel mithilfe der Community fertigzustellen. **CastCrafter** wird am Ende des Events die besten Würfel auswählen und diese in CraftAttack nachbauen.
 Jeder baut seinen eigenen Würfel. Deinen Plot kannst du mit `/plot auto` claimen und mit `/plot home` jederzeit betreten.
 Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler mit `/plot trust <Spieler>` zu deinem Plot einladen.
->
+ 
 > **Achtung:** Der Würfel muss die Maße `44x44x44` Blöcke haben. Das bedeutet, dass die Grundfläche 44x44 Blöcke groß ist und die Höhe 44 Blöcke beträgt.
 > 
 > {style="warning"}
@@ -81,7 +81,10 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 
 ## Q&amp;A {id="q-a"}
 
-{collapsible="true" default-state="collapsed"}
+{collapsible="true" default-state="collapsed"}  
+Wann beginnt das Event? {id="event-date"}  
+: Das Event läuft voraussichtlich vom **26.04.2025** bis zum **03.05.2025**.
+
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21.4/5** stattfinden.
 
