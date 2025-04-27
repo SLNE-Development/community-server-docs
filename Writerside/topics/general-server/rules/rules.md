@@ -79,8 +79,8 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > {style="tip"}
 
 5. **Boosting und IRL-Trading sind strengstens verboten.**  
-   Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweitaccounts zum Farmen von Ressourcen,
-   Geld oder anderen Vorteilen ist untersagt.
+   Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweitaccounts oder die Weitergabe von Zugangsdaten an andere Spieler,
+   zum Farmen von Ressourcen, Geld oder anderen Vorteilen ist untersagt.
 
    Jeglicher Handel zwischen Spielern darf ausschließlich mit auf dem Server verfügbaren Items und [Währungen][economy]
    erfolgen.
@@ -92,7 +92,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 
 6. **Die Verbreitung unangemessener oder <tooltip term="harmful-content">jugendgefährdender Inhalte</tooltip> ist strengstens untersagt.**
    Es ist strikt verboten, beleidigende, selbstverletzende, diskriminierende, rassistische,
-   sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswidrige oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
+   sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswidrige, antidemokratische oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
    Dies betrifft unter anderem den Chat, Bücher, Schilder, Item-Namen, Skins, Bauwerke und jegliche andere Darstellungen und Ausdrucksformen.
    > Casinos werden aufgrund des Bestandschutzes auf dem Survival-Server aktuell noch geduldet. Auf dem nächsten Server werden diese jedoch untersagt sein.
    >
@@ -194,7 +194,7 @@ A detailed list of these rules can be found below.
    it is discovered that players and/or their friends are exploiting such mechanics, both will face a ban.
 
 6. **The dissemination of inappropriate or <tooltip term='harmful-content$English'>content harmful to minors</tooltip> is strictly prohibited.**
-   It is strictly forbidden to express, depict, distribute, or promote offensive, self-harming, discriminatory, racist, sexist, anti-Semitic, extremist, violence-glorifying, illegal, or otherwise inappropriate content in any form.
+   It is strictly forbidden to express, depict, distribute, or promote offensive, self-harming, discriminatory, racist, sexist, anti-Semitic, extremist, violence-glorifying, illegal, anti-democratic or otherwise inappropriate content in any form.
    This applies, among other things, to chat, books, signs, item names, skins, buildings, and any other representations and forms of expression.
    
    > Casinos are currently tolerated on the Survival Server due to legacy protection. However, in version 1.22 they will also be prohibited there.
