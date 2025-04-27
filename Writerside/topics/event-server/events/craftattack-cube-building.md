@@ -42,7 +42,7 @@ Folgende Befehle können während des Events verwendet werden:
 : Teleportiert dich zu deinem Plot.
 
 /plot kick &lt;player | *&gt; {id="plot-kick-command"}
-: Wirft den angegebenen oder alle Spieler von deinen Plot.
+: Wirft den angegebenen oder alle Spieler von deinem Plot.
 
 #### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
 
