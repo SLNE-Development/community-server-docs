@@ -5,8 +5,8 @@
 # Craft Attack Bau Event
 
 ## Über das Event {id="general-info"}
-Hilf CastCrafters Craft Attack-Basis zu vervollständigen,   
-indem du einen Würfel auf einem Plot baust, den er in seine Basis integriert.
+Hilf CastCrafter dabei, seine Craft Attack-Basis zu vervollständigen,   
+indem du einen Würfel auf einem Plot baust, der später in seine Basis integriert wird.
 
 ## Regeln {id="rules"}
 
