@@ -47,7 +47,7 @@ wurde.
 #### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
 
 /plot info &lt;id&gt; {id="command-plot-info"}  
-: Zeige Informationen über das Plot an.
+: Zeigt Informationen zu einem Plot an.
 
 ## Geänderte Mechaniken {id="changed-mechanics"}
 Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
