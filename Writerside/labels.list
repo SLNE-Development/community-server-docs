@@ -9,7 +9,7 @@
     <primary-label id="event-upcoming" short-name="N" name="Bevorstehend" color="tangerine">
         Dieses Event wird noch stattfinden.
     </primary-label>
-    <primary-label id="event-running" short-name="L" name="Läuft">
+    <primary-label id="event-running" short-name="L" name="Läuft"> 
         Dieses Event läuft gerade.
     </primary-label>
     <primary-label id="survival-closed" short-name="G" name="Geschlossen" color="red">
