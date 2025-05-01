@@ -23,7 +23,7 @@ switcher-label: Language
 
 Der Support erfolgt **ausschließlich über das [Ticket-System](%tickets_channel%) im [Discord](%dc_link%)**.
 Private Nachrichten an Teammitglieder werden nicht bearbeitet.
-Der Support vie Sprachchat ist ausgeschlossen.
+Der Support via Sprachchat ist ausgeschlossen.
 Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) verwenden.
 
 <chapter title="Die verschiedenen Ticket-Typen:" id="ticket-types">
