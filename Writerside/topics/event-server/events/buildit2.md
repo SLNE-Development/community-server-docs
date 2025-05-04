@@ -39,7 +39,3 @@ Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten und beachtet die Eventspezifischen Regeln für dieses Event!
-
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
-: Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
-Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
