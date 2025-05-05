@@ -86,7 +86,7 @@ Diese werden dann anschließend für kommende Events verwendet oder in der Lobby
 </tab>
 <tab title="Supporter" id="application-supporter">
 
-> Aktuell findet vom **4.05.2025** bis zum **18.05.2025** eine Bewerbungsphase statt!
+> Aktuell findet vom **04.05.2025** bis zum **18.05.2025** eine Bewerbungsphase statt!
 > Weitere Informationen findest du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%).
 > 
 {style="note" title="Aktuelle Bewerbungsphase als Supporter" id="current-application-supporter"}
