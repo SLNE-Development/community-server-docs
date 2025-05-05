@@ -102,7 +102,7 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden und beantwortest Fra
 - Du bist hilfsbereit, freundlich, geduldig und pflegst einen respektvollen Umgang
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
 - Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>
-- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner Stimme ist daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
 - Du hast mindestens `200 Stunden` <tooltip term="supporter-application-playtime-requirement">Spielzeit</tooltip>
 
 </def>
