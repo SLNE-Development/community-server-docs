@@ -74,15 +74,23 @@ Diese werden dann anschließend für kommende Events verwendet oder in der Lobby
 </def>
 <def title="Anforderungen als Builder" id="requirements-builder">
 
-- Du kennst dich mit Bautools wie `WorldEdit`, `VoxelSniper`, `goBrush `oder `goPaint `aus
+- Du kennst dich mit Bautools wie `WorldEdit`, `VoxelSniper`, `goBrush`, `goPaint ` oder `Axiom` aus
 - Du kannst harmonisch bauen
 - Du kannst detailliert bauen
 - Du beherrschst mehrere Baustile
+- Du bist teamfähig & besitzt eine gewisse geistige Reife
+- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner Stimme ist daher unausweichlich
 
 </def>
 </deflist>
 </tab>
 <tab title="Supporter" id="application-supporter">
+
+> Aktuell findet vom **04.05.2025** bis zum **18.05.2025** eine Bewerbungsphase statt!
+> Weitere Informationen findest du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%).
+> 
+{style="note" title="Aktuelle Bewerbungsphase als Supporter" id="current-application-supporter"}
+
 <deflist>
 <def title="Beschreibung" id="description-supporter">
 Als Supporter bist du der erste Ansprechpartner für Spieler bei Fragen und Problemen.
@@ -90,10 +98,12 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden und beantwortest Fra
 </def>
 <def title="Anforderungen als Supporter" id="requirements-supporter">
 
-- Du hast dich mit dem Regelwerk und der Dokumentation auseinandergesetzt
-- Du bist hilfsbereit und freundlich
-- Du bist teamfähig
-- Du hast mindestens `75` Stunden <tooltip term="event-server-playtime-only">Spielzeit auf dem Event- oder Survival-Server </tooltip>
+- Du hast dich mit dem Regelwerk und der Dokumentation ausführlich auseinandergesetzt
+- Du bist hilfsbereit, freundlich, geduldig und pflegst einen respektvollen Umgang
+- Du bist teamfähig & besitzt eine gewisse geistige Reife
+- Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
+- Du hast mindestens `200 Stunden` <tooltip term="supporter-application-playtime-requirement">Spielzeit</tooltip>
 
 </def>
 </deflist>
@@ -108,10 +118,11 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 <def title="Anforderungen als Entwickler" id="requirements-developer">
 
 - Du hast ausreichend Zeit und Lust auf das Projekt
-- Du bist teamfähig
+- Du bist teamfähig & besitzt eine gewisse geistige Reife
 - Du kennst dich mit Gradle, Git, Spring und MySQL aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
 
 </def>
 </deflist>
@@ -153,12 +164,6 @@ Am besten geht dies in einem [Ticket](%tickets_channel%).
 <def title="Inhalt der Bewerbung" id="application-content">
 Was den Inhalt der Bewerbung angeht, werden wir absichtlich keine weiteren Vorgaben machen.
 Überzeuge uns auf deine Art von deiner Motivation und warum du denkst, dass du für den Rang geeignet bist.
-</def>
-<def title="Grundvoraussetzungen" id="basic-requirements">
-
-Grundvoraussetzung ist, dass Teammitglieder TeamSpeak und ShadowPlay bzw. Radeon ReLive besitzen und regelmäßig auf dem Server und TeamSpeak aktiv sind.
-\
-Zusätzlich erwarten wir einen respektvollen Umgang und geistige Reife von dir.
 </def>
 <def title="Weitere Informationen" id="more-infos">
 In der Regel machen wir einen Aufruf, sobald wir Teammitglieder suchen oder wir kommen aktiv auf Spieler zu, welche uns positiv aufgefallen sind.

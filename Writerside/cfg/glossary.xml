@@ -10,7 +10,8 @@
     <term name="Freecam">Freecam kann missbraucht werden um Strukturen, Höhlen und Erze zu finden und bietet daher einen unfairen Vorteil</term>
     <term name="Freecam$English">Freecam can be abused to find structures, caves and ores and therefore offers an unfair advantage</term>
     <term name="Spielstunde">Dies ist die Zeit, in welcher ein Spieler aktiv spielt. AFK-Zeit wird nicht miteinberechnet!</term>
-    <term name="event-server-playtime-only">Spielzeit aus der Lobby oder von anderen Servern werden nicht gewertet!</term>
+    <term name="supporter-application-playtime-requirement">Du benötigst mindestens 200 Stunden Spielzeit, davon 150 Stunden auf dem Survival-Server. Spielzeit in der Lobby wird nicht gewertet!</term>
+    <term name="application-replay-requirement">Damit wir im Falle technischer Probleme oder eines Fehlverhaltens die Möglichkeit haben, diese nachträglich zu verifizieren, ist es essenziell, die letzten Minuten als Beweismaterial zu sichern. Dies ermöglicht eine nachvollziehbare Dokumentation von Situationen und trägt zur Problemlösung sowie zur Klärung bei.</term>
     <term name="flying-tnt-duper">Fliegende TNT-Duper sind nicht erlaubt. Solltest du eine Möglichkeit finden einen fliegenden Duper zu bauen, ist es in deiner Pflicht, dies in einem Ticket zu melden!</term>
     <term name="flying-tnt-duper$English">Flying TNT-Dupers are forbidden. If you find a way to build a flying duper, you must report it in a ticket!</term>
     <term name="depends-on-level">Abhängig von deinem Level</term>
