@@ -43,7 +43,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                    |
 | ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`xX_Monster`</li></ul>                       |
 | ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Koljav`</li><li>`Orangenlimo`</li><li>`Pingius2031`</li><li>`Qwoxelias`</li><li>`Timonso`</li></ul> |
-| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                          |
+| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul><ul><li>`Alex2934`</li></ul>                                                                                              |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
