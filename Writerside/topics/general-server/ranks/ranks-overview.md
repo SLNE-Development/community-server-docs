@@ -122,7 +122,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du kennst dich mit Gradle, Git, Spring und MySQL aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
-- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner Stimme ist daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
 
 </def>
 </deflist>
