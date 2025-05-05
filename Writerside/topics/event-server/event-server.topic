@@ -22,6 +22,7 @@
         <primary>
             <title>Kommende Events</title>
             <card href="building-event.md" badge="creative"/>
+            <card href="end-event.md" badge="creative"/>
         </primary>
 
         <misc>
