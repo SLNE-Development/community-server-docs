@@ -2,7 +2,7 @@
 <secondary-label ref="buildit2-mc-version"/>
 <secondary-label ref="buildit2-date"/>
 
-# Bau es - Du bekommst es
+# Bau es – Du bekommst es
 
 ## Über das Event {id="general-info"}
 
