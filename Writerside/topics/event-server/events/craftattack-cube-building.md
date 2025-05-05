@@ -1,4 +1,4 @@
-<primary-label ref="event-running"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="ca-cube-all-mc-version"/>
 <secondary-label ref="ca-cube-all-date"/>
 
