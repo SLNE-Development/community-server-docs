@@ -9,7 +9,8 @@
 Beim **BuildIt-Event** bauen ausgewählte Teilnehmende auf einem eigenen Plot ein Objekt ihrer Wahl – orientiert am **Wert**, der ihnen zufällig zugewiesen wird.
 Es gibt fünf Kategorien mit festen Geldwerten: **20 €**, **50 €**, **100 €**, **250 €** und **500 €**. Jede Person wird zufällig einer dieser Kategorien zugeordnet und hat dann **90 Minuten Zeit**, etwas zu bauen, das diesem Wert entspricht.
 
-Nach Ablauf der Zeit wählt eine **Jury**, bestehend aus **CastCrafter**, **LetsHugo** und **Faister**, das jeweils **beste Bauwerk aus jeder Kategorie** aus. Die **Gewinner erhalten ihr gebautes Objekt in Real Life.**
+Nach Ablauf der Zeit wählt eine **Jury**, bestehend aus **CastCrafter**, **LetsHugo** und **Faister**, das jeweils **beste Bauwerk aus jeder Kategorie** aus.
+Die **Gewinnenden erhalten ihr gebautes Objekt in der realen Welt.**
 
 ![thumbnail](builtit-thumbnail.png){border-effect="rounded"}
 
