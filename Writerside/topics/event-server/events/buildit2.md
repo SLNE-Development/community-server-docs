@@ -6,7 +6,8 @@
 
 ## Über das Event {id="general-info"}
 
-Beim **BuiltIt Event** bauen ausgewählte Spielerinnen auf einem eigenen Plot ein Objekt ihrer Wahl – orientiert am **Wert**, der ihnen zufällig zugewiesen wird. Es gibt fünf Kategorien mit festen Geldwerten: **20 €**, **50 €**, **100 €**, **250 €** und **500 €**. Jede teilnehmende Person wird zufällig einer dieser Kategorien zugeordnet und hat dann **90 Minuten Zeit**, etwas zu bauen, das diesem Wert entspricht.
+Beim **BuildIt-Event** bauen ausgewählte Teilnehmende auf einem eigenen Plot ein Objekt ihrer Wahl – orientiert am **Wert**, der ihnen zufällig zugewiesen wird.
+Es gibt fünf Kategorien mit festen Geldwerten: **20 €**, **50 €**, **100 €**, **250 €** und **500 €**. Jede Person wird zufällig einer dieser Kategorien zugeordnet und hat dann **90 Minuten Zeit**, etwas zu bauen, das diesem Wert entspricht.
 
 Nach Ablauf der Zeit wählt eine **Jury**, bestehend aus **CastCrafter**, **LetsHugo** und **Faister**, das jeweils **beste Bauwerk aus jeder Kategorie** aus. Die **Gewinner erhalten ihr gebautes Objekt in Real Life.**
 
