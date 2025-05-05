@@ -1,21 +1,17 @@
-<primary-label ref="event-held"/>
+<primary-label ref="event-upcoming"/>
 <secondary-label ref="ca-cube-all-mc-version"/>
-<secondary-label ref="nether-event-date"/>
+<secondary-label ref="no-date"/>
 
-# Nether Event
+# End Event
 
-<video src="https://www.youtube.com/watch?v=K5kgVaS6xRY"/>
+
 
 ## Über das Event {id="general-info"}
 
-Ihr seid für 48 Stunden im Nether eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein End!
+Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein Nether!
 
-Euch erwartet eine komplett neue World-Generation, vollgepackt mit unbekannten Strukturen, gefährlichen Landschaften und teilweise sogar neuen Mobs.
 
-Um euer Überleben zu sichern, könnt ihr euch auf die Suche nach Larry, einem neuen NPC, machen.
-Er bietet euch wichtige Items zum Handeln an, die euer Leben deutlich erleichtern könnten.
-
-![nether event](nether-event.png){border-effect="rounded"}
+![nether event](End-Event.png){border-effect="rounded"}
 
 ## Regeln {id="rules"}
 
@@ -23,7 +19,7 @@ Er bietet euch wichtige Items zum Handeln an, die euer Leben deutlich erleichter
 >
 {style="note" title="Es gibt keine Regeländerungen für dieses Event!"}
 
-Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
+Um den Server stabil zu halten und den Supportaufwand zu minimieren, werden für das Event einige Mechaniken geändert oder deaktiviert.
 
 ### Teleportation {id="teleportation"}
 
@@ -68,10 +64,10 @@ Hier könnt ihr verschiedene Einstellungen vornehmen und habt einen Überblick �
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft voraussichtlich vom **22.03.2025 - 16:00 Uhr** bis zum **24.03.2025 - 16:00 Uhr**.
+: Bisher noch unbekannt.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
-: Das Event wird in der Version **1.21.4** stattfinden.
+: Das Event findet in der Version **1.21.4** & **1.21.5** statt.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
