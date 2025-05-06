@@ -8,7 +8,7 @@
 
 ## Über das Event {id="general-info"}
 
-Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein Nether!
+Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, keinen Nether!
 
 
 ![end event](end-event.png){border-effect="rounded"}
