@@ -11,7 +11,7 @@
 Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, keinen Nether!
 
 
-![end event](end-event.png){border-effect="rounded"}
+![end event](End-Event.png){border-effect="rounded"}
 
 ## Regeln {id="rules"}
 

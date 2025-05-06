@@ -118,7 +118,9 @@
     <secondary-label id="nether-event-mc-version" name="1.21.4" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
     </secondary-label>
-
+    <secondary-label id="end-event-mc-version" name="1.21.4/1.21.5" color="purple">
+    Das Event wird in der Minecraft Java Version 1.21.4/1-21.5 stattfinden.
+    </secondary-label>
 
     <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
         Das maximal erreichbare Level dieses Skills beträgt 50.
