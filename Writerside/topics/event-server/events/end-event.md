@@ -27,7 +27,7 @@ Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglich
 
 Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch mit `/home` dorthin zurück teleportieren.
 
-> **Achtung:** Ihr könnt diese Befehle nur alle 10 Minuten verwenden!
+> Ihr könnt diese Befehle nur alle 10 Minuten verwenden!
 >
 {style="note" title="Achtung!"}
 
