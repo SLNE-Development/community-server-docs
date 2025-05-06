@@ -23,7 +23,7 @@ Um den Server stabil zu halten und den Supportaufwand zu minimieren, werden für
 
 ### Teleportation {id="teleportation"}
 
-Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit `/tpa <Spieler>` zu euren Freunden zu teleportieren.
+Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit dem Befehl `/tpa <player>` zu euren Freunden zu teleportieren.
 
 Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch mit `/home` dorthin zurück teleportieren.
 
