@@ -29,7 +29,7 @@ Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch 
 
 > **Achtung:** Ihr könnt diese Befehle nur alle 10 Minuten verwenden!
 >
-{style="note"}
+{style="note" title="Achtung!"}
 
 ### VoiceChat {id="voicechat"}
 
