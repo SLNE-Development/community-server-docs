@@ -1,5 +1,5 @@
 <primary-label ref="event-upcoming"/>
-<secondary-label ref="ca-cube-all-mc-version"/>
+<secondary-label ref="end-event-mc-version"/>
 <secondary-label ref="no-date"/>
 
 # End Event
