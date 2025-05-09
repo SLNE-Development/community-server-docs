@@ -2,7 +2,7 @@
 
 ## Wartung der Server und des Netzwerks {id="server-lockdown"}
 
-> Das Netzwerk wird ab Freitag, den **09.05.2025** um **18:00 Uhr** für **etwa 7 Tage** in den Wartungsmodus versetzt.
+> Das Netzwerk wird ab Freitag, dem **09.05.2025**, um **18:00 Uhr** für **etwa 7 Tage** in den Wartungsmodus versetzt.
 >
 {style="warning" id="maintenance-warning"}
 <deflist>
