@@ -28,4 +28,4 @@ Angekündigte Events finden während der Wartung nicht statt.
 > Bei Fragen oder Feedback sind wir natürlich weiterhin hier auf Discord für euch erreichbar.\
 > **Wir freuen uns, euch nach der Wartung wieder auf dem Server begrüßen zu dürfen!**
 > 
-{style="note" title="Wir danken für euer Verständnis und eure Geduld!" id="maintenance-thanks"}
+{style="note" title="Wir danken euch für euer Verständnis und eure Geduld!" id="maintenance-thanks"}
