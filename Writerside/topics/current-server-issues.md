@@ -2,7 +2,7 @@
 
 ## Wartung der Server und des Netzwerks {id="server-lockdown"}
 
-> Das Netzwerk wird ab Freitag, den **09.05.2025** um **18:00 Uhr** für **etwa 7 Tage** in den Wartungsmodus versetzt.
+> Das Netzwerk wird ab Freitag, dem **09.05.2025**, um **18:00 Uhr** für **etwa 7 Tage** in den Wartungsmodus versetzt.
 >
 {style="warning" id="maintenance-warning"}
 <deflist>
@@ -26,6 +26,6 @@ Angekündigte Events finden während der Wartung nicht statt.
 </deflist>
 
 > Bei Fragen oder Feedback sind wir natürlich weiterhin hier auf Discord für euch erreichbar.\
-> **Wir freuen uns auch nach der Wartung wieder auf dem Server begrüßen zu dürfen!**
+> **Wir freuen uns, euch nach der Wartung wieder auf dem Server begrüßen zu dürfen!**
 > 
-{style="note" title="Wir danken für euer Verständnis und eure Geduld!" id="maintenance-thanks"}
+{style="note" title="Wir danken euch für euer Verständnis und eure Geduld!" id="maintenance-thanks"}
