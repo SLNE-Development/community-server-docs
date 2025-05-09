@@ -2,6 +2,15 @@
 
 # Wie könnt ihr dem Netzwerk beitreten?
 
+> **Das Netzwerk ist aktuell wegen Wartungsarbeiten nicht verfügbar.** \
+> Weitere Informationen erfahrt ihr unter: [Aktuelle Probleme & Fehler](current-server-issues.md#server-lockdown).
+> 
+{style="warning" title="Netzwerk aktuell nicht verfügbar!" id="network-not-available"}
+
+
+<!-- The following content remains here will be inserted again when the server is online again !-->
+<!--
+
 Sobald ihr das Netzwerk betretet, kommt ihr in die Lobby.\
 Der Server ist in 3 Bereiche unterteilt:
 
@@ -49,3 +58,5 @@ Ihr könnt das Netzwerk unter `%server_ip%` erreichen.
 > Sobald du das Netzwerk betrittst, akzeptierst du automatisch die [Regeln](rules.md).
 >
 {style="warning"}
+
+-->
