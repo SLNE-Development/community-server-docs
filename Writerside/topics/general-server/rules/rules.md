@@ -33,7 +33,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
    Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
    Hardware oder sonstige Möglichkeiten handelt.
-   Dies schließt auch das Umlegen der Maustaste auf eine andere Taste mit ein, da dies nicht von einem AutoClicker unterschieden werden kann. 
+   Auch das Umlegen der Maustaste auf eine aAuch das Umlegen der Maustaste auf eine andere Taste ist aufgrund eines [Minecraft-Bugs](https://bugs.mojang.com/browse/MC/issues/MC-129132) verboten, da dies nicht von einem AutoClicker unterschieden werden kann. 
    Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
 
    Bereits das Betreten des Servers mit einer unerlaubten Modifikation gilt als Verstoß und kann zum
@@ -140,7 +140,7 @@ A detailed list of these rules can be found below.
    automation of player activities is forbidden, regardless of whether it is achieved through Minecraft modifications,
    external software, exploits, hardware, or other means.
    This also includes binding your mouse buttons to another key 
-   because it can't be distinguished from an actual auto clicker.
+   because it can't be distinguished from an actual auto clicker, partly due to a [Minecraft-Bug](https://bugs.mojang.com/browse/MC/issues/MC-129132).
    Modifications designed to bypass or trick anti-cheat measures are also not permitted.
 
    Simply joining the server with an unauthorized modification is already considered a violation and may result in a
