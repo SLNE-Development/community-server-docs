@@ -27,17 +27,20 @@
         <misc>
             <cards narrow="true">
                 <title>Bereits stattgefundene Events</title>
+                <card href="buildit2.md" badge="tools" summary="Mehr Informationen"/>
+                <card href="craftattack-cube-building.md" badge="check-list" summary="Mehr Informationen"/>
+                <card href="nether-event.md" badge="cloud" summary="Mehr Informationen"/>
+                <card href="creative2.md" badge="creative" summary="Mehr Informationen"/>
+                <card href="limitless-heights.md" badge="start" summary="Mehr Informationen"/>
+                <card href="tilted.md" badge="cross-check" summary="Mehr Informationen"/>
+                <card href="diamondevent.md" badge="top" summary="Mehr Informationen"/>
+                <card href="one-chunk.md" badge="container" summary="Mehr Informationen"/>
+                <card href="civilisation-event.md" badge="community" summary="Mehr Informationen"/>
                 <card href="skyblock.md" badge="cloud" summary="Mehr Informationen"/>
                 <card href="oceanblock.md" badge="world" summary="Mehr Informationen"/>
                 <card href="flatworld.md" badge="container" summary="Mehr Informationen"/>
-                <card href="anarchy-event.md" badge="bug" summary="Mehr Informationen"/>
                 <card href="stoneblock-event.md" badge="data" summary="Mehr Informationen"/>
-                <card href="civilisation-event.md" badge="community" summary="Mehr Informationen"/>
-                <card href="creative2.md" badge="creative" summary="Mehr Informationen"/>
-                <card href="diamondevent.md" badge="top" summary="Mehr Informationen"/>
-                <card href="one-chunk.md" badge="container" summary="Mehr Informationen"/>
-                <card href="tilted.md" badge="cross-check" summary="Mehr Informationen"/>
-                <card href="nether-event.md" badge="cloud" summary="Mehr Informationen"/>
+                <card href="anarchy-event.md" badge="bug" summary="Mehr Informationen"/>
             </cards>
         </misc>
 
