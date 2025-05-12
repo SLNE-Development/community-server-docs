@@ -33,7 +33,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
    Spieleraktivität untersagt, unabhängig davon, ob es sich um Minecraft-Modifikationen, externe Software, Exploits,
    Hardware oder sonstige Möglichkeiten handelt.
-   Auch das Umlegen der Maustaste auf eine aAuch das Umlegen der Maustaste auf eine andere Taste ist aufgrund eines [Minecraft-Bugs](https://bugs.mojang.com/browse/MC/issues/MC-129132) verboten, da dies nicht von einem AutoClicker unterschieden werden kann. 
+   Auch das Umlegen der Maustaste auf eine andere Taste ist aufgrund eines [Minecraft-Bugs](https://bugs.mojang.com/browse/MC/issues/MC-129132) verboten, da dies nicht von einem AutoClicker unterschieden werden kann. 
    Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
 
    Bereits das Betreten des Servers mit einer unerlaubten Modifikation gilt als Verstoß und kann zum
