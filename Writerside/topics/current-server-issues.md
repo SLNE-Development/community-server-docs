@@ -1,5 +1,16 @@
 # Aktuelle Probleme &amp; Fehler
 
+<!-- Because there are still links in the discord, players may still click on it and end up on this page. They will then be informed in the note below !-->
+> Die Wartungsarbeiten der Server und des Netzwerks sind abgeschlossen und der server ist wieder verfügbar.\
+> Danke für euer Verständnis während der Wartungsarbeiten.\
+> **[Wir freuen uns euch auf dem Server wieder begrüßen zu dürfen!](how-to-join.md)**
+> 
+{style="note" title="Server wieder verfügbar!" id="server-available"}
+
+<!-- The following content remains here to be reimplemented when the server will be in maintance again !-->
+<!-- This page is hidden in ccs.tree !-->
+
+<!--
 ## Wartung der Server und des Netzwerks {id="server-lockdown"}
 
 > Das Netzwerk wird ab Freitag, dem **09.05.2025**, um **18:00 Uhr** für **etwa 7 Tage** in den Wartungsmodus versetzt.
@@ -25,7 +36,8 @@ Angekündigte Events finden während der Wartung nicht statt.
 </def>
 </deflist>
 
-> Bei Fragen oder Feedback sind wir natürlich weiterhin hier auf Discord für euch erreichbar.\
+> Bei Fragen oder Feedback sind wir natürlich weiterhin auf [Discord](%dc_link%) für euch erreichbar.\
 > **Wir freuen uns, euch nach der Wartung wieder auf dem Server begrüßen zu dürfen!**
 > 
 {style="note" title="Wir danken euch für euer Verständnis und eure Geduld!" id="maintenance-thanks"}
+-->
