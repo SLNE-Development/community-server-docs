@@ -1,7 +1,7 @@
 # Aktuelle Probleme &amp; Fehler
 
 <!-- Because there are still links in the discord, players may still click on it and end up on this page. They will then be informed in the note below !-->
-> Die Wartungsarbeiten der Server und des Netzwerks sind abgeschlossen und der server ist wieder verfügbar.\
+> Die Wartungsarbeiten der Server und des Netzwerks sind abgeschlossen und der Server ist wieder verfügbar.\
 > Danke für euer Verständnis während der Wartungsarbeiten.\
 > **[Wir freuen uns euch auf dem Server wieder begrüßen zu dürfen!](how-to-join.md)**
 > 
