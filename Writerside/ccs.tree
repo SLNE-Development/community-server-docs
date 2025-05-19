@@ -55,6 +55,7 @@
     <toc-element topic="event-server.topic">
         <toc-element topic="how-to-take-part-in-an-event.md"/>
         <toc-element toc-title="Events">
+            <toc-element topic="500k-event.md"/>
             <toc-element topic="buildit2.md"/>
             <toc-element topic="craftattack-cube-building.md"/>
 						<toc-element topic="nether-event.md"/>
