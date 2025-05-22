@@ -4,7 +4,6 @@
 
 # 50.000.000 Blöcke Event (500k Special)
 
-
 ## Über das Event {id="general-info"}
 
 Dieses Event feiert das Erreichen von **500.000 Abonnenten auf YouTube und Twitch**. \
@@ -51,7 +50,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 |------------------|-----------------------------------------------------------|-------------------------|
 | Erster Block     | Es wurde auch langsam Zeit!                               | 32 Brote                |
 | 1.000            | So viel hat meine Oma gestern abgebaut!                   | 5 Diamanten             |
-| 5.000            | Vielleicht bist du damit schneller                        | Eile \| Trank           |
+| 5.000            | Vielleicht bist du damit schneller                        | Eile (Trank)            |
 | 10.000           | Nur noch 49.990.000 Blöcke!                               | 64 Smaragde             |
 | 25.000           | +1 Abbaugeschwindigkeit                                   | Netherite Upgrade       |
 | 50.000           | Damit wird es sehr viel einfacher..                       | Unbreakable Book        |
@@ -71,7 +70,7 @@ Welche Gegenstände dies sind, müsst ihr selbst herausfinden!
 
 </tab>
 
-<tab title="Punktestand &amp; Highscore" id="points">
+<tab title="Punktestand &amp; Highscore" id="highscore">
 
 Auf der rechten Seite befindet sich ein Scoreboard, das den aktuellen Fortschritt und eine Bestenliste anzeigt. \
 Es zählen nur Blöcke, welche von Spielern selbst abgebaut werden.
