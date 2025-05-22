@@ -129,7 +129,7 @@
         läuft
         vom 22.03.2025 bis zum 24.03.2025.
     </secondary-label>
-    <secondary-label id="500k-block-event-mc-version" name="1.21.4" color="purple">
+    <secondary-label id="500k-block-event-mc-version" name="1.21.4/1.21.5" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
     </secondary-label>
 

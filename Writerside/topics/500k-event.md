@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="500k-block-event-mc-version"/>
 <secondary-label ref="500k-block-event-date"/>
 
@@ -32,46 +32,48 @@ Wie schnell werden wir es gemeinsam schaffen, dieses Ziel zu erreichen?
 
 Während des Events können spezielle Powerups bei jedem abgebauten Block erscheinen. Diese Powerups umfassen:
 
-- **Haltbarkeit X**
-- **Effizienz VI**
-- **Eile I**
+| Verstärkung                                 | Wahrscheinlichkeit | Wahrscheinlichkeit (%) |
+|---------------------------------------------|--------------------|------------------------|
+| Eile I Trank (8 Minuten)                    | 1 / 25.000         | 0,0040 %               |
+| Haltbarkeit X                               | 1 / 50.000         | 0,0020 %               |
+| Netheritbarren                              | 1 / 200.000        | 0,0005 %               |
+| Effizienz VI                                | 1 / 500.000        | 0,0002 %               |
+| Eile II (10 Minuten, in deiner Abbauregion) | 1 / 1.000.000      | 0,0001 %               |
+| 500k Spezialrang (3 Monate)                 | 1 / 1.000.000      | 0,0001 %               |
+
 
 </tab>
 <tab title="Meilensteine" id="advancements">
 
 Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine, die manchmal mit besonderen Belohnungen verbunden sind.
 
-| Abgebaute Blöcke | Beschreibung | Belohnung        |
-|------------------|--------------|------------------|
-| Erster Block     |              |                  |
-| 1.000            |              |                  |
-| 5.000            |              |                  |
-| 10.000           |              |                  |
-| 25.000           |              |                  |
-| 50.000           |              | Unbreakable Book |
-| 100.000          |              |                  |
-| 250.000          |              |                  |
-| 500.000          |              |                  |
-| 1.000.000        |              |                  |
-| 2.000.000        |              |                  |
+| Abgebaute Blöcke | Beschreibung                                              | Belohnung               |
+|------------------|-----------------------------------------------------------|-------------------------|
+| Erster Block     | Es wurde auch langsam Zeit!                               | 32 Brote                |
+| 1.000            | So viel hat meine Oma gestern abgebaut!                   | 5 Diamanten             |
+| 5.000            | Vielleicht bist du damit schneller                        | Eile \| Trank           |
+| 10.000           | Nur noch 49.990.000 Blöcke!                               | 64 Smaragde             |
+| 25.000           | +1 Abbaugeschwindigkeit                                   | Netherite Upgrade       |
+| 50.000           | Damit wird es sehr viel einfacher..                       | Unbreakable Book        |
+| 100.000          | Dein eigener Minecraft Playbutton                         | Unbreakable Book        |
+| 250.000          | Viel Speed für viele Leute                                | Leuchtfeuer             |
+| 500.000          | 500.000 für 500.000!!                                     | 16 Schulkerschalen      |
+| 1.000.000        | Wie hast du es bis hier hin geschafft?!                   | Effizienz VI, 500k Rang |
+| 2.000.000        | Wenn das jemand schafft, ist der größte Reward Respekt..	 | Elytra                  |
 
 
 </tab>
 <tab title="Villager Shops" id="villagers">
 
 Eine Stunde nach Eventstart ist auf der Spawninsel bei den Koordinaten `0 ~ 0` ein Villager Shops verfügbar, die spezielle Gegenstände anbieten. \
-Diese können mit normalen [Smaragden](https://de.minecraft.wiki/w/Smaragd) gekauft werden.
-
-- **Haltbarkeit X**
-- **Effizienz V**
-- **Reparatur**
-- **Essen**
+Diese können mit normalen [Smaragden](https://de.minecraft.wiki/w/Smaragd) gekauft werden. \
+Welche Gegenstände dies sind, müsst ihr selbst herausfinden!
 
 </tab>
 
 <tab title="Punktestand &amp; Highscore" id="points">
 
-Auf der rechten Seite befindet sich ein **Scoreboard**, das den aktuellen Fortschritt und eine Bestenliste anzeigt. \
+Auf der rechten Seite befindet sich ein Scoreboard, das den aktuellen Fortschritt und eine Bestenliste anzeigt. \
 Es zählen nur Blöcke, welche von Spielern selbst abgebaut werden.
 
 </tab>
@@ -125,7 +127,7 @@ Weitere Informationen zum Event {id="event-info"}
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event beginnt am **23.05.2025** um **XX:xx Uhr** und läuft spätestens bis zum **25.05.2025**. \
+: Das Event beginnt am **23.05.2025** um **10:00 Uhr** und läuft spätestens bis zum **25.05.2025**. \
 Dies kommt darauf an, wie schnell die Community das Ziel erreicht.
 
 Welche Version von Minecraft wird benötigt? {id="event-version"}
