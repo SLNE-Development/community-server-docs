@@ -27,6 +27,7 @@
         <misc>
             <cards narrow="true">
                 <title>Bereits stattgefundene Events</title>
+                <card href="500k-event.md" badge="support" summary="Mehr Informationen"/>
                 <card href="buildit2.md" badge="tools" summary="Mehr Informationen"/>
                 <card href="craftattack-cube-building.md" badge="check-list" summary="Mehr Informationen"/>
                 <card href="nether-event.md" badge="cloud" summary="Mehr Informationen"/>
