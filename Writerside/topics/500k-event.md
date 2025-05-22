@@ -33,8 +33,8 @@ Während des Events können spezielle Powerups bei jedem abgebauten Block ersche
 
 | Verstärkung                                 | Wahrscheinlichkeit | Wahrscheinlichkeit (%) |
 |---------------------------------------------|--------------------|------------------------|
-| Eile I Trank (8 Minuten)                    | 1 / 25.000         | 0,0040 %               |
-| Haltbarkeit X                               | 1 / 50.000         | 0,0020 %               |
+| Eile I Trank (8 Minuten)                    | 1 / 25.000         | 0,004 %                |
+| Haltbarkeit X                               | 1 / 50.000         | 0,002 %                |
 | Netheritbarren                              | 1 / 200.000        | 0,0005 %               |
 | Effizienz VI                                | 1 / 500.000        | 0,0002 %               |
 | Eile II (10 Minuten, in deiner Abbauregion) | 1 / 1.000.000      | 0,0001 %               |
