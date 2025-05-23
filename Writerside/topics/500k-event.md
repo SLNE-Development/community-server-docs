@@ -57,7 +57,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 | 100.000          | Dein eigener Minecraft Playbutton       | Unbreakable Book        |
 | 250.000          | Viel Speed für viele Leute              | Leuchtfeuer             |
 | 500.000          | 500.000 für 500.000!                    | 16 Schulkerschalen      |
-| 1.000.000        | Wie hast du es bis hierhin geschafft?! | Effizienz VI, 500k Rang |
+| 1.000.000        | Wie hast du es bis hier hin geschafft?! | Effizienz VI, 500k Rang |
 | 2.000.000        | Hierfür gibt’s Respekt. Verdient.	      | Elytra                  |
 
 
