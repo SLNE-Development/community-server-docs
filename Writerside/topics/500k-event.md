@@ -90,7 +90,7 @@ Dieser Befehl hat einen Cooldown von 5 Minuten.
 </tab>
 <tab title="VoiceChat" id="voice-chat">
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über die ihr mit anderen Spielern sprechen könnt.
+In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über den ihr mit anderen Spielern sprechen könnt.
 
 Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
 
