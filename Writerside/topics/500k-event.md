@@ -66,7 +66,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 
 Eine Stunde nach dem Eventstart sind auf der Spawninsel bei den Koordinaten `0 ~ 0` verschiedene Händler verfügbar, die spezielle Gegenstände anbieten. \
 Diese können mit normalen [Smaragden](https://de.minecraft.wiki/w/Smaragd) gekauft werden. \
-Welche Gegenstände dies sind, müsst ihr selbst herausfinden!
+Welche Gegenstände das sind, müsst ihr selbst herausfinden!
 
 </tab>
 
