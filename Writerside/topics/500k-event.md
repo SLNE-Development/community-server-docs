@@ -57,7 +57,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 | 100.000          | Dein eigener Minecraft Playbutton       | Unbreakable Book        |
 | 250.000          | Viel Speed für viele Leute              | Leuchtfeuer             |
 | 500.000          | 500.000 für 500.000!                    | 16 Schulkerschalen      |
-| 1.000.000        | Wie hast du es bis hier hin geschafft?! | Effizienz VI, 500k Rang |
+| 1.000.000        | Wie hast du es bis hierhin geschafft?! | Effizienz VI, 500k Rang |
 | 2.000.000        | Hierfür gibt’s Respekt. Verdient.	      | Elytra                  |
 
 
@@ -66,7 +66,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 
 Eine Stunde nach dem Eventstart sind auf der Spawninsel bei den Koordinaten `0 ~ 0` verschiedene Händler verfügbar, die spezielle Gegenstände anbieten. \
 Diese können mit normalen [Smaragden](https://de.minecraft.wiki/w/Smaragd) gekauft werden. \
-die Gegenstände dies sind, müsst ihr selbst herausfinden!
+Welche Gegenstände das sind, müsst ihr selbst herausfinden!
 
 </tab>
 
@@ -90,7 +90,7 @@ Dieser Befehl hat einen Cooldown von 5 Minuten.
 </tab>
 <tab title="VoiceChat" id="voice-chat">
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über dien ihr mit anderen Spielern sprechen könnt.
+In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über die ihr mit anderen Spielern sprechen könnt.
 
 Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
 
@@ -103,8 +103,8 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 Start des Events {id="event-start"}
 :
 - Alle Spieler starten gleichzeitig.
-- Ihr könnt dem Event erst betreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
-- Alle Spieler werden beim Start auf der ganzen Welt verteilt, damit sich nicht gegenseitig blockieren
+- Ihr könnt dem Event erst beitreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
+- Alle Spieler werden beim Start auf der ganzen Welt verteilt, damit sie sich nicht gegenseitig blockieren.
 - Der Spawn ist eine fliegende Insel bei `0 ~ 0`. Beim Verlassen dieser Insel erhaltet ihr eine einmalige Elytra, die für mehr Mobilität sorgt.
  
 Ziel des Events {id="event-goal"}
