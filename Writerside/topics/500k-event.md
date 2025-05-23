@@ -116,7 +116,7 @@ Weitere Informationen zum Event {id="event-info"}
 - Es zählen nur Blöcke, die von Spielern selbst abgebaut werden.
 - Abgebaute Blöcke verschwinden aus Performancegründen schneller.
 - Spieler behalten das Inventar nach dem Tod
-- PvP ist deaktiviert
+- PvP ist deaktiviert.
 - Die Spielschwierigkeit beträgt einfach
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`
 - Das Verhältnis zwischen den Blöcken im Nether und in der Oberwelt beträgt 1:1
