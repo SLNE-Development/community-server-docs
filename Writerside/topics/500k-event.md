@@ -115,7 +115,7 @@ Weitere Informationen zum Event {id="event-info"}
 : 
 - Es zählen nur Blöcke, die von Spielern selbst abgebaut werden.
 - Abgebaute Blöcke verschwinden aus Performancegründen schneller.
-- Spieler behalten das Inventar nach dem Tod
+- Spieler behalten das Inventar nach dem Tod.
 - PvP ist deaktiviert.
 - Die Spielschwierigkeit beträgt einfach
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`
