@@ -103,7 +103,7 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 Start des Events {id="event-start"}
 :
 - Alle Spieler starten gleichzeitig.
-- Ihr könnt dem Event erst betreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
+- Ihr könnt dem Event erst beitreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
 - Alle Spieler werden beim Start auf der ganzen Welt verteilt, damit sich nicht gegenseitig blockieren
 - Der Spawn ist eine fliegende Insel bei `0 ~ 0`. Beim Verlassen dieser Insel erhaltet ihr eine einmalige Elytra, die für mehr Mobilität sorgt.
  
