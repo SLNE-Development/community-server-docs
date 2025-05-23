@@ -102,10 +102,10 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 ## Start, Ablauf & Ziel {id="start-goal"}
 Start des Events {id="event-start"}
 :
-- Alle Spieler starten gleichzeitig
-- Ihr könnt dem Event erst betreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat
+- Alle Spieler starten gleichzeitig.
+- Ihr könnt dem Event erst betreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
 - Alle Spieler werden beim Start auf der ganzen Welt verteilt, damit sich nicht gegenseitig blockieren
-- Der Spawn ist eine fliegende Insel bei `0 ~ 0`. Beim Verlassen dieser Insel erhaltet ihr eine einmalige Elytra, die für mehr Mobilität sorgt
+- Der Spawn ist eine fliegende Insel bei `0 ~ 0`. Beim Verlassen dieser Insel erhaltet ihr eine einmalige Elytra, die für mehr Mobilität sorgt.
  
 Ziel des Events {id="event-goal"}
 : 
@@ -113,11 +113,11 @@ Ziel des Events {id="event-goal"}
 
 Weitere Informationen zum Event {id="event-info"}
 : 
-- Es zählen nur Blöcke, die von Spielern selbst abgebaut werden
-- Abgebaute Blöcke verschwinden aus Performancegründen schneller
+- Es zählen nur Blöcke, die von Spielern selbst abgebaut werden.
+- Abgebaute Blöcke verschwinden aus Performancegründen schneller.
 - Spieler behalten das Inventar nach dem Tod
 - PvP ist deaktiviert
-- Die Spielschwierigkeit beträgt `Einfach`
+- Die Spielschwierigkeit beträgt einfach
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`
 - Das Verhältnis zwischen den Blöcken im Nether und in der Oberwelt beträgt 1:1
 
