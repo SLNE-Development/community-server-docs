@@ -137,3 +137,5 @@ Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 Kann man auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
+
+KANN ICH HIER WAS REINPUSHEN?
