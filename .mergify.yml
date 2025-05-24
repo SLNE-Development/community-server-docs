@@ -1,14 +1,4 @@
 pull_request_rules:
-  - name: "Close PRs opened from master"
-    conditions:
-      - author!=mergify[bot]
-      - base!=master
-      - head=master
-    actions:
-      comment:
-        message: >
-          🚫 Pull requests must not be created by the `master` branch. Please use a feature branch.
-      close: {}
   - name: Label Mergify Stacks PRs
     description: Pull requests that are part of a Mergify stack should be labeled as such
     conditions:
