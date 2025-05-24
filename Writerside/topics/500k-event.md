@@ -76,7 +76,7 @@ Auf der rechten Seite befindet sich ein Scoreboard, das den aktuellen Fortschrit
 Es zählen nur Blöcke, die von Spielern selbst abgebaut werden.
 
 /fb toggle
-: Das Scoreboard kann mit diesem befehl angezeigt oder ausgeschalten werden.
+: Das Scoreboard kann mit diesem Befehl angezeigt oder ausgeschalten werden.
 
 </tab>
 <tab title="Teleportation" id="teleportation">
