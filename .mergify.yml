@@ -1,4 +1,12 @@
 pull_request_rules:
+  - name: Add a queue label when PR is queued
+    description: Toggle the queue label when a pull request is (un)queued.
+    conditions:
+      - queue-position > 0
+    actions:
+      label:
+        toggle:
+          - merge-queued
   - name: Label Mergify Stacks PRs
     description: Pull requests that are part of a Mergify stack should be labeled as such
     conditions:
