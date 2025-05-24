@@ -121,7 +121,6 @@ Weitere Informationen zum Event {id="event-info"}
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`.
 - Das Verhältnis zwischen den Blöcken im Nether und in der Oberwelt beträgt `1:1`.
 
-
 ## Q&A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
