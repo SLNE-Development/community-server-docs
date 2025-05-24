@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="500k-block-event-mc-version"/>
 <secondary-label ref="500k-block-event-date"/>
 
