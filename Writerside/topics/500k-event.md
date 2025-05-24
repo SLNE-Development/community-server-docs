@@ -75,6 +75,9 @@ Welche Gegenstände das sind, müsst ihr selbst herausfinden!
 Auf der rechten Seite befindet sich ein Scoreboard, das den aktuellen Fortschritt und eine Bestenliste anzeigt. \
 Es zählen nur Blöcke, die von Spielern selbst abgebaut werden.
 
+/fb toggle
+: Das Scoreboard kann mit diesem Befehl angezeigt oder ausgeblendet werden.
+
 </tab>
 <tab title="Teleportation" id="teleportation">
 
@@ -120,7 +123,6 @@ Weitere Informationen zum Event {id="event-info"}
 - Die Spielschwierigkeit beträgt `Einfach`.
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`.
 - Das Verhältnis zwischen den Blöcken im Nether und in der Oberwelt beträgt `1:1`.
-
 
 ## Q&A {id="q-a"}
 
