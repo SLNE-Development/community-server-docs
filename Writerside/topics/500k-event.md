@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="500k-block-event-mc-version"/>
 <secondary-label ref="500k-block-event-date"/>
 
@@ -120,7 +120,6 @@ Weitere Informationen zum Event {id="event-info"}
 - Die Spielschwierigkeit beträgt `Einfach`.
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`.
 - Das Verhältnis zwischen den Blöcken im Nether und in der Oberwelt beträgt `1:1`.
-
 
 ## Q&A {id="q-a"}
 
