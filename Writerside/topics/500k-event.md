@@ -75,6 +75,9 @@ Welche Gegenstände das sind, müsst ihr selbst herausfinden!
 Auf der rechten Seite befindet sich ein Scoreboard, das den aktuellen Fortschritt und eine Bestenliste anzeigt. \
 Es zählen nur Blöcke, die von Spielern selbst abgebaut werden.
 
+/fb toggle
+: Das Scoreboard kann mit diesem befehl angezeigt oder ausgeschalten werden.
+
 </tab>
 <tab title="Teleportation" id="teleportation">
 
@@ -137,5 +140,3 @@ Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 Kann man auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
-
-KANN ICH HIER WAS REINPUSHEN?
