@@ -21,7 +21,7 @@
 
         <primary>
             <title>Aktuelle Events</title>
-            <card  badge="settings" summary="Es findet aktuell kein Event statt."/>
+            <card badge="settings" summary="Es findet aktuell kein Event statt."/>
         </primary>
 
         <secondary>
