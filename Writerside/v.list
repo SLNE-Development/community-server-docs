@@ -29,5 +29,6 @@
     <var name="git-repo-clone-link" value="https://github.com/SLNE-Development/community-server-docs.git"/>
     <var name="git-repo-link" value="https://github.com/SLNE-Development/community-server-docs"/>
     <var name="click-more-info" value="Klicke hier für mehr Informationen!"/>
+    <var name="more-info" value="Mehr Informationen"/>
 
 </vars>
