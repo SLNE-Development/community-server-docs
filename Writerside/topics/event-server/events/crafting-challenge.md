@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="crafting-challenge-mc-version"/>
 <secondary-label ref="crafting-challenge-event-date"/>
 
