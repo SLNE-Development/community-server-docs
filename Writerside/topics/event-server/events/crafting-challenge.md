@@ -125,7 +125,7 @@ Recycling
 : Wie können wir Materialien und Energie für eine nachhaltige Kreislaufwirtschaft zurückgewinnen?
 
 Effiziente Industrie
-: Wie können Fabriken möglichst effizient arbeiten, z. B. durch Abwärmenutzung oder
+: Wie können Fabriken möglichst effizient arbeiten, z. B. durch Abwärmenutzung oder
 CO₂-Rückgewinnung?
 
 Klimaanpassung
@@ -172,8 +172,7 @@ Kann ich auch später einsteigen? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen.
 
 Wo reiche ich mein Projekt ein? {id="event-submit"}
-: Die Einreichung erfolgt ausschließlich
-beim [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge#accordion-9983).
+: Die Einreichung erfolgt über das [online Formular](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge/crafting-challenge-anmeldung).
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
