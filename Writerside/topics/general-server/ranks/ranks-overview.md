@@ -11,7 +11,6 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | ![Content](content.png)           | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                                |
 | ![Contributor](contributor.png)   | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>                          |
-| ![Diamond](diamond.png)           | <ul><li>Spieler, die beim [400K Diamond Special](diamondevent.md) teilgenommen haben</li><li>für 90 Tage verfügbar</li></ul> |
 | ![Stone](stone.png)               | <ul><li>Konnte während des [500k Special](500k-event.md) erhalten werden</li><li>für 90 Tage verfügbar</li></ul>             |
 | ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                                        |
 | ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                                        |
