@@ -42,7 +42,7 @@ in der Lobby ein spezielles Item, das sich in deiner Hotbar befindet, oder du ve
 über die Server-Adresse `wj25.castcrafter.de`.
 
 Auf dem Server habt ihr die Möglichkeit, eure Projektideen im Creative-Modus umzusetzen.
-Jeder Spieler erhält dabei seine eigene Welt, auf die er bis zu vie Freunde einladen kann.
+Jeder Spieler erhält dabei seine eigene Welt, auf die er bis zu vier Freunde einladen kann.
 
 Bei der Welterstellung könnt ihr zwischen vier verschiedenen Weltentypen wählen, welche an
 die jeweiligen Themenbereiche angepasst sind.
@@ -159,7 +159,7 @@ Folgende Befehle kannst du während des Events auf unserem Server nutzen:
 
 Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & Tools zur Verfügung:
 
-- **Acreon**
+- **Arceon**
 - **goBrush**
 - **goPaint**
 - **EzEdits**
