@@ -7,15 +7,15 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 <tab title="Spieler Ränge" id="player-ranks" >
 
-| Rang                              | Bedeutung & Erklärung                                                                                         |
-|-----------------------------------|---------------------------------------------------------------------------------------------------------------|
-| ![Content](content.png)           | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                 |
-| ![Contributor](contributor.png)   | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>           |
-| ![Diamond](diamond.png)           | <ul><li>Spieler, die beim 400K Diamond Special teilgenommen haben</li><li>für 90 Tage verfügbar</li></ul>     |
-| ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                         |
-| ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                         |
-| ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul> |
-| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                 |
+| Rang                              | Bedeutung & Erklärung                                                                                                        |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| ![Content](content.png)           | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                                |
+| ![Contributor](contributor.png)   | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>                          |
+| ![Stone](stone.png)               | <ul><li>Konnte während des [500k Specials](500k-event.md) mit einer zufälligen Chance beim Abbauen von Blöcken erhalten werden</li><li>für 90 Tage verfügbar</li></ul>             |
+| ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                                        |
+| ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                                        |
+| ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>                |
+| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                |
 
 </tab>
 
