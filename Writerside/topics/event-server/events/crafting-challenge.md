@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="crafting-challenge-mc-version"/>
 <secondary-label ref="crafting-challenge-event-date"/>
 
@@ -42,7 +42,7 @@ in der Lobby ein spezielles Item, das sich in deiner Hotbar befindet, oder du ve
 über die Server-Adresse `wj25.castcrafter.de`.
 
 Auf dem Server habt ihr die Möglichkeit, eure Projektideen im Creative-Modus umzusetzen.
-Jeder Spieler erhält dabei seine eigene Welt, auf die er bis zu vie Freunde einladen kann.
+Jeder Spieler erhält dabei seine eigene Welt, auf die er bis zu vier Freunde einladen kann.
 
 Bei der Welterstellung könnt ihr zwischen vier verschiedenen Weltentypen wählen, welche an
 die jeweiligen Themenbereiche angepasst sind.
@@ -125,7 +125,7 @@ Recycling
 : Wie können wir Materialien und Energie für eine nachhaltige Kreislaufwirtschaft zurückgewinnen?
 
 Effiziente Industrie
-: Wie können Fabriken möglichst effizient arbeiten, z. B. durch Abwärmenutzung oder
+: Wie können Fabriken möglichst effizient arbeiten, z. B. durch Abwärmenutzung oder
 CO₂-Rückgewinnung?
 
 Klimaanpassung
@@ -155,6 +155,18 @@ Folgende Befehle kannst du während des Events auf unserem Server nutzen:
 `/wj25 world <join|list|delete>`
 : Ermöglicht dir das Wechseln und Verwalten von Welten, auf denen du Rechte hast
 
+## Tools & Plugins {id="tools"}
+
+Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & Tools zur Verfügung:
+
+- **Arceon**
+- **goBrush**
+- **goPaint**
+- **EzEdits**
+- **WorldEdit**
+- [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Bamboo)
+- [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
+
 ## VoiceChat {id="voicechat"}
 
 <include from="util.md" element-id="voicechat-available"></include>
@@ -172,8 +184,7 @@ Kann ich auch später einsteigen? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen.
 
 Wo reiche ich mein Projekt ein? {id="event-submit"}
-: Die Einreichung erfolgt ausschließlich
-beim [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge#accordion-9983).
+: Die Einreichung erfolgt über das [online Formular](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge/crafting-challenge-anmeldung).
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
