@@ -164,7 +164,7 @@ Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & To
 - **goPaint**
 - **EzEdits**
 - **WorldEdit**
-- [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Stock)
+- [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Bamboo)
 - [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
 
 ## VoiceChat {id="voicechat"}
