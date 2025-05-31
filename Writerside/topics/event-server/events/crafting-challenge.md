@@ -155,6 +155,18 @@ Folgende Befehle kannst du während des Events auf unserem Server nutzen:
 `/wj25 world <join|list|delete>`
 : Ermöglicht dir das Wechseln und Verwalten von Welten, auf denen du Rechte hast
 
+## Tools & Plugins {id="tools"}
+
+Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & Tools zur Verfügung:
+
+- **Acreon**
+- **goBrush**
+- **goPaint**
+- **EzEdits**
+- **WorldEdit**
+- [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Stock)
+- [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
+
 ## VoiceChat {id="voicechat"}
 
 <include from="util.md" element-id="voicechat-available"></include>
