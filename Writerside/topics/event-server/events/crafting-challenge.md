@@ -6,7 +6,7 @@
 
 ## Über das Event {id="general-info"}
 
-### Baue deine Vision von Zukunftsenergie!
+### Baue deine Vision von Zukunftsenergie! {id="build-your-vision"}
 
 Wie gewinnen wir genug saubere Energie für alle?
 Wie können wir sie speichern, transportieren und verteilen?
@@ -15,7 +15,7 @@ Zeig uns deine Ideen für das Energiesystem der Zukunft!
 
 ![thumbnail](crafting-challenge.jpeg){border-effect="rounded"}
 
-## Das Wichtigste in Kürze
+## Das Wichtigste in Kürze {id="overview"}
 
 * Baue deine Vision für die **Energieversorgung der Zukunft** in Minecraft
 * Du kannst **allein** oder im **Team** teilnehmen (maximal 5 Personen)
