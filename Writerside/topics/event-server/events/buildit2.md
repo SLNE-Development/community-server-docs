@@ -4,6 +4,8 @@
 
 # Bau es – Du bekommst es
 
+<video src="https://www.youtube.com/watch?v=GHD7jjgG6Zg"/>
+
 ## Über das Event {id="general-info"}
 
 Beim **BuildIt-Event** bauen ausgewählte Teilnehmende auf einem eigenen Plot ein Objekt ihrer Wahl – orientiert am **Wert**, der ihnen zufällig zugewiesen wird.
