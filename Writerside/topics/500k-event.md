@@ -4,6 +4,8 @@
 
 # 50.000.000 Blöcke Event (500k Special)
 
+<video src="https://www.youtube.com/watch?v=RnIOyeooSWU"/>
+
 ## Über das Event {id="general-info"}
 
 Dieses Event feiert das Erreichen von **500.000 Abonnenten auf YouTube und Twitch**. \
