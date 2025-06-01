@@ -53,7 +53,7 @@ die jeweiligen Themenbereiche angepasst sind.
 >
 {style="tip"}
 
-Jede Welt bietet eine Baufläche von `250 x 250 Blöcken`.
+Jede Welt bietet eine Baufläche von `´350 x 350 Blöcken`.
 
 In der Lobby, die als „Stadt der Zukunft“ gestaltet ist, erwartet euch außerdem ein kurzes Tutorial,
 in dem NPCs euch alles genau erklären. Alternativ könnt ihr auch direkt über den Navigator in eure
