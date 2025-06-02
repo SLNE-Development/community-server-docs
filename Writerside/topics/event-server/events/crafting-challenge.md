@@ -159,13 +159,13 @@ Folgende Befehle kannst du während des Events auf unserem Server nutzen:
 
 Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & Tools zur Verfügung:
 
-- **Arceon**
-- **goBrush**
-- **goPaint**
-- **EzEdits**
-- **WorldEdit**
-- [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Bamboo)
-- [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
+- [**Arceon**](https://github.com/Brennian/Arceon-1.14/wiki)
+- [**goBrush**](https://www.spigotmc.org/resources/gobrush.23118/)
+- [**goPaint**](https://www.spigotmc.org/resources/gopaint.27717/)
+- [**EzEdits**](https://ezedits.gitbook.io/ezedits)
+- [**WorldEdit**](https://intellectualsites.gitbook.io/fastasyncworldedit)
+- [ArmorStandEdit (ASE)](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Bamboo)
+- [Head Database (HDB)](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
 
 ## VoiceChat {id="voicechat"}
 
