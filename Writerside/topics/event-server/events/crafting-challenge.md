@@ -53,7 +53,7 @@ die jeweiligen Themenbereiche angepasst sind.
 >
 {style="tip"}
 
-Jede Welt bietet eine Baufläche von `´350 x 350 Blöcken`.
+Jede Welt bietet eine Baufläche von `350 x 350 Blöcken`.
 
 In der Lobby, die als „Stadt der Zukunft“ gestaltet ist, erwartet euch außerdem ein kurzes Tutorial,
 in dem NPCs euch alles genau erklären. Alternativ könnt ihr auch direkt über den Navigator in eure
@@ -193,8 +193,8 @@ bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleist
 
 ## Veranstalter & Disclaimer
 
-Die **Zukunftsenergie: Crafting Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
-Raumfahrt (BMFTR)**. Minecraft (Microsoft/Mojang) ist nicht beteiligt.
+Die **Zukunftsenergie: Crafting-Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
+Raumfahrt (BMFTR)**. Mit der Durchführung beauftragt sind das [JFF – Institut für Medienpädagogik](https://games.jff.de/zukunftsenergie) und die [neues handeln AG](https://www.neueshandeln.de/). Minecraft (Microsoft/Mojang) ist nicht beteiligt.
 
 Unser Server dient als offizielle Plattform für das gemeinsame Bauen, übernimmt aber keine
 Organisation, Juryarbeit oder Preisvergabe des Wettbewerbs.
