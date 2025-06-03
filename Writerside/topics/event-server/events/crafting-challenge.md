@@ -13,7 +13,7 @@ Wie können wir sie speichern, transportieren und verteilen?
 Wie gestalten wir Häuser, Fabriken und Städte, um Energie bestmöglich zu nutzen?
 Zeig uns deine Ideen für das Energiesystem der Zukunft!
 
-![thumbnail](crafting-challenge.jpeg){border-effect="rounded"}
+<video src="../../../videos/w25-trailer-horizontal-music.mp4" preview-src="crafting-challenge.jpeg"/>
 
 ## Das Wichtigste in Kürze
 
