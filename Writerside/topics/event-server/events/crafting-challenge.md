@@ -13,7 +13,7 @@ Wie können wir sie speichern, transportieren und verteilen?
 Wie gestalten wir Häuser, Fabriken und Städte, um Energie bestmöglich zu nutzen?
 Zeig uns deine Ideen für das Energiesystem der Zukunft!
 
-![thumbnail](crafting-challenge.jpeg){border-effect="rounded"}
+<video src="../../../videos/w25-trailer-horizontal-music.mp4" preview-src="crafting-challenge.jpeg"/>
 
 ## Das Wichtigste in Kürze {id="overview"}
 
@@ -53,7 +53,7 @@ die jeweiligen Themenbereiche angepasst sind.
 >
 {style="tip"}
 
-Jede Welt bietet eine Baufläche von `´350 x 350 Blöcken`.
+Jede Welt bietet eine Baufläche von `350 x 350 Blöcken`.
 
 In der Lobby, die als „Stadt der Zukunft“ gestaltet ist, erwartet euch außerdem ein kurzes Tutorial,
 in dem NPCs euch alles genau erklären. Alternativ könnt ihr auch direkt über den Navigator in eure
@@ -159,13 +159,13 @@ Folgende Befehle kannst du während des Events auf unserem Server nutzen:
 
 Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & Tools zur Verfügung:
 
-- **Arceon**
-- **goBrush**
-- **goPaint**
-- **EzEdits**
-- **WorldEdit**
-- [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Bamboo)
-- [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
+- [**Arceon**](https://github.com/Brennian/Arceon-1.14/wiki)
+- [**goBrush**](https://www.spigotmc.org/resources/gobrush.23118/)
+- [**goPaint**](https://www.spigotmc.org/resources/gopaint.27717/)
+- [**EzEdits**](https://ezedits.gitbook.io/ezedits)
+- [**WorldEdit**](https://intellectualsites.gitbook.io/fastasyncworldedit)
+- [ArmorStandEdit (ASE)](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Bamboo)
+- [Head Database (HDB)](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
 
 ## VoiceChat {id="voicechat"}
 
@@ -193,8 +193,8 @@ bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleist
 
 ## Veranstalter & Disclaimer
 
-Die **Crafting-Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
-Raumfahrt (BMFTR)**. Minecraft (Microsoft/Mojang) ist nicht beteiligt.
+Die **Zukunftsenergie: Crafting-Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
+Raumfahrt (BMFTR)**. Mit der Durchführung beauftragt sind das [JFF – Institut für Medienpädagogik](https://games.jff.de/zukunftsenergie) und die [neues handeln AG](https://www.neueshandeln.de/). Minecraft (Microsoft/Mojang) ist nicht beteiligt.
 
 Unser Server dient als offizielle Plattform für das gemeinsame Bauen, übernimmt aber keine
 Organisation, Juryarbeit oder Preisvergabe des Wettbewerbs.
