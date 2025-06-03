@@ -193,7 +193,7 @@ bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleist
 
 ## Veranstalter & Disclaimer
 
-Die **Crafting-Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
+Die **Zukunftsenergie: Crafting Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
 Raumfahrt (BMFTR)**. Minecraft (Microsoft/Mojang) ist nicht beteiligt.
 
 Unser Server dient als offizielle Plattform für das gemeinsame Bauen, übernimmt aber keine
