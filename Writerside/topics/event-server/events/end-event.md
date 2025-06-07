@@ -4,26 +4,31 @@
 
 # End Event
 
+
 ## Über das Event {id="general-info"}
 
-Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein Nether!
+Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein
+Nether!
+Erkundet neue Strukturen und bekämpft unbekannte Monster.
+Diese lassen Items fallen, mit denen ihr
+neue, bislang unbekannte Gegenstände herstellen könnt.
 
-Erkundet neue Strukturen und bekämpft unbekannte Monster. Diese lassen Items fallen, mit denen ihr neue, bislang unbekannte Gegenstände craften könnt.
+![End Event Banner](only-end-banner.png)
 
 ## Regeln {id="rules"}
 
-<include from="../../reusablecontent/util.md" element-id="no-rules-changed" />
+<include from="util.md" element-id="no-rules-changed" />
 
 ## Befehle {id="commands"}
 
-`/tpa <Spieler>`
+`/tpa <player>`
 : Schickt dem angegebenen Spieler eine Teleportationsanfrage, um sich zu ihm zu teleportieren.
 
-`/tpaaccept`
-: Akzeptiert eine eingehende Teleportanfrage.
+`/tpaccept`
+: Akzeptiert eine eingehende Teleportationsanfrage.
 
 `/spawn`
-: Bringt dich zum Spawnpunkt zurück.
+: Bringt dich zum Spawnpunkt zurück. Dieser Befehl hat einen Cooldown von 5 Minuten.
 
 `/back`
 : Bringt dich zu deinem vorherigen Standort.
@@ -38,7 +43,8 @@ Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Du benötigst die Version **1.21.4** oder **1.21.5**.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
-: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen.
+: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
+führen.
 
 Kann man auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen, solange noch Plätze frei sind.
