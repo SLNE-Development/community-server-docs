@@ -22,9 +22,11 @@ Erkundet neue Strukturen und bekämpft unbekannte Monster. Diese lassen Items fa
 `/tpaaccept`
 : Akzeptiert eine eingehende Teleportanfrage.
 
-`/spawn` : Bringt dich zum Spawnpunkt zurück.
+`/spawn`
+: Bringt dich zum Spawnpunkt zurück.
 
-`/back` : Bringt dich zu deinem vorherigen Standort.
+`/back`
+: Bringt dich zu deinem vorherigen Standort.
 
 ## Q&A {id="q-a"}
 
