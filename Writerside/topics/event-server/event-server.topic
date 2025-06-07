@@ -22,6 +22,7 @@
         <primary>
             <title>Aktuelle Events</title>
             <card href="crafting-challenge.md" badge="network" summary="Mehr Informationen"/>
+            <card href="end-event.md" badge="cloud" summary="Mehr Informationen"/>
 
         </primary>
 
