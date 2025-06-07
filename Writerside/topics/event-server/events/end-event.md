@@ -28,7 +28,7 @@ neue, bislang unbekannte Gegenstände herstellen könnt.
 : Akzeptiert eine eingehende Teleportationsanfrage.
 
 `/spawn`
-: Bringt dich zum Spawnpunkt zurück. Dieser Befehl hat einen Cooldown von 5 Minuten.
+: Bringt dich zum Spawnpunkt zurück. Dieser Befehl hat einen Cooldown von 1 Minute.
 
 `/back`
 : Bringt dich zu deinem vorherigen Standort.
