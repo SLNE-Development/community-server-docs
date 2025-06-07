@@ -142,7 +142,7 @@
 
     <secondary-label id="end-event-date" name="08.06.2025 - 10.06.2025" color="blue">Das Event
         läuft
-        vom 08.06.2025 um 14:00 Uhr bis zum 10.06.2025 um 14:00 Uhr.
+        vom 08.06.2025 um 14:00 Uhr bis zum 10.06.2025 um 18:00 Uhr.
     </secondary-label>
     <secondary-label id="end-event-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.

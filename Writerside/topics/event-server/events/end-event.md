@@ -37,7 +37,7 @@ neue, bislang unbekannte Gegenstände herstellen könnt.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft vom **08.06.2025 um 14:00 Uhr** bis zum **10.06.2025 um 14:00 Uhr**.
+: Das Event läuft vom **08.06.2025 um 14:00 Uhr** bis zum **10.06.2025 um 18:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Du benötigst die Version **1.21.4** oder **1.21.5**.
