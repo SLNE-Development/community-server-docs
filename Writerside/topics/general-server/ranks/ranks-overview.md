@@ -36,14 +36,14 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
 
-| Rang                                  | Mitglieder                                                                                                                        |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png)   | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                         |
-| ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                |
-| ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                              |
-| ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`xX_Monster`</li></ul> |
-| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Qwoxelias`</li><li>`Timonso`</li></ul> |
-| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                    |
+| Rang                                  | Mitglieder                                                                                                                                                                                                                |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](administrator.png)   | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                                                 |
+| ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                                        |
+| ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                                      |
+| ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`xX_Monster`</li></ul>                                                                                         |
+| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Qwoxelias`</li><li>`Timonso`</li></ul> |
+| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                                            |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
