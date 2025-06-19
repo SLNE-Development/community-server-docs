@@ -4,10 +4,6 @@
 
 # Zivilisationsprojekt
 
-> Zum Ausgleich des angedachten 400 000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
->
-{style="note" title="Das aktuell geplante Event kann aus technischen Problemen nicht stattfinden!"}
-
 <video src="https://www.youtube.com/watch?v=q-LH1eAgnMs"/>
 
 ## Über das Event {id="general-info"}
