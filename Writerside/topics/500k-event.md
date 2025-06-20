@@ -126,6 +126,21 @@ Weitere Informationen zum Event {id="event-info"}
 - Die Welt umfasst eine Größe von `2.500 x 2.500 Blöcken`.
 - Das Verhältnis zwischen den Blöcken im Nether und in der Oberwelt beträgt `1:1`.
 
+## Weitere Informationen {id="additional-info"}
+
+> - `PEKK29`
+> - `KamiIIe`
+> - `JustinZockt`
+> - `Owny_Stuck`
+> - `KEK_Dergamer`
+> - `Tigertatze`
+> - `Simonheimer`
+> - `CWolf59`
+> - `DamanKery`
+> - `Unbeweglicher`
+> 
+{style="note" title="Folgende Spieler haben den Stone-Rang im Event für 90 Tage erhalten" id="500k-statistics"}
+
 ## Q&A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
