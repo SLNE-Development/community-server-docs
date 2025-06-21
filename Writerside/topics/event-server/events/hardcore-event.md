@@ -36,6 +36,12 @@ Loadstones und Betten dürfen ab diesem Zeitpunkt wieder uneingeschränkt genutz
 `/deathsound`
 : Aktiviert oder deaktiviert einen Sound, wenn ein Spieler stirbt.
 
+`/tpa <player>`
+: Schickt dem angegebenen Spieler eine Teleportationsanfrage, um sich zu ihm zu teleportieren.
+
+`/tpaccept`
+: Akzeptiert eine eingehende Teleportationsanfrage.
+
 ## Q&A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
