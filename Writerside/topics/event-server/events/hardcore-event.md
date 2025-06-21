@@ -4,7 +4,7 @@
 
 # Hardcore Event
 
-![End Event Banner](hardcore-event.png)
+![Hardcore Event Banner](hardcore-event.png)
 
 ## Über das Event {id="general-info"}
 
