@@ -11,6 +11,8 @@ dem
 Event aus. Bis zum großen Finale ist PvP deaktiviert, sodass du dich in Ruhe auf den entscheidenden
 Kampf vorbereiten kannst.
 
+![Hardcore Event Banner](hardcore-event.png)
+
 ### Vor dem großen Finale {id="before-final"}
 
 Vor dem Finale gilt ein **absolutes Tötungsverbot gegenüber anderen Spielern**. Verstöße dagegen
@@ -33,6 +35,12 @@ Loadstones und Betten dürfen ab diesem Zeitpunkt wieder uneingeschränkt genutz
 
 `/deathsound`
 : Aktiviert oder deaktiviert einen Sound, wenn ein Spieler stirbt.
+
+`/tpa <player>`
+: Schickt dem angegebenen Spieler eine Teleportationsanfrage, um sich zu ihm zu teleportieren.
+
+`/tpaccept`
+: Akzeptiert eine eingehende Teleportationsanfrage.
 
 ## Q&A {id="q-a"}
 
