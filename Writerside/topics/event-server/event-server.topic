@@ -21,6 +21,7 @@
 
         <primary>
             <title>Aktuelle Events</title>
+            <card href="hardcore-event.md" badge="skull" summary="Mehr Informationen"/>
             <card href="crafting-challenge.md" badge="network" summary="Mehr Informationen"/>
 
         </primary>

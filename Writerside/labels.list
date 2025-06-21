@@ -148,6 +148,15 @@
         Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
     </secondary-label>
 
+    <secondary-label id="hardcore-event-date" name="21.06.2025 - 22.06.2025" color="blue">Das Event
+        läuft
+        vom 21.06.2025 um 11:00 Uhr bis zum 22.06.2025 um 18:00 Uhr.
+    </secondary-label>
+    <secondary-label id="hardcore-event-mc-version" name="1.21.6 empfohlen" color="purple">
+        Empfohlen wird die Minecraft Java Version 1.21.6, da nur damit Mini-Events funktionieren.
+        1.21.4 ist ebenfalls möglich, allerdings ohne Mini-Events.
+    </secondary-label>
+
 
     <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
         Das maximal erreichbare Level dieses Skills beträgt 50.
