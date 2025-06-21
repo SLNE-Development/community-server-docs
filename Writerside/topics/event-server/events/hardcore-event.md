@@ -12,6 +12,7 @@ Event aus. Bis zum großen Finale ist PvP deaktiviert, sodass du dich in Ruhe au
 Kampf vorbereiten kannst.
 
 ![Hardcore Event Banner](hardcore-event.png)
+
 ### Vor dem großen Finale {id="before-final"}
 
 Vor dem Finale gilt ein **absolutes Tötungsverbot gegenüber anderen Spielern**. Verstöße dagegen
