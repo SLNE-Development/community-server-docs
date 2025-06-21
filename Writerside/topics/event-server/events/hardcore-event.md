@@ -3,6 +3,7 @@
 <secondary-label ref="hardcore-event-date"/>
 
 # Hardcore Event
+
 ## Über das Event {id="general-info"}
 
 Im Hardcore Event hast du nur **ein einziges Leben**. Wenn du stirbst, scheidest du endgültig aus
