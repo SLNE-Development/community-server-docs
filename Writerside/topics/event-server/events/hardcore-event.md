@@ -4,7 +4,6 @@
 
 # Hardcore Event
 
-![Hardcore Event Banner](hardcore-event.png)
 
 ## Über das Event {id="general-info"}
 
@@ -12,6 +11,8 @@ Im Hardcore Event hast du nur **ein einziges Leben**. Wenn du stirbst, scheidest
 dem
 Event aus. Bis zum großen Finale ist PvP deaktiviert, sodass du dich in Ruhe auf den entscheidenden
 Kampf vorbereiten kannst.
+
+![Hardcore Event Banner](hardcore-event.png)
 
 ### Vor dem großen Finale {id="before-final"}
 
