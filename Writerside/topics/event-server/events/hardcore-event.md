@@ -1,4 +1,4 @@
-<primary-label ref="event-running"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="hardcore-event-mc-version"/>
 <secondary-label ref="hardcore-event-date"/>
 
@@ -46,7 +46,7 @@ Loadstones und Betten dürfen ab diesem Zeitpunkt wieder uneingeschränkt genutz
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-start"}
-: Das Event läuft vom **21.06.2025 um 11:00 Uhr** bis zum **22.06.2025 um 18:00 Uhr**.
+: Das Event läuft vom **21.06.2025 um 18:00 Uhr** bis zum **22.06.2025 um 18:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Empfohlen wird **1.21.6**, da nur damit Mini-Events funktionieren.
