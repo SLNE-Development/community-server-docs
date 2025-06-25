@@ -2,7 +2,7 @@
 <secondary-label ref="crafting-challenge-mc-version"/>
 <secondary-label ref="crafting-challenge-event-date"/>
 
-# Zukunftsenergie: Crafting-Challenge
+# Zukunftsenergie: Minecraft-Wettbewerb
 
 ## Über das Event {id="general-info"}
 
@@ -22,9 +22,9 @@ Zeig uns deine Ideen für das Energiesystem der Zukunft!
 * Teilnahmealter: **ab 12 Jahren**
 * Zeitraum: **30. Mai bis 15. September 2025**
 * Die besten Einreichungen gewinnen Preise im Wert von **80 bis 300 €**
-* Einreichungen und Gewinnabwicklung erfolgen ausschließlich durch das [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge) 
+* Einreichungen und Gewinnabwicklung erfolgen ausschließlich durch das [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft) 
 
-> **Bitte macht euch mit den [Teilnahmebedingungen](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge/crafting-challenge-teilnahmebedingungen) vertraut!**
+> **Bitte macht euch mit den [Teilnahmebedingungen](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft/minecraft-datenschutz-teilnahmebedingungen) vertraut!**
 >
 {style="warning"}
 
@@ -178,13 +178,13 @@ Wann findet das Event statt? {id="event-date"}
 : Das Event läuft vom 30. Mai bis 15. September 2025.
 
 Welche Minecraft-Version benötige ich? {id="event-mc-version"}
-: Du benötigst die Version 1.21.4 oder 1.21.5.
+: Du benötigst die Version 1.21.4, 1.21.5 oder 1.21.6.
 
 Kann ich auch später einsteigen? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen.
 
 Wo reiche ich mein Projekt ein? {id="event-submit"}
-: Die Einreichung erfolgt über das [online Formular](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge/crafting-challenge-anmeldung).
+: Die Einreichung erfolgt über das [online Formular](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft/minecraft-anmeldung).
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
@@ -193,11 +193,11 @@ bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleist
 
 ## Veranstalter & Disclaimer
 
-Die **Zukunftsenergie: Crafting-Challenge** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
+Der **Zukunftsenergie: Minecraft-Wettbewerb** wird veranstaltet vom **Bundesministerium für Forschung, Technologie und
 Raumfahrt (BMFTR)**. Mit der Durchführung beauftragt sind das [JFF – Institut für Medienpädagogik](https://games.jff.de/zukunftsenergie) und die [neues handeln AG](https://www.neueshandeln.de/). Minecraft (Microsoft/Mojang) ist nicht beteiligt.
 
 Unser Server dient als offizielle Plattform für das gemeinsame Bauen, übernimmt aber keine
 Organisation, Juryarbeit oder Preisvergabe des Wettbewerbs.
 
 Für Fragen zum Wettbewerb wende dich direkt an
-das [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/crafting-challenge#:~:text=Link%\20zum%20Formular.-,Noch%\20Fragen%3F,-%\C2%A9%20BMFTR).
+das [BMFTR](mailto:minecraft@wissenschaftsjahr.de).
