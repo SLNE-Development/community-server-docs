@@ -12,7 +12,7 @@
     </toc-element>
     <toc-element topic="servers.md"/>
     <toc-element topic="how-to-join.md"/>
-    <toc-element hidden="true" topic="current-server-issues.md"/>
+    <toc-element topic="current-server-issues.md"/>
     <toc-element accepts-web-file-names-ref="677309af" topic="survival-server.topic">
             <toc-element topic="commands.md"/>
             <toc-element accepts-web-file-names-ref="3e2f7fc9" topic="events.md"/>
