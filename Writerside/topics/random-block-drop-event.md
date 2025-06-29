@@ -1,3 +1,7 @@
+<primary-label ref="event-running"/>
+<secondary-label ref="random-drop-event-mc-version"/>
+<secondary-label ref="random-drop-event-date"/>
+
 # Random Drop
 
 ## Über das Event {id="general-info"}
@@ -95,11 +99,11 @@ Hier könnt ihr verschiedene Einstellungen vornehmen und habt einen Überblick �
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-start"}
-: Das Event läuft vom **05.07.2025 um 18:00 Uhr** bis zum **06.07.2025 um 18:00 Uhr**.
+: Das Event läuft vom **04.07.2025 um 16:00 Uhr** bis zum **06.07.2025 um 18:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
-: Empfohlen wird **1.21.6**.
-Die Version **1.21.4** kannst du ebenfalls verwenden.
+: Empfohlen wird die Minecraft Java Version **1.21.6**.
+Ihr könnt jedoch auch die Version **1.21.4** verwenden.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
