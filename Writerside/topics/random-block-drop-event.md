@@ -116,6 +116,3 @@ Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einr
 Wie viel Spieler können auf den Server? {id="event-min-players"}
 : Der Server bietet Platz für mindestens `100` Spieler.
 Je nach performance lassen sich die Plätze erweitern.
-
-
-
