@@ -82,6 +82,7 @@
         <toc-element topic="clan-more-info.md"/>
     </toc-element>
     <toc-element topic="contribution.md">
+        <toc-element topic="external-developer.md"/>
         <toc-element topic="doc-contribution.md">
             <toc-element topic="fork-repo.md"/>
             <toc-element topic="install-writerside.md"/>
