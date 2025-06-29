@@ -4,6 +4,8 @@
 
 # Hardcore Event
 
+<video src="https://www.youtube.com/watch?v=qiNBtgdj93U"/>
+
 ## Über das Event {id="general-info"}
 
 Im Hardcore Event hast du nur **ein einziges Leben**. Wenn du stirbst, scheidest du endgültig aus
