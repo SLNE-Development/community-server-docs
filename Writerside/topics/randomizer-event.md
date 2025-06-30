@@ -1,8 +1,8 @@
-<primary-label ref="event-running"/>
+<primary-label ref="event-upcoming"/>
 <secondary-label ref="random-drop-event-mc-version"/>
 <secondary-label ref="random-drop-event-date"/>
 
-# Random Drop
+# Randomizer Event
 
 ## Über das Event {id="general-info"}
 
@@ -36,7 +36,7 @@ dich bereit für unvorhersehbare Abenteuer!
 
 - Der Inhalt von Behältern (z.B. Truhen, Braustände oder Fässer) wird zufällig ersetzt.
 - Die Ersetzungen gelten für alle Spieler. Dennoch ist jede Kiste spielerspezifisch.
- 
+
 </tab>
 </tabs>
 
