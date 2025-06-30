@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="random-drop-event-mc-version"/>
 <secondary-label ref="random-drop-event-date"/>
 
