@@ -8,30 +8,30 @@
     <section-starting-page>
         <title>Community Server Dokumentation</title>
         <description>
-            Der Community Server teilt sich in zwei Bereiche: den Survival- und den Event-Server, welche ihr über die Lobby erreichen könnt. Genauere Informationen zu den beiden Bereichen findet ihr weiter unten.
+            Der Community-Server besteht aus zwei Bereichen: dem Survival- und dem Event-Server. Du erreichst beide über die Lobby. Genauere Informationen findest du weiter unten.
         </description>
 
         <spotlight>
             <card href="survival-server.topic" badge="container"
-                  summary="Lerne den Survival Server kennen und informiere dich über seine Funktionen und Features"/>
+                  summary="Lerne den Survival-Server kennen und informiere dich über seine Funktionen und Features."/>
             <card href="event-server.topic" badge="cup"
-                  summary="Informiere dich über aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst"/>
+                  summary="Informiere dich über aktuelle und vergangene Events und erfahre, wie du teilnehmen kannst."/>
         </spotlight>
 
         <primary>
             <title>Mache dich mit den Regeln vertraut</title>
             <card href="rules.md" badge="check-list"
-                  summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
+                  summary="Lies die Serverregeln, bevor du spielst."/>
             <card href="verified-mods.md" badge="cross-check"
-                  summary="Eine Liste mit geprüften Modifikationen, welche ihr auf dem Server verwenden dürft"/>
+                  summary="Eine Liste geprüfter Modifikationen, die du auf dem Server verwenden darfst."/>
         </primary>
 
         <secondary>
             <title>Nützliche Informationen</title>
             <card href="faq.md" badge="search"
-                  summary="In diesem Artikel findest du Antworten auf die am häufigsten gestellten Fragen!"/>
+                  summary="Antworten auf häufig gestellte Fragen findest du in diesem Artikel."/>
             <card href="troubleshooting.md" badge="tools"
-                  summary="Du hast Probleme? Dieser Artikel hilft dir sie selber zu lösen!"/>
+                  summary="Du hast Probleme? Hier erfährst du, wie du sie selbst behebst."/>
         </secondary>
 
     </section-starting-page>
