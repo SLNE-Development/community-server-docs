@@ -15,7 +15,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                                                                                  |
 | ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                                                                                  |
 | ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>                                                          |
-| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                                                          |
+| ![Spieler](player.png)            | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                                                          |
 
 </tab>
 
@@ -26,8 +26,8 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Administrator](administrator.png)   | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>  |
 | ![Entwickler](developer.png)          | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                |
 | ![Senior Moderator](sr-moderator.png) | <ul><li>Unterstützt und leitet organisatorische Abläufe im Team</li></ul><ul><li>Kümmert sich um Fragen und Probleme der Supporter und Moderatoren</li></ul> |
-| ![Moderator](moderator.png)           | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>  |
-| ![Supporter](supporter.png)           | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                  |
+| ![Moderator](moderation.png)          | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>  |
+| ![Supporter](support.png)             | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                  |
 | ![Builder](builder.png)               | <ul><li>Unterstützt beim Bauen von Maps für z.B. Events oder andere Serverbereiche</li></ul>                                                                 |
 
 </tab>
@@ -41,8 +41,8 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Administrator](administrator.png)   | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
 | ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
 | ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
-| ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
-| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
+| ![Moderator](moderation.png)          | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
+| ![Supporter](support.png)             | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
 | ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
