@@ -2,25 +2,24 @@
 
 ## Verbindung zur Lobby herstellen {id="connect-to-lobby"}
 
-Um an einem Event teilzunehmen, folge diesen Schritten:
+Um an einem Event teilzunehmen, befolge diese Schritte:
 
-1. **Verbinde dich mit dem Netzwerk:**
-   - [Wie kann ich das Netzwerk betreten?](how-to-join.md)
+1. **Mit dem Netzwerk verbinden**\
+   Siehe [Netzwerk beitreten](how-to-join.md).
 
-
-1. **Beitreten:**
-    - Interagiere mit dem Navigator, um ein Menü zu öffnen, in welchem du dem aktuellen Event beitreten
-      kannst. 
-    - Sollte aktuell kein Event laufen, kannst du dich auch nicht mit dem Event Server verbinden.
-    - Sollte das Event voll sein, wirst du in eine Warteschlange versetzt. 
-    - Weitere Informationen findest du [hier](servers.md)
+2. **Dem Event beitreten**
+    - Öffne das Navigator-Menü und wähle „Event beitreten“.
+    - Läuft kein Event, ist der Event-Server nicht erreichbar.
+    - Bei voller Auslastung wirst du automatisch in die Warteschlange aufgenommen.
+    - Weitere Informationen findest du in [Server-Details](servers.md).
 
 ## Event-Ankündigungen {id="event-announcements"}
 
-Sobald es ein neues Event gibt, wird es in den folgenden Kanälen angekündigt:
+Neue Events werden hier bekanntgegeben:
 
-- [%com_updates_channel_display%](%com_updates_channel%)
-- Im Stream bei [CastCrafter](%twitch_cast%)
+- Discord: [%com_updates_channel_display%](%com_updates_channel%)
+- Stream: [CastCrafter](%twitch_cast%)
 
-> Wenn du Benachrichtigungen erhalten möchtest, reagiere im Discord-Kanal \
-> [%com_info_channel_display%](%com_info_channel%) auf die Nachricht mit der Glocke.
+> Möchtest du Benachrichtigungen erhalten?
+> Reagiere im Discord-Kanal [%com_info_channel_display%](%com_info_channel%) auf die Ankündigung mit
+> der Glocke.
