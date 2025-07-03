@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+    SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Clansystem" id="clan-system">
@@ -8,20 +8,19 @@
     <section-starting-page>
         <title>Clansystem</title>
         <description>
-            Das Clansystem erlaubt es Spielern, eigene Clans zu gründen und sich zu organisieren.
-            So können sie effizient zusammenarbeiten, gemeinsame Ziele verfolgen und ihren Teamgeist stärken.
+            Das Clansystem ermöglicht es Spielern, eigene Clans zu gründen, sich zu organisieren
+            und gemeinsam Ziele zu erreichen. Es fördert Teamwork und stärkt den Zusammenhalt.
         </description>
 
         <primary>
-            <title>Alles im Überblick</title>
+            <title>Übersicht</title>
             <card href="create-clan.md" badge="community"
-                  summary="Hier erfahrt ihr, wie ihr einen eigenen Clan gründet."/>
+                  summary="Erfahre, wie du einen eigenen Clan gründest."/>
             <card href="clan-management.md" badge="settings"
-                  summary="Hier erfahrt ihr mehr über die Verwaltung des Clans und dessen Mitglieder."/>
+                  summary="Lerne, wie du deinen Clan und seine Mitglieder verwaltest."/>
             <card href="clan-more-info.md" badge="library"
-                  summary="Hier findet ihr weitere Informationen und Funktionen zum Clansystem."/>
+                  summary="Entdecke weitere Funktionen und Details zum Clansystem."/>
         </primary>
     </section-starting-page>
 
 </topic>
-
