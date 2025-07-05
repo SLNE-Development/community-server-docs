@@ -7,15 +7,15 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 <tab title="Spieler Ränge" id="player-ranks" >
 
-| Rang                              | Bedeutung & Erklärung                                                                                                        |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| ![Content](content.png)           | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                                |
-| ![Contributor](contributor.png)   | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>                          |
-| ![Stone](stone.png)               | <ul><li>Konnte während des [500k Specials](500k-event.md) mit einer zufälligen Chance beim Abbauen von Blöcken erhalten werden</li><li>für 90 Tage verfügbar</li></ul>             |
-| ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                                        |
-| ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                                        |
-| ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>                |
-| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                |
+| Rang                              | Bedeutung & Erklärung                                                                                                                                                  |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Content](content.png)           | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                                                                          |
+| ![Contributor](contributor.png)   | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>                                                                    |
+| ![Stone](stone.png)               | <ul><li>Konnte während des [500k Specials](500k-event.md) mit einer zufälligen Chance beim Abbauen von Blöcken erhalten werden</li><li>für 90 Tage verfügbar</li></ul> |
+| ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                                                                                  |
+| ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                                                                                  |
+| ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>                                                          |
+| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                                                          |
 
 </tab>
 
@@ -36,14 +36,14 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
 
-| Rang                                  | Mitglieder                                                                                                                                                                                                                |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png)   | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                                                 |
-| ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                                        |
-| ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                                      |
-| ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`xX_Monster`</li></ul>                                                                                         |
-| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Qwoxelias`</li><li>`Timonso`</li></ul> |
-| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                                            |
+| Rang                                  | Mitglieder                                                                                                                                                                                            |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](administrator.png)   | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
+| ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
+| ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
+| ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
+| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
+| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
