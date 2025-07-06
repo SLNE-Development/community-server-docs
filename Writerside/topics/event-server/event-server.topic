@@ -33,7 +33,8 @@
         <misc>
             <cards narrow="true">
                 <title>Bereits stattgefundene Events</title>
-                <card href="hardcore-event.md" badge="skull" summary="Mehr Informationen"/>
+                <card href="randomizer-event.md" badge="search" summary="Mehr Informationen"/>
+                <card href="hardcore-event.md" badge="cross-check" summary="Mehr Informationen"/>
                 <card href="end-event.md" badge="cloud" summary="Mehr Informationen"/>
                 <card href="500k-event.md" badge="support" summary="Mehr Informationen"/>
                 <card href="buildit2.md" badge="tools" summary="Mehr Informationen"/>

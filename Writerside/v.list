@@ -2,9 +2,9 @@
 <!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
 <vars>
     <var name="server_ip" value="castcrafter.de"/>
-    <var name="required_game_version" value="1.21.4"/>
+    <var name="required_game_version" value="1.21.7"/>
     <var name="required_game_version_link"
-         value="https://de.minecraft.wiki/w/1.21.4"/>
+         value="https://de.minecraft.wiki/w/1.21.7"/>
     <var name="main_currency" value="CastCoin"/>
     <var name="event_coin" value="EventCoin"/>
     <var name="paycheck" value="500"/>
