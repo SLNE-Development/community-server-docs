@@ -4,6 +4,8 @@
 
 # Randomizer Event
 
+<video src="https://www.youtube.com/watch?v=h3udWg8eCv0"/>
+
 ## Über das Event {id="general-info"}
 
 Beim Block Roulette Event ist alles anders! Wenn du Blöcke abbaust oder Kreaturen besiegst, erhältst du zufällige
