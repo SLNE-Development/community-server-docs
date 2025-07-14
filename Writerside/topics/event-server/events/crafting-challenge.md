@@ -178,7 +178,7 @@ Wann findet das Event statt? {id="event-date"}
 : Das Event läuft vom 30. Mai bis 15. September 2025.
 
 Welche Minecraft-Version benötige ich? {id="event-mc-version"}
-: Du benötigst die Version 1.21.4, 1.21.5 oder 1.21.6.
+: Du benötigst die Version 1.21.7.
 
 Kann ich auch später einsteigen? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen.
