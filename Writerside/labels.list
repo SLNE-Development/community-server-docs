@@ -132,12 +132,12 @@
     <secondary-label id="500k-block-event-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
         Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
     </secondary-label>
-    <secondary-label id="crafting-challenge-event-date" name="30.05.2025 - 19.09.2025" color="blue">Das Event
+    <secondary-label id="crafting-challenge-event-date" name="30.05.2025 - 15.09.2025" color="blue">Das Event
         läuft
-        vom 30.05.2025 bis zum 19.09.2025.
+        vom 30.05.2025 bis zum 15.09.2025.
     </secondary-label>
-    <secondary-label id="crafting-challenge-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-        Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    <secondary-label id="crafting-challenge-mc-version" name="1.21.7" color="purple">
+        Das Event findet in der Minecraft Java Version 1.21.7 statt.
     </secondary-label>
 
     <secondary-label id="end-event-date" name="08.06.2025 - 10.06.2025" color="blue">Das Event

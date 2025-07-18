@@ -1,8 +1,10 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="random-drop-event-mc-version"/>
 <secondary-label ref="random-drop-event-date"/>
 
 # Randomizer Event
+
+<video src="https://www.youtube.com/watch?v=h3udWg8eCv0"/>
 
 ## Über das Event {id="general-info"}
 
