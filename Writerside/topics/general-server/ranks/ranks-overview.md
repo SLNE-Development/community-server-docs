@@ -7,28 +7,31 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 <tab title="Spieler Ränge" id="player-ranks" >
 
-| Rang                              | Bedeutung & Erklärung                                                                                                                                                  |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Content](content.png)           | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                                                                          |
-| ![Contributor](contributor.png)   | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>                                                                    |
-| ![Stone](stone.png)               | <ul><li>Konnte während des [500k Specials](500k-event.md) mit einer zufälligen Chance beim Abbauen von Blöcken erhalten werden</li><li>für 90 Tage verfügbar</li></ul> |
-| ![Premium Plus](premium_plus.png) | <ul><li>???</li></ul>                                                                                                                                                  |
-| ![Premium](premium.png)           | <ul><li>???</li></ul>                                                                                                                                                  |
-| ![Veteran](veteran.png)           | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>                                                          |
-| ![Spieler](spieler.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                                                          |
+| Rang                             | Bedeutung & Erklärung                                                                                                                                                  |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Content](content.png)          | <ul><li>Content Creator, die von CastCrafter ausgewählt worden sind</li></ul>                                                                                          |
+| ![Contributor](contributor.png)  | <ul><li>ehemalige Teammitglieder</li></ul>  <ul><li>Spieler, welche uns unterstützt haben</li></ul>                                                                    |
+| ![Stone](stone.png)              | <ul><li>Konnte während des [500k Specials](500k-event.md) mit einer zufälligen Chance beim Abbauen von Blöcken erhalten werden</li><li>für 90 Tage verfügbar</li></ul> |
+| ![Premium Plus](premiumplus.png) | <ul><li>???</li></ul>                                                                                                                                                  |
+| ![Premium](premium.png)          | <ul><li>???</li></ul>                                                                                                                                                  |
+| ![Veteran](veteran.png)          | <ul><li>Spieler, welche auf dem 1.20 Survival Server mehr als `200` Stunden aktive Spielzeit hatten</li></ul>                                                          |
+| ![Spieler](player.png)           | <ul><li>Der normale Rang, den jeder Spieler erhält </li></ul>                                                                                                          |
 
 </tab>
 
 <tab title="Team Ränge" id="team-ranks">
 
-| Rang                                  | Bedeutung & Erklärung                                                                                                                                        |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png)   | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>  |
-| ![Entwickler](developer.png)          | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                |
-| ![Senior Moderator](sr-moderator.png) | <ul><li>Unterstützt und leitet organisatorische Abläufe im Team</li></ul><ul><li>Kümmert sich um Fragen und Probleme der Supporter und Moderatoren</li></ul> |
-| ![Moderator](moderator.png)           | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>  |
-| ![Supporter](supporter.png)           | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                  |
-| ![Builder](builder.png)               | <ul><li>Unterstützt beim Bauen von Maps für z.B. Events oder andere Serverbereiche</li></ul>                                                                 |
+| Rang                                | Bedeutung & Erklärung                                                                                                                                        |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](admin.png)         | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>  |
+| ![Entwickler](dev.png)              | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                |
+| ![Management](management.png)       | <ul><li>Unterstützt und leitet organisatorische Abläufe im Team</li></ul><ul><li>Kümmert sich um Fragen und Probleme der Supporter und Moderatoren</li></ul> |
+| ![Moderator](moderator.png)         | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>  |
+| ![Moderator Azubi](moderator-a.png) | <ul><li>Moderatoren in der Probezeit</li></ul>                                                                                                               |
+| ![Supporter](supporter.png)         | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                  |
+| ![Supporter Azubi](supporter-a.png) | <ul><li>Supporter in der Probezeit</li></ul>                                                                                                                 |
+| ![Designer](designer.png)           | <ul><li>Unterstützt bei der Gestaltung von Modellen und Texturen </li></ul>                                                                                  |
+| ![Builder](builder.png)             | <ul><li>Unterstützt beim Bauen von Maps für z. B. Events oder andere Serverbereiche</li></ul>                                                                 |
 
 </tab>
 
@@ -36,14 +39,17 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 ## Teammitglieder {collapsible="true" default-state="collapsed" id="team-members"}
 
-| Rang                                  | Mitglieder                                                                                                                                                                                            |
-|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Administrator](administrator.png)   | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
-| ![Entwickler](developer.png)          | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
-| ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
-| ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
-| ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
-| ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
+| Rang                                | Mitglieder                                                                                                                                                                                            |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Administrator](admin.png)         | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
+| ![Entwickler](dev.png)              | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
+| ![Management](management.png)       | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
+| ![Moderator](moderator.png)         | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
+| ![Moderator Azubi](moderator-a.png) | /                                                                                                                                                                                                     |   
+| ![Supporter](supporter.png)         | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
+| ![Supporter Azubi](supporter-a.png) | /                                                                                                                                                                                                     |
+| ![Designer](designer.png)           | <ul><li>`KamiIIe`</li></ul>                                                                                                                                                                           |
+| ![Builder](builder.png)             | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
@@ -123,29 +129,6 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
 - Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
-
-</def>
-</deflist>
-</tab>
-<tab title="Externer Entwickler" id="application-external-developer">
-<deflist>
-<def title="Beschreibung" id="description-external-developer">
-
-Unser Server besteht aus vielen spannenden technischen Projekten, die für eine bessere Spieler- und Nutzererfahrung sorgen.
-Wir arbeiten kontinuierlich an neuen Funktionen und Verbesserungen.
-Da wir immer weiter wachsen und neue Ideen umsetzen möchten, brauchen wir Unterstützung von engagierten Entwicklern!
-Viele unserer Funktionen & Plugins sind [öffentlich auf GitHub](https://github.com/SLNE-Development) zugänglich.
-An diesen könnt ihr, als externe Entwickler aktiv mitarbeiten!
-Wir suchen sowohl erfahrene Entwickler als auch Anfänger, die motiviert sind, sich in neue Themen einzuarbeiten.
-Es gibt sowohl komplexe Projekte für Fortgeschrittene als auch kleinere Aufgaben, die sich ideal für den Einstieg eignen.
-Durch die Zusammenarbeit mit dem Team und das Mitwirken an den Projekten bietet sich eine wertvolle Gelegenheit, technische Fähigkeiten zu erweitern und neue Technologien zu erlernen.
-
-</def>
-<def title="Anforderungen als externer Entwickler" id="requirements-external-developer">
-
-- Du erlernst selbstständig die Fähigkeiten, die du für die Projekte benötigst
-- Du hast Erfahrungen mit [GitHub](https://github.com)
-- **Weitere Informationen findest du im [Discord](https://discord.com/channels/133198459531558912/1342425538014482453/1342443811615408202)**
 
 </def>
 </deflist>
