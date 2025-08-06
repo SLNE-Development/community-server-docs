@@ -31,7 +31,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Supporter](supporter.png)         | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                  |
 | ![Supporter Azubi](supporter-a.png) | <ul><li>Supporter in der Probezeit</li></ul>                                                                                                                 |
 | ![Designer](designer.png)           | <ul><li>Unterstützt bei der Gestaltung von Modellen und Texturen </li></ul>                                                                                  |
-| ![Builder](builder.png)             | <ul><li>Unterstützt beim Bauen von Maps für z.B. Events oder andere Serverbereiche</li></ul>                                                                 |
+| ![Builder](builder.png)             | <ul><li>Unterstützt beim Bauen von Maps für z. B. Events oder andere Serverbereiche</li></ul>                                                                 |
 
 </tab>
 
