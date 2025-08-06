@@ -28,6 +28,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Senior Moderator](sr-moderator.png) | <ul><li>Unterstützt und leitet organisatorische Abläufe im Team</li></ul><ul><li>Kümmert sich um Fragen und Probleme der Supporter und Moderatoren</li></ul> |
 | ![Moderator](moderator.png)           | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>  |
 | ![Supporter](supporter.png)           | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                  |
+| ![Designer](designer.png)             | <ul><li>Unterstützt bei der Gestaltung von Modellen und Texturen </li></ul>                                                                                  |
 | ![Builder](builder.png)               | <ul><li>Unterstützt beim Bauen von Maps für z.B. Events oder andere Serverbereiche</li></ul>                                                                 |
 
 </tab>
@@ -43,6 +44,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Senior Moderator](sr-moderator.png) | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
 | ![Moderator](moderator.png)           | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
 | ![Supporter](supporter.png)           | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
+| ![Designer](designer.png)             | <ul><li>`KamiIIe`</li></ul>                                                                                                                                                                           |
 | ![Builder](builder.png)               | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
