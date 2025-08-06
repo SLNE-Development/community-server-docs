@@ -95,7 +95,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswidrige, antidemokratische oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
    Dies betrifft unter anderem den Chat, Bücher, Schilder, Item-Namen, Skins, Bauwerke und jegliche andere Darstellungen und Ausdrucksformen.
    
-   > Private Casinos oder Glücksspiele in nicht-öffentlichen, unbeworbenen Bereichen erlaubt, sofern sie den übrigen Regeln entsprechen.
+   > Private Casinos oder Glücksspiele in nicht-öffentlichen, unbeworbenen Bereichen sind erlaubt, sofern sie den übrigen Regeln entsprechen.
    >
    {style="note" title="Öffentlich zugängliche Casinos oder Glücksspielmechaniken sind untersagt."}   
    
