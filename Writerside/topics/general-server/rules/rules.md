@@ -94,9 +94,11 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Es ist strikt verboten, beleidigende, selbstverletzende, diskriminierende, rassistische,
    sexistische, antisemitistische, extremistische, gewaltverherrlichende, rechtswidrige, antidemokratische oder anderweitig unangemessene Inhalte in jeglicher Form zu äußern, darzustellen, zu verbreiten oder zu bewerben.
    Dies betrifft unter anderem den Chat, Bücher, Schilder, Item-Namen, Skins, Bauwerke und jegliche andere Darstellungen und Ausdrucksformen.
-   > Casinos werden aufgrund des Bestandschutzes auf dem Survival-Server aktuell noch geduldet. Auf dem nächsten Server werden diese jedoch untersagt sein.
+   
+   > Private Casinos oder Glücksspiele in nicht-öffentlichen, unbeworbenen Bereichen sind erlaubt, sofern sie den übrigen Regeln entsprechen.
    >
-   {style="note"}   
+   {style="note" title="Öffentlich zugängliche Casinos oder Glücksspielmechaniken sind untersagt."}   
+   
    > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen nach sich ziehen.
    > - Das Zitieren oder Nachahmen unangemessener Aussagen, unabhängig vom Kontext, wird nicht toleriert.
    > - Das bewusste Ansprechen oder Nachfragen nach verbotenen oder unangemessenen Inhalten wird ebenfalls geahndet.
@@ -196,10 +198,11 @@ A detailed list of these rules can be found below.
 6. **The dissemination of inappropriate or <tooltip term='harmful-content$English'>content harmful to minors</tooltip> is strictly prohibited.**
    It is strictly forbidden to express, depict, distribute, or promote offensive, self-harming, discriminatory, racist, sexist, anti-Semitic, extremist, violence-glorifying, illegal, anti-democratic or otherwise inappropriate content in any form.
    This applies, among other things, to chat, books, signs, item names, skins, buildings, and any other representations and forms of expression.
-   
-   > Casinos are currently tolerated on the Survival Server due to legacy protection. However, in version 1.22 they will also be prohibited there.
+
+   > Private casinos or gambling mechanisms located in non-public, unadvertised areas are allowed, as long as they comply with all other rules.
    >
-   {style="note"}
+   {style="note" title="Publicly accessible casinos or gambling mechanisms are prohibited."}
+
    > - Statements intended as jokes or irony will not be tolerated and may result in consequences.
    > - Quoting or mimicking inappropriate statements, regardless of context, is strictly prohibited.
    > - Deliberately bringing up or inquiring about prohibited or inappropriate content will also be penalized.
