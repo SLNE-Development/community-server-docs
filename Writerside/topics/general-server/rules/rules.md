@@ -60,22 +60,31 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    >
    {style="tip"}
 
-4. **Freundliches und respektvolles Verhalten wird erwartet.**  
-   Behandelt andere Spieler stets höflich und respektvoll. **Belästigungen jeglicher Art**, sei es durch Spamming im Chat,
-   Beleidigungen, Anfeindungen, Scamming oder Trolling, werden von uns nicht geduldet.
+4. **Freundliches und respektvolles Verhalten ist Grundvoraussetzung.**
 
-    - **Sprachchat-Regeln:**  
-      Das Verwenden von **Soundboards** oder das **Abspielen von Musik oder anderen Geräuschen** ist überall dort
-      untersagt, wo es keinen sinnvollen Zweck erfüllt.
+   Alle Spieler sind verpflichtet, ein respektvolles und faires Miteinander zu wahren. Jegliche Form von Belästigung, Beleidigung, Anfeindung, Scamming, Trolling oder provozierendem Verhalten wird nicht toleriert.
+   
+   **Mobbing, Hetze und das wiederholte Herabsetzen einzelner Personen sind ausdrücklich untersagt.**
+   Dazu zählt insbesondere das bewusste Schlechtreden anderer Spieler, etwa durch das Aufgreifen von vergangenen Konflikten oder Fehlverhalten in abwertender Weise – insbesondere dann, wenn sich die betroffenen Personen nachweislich um ein verbessertes Verhalten bemühen. Der Server soll ein Ort sein, an dem jede\*r die Möglichkeit hat, sich weiterzuentwickeln und ohne Vorverurteilung Teil der Gemeinschaft zu sein.
+   
+   **Kritik ist erlaubt – jedoch nur in sachlicher und konstruktiver Form.**
+   Es ist zulässig, auf eigene Angebote oder Alternativen hinzuweisen oder eine persönliche Meinung zu äußern, solange dies sachlich und ohne diffamierende Sprache geschieht.
+   
+   **Beispiel:**
 
-        - **Erlaubt:** In klar definierten Events wie **Casinos**, **Musikevents**, **DJ-Clubs** oder anderen
-          Situationen, wo es ausdrücklich Sinn ergibt.
-        - **Verboten:** Überall sonst, insbesondere in alltäglichen Sprachchats oder zum Trollen anderer Spieler.
+   Nicht okay: *"Kauft den Mist dort bloß nicht."* \
+   Okay: *"Ich finde die Preise in Shop XY fairer – schaut mal bei X:1, Y:1, Z:1 vorbei."*
+   
+   Herabwürdigende, spöttische oder gezielt stimmungsbildende Äußerungen gegen bestimmte Personen – auch in Form von "Insiderwitzen", Sarkasmus oder Gruppenverhalten – gelten als Verstoß gegen diese Regel. Gleiches gilt für die Verbreitung von Gerüchten oder Falschinformationen, die das soziale Miteinander negativ beeinflussen.
+   
+   **Sprachchat-Regelung:**
 
-   > Habt ihr ein Problem mit jemandem? Versucht zunächst, es **friedlich miteinander** zu klären. Falls das nicht
-   möglich ist, [wendet euch bitte an einen Moderator][support].  
-   > Offene Streitigkeiten werden nicht toleriert, und wir behalten uns das Recht vor, Spieler wegen solcher Konflikte vorübergehend
-   auszuschließen.  
+   Das Verwenden von Soundboards sowie das Abspielen von Musik oder sonstigen Geräuschen ist grundsätzlich untersagt, sofern kein klarer und sinnvoller Kontext besteht (z. B. bei Musikevents, DJ-Clubs oder vergleichbaren Aktivitäten). In allen anderen Fällen ist davon abzusehen – insbesondere wenn es der Kommunikation schadet oder andere Spieler stört.
+   
+   Widerholte Verstöße gegen diese Verhaltensrichtlinien führen abhängig vom Schweregrad zu Ermahnungen, temporären Ausschlüssen oder einem dauerhaften Bann.
+   > **Hinweis bei Konflikten:**
+   > 
+   > Sollte es zu Meinungsverschiedenheiten kommen, wird erwartet, dass diese zunächst eigenständig und respektvoll gelöst werden. Sollte dies nicht möglich sein, ist der [Moderation][support] ein klarer, sachlicher Bericht zu übermitteln. Offene oder eskalierende Streitigkeiten im öffentlichen Raum des Servers werden nicht geduldet und können zu moderativen Maßnahmen führen.
    > {style="tip"}
 
 5. **Boosting und IRL-Trading sind strengstens verboten.**  
@@ -168,21 +177,31 @@ A detailed list of these rules can be found below.
    >
    {style="tip"}
 
-4. **Friendly and respectful behavior is expected.**  
-   Always treat other players with politeness and respect. Any form of **harassment**, whether through insults,
-   hostility, scamming, or trolling, will not be tolerated.
+4. **Friendly and respectful behavior is a fundamental requirement.**
+   
+   All players are required to maintain a respectful and fair environment. Any form of harassment, insults, antagonism, scamming, trolling, or provocative behavior is strictly prohibited.
+   
+   **Bullying, hate speech, and repeated disparagement of individuals are expressly forbidden.**
+   This includes deliberately speaking ill of other players—especially by referencing past conflicts or misconduct—in a derogatory manner, particularly when the affected parties are actively trying to improve their behavior. The server should be a place where everyone has the opportunity to grow and be part of the community without prejudice.
+   
+   **Constructive criticism is allowed—but only if it is expressed in a factual and respectful manner.**
+   It is acceptable to point out your own offerings or alternatives, or to share a personal opinion, as long as it is done respectfully and without defamatory language.
+   
+   **Example:**
+   
+   Not acceptable: “Don’t buy that crap from there.” \
+   Acceptable: “I think the prices are fairer at Shop XY—check X:1, Y:1, Z:1 instead.”
 
-    - **Voice Chat Rules:**  
-      The use of **soundboards** or **playing music or other sounds** is forbidden everywhere unless it serves a
-      meaningful purpose.
+   **Voice chat guideline:**
 
-        - **Allowed:** In clearly defined events like **casinos**, **music events**, **DJ clubs**, or other situations
-          where it explicitly makes sense.
-        - **Forbidden:** Everywhere else, especially in casual voice chats or to troll other players.
+   The use of soundboards or playing music or other sounds is generally prohibited, unless there is a clear and meaningful context (e.g., music events, DJ clubs, or similar activities). In all other situations, it should be avoided, particularly if it disrupts communication or disturbs other players.
 
-   > Have an issue with someone? First, try to **resolve it peacefully together**. If this is not
-   possible, [please contact a moderator][support].  
-   > Open conflicts are not allowed, and we reserve the right to temporarily ban players for such disputes.  
+   Repeated violations of these behavioral guidelines may result, depending on severity, in warnings, temporary bans, or permanent exclusion.
+   
+   Derogatory, mocking, or manipulative comments targeting specific individuals—whether through "inside jokes", sarcasm, or group dynamics—constitute a violation of this rule. Similarly, spreading rumors or misinformation that negatively affect social interactions is not permitted.
+
+   > **Conflict resolution reminder:** \
+   > If a disagreement arises, it is expected that it be handled respectfully and directly. If this is not possible, please submit a clear and impartial report to the [moderation][support] team. Public or escalating disputes within the server space will not be tolerated and may result in moderative measures.
    > {style="tip"}
 
 5. **Boosting and IRL trading are strictly prohibited.**  
