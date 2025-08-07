@@ -75,7 +75,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Nicht okay: *"Kauft den Mist dort bloß nicht."* \
    Okay: *"Ich finde die Preise in Shop XY fairer – schaut mal bei X:1, Y:1, Z:1 vorbei."*
    
-   Herabwürdigende, spöttische oder gezielt stimmungsbildende Äußerungen gegen bestimmte Personen – auch in Form von „Insiderwitzen“, Sarkasmus oder Gruppenverhalten – gelten als Verstoß gegen diese Regel. Gleiches gilt für die Verbreitung von Gerüchten oder Falschinformationen, die das soziale Miteinander negativ beeinflussen.
+   Herabwürdigende, spöttische oder gezielt stimmungsbildende Äußerungen gegen bestimmte Personen – auch in Form von "Insiderwitzen", Sarkasmus oder Gruppenverhalten – gelten als Verstoß gegen diese Regel. Gleiches gilt für die Verbreitung von Gerüchten oder Falschinformationen, die das soziale Miteinander negativ beeinflussen.
    
    **Sprachchat-Regelung:**
 
