@@ -61,6 +61,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    {style="tip"}
 
 4. **Freundliches und respektvolles Verhalten ist Grundvoraussetzung.**
+
    Alle Spieler sind verpflichtet, ein respektvolles und faires Miteinander zu wahren. Jegliche Form von Belästigung, Beleidigung, Anfeindung, Scamming, Trolling oder provozierendem Verhalten wird nicht toleriert.
    
    **Mobbing, Hetze und das wiederholte Herabsetzen einzelner Personen sind ausdrücklich untersagt.**
@@ -70,13 +71,15 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Es ist zulässig, auf eigene Angebote oder Alternativen hinzuweisen oder eine persönliche Meinung zu äußern, solange dies sachlich und ohne diffamierende Sprache geschieht.
    
    **Beispiel:**
-   Nicht okay: *"Kauft den Mist dort bloß nicht."*
+
+   Nicht okay: *"Kauft den Mist dort bloß nicht."* \
    Okay: *"Ich finde die Preise in Shop XY fairer – schaut mal bei X:1, Y:1, Z:1 vorbei."*
    
    Herabwürdigende, spöttische oder gezielt stimmungsbildende Äußerungen gegen bestimmte Personen – auch in Form von „Insiderwitzen“, Sarkasmus oder Gruppenverhalten – gelten als Verstoß gegen diese Regel. Gleiches gilt für die Verbreitung von Gerüchten oder Falschinformationen, die das soziale Miteinander negativ beeinflussen.
    
    **Sprachchat-Regelung:**
-   Das Verwenden von Soundboards sowie das Abspielen von Musik oder sonstigen Geräuschen ist grundsätzlich untersagt, sofern kein klarer und sinnvoller Kontext besteht (z. B. bei Musikevents, DJ-Clubs oder vergleichbaren Aktivitäten). In allen anderen Fällen ist davon abzusehen – insbesondere wenn es der Kommunikation schadet oder andere Spieler stört.
+
+   Das Verwenden von Soundboards sowie das Abspielen von Musik oder sonstigen Geräuschen ist grundsätzlich untersagt, sofern kein klarer und sinnvoller Kontext besteht (z. B. bei Musikevents, DJ-Clubs oder vergleichbaren Aktivitäten). In allen anderen Fällen ist davon abzusehen – insbesondere wenn es der Kommunikation schadet oder andere Spieler stört.
    
    Widerholte Verstöße gegen diese Verhaltensrichtlinien führen abhängig vom Schweregrad zu Ermahnungen, temporären Ausschlüssen oder einem dauerhaften Bann.
    > **Hinweis bei Konflikten:**
