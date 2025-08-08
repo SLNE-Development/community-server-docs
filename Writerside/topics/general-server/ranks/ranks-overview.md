@@ -57,6 +57,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <tabs>
+<!-- 
 <tab title="Builder" id="application-builder">
 
 > **Derzeit werden keine Bewerbungen für die Position des Builders angenommen**!
@@ -87,17 +88,14 @@ Diese werden dann anschließend für kommende Events verwendet oder in der Lobby
 - Du kannst detailliert bauen
 - Du beherrschst mehrere Baustile
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
-- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner Stimme ist daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner
+  Stimme ist daher unausweichlich
 
 </def>
 </deflist>
 </tab>
+-->
 <tab title="Supporter" id="application-supporter">
-
-> Aktuell findet vom **04.05.2025** bis zum **18.05.2025** eine Bewerbungsphase statt!
-> Weitere Informationen findest du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%).
-> 
-{style="note" title="Aktuelle Bewerbungsphase als Supporter" id="current-application-supporter"}
 
 <deflist>
 <def title="Beschreibung" id="description-supporter">
@@ -110,7 +108,8 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden und beantwortest Fra
 - Du bist hilfsbereit, freundlich, geduldig und pflegst einen respektvollen Umgang
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
 - Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>
-- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
+  Stimme sind daher unausweichlich
 - Du hast mindestens `200 Stunden` <tooltip term="supporter-application-playtime-requirement">Spielzeit</tooltip>
 
 </def>
@@ -130,7 +129,8 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du kennst dich mit Gradle, Git, Spring und MySQL aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
-- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
+  Stimme sind daher unausweichlich
 
 </def>
 </deflist>
