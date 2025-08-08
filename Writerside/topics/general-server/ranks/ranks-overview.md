@@ -21,16 +21,16 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 <tab title="Team Ränge" id="team-ranks">
 
-| Rang                                       | Bedeutung & Erklärung                                                                                                                                                                                                                                                                                   |
+| Rang                                       | Bedeutung, Erklärung & Aufgaben                                                                                                                                                                                                                                                                         |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Administrator](admin.png)                | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>                                                                                                                                             |
-| ![Entwickler](dev.png)                     | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                                                                                                                                                           |
+| ![Entwickler](developer.png)                     | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                                                                                                                                                           |
 | ![Management](management.png)              | <ul><li>Unterstützt und leitet organisatorische Abläufe im Team</li></ul><ul><li>Kümmert sich um Fragen und Probleme der Supporter und Moderatoren</li></ul>                                                                                                                                            |
-| ![Moderator](moderator.png)                | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>                                                                                                                                             |
-| ![Moderator Azubi](moderator-a.png)        | <ul><li>Moderatoren in der Probezeit</li></ul>                                                                                                                                                                                                                                                          |
-| ![Supporter](supporter.png)                | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                                                                                                                                                             |
-| ![Supporter Azubi](supporter-a.png)        | <ul><li>Supporter in der Probezeit</li></ul>                                                                                                                                                                                                                                                            |
-| ![Community Manager](communitymanager.png) | <ul><li>Ansprechpartner bei Feedback, Stimmungen oder Anliegen innerhalb der Community</li><li>Vermittlung bei allgemeinen Themen zwischen Spielern und Team – jedoch nicht bei Regelverstößen.</li><li>Aufnahme und Bearbeitung von vertraulichen Anliegen oder Problemen aus der Community.</li></ul> |
+| ![Moderator](moderation.png)                | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>                                                                                                                                             |
+| ![Moderator Azubi](moderation-a.png)        | <ul><li>Moderatoren in der Probezeit</li></ul>                                                                                                                                                                                                                                                          |
+| ![Supporter](support.png)                | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                                                                                                                                                             |
+| ![Supporter Azubi](support-a.png)        | <ul><li>Supporter in der Probezeit</li></ul>                                                                                                                                                                                                                                                            |
+| ![Community Manager](community-manager.png) | <ul><li>Ansprechpartner bei Feedback, Stimmungen oder Anliegen innerhalb der Community</li><li>Vermittlung bei allgemeinen Themen zwischen Spielern und Team – jedoch nicht bei Regelverstößen.</li><li>Aufnahme und Bearbeitung von vertraulichen Anliegen oder Problemen aus der Community.</li></ul> |
 | ![Designer](designer.png)                  | <ul><li>Unterstützt bei der Gestaltung von Modellen und Texturen </li></ul>                                                                                                                                                                                                                             |
 | ![Builder](builder.png)                    | <ul><li>Unterstützt beim Bauen von Maps für z. B. Events oder andere Serverbereiche</li></ul>                                                                                                                                                                                                           |
 
@@ -43,13 +43,13 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | Rang                                       | Mitglieder                                                                                                                                                                                            |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Administrator](admin.png)                | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
-| ![Entwickler](dev.png)                     | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
+| ![Entwickler](developer.png)                     | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
 | ![Management](management.png)              | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
-| ![Moderator](moderator.png)                | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
-| ![Moderator Azubi](moderator-a.png)        | /                                                                                                                                                                                                     |   
-| ![Supporter](supporter.png)                | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
-| ![Supporter Azubi](supporter-a.png)        | /                                                                                                                                                                                                     |
-| ![Community Manager](communitymanager.png) | <ul><li>`Iloveschnitzel09`</li></ul>                                                                                                                                                                  |
+| ![Moderator](moderation.png)                | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
+| ![Moderator Azubi](moderation-a.png)        | /                                                                                                                                                                                                     |   
+| ![Supporter](support.png)                | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
+| ![Supporter Azubi](support-a.png)        | /                                                                                                                                                                                                     |
+| ![Community Manager](community-manager.png) | <ul><li>`Iloveschnitzel09`</li></ul>                                                                                                                                                                  |
 | ![Designer](designer.png)                  | <ul><li>`KamiIIe`</li></ul>                                                                                                                                                                           |
 | ![Builder](builder.png)                    | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
 
@@ -57,6 +57,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 
 Grundsätzlich könnt ihr euch für folgende Ränge bewerben:
 <tabs>
+<!-- 
 <tab title="Builder" id="application-builder">
 
 > **Derzeit werden keine Bewerbungen für die Position des Builders angenommen**!
@@ -87,17 +88,14 @@ Diese werden dann anschließend für kommende Events verwendet oder in der Lobby
 - Du kannst detailliert bauen
 - Du beherrschst mehrere Baustile
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
-- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner Stimme ist daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner
+  Stimme ist daher unausweichlich
 
 </def>
 </deflist>
 </tab>
+-->
 <tab title="Supporter" id="application-supporter">
-
-> Aktuell findet vom **04.05.2025** bis zum **18.05.2025** eine Bewerbungsphase statt!
-> Weitere Informationen findest du im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%).
-> 
-{style="note" title="Aktuelle Bewerbungsphase als Supporter" id="current-application-supporter"}
 
 <deflist>
 <def title="Beschreibung" id="description-supporter">
@@ -110,7 +108,8 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden und beantwortest Fra
 - Du bist hilfsbereit, freundlich, geduldig und pflegst einen respektvollen Umgang
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
 - Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>
-- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
+  Stimme sind daher unausweichlich
 - Du hast mindestens `200 Stunden` <tooltip term="supporter-application-playtime-requirement">Spielzeit</tooltip>
 
 </def>
@@ -130,7 +129,8 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du kennst dich mit Gradle, Git, Spring und MySQL aus
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
 - Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
-- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
+  Stimme sind daher unausweichlich
 
 </def>
 </deflist>
