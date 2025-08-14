@@ -21,15 +21,38 @@
    <include from="util.md" element-id="mod-pack"/>
 
 1. **Modrinth installieren**
-   - Lade die [Modrinth App](https://modrinth.com/app) herunter
-   - Installiere die App
-2. **Modpack installieren**
-   - Öffne die Modrinth App
-   - Klicke auf die Suchleiste und suche nach `CastCrafter Survival Server`
-   - Klicke auf `Installieren`
-   - Starte das Modpack
+    - Lade die [Modrinth App](https://modrinth.com/app) herunter
+    - Installiere die App
+    - Öffne die Modrinth App
+2. **Melde dich bei Modrinth mit deinem Microsoft-Konto an**
+3. **Modpack installieren**
+    - Klicke auf die Suchleiste und suche nach `CastCrafter Survival Server`
+    - Klicke auf `Installieren`
+    - Starte das Modpack
 
 **Wir wünschen dir viel Spaß auf dem Server!**
+</def>
+
+<def title="Wie installiere ich den Sprachchat?" id="install-voicechat">
+
+1. **Modrinth installieren**
+    - Lade die [Modrinth App](https://modrinth.com/app) herunter
+    - Installiere die App
+    - Öffne die Modrinth App
+2. **Melde dich bei Modrinth mit deinem Microsoft-Konto an**
+3. **Modifikation installieren**
+    - Öffne die Modrinth App
+    - Erstelle ein neues Profil
+      - Loader-Version: Fabric
+      - Minecraft Version: [%required_game_version%](%required_game_version_link%)
+    - Starte das Profil
+
+> Sobald du den Sprachchat auf dem Netzwerk verwendest, bestätigst du, dass du 
+> die [Regeln für den Sprachchat](rules.md) gelesen hast und akzeptiert.
+>
+{style="note" title="Regeln für die Verwendung des Sprachchats auf dem Netzwerk"}
+
+**Wir wünschen dir viel Spaß bei der Nutzung!**
 </def>
 
 <def title="Wie teile ich meinen Log?" id="how-to-share-log">
@@ -47,7 +70,8 @@ Es gibt verschiedene Webseiten, auf denen man Log-Dateien hochladen kann und dan
 <tabs>
 <tab title="CurseForge" id="minecraft-log-curseforge">
 
-In CurseForge machst du einen Rechtsklick auf das Modpack-Profil, dann auf Ordner öffnen. Dort findest du den Ordner `logs`.
+In CurseForge machst du einen Rechtsklick auf das Modpack-Profil, dann auf Ordner öffnen. Dort findest du den Ordner
+`logs`.
 Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
 </tab>
 <tab title="Modrinth App" id="minecraft-log-modrinth-app">
@@ -58,18 +82,23 @@ Du erhältst nun einen Link, den du posten kannst.
 </tab>
 <tab title="GD Launcher" id="minecraft-log-gd-launcher">
 
-Im GD Launcher machst du einen Rechtsklick auf das Modpack-Profil, dann auf `Open Folder`. Dort findest du den Ordner `logs`.
+Im GD Launcher machst du einen Rechtsklick auf das Modpack-Profil, dann auf `Open Folder`. Dort findest du den Ordner
+`logs`.
 Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
 </tab>
 <tab title="MultiMC" id="minecraft-log-multimc">
 
-In MultiMC klickst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann auf `Hochladen`.
-Du erhältst nun einen Link, den du posten kannst. Alternativ kannst du auch direkt im Tab `Minecraft Log` oben rechts auf `Hochladen` klicken.
+In MultiMC klickst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst oben `logs/latest.log` und klickst dann
+auf `Hochladen`.
+Du erhältst nun einen Link, den du posten kannst. Alternativ kannst du auch direkt im Tab `Minecraft Log` oben rechts
+auf `Hochladen` klicken.
 </tab>
 <tab title="FTB App" id="minecraft-log-ftb-app">
 
-In der FTP App klickst du dein Modpack-Profil an, dort oben rechst auf `Settings`, anschließend unten links auf `Open Folder`.
-Dort findest du den Ordner `logs`. Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
+In der FTP App klickst du dein Modpack-Profil an, dort oben rechst auf `Settings`, anschließend unten links auf
+`Open Folder`.
+Dort findest du den Ordner `logs`. Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der
+oben genannten Seiten hochladen.
 </tab>
 <tab title="Andere Launcher" id="minecraft-log-other-launcher">
 
@@ -82,7 +111,8 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 
 > - Der Log ist nicht der CrashReport.
 > - Wenn du den Log als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!
-> - Ohne Log, brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne geholfen.
+> - Ohne Log, brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne
+    geholfen.
 > - Bitte verändere den Log nicht!
 >
 {style="note" title="Wichtig"}
@@ -161,7 +191,8 @@ den gewünschten Ort bringt.
 
 Für alle Baubegeisterten bieten wir die Möglichkeit Lichtblöcke und unsichtbare Rahmen auch im Survival zu
 erhalten und auch zu verwenden.
-Wie du die Gegenstände bekommst, erfährst du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
+Wie du die Gegenstände bekommst, erfährst
+du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
 </def>
 <def title="Kann ich Rüstungsständer anpassen?" id="modify-armorstands">
