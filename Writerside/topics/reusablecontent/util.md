@@ -106,3 +106,50 @@ Folgende Gegenstände sind auf dem Survival Server zusätzlich angelbar:
     - Zufluchts-Töpferscherbe
 
 </snippet>
+
+<snippet id="event-features">
+<tabs>
+<tab title="Teleportation" id="teleportation">
+
+Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit `/tpa <player>` zu euren Freunden zu teleportieren.
+
+Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch mit `/home` dorthin zurück teleportieren.
+
+> **Achtung:** Ihr könnt diese Befehle nur alle 10 Minuten verwenden!
+>
+{style="note"}
+
+</tab>
+<tab title="VoiceChat" id="voice-chat">
+
+In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
+
+Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+
+Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+
+</tab>
+<tab title="ChestProtect" id="chestprotect">
+
+Um Griefing vorzubeugen, habt ihr die Möglichkeit eure Kisten zu sichern. Verwendet dazu folgende Befehle:
+
+/chestprotect
+: Öffnet das Hauptmenü von Chestprotect.
+Hier könnt ihr verschiedene Einstellungen vornehmen und habt einen Überblick über alle Sicherungen.
+
+/lock
+: Sperrt eine Kiste nach anschließendem Anklicken.
+
+/trust &lt;player&gt;
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
+
+/untrust &lt;player&gt;
+: Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem Anklicken der Kiste.
+
+> Ihr könnt das automatische Sichern von Kisten im ChestProtect Menu ein- und ausschalten.
+>
+{style="tip"}
+
+</tab>
+</tabs>
+</snippet>
