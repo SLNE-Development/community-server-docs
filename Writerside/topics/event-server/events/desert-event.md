@@ -1,12 +1,12 @@
 <primary-label ref="event-upcoming"/>
-<secondary-label ref="only-desert-event-mc-version"/>
-<secondary-label ref="only-desert-event-date"/>
+<secondary-label ref="desert-event-mc-version"/>
+<secondary-label ref="desert-event-date"/>
 
 # Wüsten Event
 
 ## Über das Event {id="general-info"}
 
-Ihr seid für 48 Stunden in einer scheinbar endlosen Wüste gefangen.
+Ihr seid in einer scheinbar endlosen Wüste gefangen.
 Es gibt nur Sand, Staub und glühende Hitze.
 Erkundet die gefährliche Welt sowie die tödlichen Weiten des Nether und stellt euch neuen Kreaturen.
 Seid gespannt, was die Wüste für euch bereithält!
@@ -41,4 +41,4 @@ Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einr
 
 Wie viel Spieler können auf den Server? {id="event-min-players"}
 : Der Server bietet Platz für mindestens `100` Spieler.
-Je nach performance lassen sich die Plätze erweitern.
+Je nach Performance lassen sich die Plätze erweitern.
