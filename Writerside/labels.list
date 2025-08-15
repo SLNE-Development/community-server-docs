@@ -165,13 +165,13 @@
         Empfohlen wird die Minecraft Java Version 1.21.6.
         Ihr könnt jedoch auch die Version 1.21.4 verwenden.
     </secondary-label>
-    <secondary-label id="only-desert-event-date" name="16.08.2025 - 17.08.2025" color="blue">Das Event
+    <secondary-label id="desert-event-date" name="16.08.2025 - 17.08.2025" color="blue">Das Event
         läuft
         vom 16.08.2025 um 10:00 Uhr bis zum 17.08.2025 um 18:00 Uhr.
     </secondary-label>
-    <secondary-label id="only-desert-event-mc-version" name="1.21.8 empfohlen" color="purple">
-        Empfohlen wird die Minecraft Java Version 1.21.8.
-        Ihr könnt jedoch auch die Version 1.21.7 verwenden.
+    <secondary-label id="desert-event-mc-version" name="1.21.7+" color="purple">
+        Das Event findet in der Minecraft Java Version 1.21.8 statt.
+        Zum Teilnehmen wird mindestens die Version 1.21.7 benötigt.
     </secondary-label>
 
 
