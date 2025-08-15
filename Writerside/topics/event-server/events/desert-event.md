@@ -1,6 +1,6 @@
 <primary-label ref="event-running"/>
-<secondary-label ref="only-desert-event-mc-version"/>
-<secondary-label ref="only-desert-event-date"/>
+<secondary-label ref="desert-event-mc-version"/>
+<secondary-label ref="desert-event-date"/>
 
 # Wüsten Event
 
