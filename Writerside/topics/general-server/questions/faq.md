@@ -48,7 +48,7 @@
     - Starte das Profil
 
 > Sobald du den Sprachchat auf dem Netzwerk verwendest, bestätigst du, dass du 
-> die [Regeln für den Sprachchat](rules.md) gelesen hast und akzeptiert.
+> die [Regeln für den Sprachchat](rules.md) gelesen und akzeptiert hast.
 >
 {style="note" title="Regeln für die Verwendung des Sprachchats auf dem Netzwerk"}
 
