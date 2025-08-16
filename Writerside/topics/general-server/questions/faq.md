@@ -95,7 +95,7 @@ auf `Hochladen` klicken.
 </tab>
 <tab title="FTB App" id="minecraft-log-ftb-app">
 
-In der FTP App klickst du dein Modpack-Profil an, dort oben rechst auf `Settings`, anschließend unten links auf
+In der FTB App klickst du dein Modpack-Profil an, dort oben rechts auf `Settings`, anschließend unten links auf
 `Open Folder`.
 Dort findest du den Ordner `logs`. Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der
 oben genannten Seiten hochladen.
