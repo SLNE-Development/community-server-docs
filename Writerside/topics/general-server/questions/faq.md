@@ -111,7 +111,7 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 
 > - Der Log ist nicht der CrashReport.
 > - Wenn du den Log als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!
-> - Ohne Log, brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne
+> - Ohne Log brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne
     geholfen.
 > - Bitte verändere den Log nicht!
 >
