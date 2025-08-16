@@ -48,8 +48,7 @@
     - Klicke im Profil auf `Inhalte installieren`
     - Suche im Suchfeld nach `Simple Voice Chat`
     - Klicke auf `Installieren`
-4. **Spiel starten**
-    - Starte das Profil
+4. **Starte das Profil**
 
 > Sobald du den Sprachchat auf dem Netzwerk verwendest, bestätigst du, dass du 
 > die [Regeln für den Sprachchat](rules.md) gelesen und akzeptiert hast.
