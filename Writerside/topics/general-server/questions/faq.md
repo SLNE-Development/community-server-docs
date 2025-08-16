@@ -45,6 +45,10 @@
     - Erstelle ein neues Profil
       - Loader-Version: Fabric
       - Minecraft Version: [%required_game_version%](%required_game_version_link%)
+    - Klicke im Profil auf `Inhalte installieren`
+    - Suche im Suchfeld nach `Simple Voice Chat`
+    - Klicke auf `Installieren`
+4. **Spiel starten**
     - Starte das Profil
 
 > Sobald du den Sprachchat auf dem Netzwerk verwendest, bestätigst du, dass du 
