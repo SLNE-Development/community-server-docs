@@ -52,7 +52,7 @@
     - Starte das Profil
 
 > Sobald du den Sprachchat auf dem Netzwerk verwendest, bestätigst du, dass du 
-> die [Regeln für den Sprachchat](rules.md) gelesen hast und akzeptiert.
+> die [Regeln für den Sprachchat](rules.md) gelesen und akzeptiert hast.
 >
 {style="note" title="Regeln für die Verwendung des Sprachchats auf dem Netzwerk"}
 
@@ -99,7 +99,7 @@ auf `Hochladen` klicken.
 </tab>
 <tab title="FTB App" id="minecraft-log-ftb-app">
 
-In der FTP App klickst du dein Modpack-Profil an, dort oben rechst auf `Settings`, anschließend unten links auf
+In der FTB App klickst du dein Modpack-Profil an, dort oben rechts auf `Settings`, anschließend unten links auf
 `Open Folder`.
 Dort findest du den Ordner `logs`. Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der
 oben genannten Seiten hochladen.
@@ -115,7 +115,7 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 
 > - Der Log ist nicht der CrashReport.
 > - Wenn du den Log als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!
-> - Ohne Log, brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne
+> - Ohne Log brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne
     geholfen.
 > - Bitte verändere den Log nicht!
 >
