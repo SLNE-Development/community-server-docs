@@ -25,7 +25,7 @@ Seid gespannt, was die Wüste für euch bereithält!
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-start"}
-: Das Event läuft vom **16.08.2025 um 10:00 Uhr** bis zum **17.08.2025 um 18:00 Uhr**.
+: Das Event läuft vom **16.08.2025 um 10:00 Uhr** bis zum **24.08.2025 um 18:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Empfohlen wird die Minecraft Java Version **1.21.8**.
