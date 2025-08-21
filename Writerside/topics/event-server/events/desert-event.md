@@ -1,4 +1,4 @@
-<primary-label ref="event-running"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="desert-event-mc-version"/>
 <secondary-label ref="desert-event-date"/>
 
