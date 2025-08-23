@@ -51,7 +51,7 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | ![Supporter Azubi](support-a.png)           | /                                                                                                                                                                                                     |
 | ![Community Manager](community-manager.png) | <ul><li>`Floweryalina`</li><li>`Iloveschnitzel09`</li></ul>                                                                                                                                             |
 | ![Designer](designer.png)                   | <ul><li>`KamiIIe`</li></ul>                                                                                                                                                                           |
-| ![Builder](builder.png)                     | <ul><li>PEKK29</li><li>`Speed_Marc`</li></ul>                                                                                                                                                         |
+| ![Builder](builder.png)                     | <ul><li>`PEKK29`</li><li>`Speed_Marc`</li></ul>                                                                                                                                                         |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
