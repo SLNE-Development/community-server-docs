@@ -28,7 +28,6 @@ Wenn ihr alle Anforderungen erfüllt, könnt ihr den Survival Server über den K
 Weitere Informationen findet ihr [hier](servers.md).
 
 </def>
-
 </deflist>
 </tab>
 -->
