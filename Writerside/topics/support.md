@@ -3,20 +3,6 @@ switcher-label: Language
 ---
 
 # Support
-
-<tldr switcher-key="Deutsch">
-<if switcher-key="Deutsch">   
-    <p>Erstelle ein Ticket für Serverprobleme oder Whitelist-Anfragen.</p>
-    <p>Reiche Schadensmeldungen zusammen mit einem Videobeweis ein.</p>
-    <p>Melde Fehler sofort mit detaillierten Informationen.</p>
-</if>
-<if switcher-key="English">
-    <p>Open a ticket for server issues or whitelist requests.</p>
-    <p>Submit damage reports along with video evidence.</p>
-    <p>Report bugs immediately with detailed information.</p>
-</if>
-</tldr>
-
 <if switcher-key="Deutsch">
 
 
@@ -29,6 +15,8 @@ Bei allgemeinen Fragen kannst du den [Support-Kanal](%general_support_channel%) 
 <chapter title="Die verschiedenen Ticket-Typen:" id="ticket-types">
 
 <tabs>
+<!-- The following content remains here to be reimplemented until next survival season 1.22 -->
+<!--
 <tab title="Whitelistanfrage" id="whitelist-ticket">
 Über dieses Ticket kannst du dich für den Survival-Server whitelisten lassen.
 Dazu gibt es zwei Voraussetzungen:
@@ -68,6 +56,8 @@ Wenn du Fragen oder Probleme auf dem Survival-Server hast, öffne ein Survival-S
 {style="warning" title="Erstattung"}
 
 </tab>
+-->
+
 <tab title="Event Support" id="event-server-ticket">
 
 Wenn du Probleme oder Fragen zu Events hast, öffne ein Event-Server-Support-Ticket.
@@ -151,6 +141,8 @@ For general questions, you can use the [support channel](%general_support_channe
 <chapter title="The different types of tickets:" id="ticket-types-english">
 
 <tabs>
+<!-- The following content remains here to be reimplemented until next survival season 1.22 -->
+<!--
 <tab title="Whitelist Request" id="whitelist-ticket-english">
 Use this ticket to request whitelisting for the Survival Server.
 There are two requirements:
@@ -184,6 +176,8 @@ If you have questions or issues on the Survival Server, open a Survival Server S
 > minutes as a video in case of emergency.
 > {style="warning" title="Refund"}
 </tab>
+-->
+
 <tab title="Event Support" id="event-server-ticket-english">
 If you have issues or questions about events, open an Event Server Support Ticket.
 
