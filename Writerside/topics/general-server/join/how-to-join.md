@@ -6,6 +6,8 @@ Sobald ihr das Netzwerk betretet, kommt ihr in die Lobby.\
 Der Server ist in 3 Bereiche unterteilt:
 
 <tabs>
+<!-- The following tab remains here to be reimplemented in the new server season 1.22! -->
+<!--
 <tab title="Survival Server" id="survival">
 
 <deflist>
@@ -26,8 +28,11 @@ Wenn ihr alle Anforderungen erfüllt, könnt ihr den Survival Server über den K
 Weitere Informationen findet ihr [hier](servers.md).
 
 </def>
+
 </deflist>
 </tab>
+-->
+
 <tab title="Event Server" id="events">
 
 > Es gibt keine Voraussetzungen, um an den Events teilzunehmen.

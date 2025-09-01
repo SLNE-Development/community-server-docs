@@ -8,59 +8,74 @@
     <section-starting-page>
         <title>Survival Server Dokumentation</title>
         <description>
+            <!--
             Der Survival Server ist dauerhaft online und ermöglicht der Community zusammen Unglaubliches zu erschaffen!
             Er wurde so gestaltet, dass den Spielern möglichst viele Freiheiten geboten werden.
             Aus diesem Grund gibt es auf dem Server deutlich weniger Einschränkungen, als man es von anderen öffentlichen SMP Servern kennt.
+            -->
+
+            Die Survival-Server-Season 1.21 ist vorüber!
+            Die Server sind offline und werden überarbeitet.
+            Wir freuen uns darauf, euch in der nächsten Season wiederzusehen!
+            Weitere Informationen findest du auf dem Discord-Server!
+
         </description>
 
-        <spotlight>
-            <card href="rules.md" badge="check-list"
-                  summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
-            <card href="how-to-join.md" badge="start"
-                  summary="Wie kann ich dem Server beitreten?"/>
-        </spotlight>
 
-        <primary>
-            <title>Features</title>
-            <card href="plots-homepage.topic" badge="key"
-                  summary="Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Erfahre hier mehr!"/>
-            <card href="economy.md" badge="offer"
-                  summary="Auf dem Server gibt es verschiedene Währungen, darunter z. B. %main_currency%s. Wie du sie bekommst und wofür du sie ausgeben kannst, erfährst du hier."/>
-            <card href="custom-enchantments.md" badge="experiment"
-                  summary="Auf dem Server gibt es spezielle Verzauberungen, die du auf deinen Gegenständen anwenden kannst. Erfahre hier mehr!"/>
-            <!--<a href="shops-starting-page.topic"/>-->
-        </primary>
-
-        <secondary>
-            <title>Besonderheiten</title>
-            <card href="changed-vanilla-mechanics.md" badge="settings"
-                  summary="Auf dem Server gibt es einige veränderte Vanilla-Mechaniken. Welche das sind, erfährst du hier."/>
-            <card href="armorstand.md" badge="creative"
-                  summary="Auf dem Server gibt es verschiedene Cosmetics, die du nutzen kannst. Welche das sind, erfährst du hier."/>
-            <card href="events.md" badge="community"
-                  summary="Auf dem Server finden regelmäßig Events statt. Welche das sind, erfährst du hier."/>
-            <card href="specials.md" badge="idea"
-                  summary="Hier findest du eine Übersicht über alle Besonderheiten, die du sonst noch auf dem Server finden kannst."/>
-        </secondary>
+        <!-- The following content remains here to be reimplemented in the new server season 1.22! -->
+        <!-- All survival pages are hidden in ccs.tree to be reworked and edited to release a new documentation to the next season! -->
 
 
-        <misc>
-            <cards narrow="true">
-                <title>Andere relevante Themen</title>
-                <card href="support.md" badge="support"
-                      summary="Hier erfährst du, wie du den Support kontaktierst, um z. B. Griefing oder einen Bug zu melden."/>
-                <card href="servers.md" badge="server"
-                      summary="Auf dem Community Server gibt es verschiedene Server. Hier erfährst du, wie du sie betrittst und was du auf ihnen tun kannst."/>
-                <card href="commands.md" badge="keyboard"
-                      summary="Hier findest du eine Übersicht über alle Commands, die du auf dem Server nutzen kannst."/>
-                <card href="faq.md" badge="search"
-                      summary="Hier findest du Antworten auf häufig gestellte Fragen."/>
-                <card href="troubleshooting.md" badge="tools"
-                      summary="Hier findest du Lösungsansätze für häufige Probleme"/>
-                <card href="map-downloads.md" badge="folder"
-                      summary="Hier findest du die Downloads zu den alten Maps."/>
-            </cards>
-        </misc>
+        <!--
+
+   <spotlight>
+       <card href="rules.md" badge="check-list"
+             summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
+       <card href="how-to-join.md" badge="start"
+             summary="Wie kann ich dem Server beitreten?"/>
+   </spotlight>
+
+   <primary>
+       <title>Features</title>
+       <card href="plots-homepage.topic" badge="key"
+             summary="Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Erfahre hier mehr!"/>
+       <card href="economy.md" badge="offer"
+             summary="Auf dem Server gibt es verschiedene Währungen, darunter z. B. %main_currency%s. Wie du sie bekommst und wofür du sie ausgeben kannst, erfährst du hier."/>
+       <card href="custom-enchantments.md" badge="experiment"
+             summary="Auf dem Server gibt es spezielle Verzauberungen, die du auf deinen Gegenständen anwenden kannst. Erfahre hier mehr!"/>
+
+   </primary>
+   <secondary>
+       <title>Besonderheiten</title>
+       <card href="changed-vanilla-mechanics.md" badge="settings"
+             summary="Auf dem Server gibt es einige veränderte Vanilla-Mechaniken. Welche das sind, erfährst du hier."/>
+       <card href="armorstand.md" badge="creative"
+             summary="Auf dem Server gibt es verschiedene Cosmetics, die du nutzen kannst. Welche das sind, erfährst du hier."/>
+       <card href="events.md" badge="community"
+             summary="Auf dem Server finden regelmäßig Events statt. Welche das sind, erfährst du hier."/>
+       <card href="specials.md" badge="idea"
+             summary="Hier findest du eine Übersicht über alle Besonderheiten, die du sonst noch auf dem Server finden kannst."/>
+   </secondary>
+
+
+   <misc>
+       <cards narrow="true">
+           <title>Andere relevante Themen</title>
+           <card href="support.md" badge="support"
+                 summary="Hier erfährst du, wie du den Support kontaktierst, um z. B. Griefing oder einen Bug zu melden."/>
+           <card href="servers.md" badge="server"
+                 summary="Auf dem Community Server gibt es verschiedene Server. Hier erfährst du, wie du sie betrittst und was du auf ihnen tun kannst."/>
+           <card href="commands.md" badge="keyboard"
+                 summary="Hier findest du eine Übersicht über alle Commands, die du auf dem Server nutzen kannst."/>
+           <card href="faq.md" badge="search"
+                 summary="Hier findest du Antworten auf häufig gestellte Fragen."/>
+           <card href="troubleshooting.md" badge="tools"
+                 summary="Hier findest du Lösungsansätze für häufige Probleme"/>
+           <card href="map-downloads.md" badge="folder"
+                 summary="Hier findest du die Downloads zu den alten Maps."/>
+       </cards>
+   </misc>
+   -->
 
     </section-starting-page>
 
