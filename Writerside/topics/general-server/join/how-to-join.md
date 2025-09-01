@@ -7,6 +7,7 @@ Sobald ihr das Netzwerk betretet, kommt ihr in die Lobby.\
 Der Server ist in 3 Bereiche unterteilt:
 --> 
 Aktuell finden nur Events auf dem Netzwerk statt!
+Hierfür sind folgende Bereiche relevant:
 
 <tabs>
 <!-- The following tab remains here to be reimplemented in the new server season 1.22! -->
