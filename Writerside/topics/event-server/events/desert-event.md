@@ -4,6 +4,8 @@
 
 # Wüsten Event
 
+<video src="https://www.youtube.com/watch?v=KL9KdmLrsm8"/>
+
 ## Über das Event {id="general-info"}
 
 Ihr seid in einer scheinbar endlosen Wüste gefangen.
