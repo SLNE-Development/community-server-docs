@@ -14,42 +14,43 @@
     <toc-element topic="how-to-join.md"/>
     <toc-element hidden="true" topic="current-server-issues.md"/>
     <toc-element accepts-web-file-names-ref="677309af" topic="survival-server.topic">
-        <toc-element hidden="true" href="https://google.com" topic="commands.md"/>
-        <toc-element hidden="true" href="https://google.com"  accepts-web-file-names-ref="3e2f7fc9" topic="events.md"/>
-        <toc-element hidden="true" href="https://google.com"  topic="features.md">
-            <toc-element hidden="true" href="https://google.com" topic="custom-enchantments.md"/>
-            <toc-element hidden="true" href="https://google.com" topic="economy.md"/>
-            <toc-element hidden="true" href="https://google.com" topic="specials.md">
-                <toc-element hidden="true" href="https://google.com" topic="changed-vanilla-mechanics.md"/>
+       <!-- <toc-element topic="commands.md"/>
+        <toc-element accepts-web-file-names-ref="3e2f7fc9" topic="events.md"/>
+        <toc-element topic="features.md">
+            <toc-element topic="custom-enchantments.md"/>
+            <toc-element topic="economy.md"/>
+            <toc-element topic="specials.md">
+                <toc-element topic="changed-vanilla-mechanics.md"/>
             </toc-element>
-            <toc-element hidden="true" href="https://google.com" accepts-web-file-names-ref="5a6fc3f" topic="plots-homepage.topic">
-                <toc-element hidden="true" href="https://google.com" topic="plot-creation.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="plot-expand.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="plot-add-member.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="plot-edit-flags.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="plot-rename.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="plot-visualizer.md"/>
-                <toc-element hidden="true" href="https://google.com" topic="plot-other.md"/>
+            <toc-element accepts-web-file-names-ref="5a6fc3f"
+                         topic="plots-homepage.topic">
+                <toc-element topic="plot-creation.md"/>
+                <toc-element topic="plot-expand.md"/>
+                <toc-element topic="plot-add-member.md"/>
+                <toc-element topic="plot-edit-flags.md"/>
+                <toc-element topic="plot-rename.md"/>
+                <toc-element topic="plot-visualizer.md"/>
+                <toc-element topic="plot-other.md"/>
             </toc-element>
-            <toc-element hidden="true" href="https://google.com" topic="skill-system.topic">
-                <toc-element hidden="true" href="https://google.com" topic="skills.md">
-                    <toc-element hidden="true" href="https://google.com" topic="fishing.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="farming.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="woodcutting.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="mining.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="combat.md"/>
+            <toc-element topic="skill-system.topic">
+                <toc-element topic="skills.md">
+                    <toc-element topic="fishing.md"/>
+                    <toc-element topic="farming.md"/>
+                    <toc-element topic="woodcutting.md"/>
+                    <toc-element topic="mining.md"/>
+                    <toc-element topic="combat.md"/>
                 </toc-element>
-                <toc-element hidden="true" href="https://google.com" topic="shops-starting-page.topic">
-                    <toc-element hidden="true" href="https://google.com" topic="make-shop.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="create-shop.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="manage-shop.md">
-                        <toc-element hidden="true" href="https://google.com" topic="delete-shop.md"/>
+                <toc-element topic="shops-starting-page.topic">
+                    <toc-element topic="make-shop.md"/>
+                    <toc-element topic="create-shop.md"/>
+                    <toc-element topic="manage-shop.md">
+                        <toc-element topic="delete-shop.md"/>
                     </toc-element>
                 </toc-element>
             </toc-element>
             <toc-element topic="armorstand.md"/>
             <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>
-        </toc-element>
+        </toc-element> -->
         <toc-element topic="map-downloads.md"/>
     </toc-element>
     <toc-element topic="event-server.topic">
