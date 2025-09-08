@@ -24,8 +24,8 @@ Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf die
 | Rang                                        | Bedeutung, Erklärung & Aufgaben                                                                                                                                                                                                                                                                         |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Administrator](admin.png)                 | <ul><li>Verwaltung der Infrastruktur</li><li>Ansprechpartner bei Bugreports / Erstattungen</li><li>Entwicklung von Plugins</li><li>Teammanagement</li></ul>                                                                                                                                             |
-| ![Entwickler](developer.png)                | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                                                                                                                                                           |
 | ![Management](management.png)               | <ul><li>Unterstützt und leitet organisatorische Abläufe im Team</li></ul><ul><li>Kümmert sich um Fragen und Probleme der Supporter und Moderatoren</li></ul>                                                                                                                                            |
+| ![Entwickler](developer.png)                | <ul><li>Unterstützt bei der Entwicklung des Servers und/oder Events</li></ul>                                                                                                                                                                                                                           |
 | ![Moderator](moderation.png)                | <ul><li>Ansprechpartner bei Fragen bezüglich der Regeln und deren Auslegung</li><li>Übernimmt moderative Aufgaben, wie das Durchsetzen der Regeln</li></ul>                                                                                                                                             |
 | ![Moderator Azubi](moderation-a.png)        | <ul><li>Moderatoren in der Probezeit</li></ul>                                                                                                                                                                                                                                                          |
 | ![Supporter](support.png)                   | <ul><li>Ansprechpartner für Fragen bezüglich Funktionen/Features des Servers etc.</li></ul>                                                                                                                                                                                                             |
@@ -86,6 +86,24 @@ Aufgaben
     - Auswahl und Einführung neuer Teammitglieder (Supporter und Moderatoren).
     - Planung und Einschätzung zukünftiger Teamgrößen (Bewerbungsprozesse etc.).
 - Unterstützung der Moderatoren bei Unklarheiten in Bezug auf Regeln oder schwierige Fälle.
+  
+## Developer {collapsible="true" default-state="collapsed"}
+
+Developer sind die technischen Architekten des Servers.
+Sie entwickeln Systeme, programmieren Funktionen und sorgen für eine stabile, moderne Infrastruktur
+im Hintergrund.
+
+> Developer arbeiten hauptsächlich im Hintergrund.
+> Für Bugs oder technische Fehler gibt es
+> Bugreports oder den regulären Supportweg – bitte kontaktiere Developer nicht direkt.
+
+Aufgaben
+:
+
+- Entwicklung von Plugins, Funktionen und Systemen für den Server.
+- Pflege und Weiterentwicklung der Website, Datenbanken und Discord-Integration.
+- Bearbeitung von technischen Fehlerberichten (Bug Reports) und deren Behebung.
+- Dokumentation der entwickelten Systeme für Transparenz und spätere Wartung.
 
 ## Discord Moderator {collapsible="true" default-state="collapsed"}
 
@@ -131,29 +149,12 @@ Sie helfen bei Fragen, erklären Regeln und stehen bei kleineren Problemen direk
 Aufgaben
 :
 
-- Entwicklung von Plugins, Funktionen und Systemen für den Server.
-- Pflege und Weiterentwicklung der Website, Datenbanken und Discord-Integration.
-- Bearbeitung von technischen Fehlerberichten (Bug Reports) und deren Behebung.
-- Dokumentation der entwickelten Systeme für Transparenz und spätere Wartung.
-
-## Developer {collapsible="true" default-state="collapsed"}
-
-Developer sind die technischen Architekten des Servers.
-Sie entwickeln Systeme, programmieren Funktionen und sorgen für eine stabile, moderne Infrastruktur
-im Hintergrund.
-
-> Developer arbeiten hauptsächlich im Hintergrund.
-> Für Bugs oder technische Fehler gibt es
-> Bugreports oder den regulären Supportweg – bitte kontaktiere Developer nicht direkt.
-
-Aufgaben
-:
-
-- Entwicklung von Plugins, Funktionen und Systemen für den Server.
-- Pflege und Weiterentwicklung der Website, Datenbanken und Discord-Integration.
-- Bearbeitung von technischen Fehlerberichten (Bug Reports) und deren Behebung.
-- Dokumentation der entwickelten Systeme für Transparenz und spätere Wartung.
-
+- Präsenz im Spiel zeigen und aktiv auf Fragen oder Probleme der Community eingehen.
+- Beantwortung von Fragen rund ums Spiel, z. B. zu Features, Regeln oder allgemeinen Abläufen.
+- Vermittlung bei Konflikten, solange keine Regelverstöße vorliegen.
+- Bearbeitung von Support-Tickets, z. B. bei Hilfeanfragen, Events, Whitelist oder Meldungen.
+- Unterstützung bei der Einhaltung der Regeln ohne Sanktionen.
+  
 ## Community Manager {collapsible="true" default-state="collapsed"}
 
 Community Manager sind die Stimme der Spielerschaft im Team. Sie sammeln Feedback, vermitteln bei
@@ -211,15 +212,15 @@ Aufgaben
 | Rang                                        | Mitglieder                                                                                                                                                                                            |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Administrator](admin.png)                 | <ul><li>`CastCrafter`</li><li>`Keviro`</li><li>`NotAmmo`</li><li>`Twisti_Twixi`</li></ul>                                                                                                             |
-| ![Entwickler](developer.png)                | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
 | ![Management](management.png)               | <ul><li>`ImRuBiX232`</li><li>`RicTheCraft`</li></ul>                                                                                                                                                  |
+| ![Entwickler](developer.png)                | <ul><li>`TheBjoRedCraft`</li></ul>                                                                                                                                                                    |
 | ![Moderator](moderation.png)                | <ul><li>`Alex_mhr`</li><li>`GesturesKing`</li><li>`Jo_field`</li><li>`Laluck98`</li><li>`MikeyLLP`</li><li>`Qwoxelias`</li><li>`xX_Monster`</li></ul>                                                 |
 | ![Moderator Azubi](moderation-a.png)        | /                                                                                                                                                                                                     |   
 | ![Supporter](support.png)                   | <ul><li>`BobbyCar2612`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`Danilo888TV`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`Koljav`</li><li>`Pingius2031`</li><li>`Timonso`</li></ul> |
 | ![Supporter Azubi](support-a.png)           | /                                                                                                                                                                                                     |
-| ![Community Manager](community-manager.png) | <ul><li>`Iloveschnitzel09`</li></ul>                                                                                                                                                                  |
+| ![Community Manager](community-manager.png) | <ul><li>`Floweryalina`</li><li>`Iloveschnitzel09`</li></ul>                                                                                                                                           |
 | ![Designer](designer.png)                   | <ul><li>`KamiIIe`</li></ul>                                                                                                                                                                           |
-| ![Builder](builder.png)                     | <ul><li>`Speed_Marc`</li></ul>                                                                                                                                                                        |
+| ![Builder](builder.png)                     | <ul><li>`PEKK29`</li><li>`Skyfox2`</li><li>`Speed_Marc`</li><li>`TatatuckRenegade`</li></ul>                                                                                                          |
 
 ## Bewerbungen {collapsible="true" default-state="collapsed" id="team-application"}
 
