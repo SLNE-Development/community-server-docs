@@ -1,7 +1,7 @@
 # Rangübersicht
 
 Auf dem Server gibt es verschiedenste Ränge, welche den Spielern zugeordnet sind.\
-Was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf dieser Seite.
+was sie zu bedeuten haben und welche Aufgabe sie erfüllen, erfährst du auf dieser Seite.
 
 <tabs>
 
@@ -51,8 +51,7 @@ Man kann sie sich als das "Backend" des Projekts vorstellen: Sie
 stellen sicher, dass alles im Hintergrund reibungslos funktioniert — von der Technik bis hin zur
 Regelgestaltung.
 
-Aufgaben
-:
+Aufgaben:
 
 - Übernahme aller Aufgaben aus dem Developer-Bereich.
 - Projektmanagement und Weiterentwicklung.
@@ -75,10 +74,9 @@ Sie sorgen dafür, dass interne Prozesse im Team reibungslos laufen.
 Sie sind für Spieler bei komplexeren Anliegen erreichbar und haben gleichzeitig ein Auge auf die
 Teamstruktur und -qualität.
 
-Aufgaben
-:
+Aufgaben:
 
-- Verwaltung von spielbezogenen Themen wie Rückerstattungen oder Rollbacks.
+- Verwaltung von spiel bezogenen Themen wie Rückerstattungen oder Rollbacks.
 - Organisation und Leitung des Teams:
     - Bearbeitung interner Beschwerden über Teammitglieder.
     - Durchführung von Team-Meetings und Feedbackgesprächen.
@@ -97,8 +95,7 @@ im Hintergrund.
 > Für Bugs oder technische Fehler gibt es
 > Bugreports oder den regulären Supportweg – bitte kontaktiere Developer nicht direkt.
 
-Aufgaben
-:
+Aufgaben:
 
 - Entwicklung von Plugins, Funktionen und Systemen für den Server.
 - Pflege und Weiterentwicklung der Website, Datenbanken und Discord-Integration.
@@ -114,8 +111,7 @@ Sie bearbeiten Tickets und unterstützen bei Problemen außerhalb des Spiels.
 > Wenn du Hilfe auf dem Discord brauchst – etwa bei Rollen, Kommunikation oder
 > Discord-Support-Tickets – sind Discord Moderatoren die richtigen Ansprechpartner.
 
-Aufgaben
-:
+Aufgaben:
 
 - Bearbeitung von Discord-spezifischen Tickets und Anfragen.
 - Unterstützung bei technischen oder sozialen Problemen im Discord-Bereich.
@@ -129,8 +125,7 @@ Sie greifen bei Konflikten oder Verstößen ein und kümmern sich um eine faire 
 > Moderatoren wenden.
 > Auch bei Eskalationen, bei denen Supporter nicht mehr weiterhelfen können, sind sie zuständig.
 
-Aufgaben
-:
+Aufgaben:
 
 - Unterstützung bei allgemeinen Fragen und Konflikten – wie Supporter.
 - Einschreiten bei Regelverstößen und Durchsetzung der Serverregeln.
@@ -146,8 +141,7 @@ Sie helfen bei Fragen, erklären Regeln und stehen bei kleineren Problemen direk
 > Bei Fragen, Unklarheiten oder Problemen im Spiel sind Supporter deine direkten Ansprechpartner.
 > Scheue dich nicht, sie anzusprechen oder ein Ticket zu eröffnen.
 
-Aufgaben
-:
+Aufgaben:
 
 - Präsenz im Spiel zeigen und aktiv auf Fragen oder Probleme der Community eingehen.
 - Beantwortung von Fragen rund ums Spiel, z. B. zu Features, Regeln oder allgemeinen Abläufen.
@@ -163,8 +157,7 @@ allgemeinen Anliegen und sorgen für eine gesunde Kommunikation zwischen Spieler
 > Bei allgemeinen Anliegen, Feedback oder Stimmungen innerhalb der Community ist der Community
 > Manager ein geeigneter Ansprechpartner – nicht aber für Regelverstöße oder direkte Spielhilfe.
 
-Aufgaben
-:
+Aufgaben:
 
 - Aufnahme und Bearbeitung von vertraulichen Anliegen oder Problemen aus der Community.
 - Information der Spieler über Wartungen, Updates und bekannte Bugs.
@@ -181,8 +174,7 @@ Ihre Arbeit sorgt dafür, dass das Spiel nicht nur funktioniert, sondern auch gu
 > Designer sind nicht für Support- oder Regelthemen zuständig.
 > Bitte wende dich bei Problemen oder Fragen an den Support oder das Moderationsteam.
 
-Aufgaben
-:
+Aufgaben:
 
 - Entwicklung und Gestaltung von 3D-Modellen, etwa für Gegenstände oder Charaktere.
 - Erstellung von Texturen, um Objekte realistisch oder stilistisch passend darzustellen.
@@ -197,8 +189,7 @@ Atmosphäre.
 > Builder sind nicht für Support- oder Regelthemen zuständig.
 > Bitte wende dich bei Problemen oder Fragen an den Support oder das Moderationsteam.
 
-Aufgaben
-:
+Aufgaben:
 - Erstellung neuer Maps und Bauwerke, die den Spielspaß und die Atmosphäre verbessern.
 - Überprüfung und Behebung von Fehlern in bestehenden Karten, z. B. unzugängliche Bereiche oder
     Baufehler.
