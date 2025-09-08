@@ -201,7 +201,7 @@ Aufgaben
 :
 - Erstellung neuer Maps und Bauwerke, die den Spielspaß und die Atmosphäre verbessern.
 - Überprüfung und Behebung von Fehlern in bestehenden Karten, z. B. unzugängliche Bereiche oder
-  Baufehler.
+    Baufehler.
 
 </tab>
 
