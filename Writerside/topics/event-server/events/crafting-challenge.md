@@ -20,7 +20,7 @@ Zeig uns deine Ideen für das Energiesystem der Zukunft!
 * Baue deine Vision für die **Energieversorgung der Zukunft** in Minecraft
 * Du kannst **allein** oder im **Team** teilnehmen (maximal 5 Personen)
 * Teilnahmealter: **ab 12 Jahren**
-* Zeitraum: **30. Mai bis 15. September 2025**
+* Zeitraum: **30. Mai bis 21. September 2025**
 * Die besten Einreichungen gewinnen Preise im Wert von **80 bis 300 €**
 * Einreichungen und Gewinnabwicklung erfolgen ausschließlich durch das [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft) 
 
@@ -175,7 +175,7 @@ Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & To
 
 {collapsible="true" default-state="collapsed"}
 Wann findet das Event statt? {id="event-date"}
-: Das Event läuft vom 30. Mai bis 15. September 2025.
+: Das Event läuft vom 30. Mai bis 21. September 2025.
 
 Welche Minecraft-Version benötige ich? {id="event-mc-version"}
 : Du benötigst die Version 1.21.7.
