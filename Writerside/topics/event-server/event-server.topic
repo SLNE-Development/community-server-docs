@@ -27,6 +27,7 @@
 
         <secondary>
             <title>Kommende Events</title>
+            <card href="oneblock-event.md" badge="container"/>
             <card href="building-event.md" badge="creative"/>
         </secondary>
 
