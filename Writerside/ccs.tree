@@ -102,8 +102,8 @@
     <toc-element topic="troubleshooting.md"/>
     <toc-element topic="mtr.md" hidden="true"/>
   <toc-element topic="rank-overview.topic">
-    <toc-element topic="application-overview.md"/>
-    <toc-element topic="team-member-overview.md"/>
     <toc-element topic="rank-list-overview.md"/>
+    <toc-element topic="team-member-overview.md"/>
+    <toc-element topic="application-overview.md"/>
   </toc-element>
 </instance-profile>
