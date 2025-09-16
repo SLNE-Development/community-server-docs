@@ -12,6 +12,7 @@
     </description>
 
     <primary>
+      <title>Informationsübersicht</title>
       <card href="rank-list-overview.md" badge="creative"
             summary="Informiere dich über die Ränge auf unseren Server und welche Aufgabe sie besitzen."/>
       <card href="team-member-overview.md" badge="server"
