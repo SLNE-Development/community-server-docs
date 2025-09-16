@@ -43,27 +43,16 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fr
 - Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>
 - Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
   Stimme sind daher unausweichlich
-- Du hast mindestens `200 Stunden` <tooltip term="supporter-application-playtime-requirement">Spielzeit</tooltip>
+- Du hast bereits selbst einige Zeit auf dem Server verbracht
 
 </def>
 </deflist>
 </tab>
 <tab title="Builder" id="application-builder">
 
-> **Derzeit werden keine Bewerbungen für die Position des Builders angenommen**!
-> Keine Sorge, es wird bald eine spezielle Bewerbungsphase geben, in der ihr euch als Builder bewerben könnt!
-> In dieser Phase werdet ihr die Möglichkeit haben, eure Fähigkeiten in einem "Auswahlverfahren" auf einem Vorbau-Server
-> unter Beweis zu stellen.
-> Hier könnt ihr zeigen, was ihr drauf habt und warum gerade ihr das Zeug zum Builder habt.
-> Dafür stellen wir euch verschiedene Plugins wie WorldEdit oder goPaint zur Verfügung, damit ihr eure Kreativität und
-> Technik in vollem Umfang nutzen könnt.
-> Wann das Event stattfindet und wie ihr teilnehmen könnt, erfahrt ihr auf dem [Discord](%dc_link%)
-> unter [%com_updates_channel_display%](%com_updates_channel%).
-\
-> Wir danken euch für euer Verständnis und freuen uns schon darauf, eure beeindruckenden Bauwerke in der Bewerbungsphase
-> zu sehen!
+>Diese Position kann nur während einer Bewerbungsphase angefragt werden.
 >
-{style="warning" title="Momentan keine Bewerbung als Builder möglich!"}
+{style="warning"}
 
 <deflist>
 <def title="Beschreibung" id="description-builder">
