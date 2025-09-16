@@ -1,6 +1,6 @@
 # Teammitglieder Übersicht
 
-Eine Liste aller Teammitglieder welche das Team auf unterschiedlichen Ebenen unterstützen.
+Eine Liste aller Teammitglieder welche den Server auf unterschiedlichen Ebenen unterstützen.
 Ohne das Team läuft auf dem Server nichts.
 
 
