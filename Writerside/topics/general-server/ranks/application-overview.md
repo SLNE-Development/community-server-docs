@@ -1,6 +1,7 @@
 # Bewerbungsinformationen
 
-Du möchtest dich für das Serverteam **bewerben**? Hier findest du alle wichtigen Informationen zu den verschiedenen Rängen und deren Anforderungen.
+Du möchtest dich für das Serverteam **bewerben**? Hier findest du alle wichtigen Informationen zu
+den verschiedenen Rängen und deren Anforderungen.
 
 
 <tabs>
@@ -14,20 +15,23 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 
 - Du hast ausreichend Zeit und Lust auf das Projekt
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
-- Du kennst dich mit Gradle, Git, Spring und MySQL aus
-- Du beherrschst die Programmiersprachen Java und **Kotlin**
+- Du kennst dich
+  mit [Gradle](https://gradle.org/), [Git](https://git-scm.com/), [Spring](https://spring.io/)
+  und [MySQL](https://www.mysql.com/de/) aus
+- Du beherrschst die Programmiersprachen Java und **[Kotlin](https://kotlinlang.org/)**
 - Du hast bereits Erfahrung in der Entwicklung von Paper und Velocity Plugins
-- Asynchrone Programmierung und die Arbeit mit Packets bzw. PacketEvents sollte kein Problem darstellen
-- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
-  Stimme sind daher unausweichlich
+- Asynchrone Programmierung und die Arbeit mit Packets
+  bzw. [PacketEvents](https://github.com/retrooper/packetevents) sollte kein Problem darstellen
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie
+  die Preisgabe deiner Stimme sind daher unausweichlich
 
 </def>
 </deflist>
 </tab>
 <tab title="Supporter" id="application-supporter">
 
->Diese Position kann nur während einer Bewerbungsphase angefragt werden.
-> 
+> Diese Position kann nur während einer Bewerbungsphase angefragt werden.
+>
 {style="warning"}
 
 <deflist>
@@ -41,7 +45,8 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fr
 - Du bist hilfsbereit, freundlich, geduldig und pflegst einen respektvollen Umgang
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
 - Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>
-- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie die Preisgabe deiner
+- Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server; ein Mikrofon sowie
+  die Preisgabe deiner
   Stimme sind daher unausweichlich
 - Du hast bereits selbst einige Zeit auf dem Server verbracht
 
@@ -50,7 +55,7 @@ Du hilfst den Spielern, sich auf dem Server zurechtzufinden, und beantwortest Fr
 </tab>
 <tab title="Builder" id="application-builder">
 
->Diese Position kann nur während einer Bewerbungsphase angefragt werden.
+> Diese Position kann nur während einer Bewerbungsphase angefragt werden.
 >
 {style="warning"}
 
@@ -67,7 +72,8 @@ Diese werden dann anschließend für kommende Events verwendet oder in der Lobby
 - Du kannst detailliert bauen
 - Du beherrschst mehrere Baustile
 - Du bist teamfähig & besitzt eine gewisse geistige Reife
-- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die Offenbarung deiner
+- Die teaminterne Kommunikation erfolgt über den Discord & TeamSpeak-Server, ein Mikrofon und die
+  Offenbarung deiner
   Stimme ist daher unausweichlich
 
 </def>
@@ -97,7 +103,8 @@ Weitere Informationen findest du hier: **[](doc-contribution.md)**
 <deflist>
 <def title="Wie bewerbe ich mich?" id="how-to-apply">
 
-Wenn auch du Lust hast im Team mitzuhelfen, den Server weiter zu gestalten und uns zu unterstützen, kannst du dich gerne
+Wenn auch du Lust hast im Team mitzuhelfen, den Server weiter zu gestalten und uns zu unterstützen,
+kannst du dich gerne
 bei uns melden.
 Am besten geht dies in einem [Ticket](%tickets_channel%).
 </def>
