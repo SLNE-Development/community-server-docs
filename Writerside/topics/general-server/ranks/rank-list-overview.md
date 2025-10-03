@@ -1,15 +1,16 @@
 # Rangübersicht
 
-Hier findest du alle Ränge, welche auf dem Server vergeben sind, sowie deren Aufgabe.
+Hier findest du alle Ränge, die auf dem Server vergeben sind, sowie deren Aufgaben.
 
 <tabs>
-<tab title="Administrator" id="admin">
+<tab title="Administration" id="admin">
 <deflist>
 <def title="Beschreibung" id="description-admin">
 
-Administratoren sind für die strategische und technische Leitung des Projekts verantwortlich.
-Sie agieren primär im Hintergrund und arbeiten an der Infrastruktur, den Systemen und der
+Die Administration ist für die strategische und technische Leitung des Projekts verantwortlich.
+Sie agiert primär im Hintergrund und arbeit an der Infrastruktur, den Systemen und der
 langfristigen Weiterentwicklung des Servers.
+
 </def>
 <def title="Aufgaben" id="tasks-admin">
 
@@ -20,6 +21,7 @@ langfristigen Weiterentwicklung des Servers.
 - Weiterentwicklung der technischen Infrastruktur und grundlegender Systeme.
 - Erarbeitung und Anpassung von Spielregeln und Richtlinien.
 - Entwicklung neuer Spielmodi und Organisation von Events (Planung, Absprache, Durchführung).
+
 </def>
 </deflist>
 </tab>
@@ -28,21 +30,23 @@ langfristigen Weiterentwicklung des Servers.
 <deflist>
 <def title="Beschreibung" id="description-management">
 
-Das Management-Team bildet die Brücke zwischen dem technischen Hintergrund und dem täglichen Betrieb
+Das Team-Management bildet die Brücke zwischen dem technischen Hintergrund und dem täglichen Betrieb
 mit der Spielerschaft.
-Sie sorgen dafür, dass interne Prozesse im Team reibungslos laufen und 
-für komplexere Anliegen der Spieler erreichbar sind.
+Sie stellen sicher, dass interne Prozesse im Team reibungslos laufen und stehen den Spielern bei
+komplexeren Anliegen zur Verfügung.
+
 </def>
 <def title="Aufgaben" id="tasks-management">
 
-- Verwaltung von spiel bezogenen Themen wie Rückerstattungen oder Rollbacks.
+- Verwaltung spielbezogener Themen wie Rückerstattungen oder Rollbacks.
 - Organisation und Leitung des Teams:
     - Bearbeitung interner Beschwerden über Teammitglieder.
     - Durchführung von Team-Meetings und Feedbackgesprächen.
-    - Kontrolle des Verhaltens im Team und Förderung einer guten Teamkultur.
-    - Auswahl und Einführung neuer Teammitglieder (Supporter und Moderatoren).
+    - Überwachung des Teamverhaltens und Förderung einer positiven Teamkultur.
+    - Auswahl sowie Einarbeitung neuer Teammitglieder (Supporter und Moderatoren).
     - Planung zukünftiger Bewerbungsprozesse.
-- Unterstützung der Moderatoren bei schwierigen Fällen.
+- Unterstützung der Moderatoren in schwierigen Fällen.
+
 </def>
 </deflist>
 </tab>
@@ -51,15 +55,17 @@ für komplexere Anliegen der Spieler erreichbar sind.
 <deflist>
 <def title="Beschreibung" id="description-developer">
 
-Developer sind die technischen Architekten des Servers. 
+Developer sind die technischen Architekten des Servers.
 Sie entwickeln Systeme, programmieren Funktionen und sorgen für eine stabile, moderne Infrastruktur.
+
 </def>
 <def title="Aufgaben" id="tasks-developer">
 
 - Entwicklung von Plugins, Funktionen und Systemen.
 - Pflege und Weiterentwicklung von Website, Datenbanken und Discord-Integration.
-- Bearbeitung und Behebung von Bug Reports.
+- Bearbeitung und Behebung von Bugreports.
 - Dokumentation der Systeme zur Wartung und Transparenz.
+
 </def>
 </deflist>
 </tab>
@@ -68,13 +74,15 @@ Sie entwickeln Systeme, programmieren Funktionen und sorgen für eine stabile, m
 <deflist>
 <def title="Beschreibung" id="description-discord-moderator">
 
-Discord Moderatoren sind für Ordnung und Hilfestellung auf dem Discord zuständig. 
+Discord-Moderatoren sind für Ordnung und Hilfestellung auf dem Discord zuständig.
 Sie bearbeiten Tickets und unterstützen bei Problemen außerhalb des Spiels.
+
 </def>
 <def title="Aufgaben" id="tasks-discord-moderator">
 
 - Bearbeitung von Discord-spezifischen Tickets.
 - Unterstützung bei technischen oder sozialen Problemen im Discord.
+
 </def>
 </deflist>
 </tab>
@@ -83,16 +91,18 @@ Sie bearbeiten Tickets und unterstützen bei Problemen außerhalb des Spiels.
 <deflist>
 <def title="Beschreibung" id="description-moderator">
 
-Moderatoren sorgen für die Einhaltung der Regeln. 
+Moderatoren sorgen für die Einhaltung der Regeln.
 Sie greifen bei Konflikten ein und kümmern sich um eine faire Spielumgebung.
+
 </def>
 <def title="Aufgaben" id="tasks-moderator">
 
 - Unterstützung bei allgemeinen Fragen und Konflikten.
 - Einschreiten bei Regelverstößen und Durchsetzung der Regeln.
 - Einarbeitung und Begleitung neuer Supporter.
-- Bearbeitung erweiterter Tickets (z. B. Entbannungsanträge).
+- Bearbeitung erweiterter Tickets (z. B. Entbannungsanträge).
 - Entscheidung über Sanktionen (Verwarnungen, Banns).
+
 </def>
 </deflist>
 </tab>
@@ -101,8 +111,9 @@ Sie greifen bei Konflikten ein und kümmern sich um eine faire Spielumgebung.
 <deflist>
 <def title="Beschreibung" id="description-supporter">
 
-Supporter sind die **erste Anlaufstelle** für Spieler. 
+Supporter sind die **erste Anlaufstelle** für Spieler.
 Sie helfen bei Fragen, erklären Regeln und stehen bei kleineren Problemen zur Seite.
+
 </def>
 <def title="Aufgaben" id="tasks-supporter">
 
@@ -110,7 +121,8 @@ Sie helfen bei Fragen, erklären Regeln und stehen bei kleineren Problemen zur S
 - Beantwortung von Fragen zu Features, Regeln und Abläufen.
 - Vermittlung bei Konflikten ohne Regelverstöße.
 - Bearbeitung von Support-Tickets (Whitelist, Events, Hilfeanfragen).
-- Unterstützung bei der Regel-Einhaltung ohne Sanktionen.
+- Unterstützung bei der Regeleinhaltung ohne Sanktionen.
+
 </def>
 </deflist>
 </tab>
@@ -119,16 +131,18 @@ Sie helfen bei Fragen, erklären Regeln und stehen bei kleineren Problemen zur S
 <deflist>
 <def title="Beschreibung" id="description-community-manager">
 
-Community Manager sind die Stimme der Spielerschaft im Team. 
+Community Manager sind die Stimme der Spielerschaft im Team.
 Sie sammeln Feedback, vermitteln bei Anliegen und sorgen für gute Kommunikation.
+
 </def>
 <def title="Aufgaben" id="tasks-community-manager">
 
-- Bearbeitung vertraulicher Anliegen oder Probleme.
-- Information der Spieler über Updates, Wartungen und Bugs.
-- Aktives Einholen von Feedback.
-- Betreuung von Social Media (optional).
+- Bearbeitung vertraulicher Anliegen und Probleme.
+- Informieren der Spieler über Updates, Wartungsarbeiten und Fehler.
+- Aktives Einholen und Auswerten von Feedback.
+- Betreuung von Social-Media (optional).
 - Vermittlung bei allgemeinen Themen zwischen Spielern und Team.
+
 </def>
 </deflist>
 </tab>
@@ -137,13 +151,16 @@ Sie sammeln Feedback, vermitteln bei Anliegen und sorgen für gute Kommunikation
 <deflist>
 <def title="Beschreibung" id="description-designer">
 
-Designer kümmern sich um das grafische Erscheinungsbild – von 3D-Modellen über Texturen bis zu Animationen.
+Designer gestalten das visuelle Erscheinungsbild des Servers – angefangen bei 3D-Modellen über
+Texturen bis zu Animationen.
+
 </def>
 <def title="Aufgaben" id="tasks-designer">
 
 - Entwicklung von 3D-Modellen für Items oder Charaktere.
 - Erstellung von Texturen für realistische oder stilistische Darstellung.
 - Entwicklung von Animationen für Figuren und Effekte.
+
 </def>
 </deflist>
 </tab>
@@ -152,13 +169,15 @@ Designer kümmern sich um das grafische Erscheinungsbild – von 3D-Modellen üb
 <deflist>
 <def title="Beschreibung" id="description-builder">
 
-Builder gestalten die Spielwelt. 
-Sie bauen Maps und Umgebungen, die Atmosphäre und Spielspaß schaffen.
+Builder gestalten die Spielwelt, indem sie Maps und Umgebungen entwerfen, die Atmosphäre erzeugen
+und den Spielspaß fördern.
+
 </def>
 <def title="Aufgaben" id="tasks-builder">
 
 - Erstellung neuer Maps und Bauwerke.
 - Überprüfung und Behebung von Baufehlern in bestehenden Karten.
+
 </def>
 </deflist>
 </tab>
@@ -169,7 +188,7 @@ Sie bauen Maps und Umgebungen, die Atmosphäre und Spielspaß schaffen.
 <deflist>
 <def title="Beschreibung" id="description-creator">
 
-Content Creator, welche von CastCrafter ausgewählt worden sind.
+Content Creator, die von CastCrafter ausgewählt worden sind.
 
 </def>
 </deflist>
@@ -179,7 +198,7 @@ Content Creator, welche von CastCrafter ausgewählt worden sind.
 <deflist>
 <def title="Beschreibung" id="description-contributor">
 
-Ehemalige Teammitglieder oder andere Spieler, welche uns unterstützt haben.
+Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 
 </def>
 </deflist>
@@ -189,7 +208,7 @@ Ehemalige Teammitglieder oder andere Spieler, welche uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium-plus">
 
-*Soon*
+*Soon™*
 
 </def>
 </deflist>
@@ -199,7 +218,7 @@ Ehemalige Teammitglieder oder andere Spieler, welche uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium">
 
-*Soon*
+*Soon™*
 
 </def>
 </deflist>
@@ -209,7 +228,7 @@ Ehemalige Teammitglieder oder andere Spieler, welche uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-veteran">
 
-Spieler, welche auf dem 1.20 Survival Server mehr als 200 Stunden aktive Spielzeit hatten
+Spieler, welche auf dem 1.20 Survival Server mehr als 200 Stunden aktive Spielzeit hatten.
 
 </def>
 </deflist>

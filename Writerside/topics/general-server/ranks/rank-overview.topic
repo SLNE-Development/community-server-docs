@@ -8,7 +8,7 @@
   <section-starting-page>
     <title>Rangübersicht &amp; Bewerbungsinformationen</title>
     <description>
-      Hier findest du eine Übersicht der Ränge, über unsere Teammitglieder und wie du dich für das Team bewerben kannst.
+      Hier erhältst du einen Überblick über die Ränge, die Teammitglieder und den Bewerbungsprozess.
     </description>
 
     <primary>
@@ -18,7 +18,7 @@
       <card href="team-member-overview.md" badge="server"
             summary="Hier findest du eine Liste aller Teammitglieder und deren Position."/>
       <card href="application-overview.md" badge="container"
-            summary="Erfahre wie du dich für das Team bewerben kannst und welche Anforderungen du mitbringen musst."/>
+            summary="Erfahre, wie du dich für das Team bewerben kannst und welche Anforderungen du mitbringen musst."/>
     </primary>
 
   </section-starting-page>

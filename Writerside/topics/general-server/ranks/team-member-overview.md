@@ -1,8 +1,7 @@
 # Teammitglieder Übersicht
 
-Eine Liste aller Teammitglieder welche den Server auf unterschiedlichen Ebenen unterstützen.
-Ohne das Team läuft auf dem Server nichts.
-
+Diese Liste zeigt alle Teammitglieder, die den Server auf vielfältige Weise unterstützen.
+Ohne ihr Engagement wäre der Server nicht das, was er heute ist.
 
 | Rang                                | Mitglieder                                                                                                                                                                                        |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
