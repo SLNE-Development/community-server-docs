@@ -8,7 +8,7 @@ Hier findest du alle Ränge, die auf dem Server vergeben sind, sowie deren Aufga
 <def title="Beschreibung" id="description-admin">
 
 Die Administration ist für die strategische und technische Leitung des Projekts verantwortlich.
-Sie agiert primär im Hintergrund und arbeit an der Infrastruktur, den Systemen und der
+Sie agiert primär im Hintergrund und arbeitet an der Infrastruktur, den Systemen und der
 langfristigen Weiterentwicklung des Servers.
 
 </def>
