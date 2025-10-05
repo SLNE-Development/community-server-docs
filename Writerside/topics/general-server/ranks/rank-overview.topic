@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+    SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Rangübersicht &amp; Bewerbungsinformationen" id="rank-overview">
+
+  <section-starting-page>
+    <title>Rangübersicht &amp; Bewerbungsinformationen</title>
+    <description>
+      Hier erhältst du einen Überblick über die Ränge, die Teammitglieder und den Bewerbungsprozess.
+    </description>
+
+    <primary>
+      <title>Informationsübersicht</title>
+      <card href="rank-list-overview.md" badge="creative"
+            summary="Informiere dich über die Ränge auf unseren Server und welche Aufgabe sie besitzen."/>
+      <card href="team-member-overview.md" badge="server"
+            summary="Hier findest du eine Liste aller Teammitglieder und deren Position."/>
+      <card href="application-overview.md" badge="container"
+            summary="Erfahre, wie du dich für das Team bewerben kannst und welche Anforderungen du mitbringen musst."/>
+    </primary>
+
+  </section-starting-page>
+</topic>
