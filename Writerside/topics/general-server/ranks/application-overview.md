@@ -24,7 +24,7 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du hast bereits Erfahrung in der Entwicklung von Paper- und Velocity-Plugins.
 - Asynchrone Programmierung und die Arbeit mit Packets
   bzw. [PacketEvents](https://github.com/retrooper/packetevents) sollte kein Problem darstellen.
-- Du hast die Fähigkeit, Deadlines einzuhalten und kannst über den Status deines Projektes informieren.
+- Du hältst Fristen zuverlässig ein und informierst regelmäßig über den aktuellen Stand deines Projekts.
 - Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server.
   Ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich.
 
