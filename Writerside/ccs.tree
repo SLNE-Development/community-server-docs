@@ -8,7 +8,6 @@
 
     <toc-element topic="community-server-landing-page.topic"/>
     <toc-element topic="rules.md">
-        <toc-element topic="verified-mods.md"/>
     </toc-element>
     <toc-element topic="servers.md"/>
     <toc-element topic="how-to-join.md"/>
