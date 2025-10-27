@@ -43,6 +43,7 @@ mit einem Ausschluss vom Server rechnen.
    Private Casinos oder Glücksspiele in nicht-öffentlichen, unbeworbenen Bereichen sind erlaubt, sofern sie den übrigen Regeln entsprechen.
 
 > Das Server-Team hat stets das letzte Wort, auch wenn dies im Widerspruch zu den offiziellen Regeln stehen sollte.
+> Wir bitten darum, auf längere Diskussionen mit dem Server-Team zu verzichten und Entscheidungen der Moderation zu akzeptieren, auch wenn ihr anderer Meinung seid.
 {style="warning"}
 
 
