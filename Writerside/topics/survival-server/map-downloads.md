@@ -2,6 +2,86 @@
 # Map Downloads
 
 <tabs>
+
+<tab title="1.21 Community Server" id="survival-server-1_21">
+
+> Wie schon im letzten Jahr erscheint der Map-Download zusammen mit dem Servertour-Video zum Start der neuen Season.
+{style="warning" title="Der Map Download für die Season 1.21 ist noch nicht verfügbar!"}
+
+<chapter title="Veteranen" collapsible="true" default-state="collapsed" id="veteran-1_21">
+
+> Diese Season haben alle Spieler, die mehr als `550` Stunden auf dem Server verbracht haben, den Veteranen-Rang
+> erhalten.
+> 
+> Insgesamt haben sich damit `61` Spieler für den Veteranen Rang qualifiziert!
+
+| Name               | Spielzeit       |
+|:-------------------|:----------------|
+| `ghost_buster15`   | 87d 14h 33m 45s |
+| `Lena_x18`         | 83d 01h 39m 13s |
+| `Xenus_LP`         | 78d 02h 20m 09s |
+| `Leming55`         | 67d 13h 27m 47s |
+| `Laserbeast_`      | 66d 19h 28m 37s |
+| `Papreika_06`      | 62d 11h 24m 52s |
+| `Pingius2031`      | 61d 11h 34m 28s |
+| `Laluck98`         | 57d 07h 01m 02s |
+| `Mini_Held`        | 56d 00h 53m 12s |
+| `n333999666`       | 55d 07h 52m 53s |
+| `Jo_field`         | 54d 14h 21m 37s |
+| `_Danilo`          | 52d 14h 06m 17s |
+| `JustinZockt`      | 52d 09h 14m 55s |
+| `Shejlo`           | 50d 20h 59m 05s |
+| `_RaZeBoy_`        | 49d 02h 14m 34s |
+| `RuBiX232`         | 48d 23h 33m 48s |
+| `JosuaM`           | 48d 19h 31m 20s |
+| `Slackmom`         | 46d 22h 31m 27s |
+| `JurmanTV`         | 46d 21h 18m 03s |
+| `BelieveOnKitKat`  | 45d 19h 45m 03s |
+| `Cookiiieee`       | 44d 23h 06m 24s |
+| `Qwoxelias`        | 44d 19h 50m 26s |
+| `NajuraLP02`       | 43d 17h 28m 54s |
+| `FloCraft04`       | 43d 00h 04m 19s |
+| `Timonso`          | 40d 20h 25m 07s |
+| `SasaBrix`         | 39d 18h 22m 53s |
+| `HiorCraft`        | 39d 16h 19m 07s |
+| `colerfull`        | 39d 09h 28m 51s |
+| `FRESHSP1R1T`      | 38d 08h 28m 38s |
+| `Lynnedeed`        | 37d 03h 25m 00s |
+| `Floweryalina`     | 36d 08h 04m 57s |
+| `FlashMini`        | 36d 00h 23m 21s |
+| `Freckly53`        | 33d 12h 10m 08s |
+| `Bauer3333`        | 33d 01h 24m 26s |
+| `TheBjoRedCraft`   | 32d 08h 47m 49s |
+| `bringeis1`        | 31d 12h 48m 49s |
+| `Lule`             | 30d 21h 16m 43s |
+| `EinfachJan_LP`    | 30d 15h 39m 13s |
+| `SoulLou`          | 29d 14h 03m 05s |
+| `_NIJ0_`           | 29d 12h 50m 17s |
+| `KamiIIe`          | 29d 11h 20m 45s |
+| `MikeyLLP`         | 28d 21h 19m 03s |
+| `ToStrongTV`       | 28d 15h 01m 08s |
+| `Rodo213`          | 28d 14h 25m 54s |
+| `Fabidaslamaa`     | 28d 00h 46m 27s |
+| `FlipFlop181`      | 27d 23h 27m 27s |
+| `Richard__Batsbak` | 27d 20h 43m 37s |
+| `PEKK29`           | 27d 05h 00m 05s |
+| `TobiKro110`       | 26d 21h 30m 18s |
+| `spiegelblut`      | 26d 02h 12m 06s |
+| `Konstiog`         | 26d 01h 42m 24s |
+| `NightSight2305`   | 25d 18h 14m 28s |
+| `sweatymiinxx`     | 24d 08h 42m 29s |
+| `TH30DO_I2M`       | 24d 05h 32m 29s |
+| `xkirit0x_`        | 23d 23h 10m 03s |
+| `EinePapiertonne`  | 23d 19h 08m 34s |
+| `FloralAxis23621`  | 23d 18h 02m 06s |
+| `neunik`           | 23d 14h 41m 02s |
+| `Dorlino_`         | 23d 05h 58m 38s |
+| `Alex_mhr`         | 23d 04h 42m 28s |
+| `Genius187`        | 23d 00h 05m 58s |
+
+</chapter>
+</tab>
+
 <tab title="1.20 Community Server" id="survival-server-1_20">
 <a href="https://drive.google.com/file/d/1C0xd0zgWUxuYsKnyQESLe23pYV9axxXF/">Map Download</a>
 <video src="https://www.youtube.com/watch?v=4JFUiPN2aX4"/>
@@ -36,6 +116,8 @@
 
 > Diese Season haben alle Spieler, die mehr als `200` Stunden auf dem Server verbracht haben, den Veteranen-Rang
 > erhalten.
+> 
+> Insgesamt haben sich damit `49` Spieler für den Veteranen Rang qualifiziert!
 
 | Name               | Spielzeit       |
 |:-------------------|:----------------|
@@ -135,6 +217,7 @@
 > Diese Season haben alle Spieler, die mehr als `200` Stunden auf dem Server verbracht haben, den Veteranen-Rang
 > erhalten.
 >
+> Insgesamt haben sich damit `44` Spieler für den Veteranen Rang qualifiziert!
 
 | Name               | Spielzeit       |
 |:-------------------|:----------------|
