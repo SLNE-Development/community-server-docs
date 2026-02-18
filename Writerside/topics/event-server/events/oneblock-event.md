@@ -35,11 +35,10 @@ den aktuellen OneBlock befinden.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-start"}
-: Das Event läuft vom **12.09.2025 um 18:00 Uhr** bis zum **14.09.2025 um 18:00 Uhr**.
+: Das Event läuft vom **21.02.2026 um 15:00 Uhr** bis zum **01.03.2026 um 18:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
-: Empfohlen wird die Minecraft Java Version **1.21.8**.
-Ihr könnt jedoch auch die Version **1.21.7** verwenden.
+: Benötigt wird die Minecraft Java Version **1.21.11**.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
