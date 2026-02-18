@@ -24,34 +24,6 @@ durch das Abbauen von Steinen und das Finden von Ressourcen in der Welt fortbewe
 In eurem Startraum findet ihr eine Kiste mit nützlichen Items und einen Baum, die euch den Start erleichtern
 sollen.
 
-## Zusätzliche Regeln {id="rules"}
-
-1. **Spielmodifikationen, die dir keinen unfairen Vorteil gegenüber anderen verschaffen sind
-   erlaubt**, solange sie die Kommunikation zwischen Server und Client nicht verändern. Andere
-   Modifikationen und/oder Hacked-Clients sind strengstens untersagt. Außerdem weisen wir darauf
-   hin, dass alles, was eine Tätigkeit des Spielers automatisiert, untersagt ist, egal ob es sich um
-   Minecraft-Modifikationen, externe Software, Exploits, Hardware oder sonstige Möglichkeiten
-   handelt. Bitte stelle sicher, dass alle Modifikationen, die du verwendest,
-   ausschließlich clientseitig sind und das Verhalten des Spiels nicht verändern. Modifikationen, welche das Ziel
-   haben AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls nicht gestattet. Alleine das Betreten des
-   Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu einem Ausschluss führen.
-   Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwendet sie
-   nicht, [werft einen Blick auf die Liste geprüfter Mods](verified-mods.md "Liste der geprüften Modifikationen")
-   oder [kontaktiert den Support](support.md "Support, Erstattungen & Bugreport").
-
-   > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Minimap / Worldmap**, **Freecam**, **MouseWheelie**, **AutoClicker**, 
-   > **Macros**, sowie **jegliche Formen von X-Ray oder CaveFindern**!
-   >
-   {style="warning"}
-   
-2. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
-   untersagt.** Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
-   Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z.B. einen
-   Vorteil zu verschaffen.
-3. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
-   von anderen Spielern zerstörst, andere Spieler bestiehlst oder tötest, obwohl dies nicht vorgesehen ist, droht ein sofortiger
-   Ausschluss vom Server.
-
 ## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}
