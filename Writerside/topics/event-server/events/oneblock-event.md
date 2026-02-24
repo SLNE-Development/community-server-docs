@@ -23,9 +23,11 @@ Insel aus, erkundet die gefährlichen Weiten und meistert die Herausforderungen 
 `/locateOneBlock`
 : Zeigt dir die Koordinaten deines OneBlock im Chat an.
 
-`/relocate`
-: Startet den Umzug deines OneBlock. Du musst dich dafür **innerhalb eines Radius von 5 Blöcken** um
-den aktuellen OneBlock befinden.
+`/relocate here`
+: Verlegt deinen OneBlock an deine aktuelle Position. Kann nicht verwendet werden, wenn ein weiter Oneblock in der Nähe ist.
+
+## Statistiken {id="stats"}
+Auf der [Stats Website](https://stats.castcrafter.de/) findest du detaillierte Statistiken zu dir und anderen Spielern.
 
 ## Weiteres {id="other"}
 
