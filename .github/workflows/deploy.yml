@@ -11,13 +11,13 @@ permissions:
 
 env:
   INSTANCE: Writerside/ccs
-  DOCKER_VERSION: 2025.04.8412
+  DOCKER_VERSION: 2026.02.8644
 
   ALGOLIA_APP_NAME: C86V8LU863
   ALGOLIA_INDEX_NAME: docs_cast_crafter_community_server
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: CCS
-  CONFIG_JSON_VERSION: 1.21.8 # This value should be updated with the version of the product
+  CONFIG_JSON_VERSION: 1.21.11 # This value should be updated with the version of the product
 
 jobs:
   build:
@@ -96,12 +96,12 @@ jobs:
         run: unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d cf-pages
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v3.14.1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy cf-pages --project-name=community-server-docs --branch=main
-          wranglerVersion: 3.101.0
+          #wranglerVersion: 3.101.0
 
   publish-indexes:
     needs: [ build, test, deploy ]
