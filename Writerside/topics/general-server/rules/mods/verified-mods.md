@@ -24,22 +24,6 @@ Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, die **nicht ge
 
 </if>
 
-<if switcher-key="English">
-
-The following list includes modifications that you can safely use on the server.\
-Please note that other modifications are also allowed if they meet the criteria outlined in the [rules](rules.md), but
-the following mods have been reviewed by the team.
-
-> Due to an increase in bans, we want to emphasize once again that **MouseWheelie is not compatible with the server**,
-> as it alters the communication between the client and server!
->
-> **Freecam is also not allowed on our server**.
-> It gives players an unfair advantage, as it can be used like X-Ray to find ores, for example.
->
-{style="warning"}
-
-</if>
-
 <include from="util.md" element-id="mod-pack"/>
 
 ## Überprüfte Modifikationen {switcher-key="Deutsch" id="verified-modifications-ger"}

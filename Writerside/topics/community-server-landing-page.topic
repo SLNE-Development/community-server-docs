@@ -20,7 +20,7 @@
 
         <primary>
             <title>Mache dich mit den Regeln vertraut</title>
-            <card href="rules.md" badge="check-list"
+            <card href="rules-overview.topic" badge="check-list"
                   summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
             <card href="verified-mods.md" badge="cross-check"
                   summary="Eine Liste mit geprüften Modifikationen, welche ihr auf dem Server verwenden dürft"/>
