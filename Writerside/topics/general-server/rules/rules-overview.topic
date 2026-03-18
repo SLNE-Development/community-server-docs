@@ -16,7 +16,7 @@
       <card href="rules.md" badge="library"
             summary="Das allgemeine Serverregelwerk"/>
       <card href="verified-mods.md" badge="support"
-            summary="Eine liste mit Modifikationen, welche vom Server-Team überprüft worden und ohne Bedenken auf dem Server verwendetbar sind."/>
+            summary="Eine Liste mit Modifikationen, die vom Server-Team überprüft wurden und ohne Bedenken auf dem Server verwendbar sind."/>
     </primary>
 
   </section-starting-page>
