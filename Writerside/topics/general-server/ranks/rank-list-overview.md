@@ -228,7 +228,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-veteran">
 
-Spieler, welche auf dem 1.20 Survival Server mehr als 200 Stunden aktive Spielzeit hatten.
+Spieler, welche auf dem 1.21 Survival Server mehr als 550 Stunden aktive Spielzeit hatten.
 
 </def>
 </deflist>
