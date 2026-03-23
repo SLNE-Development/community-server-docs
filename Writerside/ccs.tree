@@ -39,14 +39,7 @@
                         <toc-element topic="mining.md"/>
                         <toc-element topic="combat.md"/>
                     </toc-element>
-                    <toc-element hidden="true" href="https://google.com" topic="shops-starting-page.topic">
-                    <toc-element hidden="true" href="https://google.com" topic="make-shop.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="create-shop.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="manage-shop.md">
-                        <toc-element hidden="true" href="https://google.com" topic="delete-shop.md"/>
-                    </toc-element>
                 </toc-element>
-            </toc-element>
                 <toc-element topic="armorstand.md"/>
                 <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>
         </toc-element>
