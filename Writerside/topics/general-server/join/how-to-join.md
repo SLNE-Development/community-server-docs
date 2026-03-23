@@ -5,7 +5,7 @@
 Sobald ihr das Netzwerk betretet, findet ihr euch in der **Lobby** wieder.  
 Diese kann auch von anderen Servern aus jederzeit über den Befehl `/hub` erreicht werden.
 
-## Server-Auswahl
+## Server-Auswahl {id="select-server"}
 
 In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver anwählen:
 
