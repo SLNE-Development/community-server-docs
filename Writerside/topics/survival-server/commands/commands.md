@@ -12,7 +12,7 @@ Schickt eine Privatnachricht an den angegebenen Spieler.
 >
 </def>
 
-<def title="/ignore <player>" id="ignore"> 
+<def title="/ignore &lt;player&gt;" id="ignore"> 
 Blockiert den angegebenen Spieler im Chat.
 
 > Um einen Spieler wieder freizugeben, gebe den Befehl erneut ein.
