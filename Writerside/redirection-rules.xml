@@ -164,4 +164,9 @@
         <description>Created after removal of "Shop verwalten" from Community Server Docs</description>
         <accepts>manage-shop.html</accepts>
     </rule>
+    <rule id="2e5b6818">
+        <description>
+            <![CDATA[Created after removal of "Aktuelle Probleme & Fehler" from Community Server Docs]]></description>
+        <accepts>current-server-issues.html</accepts>
+    </rule>
 </rules>
