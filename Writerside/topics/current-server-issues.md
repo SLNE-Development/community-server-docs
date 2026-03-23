@@ -29,7 +29,7 @@ Ziel ist es, die Grundlage für zukünftige Updates zu stabilisieren.
 
 Die Wartungsarbeiten starten am Freitag, den **09.05.2025** um **18:00 Uhr**.
 Die Arbeiten werden voraussichtlich **7 Tage** in Anspruch nehmen. \
-Wir informieren euch im [Discord](%dc_link%) unter [%com_updates_channelwie könnt i_display%](%com_updates_channel%), sobald der Server wieder für euch verfügbar ist.
+Wir informieren euch im [Discord](%dc_link%) unter [%com_updates_channel_display%](%com_updates_channel%), sobald der Server wieder für euch verfügbar ist.
 </def>
 <def title="Was passiert mit geplanten Events während der Wartung?" id="maintenance-events">
 Angekündigte Events finden während der Wartung nicht statt.
