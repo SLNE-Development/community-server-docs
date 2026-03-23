@@ -15,26 +15,11 @@ In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unt
 <deflist>
 <def title="Beschreibung des Survival Servers" id="survival-server-description">
 
-Der [Survival Server](survival-server.topic "Klicke für weitere Informationen zum Survival Server!") ist der Hauptserver
-des Community Servers. \
+Der [Survival Server](survival-server.topic "Klicke für weitere Informationen zum Survival Server!") ist der Hauptserver des Community Servers. \
 Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
-Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen, welche das Vanilla Gameplay etwas
-beeinflussen. \
+Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen, welche das Vanilla Gameplay etwas beeinflussen. \
 Diese Änderungen sind in der
-Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla Mechaniken anzusehen!")
-aufgelistet.
-
-Um die Wartezeiten so gering wie möglich zu halten und möglichst vielen Spielern den Spaß am Survival Server zu
-ermöglichen, gibt es zwei Server.
-Sobald ihr in der Lobby den Kompass öffnet und auf den Survival Server navigiert, könnt ihr euch für
-einen Server entscheiden.
-Die Inventare der beiden Server sind synchronisert.
-
-> Bitte nutzt andere Server nicht ausschließlich als "Farmwelt" und achtet darauf, auch anderen Spielern die Möglichkeit
-> zu geben,
-> die Welt auf ihre Weise zu gestalten.
->
-{style="warning"}
+Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla Mechaniken anzusehen!") aufgelistet.
 </def>
 
 <def title="Anforderungen für den Survival Server" id="survival-dependencies">
