@@ -12,8 +12,7 @@ Um an einem Event teilzunehmen, folge diesen Schritten:
     - Interagiere mit dem Navigator, um ein Menü zu öffnen, in welchem du dem aktuellen Event beitreten
       kannst. 
     - Sollte aktuell kein Event laufen, kannst du dich auch nicht mit dem Event Server verbinden.
-    - Sollte das Event voll sein, wirst du in eine Warteschlange versetzt. 
-    - Weitere Informationen findest du [hier](servers.md)
+    - Sollte das Event voll sein, wirst du in eine Warteschlange versetzt.
 
 ## Event-Ankündigungen {id="event-announcements"}
 

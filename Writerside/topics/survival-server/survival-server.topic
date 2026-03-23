@@ -49,8 +49,6 @@
                 <title>Andere relevante Themen</title>
                 <card href="support.md" badge="support"
                       summary="Hier erfährst du, wie du den Support kontaktierst, um z. B. Griefing oder einen Bug zu melden."/>
-                <card href="servers.md" badge="server"
-                      summary="Auf dem Community Server gibt es verschiedene Server. Hier erfährst du, wie du sie betrittst und was du auf ihnen tun kannst."/>
                 <card href="commands.md" badge="keyboard"
                       summary="Hier findest du eine Übersicht über alle Commands, die du auf dem Server nutzen kannst."/>
                 <card href="faq.md" badge="search"

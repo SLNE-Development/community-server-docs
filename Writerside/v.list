@@ -17,6 +17,7 @@
     <var name="com_info_channel_display" value="📬┃server-info" />
     <var name="com_updates_channel" value="https://discord.com/channels/133198459531558912/980810495877607524"/>
     <var name="com_updates_channel_display" value="🔔┃server-updates" />
+    <var name="ticket_channel_display" value="🎫┃tickets" />
     <var name="twitch_connect_tut"
          value="https://discord.com/channels/133198459531558912/1124438644523012234/1124440165943869441"/>
 

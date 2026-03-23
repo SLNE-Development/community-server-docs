@@ -120,4 +120,12 @@
         <description>Created after removal of "Köpfe und Rüstungsständer" from Community Server Docs</description>
         <accepts>cosmetics.html</accepts>
     </rule>
+    <rule id="4c021011">
+        <description>Created after removal of "Die verschiedenen Server" from Community Server Docs</description>
+        <accepts>servers.html</accepts>
+    </rule>
+    <rule id="2dce195f">
+        <description>Created after removal of "Whitelist erstellen" from Community Server Docs</description>
+        <accepts>Whitelist-erstellen.html</accepts>
+    </rule>
 </rules>

@@ -2,50 +2,83 @@
 
 # Wie könnt ihr dem Netzwerk beitreten?
 
-Sobald ihr das Netzwerk betretet, kommt ihr in die Lobby.\
-Der Server ist in 3 Bereiche unterteilt:
+Sobald ihr das Netzwerk betretet, findet ihr euch in der **Lobby** wieder.  
+Diese kann auch von anderen Servern aus jederzeit über den Befehl `/hub` erreicht werden.
+
+## Server-Auswahl
+
+In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver anwählen:
 
 <tabs>
 <tab title="Survival Server" id="survival">
 
 <deflist>
-<def title="Um auf dem Survival Server zu spielen, müsst ihr diese Anforderungen erfüllen:" id="survival-dependencies">
+<def title="Beschreibung des Survival Servers" id="survival-server-description">
 
-- Ihr benötigt die [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) in der
-  Version [%required_game_version%](%required_game_version_link%), um auf dem Server spielen zu
-  können.
-- Ihr müsst [CastCrafter](%twitch_cast%) auf [Twitch](%twitch%) folgen.
-- Ihr müsst euren Discord-Account mit [Twitch](%twitch%) verbunden haben.
-  Wie dies funktioniert, erfahrt
-  ihr [hier](support.md#link-twitch "Wie ihr eure Accounts verknüpft erfahrt ihr hier!")!
-- Ihr müsst ein [Whitelist Ticket](support.md#whitelist-ticket "%click-more-info%")
-  im [Discord](%dc_link%) erstellen.
-- Sobald ihr euch auf der Whitelist befindet, dürft ihr den Discord-Server nicht mehr verlassen.
+Der [Survival Server](survival-server.topic "Klicke für weitere Informationen zum Survival Server!") ist der Hauptserver
+des Community Servers. \
+Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
+Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen, welche das Vanilla Gameplay etwas
+beeinflussen. \
+Diese Änderungen sind in der
+Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla Mechaniken anzusehen!")
+aufgelistet.
 
-Wenn ihr alle Anforderungen erfüllt, könnt ihr den Survival Server über den Kompass betreten.
-Weitere Informationen findet ihr [hier](servers.md).
+Um die Wartezeiten so gering wie möglich zu halten und möglichst vielen Spielern den Spaß am Survival Server zu
+ermöglichen, gibt es zwei Server.
+Sobald ihr in der Lobby den Kompass öffnet und auf den Survival Server navigiert, könnt ihr euch für
+einen Server entscheiden.
+Die Inventare der beiden Server sind synchronisert.
+
+> Bitte nutzt andere Server nicht ausschließlich als "Farmwelt" und achtet darauf, auch anderen Spielern die Möglichkeit
+> zu geben,
+> die Welt auf ihre Weise zu gestalten.
+>
+{style="warning"}
+</def>
+
+<def title="Anforderungen für den Survival Server" id="survival-dependencies">
+
+Um auf dem Survival Server zu spielen, müssen folgende Bedingungen erfüllt sein:
+* **Version:** [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) [%required_game_version%](%required_game_version_link%).
+* **Discord:** Ein aktiver Discord-Account ist zwingend erforderlich.
+* **Whitelist:** Du musst eine [Whitelist](survival-server-whitelist.md "%click-more-info%") auf unserem [Discord-Server](%dc_link%)
+  erstellen.
+* **Aktivität:** Sobald du auf der Whitelist bist, darfst du den Discord-Server nicht mehr verlassen, da sonst der
+  Zugriff entfällt.
+
+Weitere informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%")
+</def>
+</deflist>
+
+</tab>
+<tab title="Event Server" id="events">
+
+<deflist>
+<def title="Beschreibung des Event Servers" id="event-server-description">
+
+Auf dem [Event Server](event-server.topic "%click-more-info%") finden regelmäßig Events
+statt.
+Diese werden von CastCrafter auf [Twitch](%twitch_cast%) gestreamt.
+Zusätzlich werden Videos auf [YouTube](%youtube_cast%) veröffentlicht.
+Die Events werden frühzeitig im Livestream und im [Discord](%dc_link%)
+unter [%com_updates_channel_display%](%com_updates_channel%) angekündigt.
+
+</def>
+<def title="Anforderungen für den Event Server" id="event-dependencies">
+
+Für die Teilnahme an Events gibt es **keine besonderen Voraussetzungen**.\
+Sollten spezifische Anforderungen gelten, werden diese in der Event-Übersicht unter dem Reiter [Events](events.md "%click-more-info%") aufgeführt.
+
+Wie du an einem Event teilnimmst, erfährst du [hier](how-to-take-part-in-an-event.md "%click-more-info%").
 
 </def>
 </deflist>
 </tab>
-<tab title="Event Server" id="events">
-
-> Es gibt keine Voraussetzungen, um an den Events teilzunehmen.
-> Wie ihr dies genau macht, findet
-> ihr [hier](how-to-take-part-in-an-event.md).
-
-</tab>
-<tab title="Lobby Server" id="lobby">
-
-> Sobald ihr das Netzwerk betretet, werdet ihr in die Lobby gesendet.
-> Diese könnt ihr von den anderen
-> Servern über `/hub` betreten.
-
-</tab>
 </tabs>
 
-Ihr könnt das Netzwerk unter `%server_ip%` erreichen.
+Du erreichst das Netzwerk unter der IP: `%server_ip%`
 
-> Sobald du das Netzwerk betrittst, akzeptierst du automatisch die [Regeln](rules.md).
+> Sobald du das Netzwerk betrittst, akzeptierst du automatisch unser [Regelwerk](rules.md "%click-more-info%").
 >
 {style="warning"}
