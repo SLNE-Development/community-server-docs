@@ -28,7 +28,6 @@
                   summary="Auf dem Server gibt es verschiedene Währungen, darunter z. B. %main_currency%s. Wie du sie bekommst und wofür du sie ausgeben kannst, erfährst du hier."/>
             <card href="custom-enchantments.md" badge="experiment"
                   summary="Auf dem Server gibt es spezielle Verzauberungen, die du auf deinen Gegenständen anwenden kannst. Erfahre hier mehr!"/>
-            <!--<a href="shops-starting-page.topic"/>-->
         </primary>
 
         <secondary>
