@@ -44,7 +44,7 @@ Diese Funktion lässt sich jedoch ein- oder ausschalten.
 <def title="Berechnung des Grundstückes" id="plot-price-calculation">
 
 $$
-p(d) = \max( 4, \frac {d} {600} + \frac {37} {3} )
+p(d) = \max( 4, - \frac {d} {600} + \frac {37} {3} )
 $$
 
 Hierbei gilt:
