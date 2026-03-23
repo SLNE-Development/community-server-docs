@@ -173,7 +173,7 @@ Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevor
 Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz
 frei wird.
 
-> Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
+> Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `550` Spielstunden hatte.
 > {style="note"}
 
 </def>
