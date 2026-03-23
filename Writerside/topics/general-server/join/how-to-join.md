@@ -32,7 +32,7 @@ Um auf dem Survival Server zu spielen, müssen folgende Bedingungen erfüllt sei
 * **Aktivität:** Sobald du auf der Whitelist bist, darfst du den Discord-Server nicht mehr verlassen, da sonst der
   Zugriff entfällt.
 
-Weitere informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%")
+Weitere Informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%")
 </def>
 </deflist>
 
