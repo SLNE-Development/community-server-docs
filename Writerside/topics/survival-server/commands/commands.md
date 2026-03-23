@@ -8,7 +8,7 @@
 <def title="/msg &lt;player&gt; &lt;message&gt;" id="msg"> 
 Schickt eine Privatnachricht an den angegebenen Spieler.
 
-> Die Privatnachrichten können über Das Einstellungsmenü in der [Lobby](how-to-join.md "%click-more-info%"") ausgestellt werden
+> Die Privatnachrichten können über Das Einstellungsmenü in der [Lobby](how-to-join.md "%click-more-info%") ausgestellt werden
 >
 </def>
 
