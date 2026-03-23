@@ -1,4 +1,4 @@
-# Events
+# Survival Events
 
 ### Angel Event {id="fishing-event"}
 

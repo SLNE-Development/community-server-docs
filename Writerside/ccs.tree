@@ -11,11 +11,10 @@
             <toc-element topic="rules.md"/>
             <toc-element topic="verified-mods.md"/>
     </toc-element>
-    <toc-element topic="servers.md"/>
     <toc-element topic="how-to-join.md"/>
-    <toc-element hidden="true" topic="current-server-issues.md"/>
     <toc-element accepts-web-file-names-ref="677309af" topic="survival-server.topic">
-            <toc-element topic="commands.md"/>
+        <toc-element topic="survival-server-whitelist.md"/>
+        <toc-element topic="commands.md"/>
             <toc-element accepts-web-file-names-ref="3e2f7fc9" topic="events.md"/>
             <toc-element topic="features.md">
                 <toc-element topic="custom-enchantments.md"/>
@@ -40,14 +39,7 @@
                         <toc-element topic="mining.md"/>
                         <toc-element topic="combat.md"/>
                     </toc-element>
-                    <toc-element hidden="true" href="https://google.com" topic="shops-starting-page.topic">
-                    <toc-element hidden="true" href="https://google.com" topic="make-shop.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="create-shop.md"/>
-                    <toc-element hidden="true" href="https://google.com" topic="manage-shop.md">
-                        <toc-element hidden="true" href="https://google.com" topic="delete-shop.md"/>
-                    </toc-element>
                 </toc-element>
-            </toc-element>
                 <toc-element topic="armorstand.md"/>
                 <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>
         </toc-element>
