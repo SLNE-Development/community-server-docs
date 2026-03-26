@@ -62,6 +62,7 @@ hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
 </snippet>
 
 <snippet id="compostable-items">
+
 Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompostierbar:
 
 - Verrottetes Fleisch
