@@ -51,18 +51,6 @@ unter Umständen zu einem Ausschluss des Servers führen.**
 
 <snippet id="compostable-items">
 
-<snippet id="voicechat-available">
-
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über den ihr mit anderen Spielern
-sprechen könnt.
-
-Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
-
-Den Download der Mod findet ihr
-hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
-
-</snippet>
-
 Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompostierbar:
 
 - Verrottetes Fleisch
@@ -73,6 +61,18 @@ Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompo
 - Nautilusschale
 - Spinnenauge
 - Giftige Kartoffel
+
+</snippet>
+
+<snippet id="voicechat-available">
+
+In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über den ihr mit anderen Spielern
+sprechen könnt.
+
+Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+
+Den Download der Mod findet ihr
+hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
 
 </snippet>
 
