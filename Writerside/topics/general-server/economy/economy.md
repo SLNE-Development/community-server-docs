@@ -1,4 +1,4 @@
-# Economy-System
+# Wirtschafts-System
 
 Geld erhaltet ihr ausschließlich über den PayCheck.\
 Auf diese Weise ist der Wert des Geldes immer an einen festen Faktor gebunden: Spielzeit.\
