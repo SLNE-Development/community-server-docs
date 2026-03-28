@@ -18,8 +18,9 @@
    ![plot flags](plot-flags.png) {border-effect="rounded" thumbnail="false" width="480" width="480"}
 
 5. Um den Status eines Flags zu ändern, führe einen <shortcut>Linksklick</shortcut> aus.
-   ![chest access members](plot-chest-access-members.png) {border-effect="rounded" thumbnail="false" width="480"}
-   ![chest access all](plot-chest-access-all.png) {border-effect="rounded" thumbnail="false" width="480"} 
+   ![chest access members](plot-chest-access-members.png) {border-effect="rounded" thumbnail="false" width="680"}
+
+   ![chest access all](plot-chest-access-all.png) {border-effect="rounded" thumbnail="false" width="680"} 
 
 ### Folgende Flags kannst du bearbeiten {collapsible="true" default-state="collapsed" id="plot-flags"}
 
