@@ -26,7 +26,7 @@
 
 > - Achte darauf, dass der eingetippte Spielername den Voraussetzungen entspricht und keine
     > Leerzeichen oder ungültige Zeichen enthält!
-> - er Spieler muss bereits einmal auf dem Server gespielt haben, damit er hinzugefügt werden kann.
+> - Der Spieler muss bereits einmal auf dem Server gespielt haben, damit er hinzugefügt werden kann.
 >
 {style="note"}
 
