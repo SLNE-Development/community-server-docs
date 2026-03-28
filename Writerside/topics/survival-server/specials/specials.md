@@ -29,14 +29,7 @@ Vanilla-Mechanik.
 {style="note"}
 
 </def>
-<def title="Nether Portale" id="nether-link">
 
-Um einen größeren Nether von `5 000 · 5 000` Blöcken zu ermöglichen, haben wir uns dazu entschieden
-die Portal-Umrechnung etwas anzupassen.
-Daher beträgt die Umrechnung vom Nether zur Overworld bei uns **1:4** anstelle der normalen 1:8 Umrechnung.
-Behaltet dies also beim Bauen eurer Portale im Hinterkopf.
-
-</def>
 <def title="Voice-Chat" id="voice-mod">
 
 Der Server unterstützt offiziell einen VoiceChat. Dieser wird nicht benötigt, um auf dem Server zu
@@ -53,12 +46,6 @@ sprechen, wenn diese die Mod ebenfalls installiert haben.
 [Simple Voice Chat Download](https://modrinth.com/plugin/simple-voice-chat)
 </tab>
 </tabs>
-
-</def>
-<def title="Geänderte Vanilla Mechaniken" id="changed-vanilla-mechanics">
-
-> Siehe [](changed-vanilla-mechanics.md "Geänderte Vanilla Mechaniken")
->
 
 </def>
 </deflist>
