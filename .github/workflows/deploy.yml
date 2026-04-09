@@ -11,7 +11,7 @@ permissions:
 
 env:
   INSTANCE: Writerside/ccs
-  DOCKER_VERSION: 2026.02.8644
+  DOCKER_VERSION: 2026.04.8711
 
   ALGOLIA_APP_NAME: C86V8LU863
   ALGOLIA_INDEX_NAME: docs_cast_crafter_community_server
