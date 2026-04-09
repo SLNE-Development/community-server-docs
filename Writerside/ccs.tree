@@ -31,14 +31,15 @@
                     <toc-element topic="plot-visualizer.md"/>
                     <toc-element topic="plot-other.md"/>
                 </toc-element>
-                <toc-element topic="skill-system.topic">
-                    <toc-element topic="skills.md">
-                        <toc-element topic="fishing.md"/>
-                        <toc-element topic="farming.md"/>
-                        <toc-element topic="woodcutting.md"/>
-                        <toc-element topic="mining.md"/>
-                        <toc-element topic="combat.md"/>
-                    </toc-element>
+<!--                <toc-element topic="skill-system.topic" wip="true">-->
+                <toc-element toc-title="Skills" wip="true">
+<!--                    <toc-element topic="skills.md" wip="true">-->
+<!--                        <toc-element topic="fishing.md" wip="true"/>-->
+<!--                        <toc-element topic="farming.md" wip="true"/>-->
+<!--                        <toc-element topic="woodcutting.md" wip="true"/>-->
+<!--                        <toc-element topic="mining.md" wip="true"/>-->
+<!--                        <toc-element topic="combat.md" wip="true"/>-->
+<!--                    </toc-element>-->
                 </toc-element>
                 <toc-element topic="armorstand.md"/>
                 <toc-element topic="light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md"/>

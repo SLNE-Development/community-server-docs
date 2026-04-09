@@ -6,7 +6,7 @@
 <tab title="1.21 Community-Server" id="survival-server-1_21">
 
 > Wie schon im letzten Jahr erscheint der Map-Download zusammen mit dem Servertour-Video zum Start der neuen Season.
-{style="warning" title="Der Map-Download für die Season 1.21 ist noch nicht verfügbar!"}
+{style="note" title="Der Map-Download für die Season 1.21 ist noch nicht verfügbar!"}
 
 <chapter title="Veteranen" collapsible="true" default-state="collapsed" id="veteran-1_21">
 

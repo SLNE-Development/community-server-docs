@@ -204,7 +204,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 </deflist>
 </tab>
 
-<tab title="Premium+" id="premium-plus">
+<tab title="Premium" id="premium-plus">
 <deflist>
 <def title="Beschreibung" id="description-premium-plus">
 
@@ -214,7 +214,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 </deflist>
 </tab>
 
-<tab title="Premium" id="premium">
+<tab title="Priority Queue" id="premium">
 <deflist>
 <def title="Beschreibung" id="description-premium">
 

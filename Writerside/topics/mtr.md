@@ -11,7 +11,7 @@ Wie du einen MTR durchführen kannst, ist im folgenden Abschnitt genauer beschri
 
 > Bitte beachte, dass die Ergebnisse des Tests nur hilfreich sind, wenn er durchgeführt wird, während die Probleme tatsächlich auftreten!
 >
-{style="warning"}
+{style="note"}
 
 <tabs>
 

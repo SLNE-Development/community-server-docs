@@ -9,12 +9,12 @@ Mit dem Befehl `/pay <player> <amount>` kannst du Geld an andere Spieler überwe
 
 > Für jede aktive <tooltip term="Spielstunde">Spielstunde</tooltip> erhältst du `%paycheck% %main_currency%s`.
 > 
-{style="note"}
+{style="tip"}
 
 > Sobald dein Kontostand `%paycheck_max_balance% %main_currency%s` übersteigt, erhältst du keine PayChecks mehr.
 > Diese Maßnahme soll eine übermäßige Inflation verhindern und den Wert der Währung stabil halten.
 > 
-{style="warning"}
+{style="note"}
 
 ### Handel {id="economy-trading"}
 

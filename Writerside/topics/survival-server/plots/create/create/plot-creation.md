@@ -5,7 +5,7 @@
 > Beachte, dass du dich mindestens 200 Blöcke weit vom Spawn entfernt befinden musst, um ein
 > Grundstück zu erstellen.
 >
-{style="tip"}
+{style="note"}
 
 1. Um ein Grundstück anzulegen, tippe im Chat den Befehl `/protect` ein.
 2. Nun öffnet sich eine Übersicht und du klickst auf den **Grasblock**.

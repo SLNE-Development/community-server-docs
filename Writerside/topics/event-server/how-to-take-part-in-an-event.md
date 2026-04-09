@@ -17,7 +17,7 @@ Um an einem Event teilzunehmen, folge diesen Schritten:
    > - Spieler mit speziellen Rängen wie bspw. [Veterane](rank-list-overview.md#veteran "%click-more-info%") genießen eine höhere Priorität und rücken in der Warteschlange schneller nach vorne.
    > - [Teammitglieder](team-member-overview.md "%click-more-info%") wie [Moderatoren](rank-list-overview.md#moderator "%click-more-info%") oder [Supporter](rank-list-overview.md#supporter "%click-more-info%") haben die Berechtigung, die Warteschlange komplett zu überspringen, um sofortigen Zugriff auf das Event zu erhalten.
    >
-   {style="note"}
+   {style="tip"}
 
 ## Event-Ankündigungen {id="event-announcements"}
 

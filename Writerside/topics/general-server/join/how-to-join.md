@@ -66,4 +66,4 @@ Du erreichst das Netzwerk unter der IP: `%server_ip%`
 
 > Sobald du das Netzwerk betrittst, akzeptierst du automatisch unser [Regelwerk](rules.md "%click-more-info%").
 >
-{style="warning"}
+{style="note"}
