@@ -34,7 +34,7 @@ herunterladen.**
 unter Umständen zu einem Ausschluss des Servers führen.**
 > **Wir übernehmen keine Verantwortung für modifizierte Versionen des Modpacks.**
 >
-{style="note" title="Offizielles Server Modpack"}
+{style="tip" title="Offizielles Server Modpack"}
 
 </snippet>
 

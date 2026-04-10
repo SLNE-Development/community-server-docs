@@ -80,7 +80,7 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > **Hinweis bei Konflikten:**
    >
    > Sollte es zu Meinungsverschiedenheiten kommen, wird erwartet, dass diese zunächst eigenständig und respektvoll gelöst werden. Sollte dies nicht möglich sein, ist der [Moderation][support] ein klarer, sachlicher Bericht zu übermitteln. Offene oder eskalierende Streitigkeiten im öffentlichen Raum des Servers werden nicht geduldet und können zu moderativen Maßnahmen führen.
-   > {style="tip"}
+   > {style="note"}
 
 5. **Boosting und IRL-Trading sind strengstens verboten.**  
    Jeder Spieler darf lediglich **einen Account** besitzen. Die Nutzung von Zweitaccounts zum Farmen von Ressourcen,
