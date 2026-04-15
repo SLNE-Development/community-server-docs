@@ -20,7 +20,7 @@
                 Shop erstellen
             </card>
 
-            <card href="shop-myshop.md" badge="settings"
+            <card href="shop-manage.md" badge="settings"
                   summary="Verwalte deine Shops, ändere Preise und kontrolliere dein Lager.">
                 Shop verwalten
             </card>
