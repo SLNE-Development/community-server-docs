@@ -122,10 +122,11 @@ jobs:
 
       - name: Remove contentBoost field from index files
         run: |
+          apt-get update && apt-get install -y jq
           cd algolia-indexes
           for f in *.json; do
             [ -e "$f" ] || continue
-            sed -i -E 's/"contentBoost":[0-9]+,//g; s/,"contentBoost":[0-9]+//g' "$f"
+            jq 'walk(if type == "object" then del(.contentBoost) else . end)' "$f" > tmp.json && mv tmp.json "$f"
           done
 
       - name: Update Algolia Index
