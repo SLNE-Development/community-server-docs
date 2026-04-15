@@ -123,8 +123,9 @@ jobs:
       - name: Remove contentBoost field from index files
         run: |
           cd algolia-indexes
+          shopt -s nullglob
           for f in *.json; do
-            sed -i 's/"contentBoost":[0-9]*,//g' "$f"
+            sed -i -E 's/"contentBoost":[0-9]+,//g; s/,"contentBoost":[0-9]+//g' "$f"
           done
 
       - name: Update Algolia Index
