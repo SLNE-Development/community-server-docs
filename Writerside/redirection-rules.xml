@@ -169,4 +169,32 @@
             <![CDATA[Created after removal of "Aktuelle Probleme & Fehler" from Community Server Docs]]></description>
         <accepts>current-server-issues.html</accepts>
     </rule>
+    <rule id="1d885347">
+        <description>Created after removal of "shop-item-buy" from Community Server Docs</description>
+        <accepts>shop-item-buy.html</accepts>
+    </rule>
+    <rule id="ec1a84a">
+        <description>Created after removal of "Topic title" from Community Server Docs</description>
+        <accepts>shops-overview.html</accepts>
+    </rule>
+    <rule id="6a9ff403">
+        <description>Created after removal of "Items auslagern" from Community Server Docs</description>
+        <accepts>shop-item-unstore.html</accepts>
+    </rule>
+    <rule id="1ebc6b53">
+        <description>Created after removal of "Items einlagern" from Community Server Docs</description>
+        <accepts>shop-item-store.html</accepts>
+    </rule>
+    <rule id="37c6fb9f">
+        <description>Created after removal of "Preise anpassen" from Community Server Docs</description>
+        <accepts>shop-edit-price.html</accepts>
+    </rule>
+    <rule id="698b2010">
+        <description>Created after removal of "Topic title" from Community Server Docs</description>
+        <accepts>shop-overview.html</accepts>
+    </rule>
+    <rule id="32307f5c">
+        <description>Created after removal of "Shop verwalten" from Community Server Docs</description>
+        <accepts>shop-myshop.html</accepts>
+    </rule>
 </rules>

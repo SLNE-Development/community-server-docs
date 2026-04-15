@@ -19,7 +19,7 @@ Totems und anderen Items vor einem massiven Verfall bewahrt.
 Auf dem alten Server wurden aufgrund der massenhaft von Villagern erschaffen Items viele Neulinge
 direkt ins Endgame befördert, indem sie "Endgame" Items geschenkt bekommen haben.
 Im Nether gab es Kisten, welche kostenlos Totems verteilt haben und Spieler somit direkt in den "Godmode" versetzt
-haben. Das möchten wir in einer Economy verhindern, da wir den Handel und die Interaktion unter den
+haben. Das möchten wir in einer Economy verhindern, da wir den Handel und d>ie Interaktion unter den
 Spielern fördern möchten, und somit ist das zwar ein extremer aber notwendiger Einschnitt in die
 Vanilla-Mechanik.
 
