@@ -43,7 +43,7 @@
 
 1. Zum Auslagern klicke auf den **Block rechts (-)**.
    ![shop-unstore-item](shop-unstore-item.png) {border-effect="rounded" thumbnail="false" width="480"}
-2. Nun wähle die **Anzahl** wie viele Items du auslagern willst.
+2. Wähle nun die **Anzahl** der Items, die du auslagern möchtest.
     - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst Du in einer oder
       zehner Schritten den Preis verändern.
     - M dem **Block oben ($)** in der Mitte kannst Du einen eigenen Preis eingeben. \
