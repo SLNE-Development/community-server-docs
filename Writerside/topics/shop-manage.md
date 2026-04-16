@@ -47,7 +47,7 @@
     - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst du in Einer- oder 
       Zehnerschritten den Preis verändern.
     - Mit dem **Block oben ($)** in der Mitte kannst du einen eigenen Preis eingeben. \
-      Mit Klicken auf **Bestätigen** schließt du den Vorgang ab.
+      Mit einem Klick auf **Bestätigen** schließt du den Vorgang ab.
 3. Mit klicken auf den **Block unten** schließt du die Auslagerung ab und bekommst die Items direkt ins Inventar.
 
 4. Wenn du den Vorgang abbrechen möchtest drücke das **rote Glas** unten rechts, um zum vorherigen Fenster
