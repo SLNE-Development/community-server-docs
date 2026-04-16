@@ -11,7 +11,7 @@
 4. Nun hast du mehrere Möglichkeiten:
     - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst du in Einer- oder
       Zehnerschritten den Preis verändern.
-    - M dem **Block oben ($)** in der Mitte kannst Du einen eigenen Preis eingeben. \
+    - Mit dem **Block oben ($)** in der Mitte kannst du einen eigenen Preis eingeben. \
       Mit Klicken auf **Bestätigen** schließt du den Vorgang ab.
       ![shop-item-price](shop-item-price.png) {border-effect="rounded" thumbnail="false" width="480"}
 5. Anschließend klicke auf den **Block unten** um den Preis zu übernehmen.
