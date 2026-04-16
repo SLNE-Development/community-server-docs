@@ -24,7 +24,7 @@ Hierfür wurde folgendes Rezept hinzugefügt:
 1. Du kannst auch einen neuen Shop anlegen, indem du auf den **linken Block (+)** drückst.
    Alle weiteren Einstellungen dazu findest du hier: [Shop erstellen](shop-create.md))
 
-> Du kannst auch einen [neuen Shop anlegen](shop-create.md "%click-more-info%"), indem Du auf den **linken Block (+)** drückst.
+> Du kannst auch einen [neuen Shop anlegen](shop-create.md "%click-more-info%"), indem du auf den **linken Block (+)** drückst.
 > 
 {style="tip" title="Neuen Shop erstellen"}
 
