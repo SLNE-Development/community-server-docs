@@ -65,7 +65,7 @@ Vorgang mit dem **Block rechts**.
 
 > Du kannst deine Shops nur bei dem NPC am Spawn löschen.
 >
-{style="note"}
+{style="tip"}
 
 </tab>
 </tabs>
