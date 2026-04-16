@@ -2,7 +2,7 @@
 
 ## So kannst du deinen eigenen Shop erstellen: {id="shop-create"}
 
-1. Klicke auf den **Holzblock (+)** unten in der Mitte um einen eigenen Shop zu erstellen.
+1. Klicke unten in der Mitte auf den **Holzblock (+)**, um einen eigenen Shop zu erstellen.
    ![shop-create-new](shop-create-new.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Klicke nun auf den mittleren **Holzblock (?)** und wähle das Item aus, welches du verkaufen willst.
    ![shop-item-sell](shop-item-sell.png) {border-effect="rounded" thumbnail="false" width="480"}
