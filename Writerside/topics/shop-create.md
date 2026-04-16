@@ -18,7 +18,7 @@
 
 > Du kannst jederzeit den [Preis für deine Items anpassen](shop-manage.md#shop-manage-price "%click-more-info%").
 >
-{style="note"}
+{style="tip﻿"}
 
 > **Nun ist dein Shop erstellt!** \
 > Bevor andere Spieler jedoch Gegenstände kaufen können, musst du
