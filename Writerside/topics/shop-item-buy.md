@@ -12,7 +12,7 @@
     - <shortcut>Rechtsklick + Shift</shortcut>, um die Anzahl um 64 zu verringern
    ![shop-item-buy](shop-item-buy.png) {border-effect="rounded" thumbnail="false" width="480"}
 4. Wenn du die gewünschte Anzahl ausgewählt hast, bestätige den Kauf, indem du auf den **rechten Holzblock** klickst. Die Güter werden dir direkt ins Inventar gedroppt.
-5. Wenn du den Vorgang abbrechen möchtest drücke unten den **roten Block**, um zum vorherigen Fenster zurückzukehren.
+5. Wenn du den Vorgang abbrechen möchtest, drücke unten auf den **roten Block**, um zum vorherigen Fenster zurückzukehren.
 
 > Stelle sicher, dass genug Platz in deinem Inventar ist, sonst werden die Items neben dich gedroppt und andere Spieler können sie ebenfalls einsammeln.
 >
