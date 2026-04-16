@@ -14,6 +14,6 @@
 4. Wenn du die gewünschte Anzahl ausgewählt hast, bestätige den Kauf, indem du auf den **rechten Holzblock** klickst. Die Güter werden dir direkt ins Inventar gedroppt.
 5. Wenn du den Vorgang abbrechen möchtest, drücke unten auf den **roten Block**, um zum vorherigen Fenster zurückzukehren.
 
-> Stelle sicher, dass genug Platz in deinem Inventar ist, sonst werden die Items neben dich gedroppt und andere Spieler können sie ebenfalls einsammeln.
+> Stelle sicher, dass in deinem Inventar genug Platz ist. Andernfalls werden die Items neben dir gedroppt und können von anderen Spielern eingesammelt werden.
 >
 {style="tip"}
