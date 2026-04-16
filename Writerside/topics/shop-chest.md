@@ -15,8 +15,7 @@ Hierfür wurde folgendes Rezept hinzugefügt:
    **](shop-create.md "%click-more-info%") zuordnen.
 2. Hierfür klickst du auf den **Kompass** in der Mitte.
    ![shop-chest-start.png](shop-chest-start.png)
-3. Nun öffnet sich dein Shop-Menu und du kannst den gewünschten Shop auswählen. Das Item des ausgewählten Shops wird
-   dann rechts angezeigt.
+3. Nun öffnet sich das Shop-Menü und du kannst den gewünschten Shop auswählen. Das ausgewählte Item wird dann rechts angezeigt.
 
 > Andere Speieler, die deine Shop-Chest öffnen, sehen **NUR** den von dir ausgewählten Shop und können nur das ausgewählte item kaufen.
 >
