@@ -17,9 +17,9 @@ Hierfür wurde folgendes Rezept hinzugefügt:
    ![shop-chest-start.png](shop-chest-start.png)
 3. Nun öffnet sich das Shop-Menü und du kannst den gewünschten Shop auswählen. Das ausgewählte Item wird dann rechts angezeigt.
 
-> Andere Spieler, die deine Shop-Chest öffnen, sehen **NUR** den von dir ausgewählten Shop und können nur das ausgewählte item kaufen.
+> Andere Spieler, die deine Shop-Chest öffnen, sehen **NUR** den von dir ausgewählten Shop und können nur das ausgewählte Item kaufen.
 >
-{style="warning"}
+{style="tip"}
 
 1. Du kannst auch einen neuen Shop anlegen, indem du auf den **linken Block (+)** drückst.
    Alle weiteren Einstellungen dazu findest du hier: [Shop erstellen](shop-create.md))
