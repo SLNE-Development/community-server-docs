@@ -65,7 +65,7 @@ Diese Banner-Vorlage könnt ihr beliebig im Webstuhl verwenden.
 
 > Die Vorlage ist aufgrund der [fehlenden Dorfbewohner](specials.md#no-villagers) auf dem Survival-Server nicht anderweitig erhältlich.
 >
-{style="note"}
+{style="tip"}
 </tab>
 
 <!-- CLOCK -->
