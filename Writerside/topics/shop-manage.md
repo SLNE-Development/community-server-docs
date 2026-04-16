@@ -50,7 +50,7 @@
       Mit einem Klick auf **Bestätigen** schließt du den Vorgang ab.
 3. Mit klicken auf den **Block unten** schließt du die Auslagerung ab und bekommst die Items direkt ins Inventar.
 
-4. Wenn du den Vorgang abbrechen möchtest drücke das **rote Glas** unten rechts, um zum vorherigen Fenster
+4. Wenn du den Vorgang abbrechen möchtest, drücke unten rechts auf das **rote Glas**, um zum vorherigen Fenster
    zurückzukehren.
    ![shop-amount-unstore-cancel](shop-amount-unstore-cancel.png) {border-effect="rounded" thumbnail="false" width="480"}
 
