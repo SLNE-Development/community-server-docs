@@ -5,7 +5,7 @@
 1. Suche das Item, das du kaufen möchtest, über die [Suchfunktion](shop-search.md "%click-more-info%") oder finde es durch Stöbern im Shop. Mit den Pfeilblöcken unten in der Mitte kannst du zur nächsten **(→)** oder vorherigen **(←)** Seite blättern.
       ![shop-search](shop-search.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Wähle nun mit einem <shortcut>Linksklick</shortcut> das Item aus, welches du kaufen möchtest.
-3. Im folgenden Fenster kannst du die Anzahl der items die du kaufen möchtest auswählen. Es gibt vier Möglichkeiten die Anzahl zu verändern:
+3. Im folgenden Fenster kannst du die Anzahl der Items, die du kaufen möchtest, auswählen. Es gibt vier Möglichkeiten, die Anzahl zu verändern:
     - <shortcut>Linksklick</shortcut> um die Anzahl um eins zu erhöhen
     - <shortcut>Rechtsklick</shortcut> um die Anzahl um eins zu verringern
     - <shortcut>Linksklick + Shift</shortcut> um die Anzahl um 64 zu erhöhen
