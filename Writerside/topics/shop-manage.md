@@ -57,7 +57,7 @@
    > Stelle sicher, dass genug Platz in deinem Inventar ist, sonst werden die Items neben dich gedroppt und jeder andere
    > kann sie ebenfalls einsammeln.
    >
-   > {style="warning"}
+   > {style="note"}
 
 <br/>
 Wenn ein Shop nicht mehr benötigt wird, weil beispielsweise das Lager ausverkauft ist, mache einen <shortcut>Shift + Linksklick</shortcut> auf den Shop und bestätige den
