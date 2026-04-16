@@ -8,4 +8,4 @@
    ![shop-search-cobble](shop-search-cobble.png) {border-effect="rounded" thumbnail="false" width="480"}
 Danach werden dir alle Items angezeigt, in denen der Suchbegriff enthalten ist.
 
-3. Klickst du im Shop Fenster auf den **Verstärker** links unten kannst du die Anzeige aktualisieren und auf dem **Komparator** unten rechts kannst du die Sortierung anpassen.
+3. Wenn du im Shop-Fenster links unten auf den **Verstärker** klickst, kannst du die Anzeige aktualisieren. Mit dem **Komparator** unten rechts kannst du die Sortierung anpassen.
