@@ -40,7 +40,7 @@ Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
 
 Die unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 
-- **Kosten:** `500%main_currency%s` pro ItemFrame
+- **Kosten:** `500 %main_currency%s` pro ItemFrame
 
 </def>
 </deflist>
