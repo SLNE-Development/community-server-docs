@@ -14,7 +14,7 @@ Hierfür wurde folgendes Rezept hinzugefügt:
 1. Nachdem du die Shop-Chest platzierst hast, kannst du ihr einen deiner [bereits erstellten **Shops
    **](shop-create.md "%click-more-info%") zuordnen.
 2. Hierfür klickst du auf den **Kompass** in der Mitte.
-   ![shop-chest-start.png](shop-chest-start.png)
+   ![shop-chest-start.png](shop-chest-start.png)  {border-effect="rounded" thumbnail="false" width="480"}
 3. Nun öffnet sich das Shop-Menü und du kannst den gewünschten Shop auswählen. Das ausgewählte Item wird dann rechts angezeigt.
 
 > Andere Spieler, die deine Shop-Chest öffnen, sehen **NUR** den von dir ausgewählten Shop und können nur das ausgewählte Item kaufen.
