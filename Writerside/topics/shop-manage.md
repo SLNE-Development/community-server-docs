@@ -25,7 +25,7 @@
 </tab>
 <tab title="Lager verwalten" id="shop-manage-storage">
 
-1. Klicke auf das **Item** von dem Shop, bei dem du Items einlagern oder auslagern willst.
+1. Klicke auf das **Item** des Shops, bei dem du Items ein- oder auslagern möchtest.
 2. Drücke auf die **Kiste** in der Mitte
    ![shop-storage-edit](shop-storage_edit.png) {border-effect="rounded" thumbnail="false" width="480"}
 
