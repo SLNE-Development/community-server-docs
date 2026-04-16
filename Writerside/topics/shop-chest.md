@@ -21,7 +21,7 @@ Hierfür wurde folgendes Rezept hinzugefügt:
 >
 {style="warning"}
 
-1. Du kannst auch einen neuen Shop anlegen indem Du auf den **linken Block (+)** drückst.
+1. Du kannst auch einen neuen Shop anlegen, indem du auf den **linken Block (+)** drückst.
    Alle weiteren Einstellungen dazu findest Du hier: [Shop erstellen](shop-create.md))
 
 > Du kannst auch einen [neuen Shop anlegen](shop-create.md "%click-more-info%"), indem Du auf den **linken Block (+)** drückst.
