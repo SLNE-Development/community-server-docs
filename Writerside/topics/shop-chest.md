@@ -1,4 +1,4 @@
-# Mobile Shop Chest
+# Mobile Shop-Chest
 
 ## So kannst du die mobile Shop-Chest herstellen: {id="shop-chest-crafting"}
 
