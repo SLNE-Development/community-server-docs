@@ -48,7 +48,7 @@
       Zehnerschritten den Preis verändern.
     - Mit dem **Block oben ($)** in der Mitte kannst du einen eigenen Preis eingeben. \
       Mit einem Klick auf **Bestätigen** schließt du den Vorgang ab.
-3. Mit klicken auf den **Block unten** schließt du die Auslagerung ab und bekommst die Items direkt ins Inventar.
+3. Mit einem Klick auf den **Block unten** schließt du die Auslagerung ab und bekommst die Items direkt ins Inventar.
 
 4. Wenn du den Vorgang abbrechen möchtest, drücke unten rechts auf das **rote Glas**, um zum vorherigen Fenster
    zurückzukehren.
