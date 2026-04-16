@@ -14,7 +14,7 @@
     - Mit dem **Block oben ($)** in der Mitte kannst du einen eigenen Preis eingeben. \
       Mit einem Klick auf **Bestätigen** schließt du den Vorgang ab.
       ![shop-item-price](shop-item-price.png) {border-effect="rounded" thumbnail="false" width="480"}
-5. Anschließend klicke auf den **Block unten** um den Preis zu übernehmen.
+5. Klicke anschließend auf den **Block unten**, um den Preis zu übernehmen.
 
 > Du kannst jederzeit den [Preis für deine Items anpassen](shop-manage.md#shop-manage-price "%click-more-info%").
 >
