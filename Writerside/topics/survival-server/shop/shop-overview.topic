@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Shops" id="shop-overview">
+
+    <section-starting-page id="shops">
+        <title>Shops</title>
+
+        <description id="shops-desc">
+            Das Shopsystem ermöglicht den Handel direkt an den Spawns.
+            Über ein Menü können Preise individuell festgelegt sowie Items bequem ein- und ausgelagert werden.
+            Käufer können das gesamte Sortiment über die Suchfunktion durchsuchen und Gegenstände in gewünschten Mengen direkt erwerben.
+        </description>
+
+        <spotlight>
+            <card href="shop-create.md" badge="lock"
+                  summary="Erstelle deinen eigenen Shop und verkaufe Items.">
+                Shop erstellen
+            </card>
+
+            <card href="shop-manage.md" badge="settings"
+                  summary="Verwalte deine Shops, ändere Preise und kontrolliere dein Lager.">
+                Shop verwalten
+            </card>
+        </spotlight>
+
+        <primary>
+            <title>Grundfunktionen</title>
+
+            <card href="shop-search.md"
+                  summary="Items im Shop suchen und gezielt finden."/>
+            <card href="shop-item-buy.md"
+                  summary="Items auswählen und direkt kaufen."/>
+        </primary>
+
+        <secondary>
+            <title>Erweiterte Funktionen</title>
+
+            <card href="shop-chest.md"
+                  summary="Deine mobile Shop-Chest nutzen."/>
+        </secondary>
+
+    </section-starting-page>
+
+</topic>
