@@ -6,7 +6,7 @@
    ![shop-create-new](shop-create-new.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Klicke nun auf den mittleren **Holzblock (?)** und wähle das Item aus, das du verkaufen möchtest.
    ![shop-item-sell](shop-item-sell.png) {border-effect="rounded" thumbnail="false" width="480"}
-3. Anschließend klicke auf den linken **Holzblock ($)** um den Preis pro Item festzulegen.
+3. Klicke anschließend auf den linken **Holzblock ($)**, um den Preis pro Item festzulegen.
    ![shop-select-price](shop-select-price.png) {border-effect="rounded" thumbnail="false" width="480"}
 4. Nun hast du mehrere Möglichkeiten:
     - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst Du in einer oder
