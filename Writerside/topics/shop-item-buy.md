@@ -16,4 +16,4 @@
 
 > Stelle sicher, dass in deinem Inventar genug Platz ist. Andernfalls werden die Items neben dir gedroppt und können von anderen Spielern eingesammelt werden.
 >
-{style="tip"}
+{style="note"}
