@@ -24,4 +24,4 @@
 > Bevor andere Spieler jedoch Gegenstände kaufen können, musst du
 > zuerst [Items in das Lager des Shops einlagern](shop-manage.md#shop-manage-storage-store "%click-more-info%").
 >
-{style="warning"}
+{style="note"}
