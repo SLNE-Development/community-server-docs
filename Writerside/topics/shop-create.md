@@ -4,7 +4,7 @@
 
 1. Klicke unten in der Mitte auf den **Holzblock (+)**, um einen eigenen Shop zu erstellen.
    ![shop-create-new](shop-create-new.png) {border-effect="rounded" thumbnail="false" width="480"}
-2. Klicke nun auf den mittleren **Holzblock (?)** und wähle das Item aus, welches du verkaufen willst.
+2. Klicke nun auf den mittleren **Holzblock (?)** und wähle das Item aus, das du verkaufen möchtest.
    ![shop-item-sell](shop-item-sell.png) {border-effect="rounded" thumbnail="false" width="480"}
 3. Anschließend klicke auf den linken **Holzblock ($)** um den Preis pro Item festzulegen.
    ![shop-select-price](shop-select-price.png) {border-effect="rounded" thumbnail="false" width="480"}
