@@ -36,7 +36,7 @@
    ![shop-store-item](shop-store-item.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Mache nun einen <shortcut>Linksklick</shortcut> in deinem Inventar auf das Item, das du einlagern möchtest.\
    Das Item verschwindet nun aus deinem Inventar und befindet sich im Lager des Shops.
-3. Wenn der Vorgang abgeschlossen ist drücke unten den **roten Block**, um zum vorherigen Fenster zurückzukehren.
+3. Wenn der Vorgang abgeschlossen ist, drücke unten auf den **roten Block**, um zum vorherigen Fenster zurückzukehren.
 
 </tab>
 <tab title="Items auslagern" id="shop-manage-storage-unstore">
