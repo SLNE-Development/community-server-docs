@@ -60,8 +60,8 @@
    > {style="warning"}
 
 <br/>
-Wenn ein Shop nicht mehr benötigt wird, weil zum Beispiel das Lager ausverkauft ist mache einen <shortcut>Shift + Linksklick </shortcut> auf den Shop und bestätige mit
-dem **Block rechts** den Vorgang.
+Wenn ein Shop nicht mehr benötigt wird, weil beispielsweise das Lager ausverkauft ist, mache einen <shortcut>Shift + Linksklick</shortcut> auf den Shop und bestätige den
+Vorgang mit dem **Block rechts**.
 
 > Du kannst deine Shops nur bei dem NPC am Spawn löschen.
 >
