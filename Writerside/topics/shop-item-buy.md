@@ -6,10 +6,10 @@
       ![shop-search](shop-search.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Wähle nun mit einem <shortcut>Linksklick</shortcut> das Item aus, welches du kaufen möchtest.
 3. Im folgenden Fenster kannst du die Anzahl der Items, die du kaufen möchtest, auswählen. Es gibt vier Möglichkeiten, die Anzahl zu verändern:
-    - <shortcut>Linksklick</shortcut> um die Anzahl um eins zu erhöhen
-    - <shortcut>Rechtsklick</shortcut> um die Anzahl um eins zu verringern
-    - <shortcut>Linksklick + Shift</shortcut> um die Anzahl um 64 zu erhöhen
-    - <shortcut>Rechtsklick + Shift</shortcut> um die Anzahl um 64 zu verringern
+    - <shortcut>Linksklick</shortcut>, um die Anzahl um eins zu erhöhen
+    - <shortcut>Rechtsklick</shortcut>, um die Anzahl um eins zu verringern
+    - <shortcut>Linksklick + Shift</shortcut>, um die Anzahl um 64 zu erhöhen
+    - <shortcut>Rechtsklick + Shift</shortcut>, um die Anzahl um 64 zu verringern
    ![shop-item-buy](shop-item-buy.png) {border-effect="rounded" thumbnail="false" width="480"}
 4. Wenn du die gewünschte Anzahl ausgewählt hast bestätige den Kauf mit klicken auf den **rechten Holzblock**. Die Güter werden dir direkt ins Inventar gedroppt.
 5. Wenn du den Vorgang abbrechen möchtest drücke unten den **roten Block**, um zum vorherigen Fenster zurückzukehren.
