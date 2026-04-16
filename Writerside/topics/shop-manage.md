@@ -54,8 +54,7 @@
    zurückzukehren.
    ![shop-amount-unstore-cancel](shop-amount-unstore-cancel.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-   > Stelle sicher, dass genug Platz in deinem Inventar ist, sonst werden die Items neben dich gedroppt und jeder andere
-   > kann sie ebenfalls einsammeln.
+   > Stelle sicher, dass in deinem Inventar genug Platz ist. Andernfalls werden die Items neben dir gedroppt und können von anderen Spielern eingesammelt werden.
    >
    > {style="note"}
 
