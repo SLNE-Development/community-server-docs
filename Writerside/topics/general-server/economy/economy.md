@@ -17,7 +17,7 @@ Das verdiente Geld kann verwendet werden, um z. B. [Grundstücke zu erstellen](
 
 ## Handel {id="economy-trading"}
 
-Der Handel findet klassisch zwischen den Spielern selbst statt oder über das [Shopsystem](shop-overview.topic "%click-more-info%")
+Der Handel findet klassisch zwischen den Spielern selbst statt oder über das [Shopsystem](shop-overview.topic "%click-more-info%").
 
 - Mit dem Befehl `/pay <player> <amount>` kannst du Geld an andere Spieler überweisen.
 
