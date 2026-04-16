@@ -13,8 +13,8 @@
 1. Wenn du den Preis anpassen möchtest, klicke auf den **linken Block ($)**.
    ![shop-edit](shop-edit.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Nun hast du mehrere Möglichkeiten:
-    - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst Du in einer oder
-      zehner Schritten den Preis verändern.
+    - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst du in Einer- oder      
+      Zehnerschritten den Preis verändern.
     - M dem **Block oben ($)** in der Mitte kannst Du einen eigenen Preis eingeben. \
       Mit Klicken auf **Bestätigen** schließt du den Vorgang ab.
       ![shop-item-price](shop-item-price.png) {border-effect="rounded" thumbnail="false" width="480"}
