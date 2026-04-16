@@ -3,9 +3,9 @@
 ## So kannst du einen Shop durchsuchen: {id="shop-search"}
 
 1. Um ein Item im Shop zu suchen, klicke unten links auf den **Pinsel**.
-![shop-search](shop-search.png) {border-effect="rounded" thumbnail="false" width="480"}
+   ![shop-search](shop-search.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Nun öffnet sich ein Suchfenster. Dort gibst du den **englischen Begriff** des Items ein und klickst auf <shortcut>Suchen</shortcut>.
    ![shop-search-cobble](shop-search-cobble.png) {border-effect="rounded" thumbnail="false" width="480"}
-Danach werden dir alle Items angezeigt, in denen der Suchbegriff enthalten ist.
+   Danach werden dir alle Items angezeigt, in denen der Suchbegriff enthalten ist.
 
 3. Wenn du im Shop-Fenster links unten auf den **Verstärker** klickst, kannst du die Anzeige aktualisieren. Mit dem **Komparator** unten rechts kannst du die Sortierung anpassen.
