@@ -10,7 +10,7 @@
 <tabs>
 <tab title="Preise anpassen" id="shop-manage-price">
 
-1. Wenn du den Preis anpassen willst klicke auf den **linken Block ($)**.
+1. Wenn du den Preis anpassen möchtest, klicke auf den **linken Block ($)**.
    ![shop-edit](shop-edit.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Nun hast du mehrere Möglichkeiten:
     - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst Du in einer oder
