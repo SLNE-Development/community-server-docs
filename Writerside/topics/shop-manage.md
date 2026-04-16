@@ -19,7 +19,7 @@
       Mit einem Klick auf **Bestätigen** schließt du den Vorgang ab.
       ![shop-item-price](shop-item-price.png) {border-effect="rounded" thumbnail="false" width="480"}
 3. Klicke anschließend auf den **Block unten**, um den Preis zu übernehmen.
-4. Um den neuen Preis zu speichern klicke nun auf den **rechten Block** um den Vorgang abzuschließen.
+4. Um den neuen Preis zu speichern, klicke nun auf den **rechten Block**, um den Vorgang abzuschließen.
    ![shop-edit-save](shop-edit-save.png) {border-effect="rounded" thumbnail="false" width="480"}
 
 </tab>
