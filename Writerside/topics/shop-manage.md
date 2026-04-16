@@ -2,7 +2,7 @@
 
 ## So kannst du deinen Shop verwalten: {id="shop-manage"}
 
-1. Öffne deine Shops indem du auf deinen **Spielerkopf** unten rechts klickst.
+1. Öffne deine Shops, indem du auf deinen **Spielerkopf** unten rechts klickst.
    ![shop-myshop](shop-myshop.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Nun werden alle deine Shops angezeigt. Mit klicken auf das **Item** öffnest du den jeweiligen Shop. Hier kannst du
    den Preis anpassen oder das Lager verwalten.
