@@ -1,27 +1,29 @@
-
 # Lightblocks, unsichtbare ItemFrames & Globe Banner Vorlagen
 
-> Für alle Spielenden bieten wir die Möglichkeit, LightBlocks, unsichtbare ItemFrames und Globe-Banner-Vorlagen auch 
-> auf dem Survival-Server zu erwerben.\
-> Am Spawn erwartet euch ein Händler, welcher auf den Verkauf dieser besonderen Gegenstände spezialisiert 
-> ist.
+> Für alle Spielenden bieten wir die Möglichkeit, Lightblocks, unsichtbare ItemFrames sowie Globe-Banner-Vorlagen auch
+> auf dem Survival-Server zu erwerben.  
+> An den Spawns reist bei gutem Wetter alle 10 Spieltage ein Händler an, der auf den Verkauf dieser besonderen
+> Gegenstände spezialisiert ist.
+>
+> Der Erwerb der Gegenstände erfolgt über %main_currency%s.
 >
 {title="Lightblocks & unsichtbare ItemFrames" style="tip"}
 
-![NPC Trader Lightblocks](npc-trader-lightblocks.png) {width=750 thumbnail="false"
-border-effect="rounded"}
+![NPC Trader](spawn-trader.png){width=750 thumbnail="false" border-effect="rounded"}
 
 <tabs>
-<tab title="Lightblocks" id="lightblocks">
 
+<!-- LIGHTBLOCKS -->
+<tab title="Lightblocks" id="lightblocks">
 <deflist>
 <def title="Lightblocks" id="get-lightblocks">
 
-Ihr habt täglich die Möglichkeit, `20` Lightblocks zu
-erwerben, indem ihr dem Händler `20` Redstonelampen und `5` Smaragde anbietet.
-Die erworbenen Lightblocks könnt ihr wie gewohnt in eurer Welt platzieren und wieder abbauen.\
+Die erworbenen Lightblocks könnt ihr wie gewohnt in eurer Welt platzieren und wieder abbauen.  
 Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem ihr sie mit einem weiteren
 Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
+
+- **Kosten:** `250 %main_currency%s` pro Lightblock
+
 </def>
 </deflist>
 
@@ -30,14 +32,16 @@ Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
 {style="note"}
 
 </tab>
-<tab title="Unsichtbare ItemFrames" id="invisible-itemframes">
 
+<!-- ITEMFRAME -->
+<tab title="Unsichtbare ItemFrames" id="invisible-itemframes">
 <deflist>
 <def title="Unsichtbare ItemFrames" id="get-invisible-itemframes">
 
-Ihr habt täglich die Möglichkeit, `20` unsichtbare ItemFrames zu
-erhalten. Dafür müsst ihr dem Händler `20` gewöhnliche ItemFrames und `5` Smaragde übergeben. 
-Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
+Die unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
+
+- **Kosten:** `500 %main_currency%s` pro ItemFrame
+
 </def>
 </deflist>
 
@@ -46,15 +50,35 @@ Diese unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 >
 {style="note"}
 </tab>
-<tab title="Globe Banner Vorlage" id="globe-banner-pattern">
 
+<!-- BANNER PATTERN -->
+<tab title="Globe Banner Vorlage" id="globe-banner-pattern">
 <deflist>
 <def title="Globe Banner Vorlage" id="get-globe-banner-pattern">
 
-Ihr habt täglich die Möglichkeit, eine Globe-Banner-Vorlage zu erhalten.
-Dafür müsst ihr dem Händler `20` Papier und `5` Smaragde übergeben.
 Diese Banner-Vorlage könnt ihr beliebig im Webstuhl verwenden.
+
+- **Kosten:** `1.000 %main_currency%s` pro Vorlage
+
+</def>
+</deflist>
+
+> Die Vorlage ist aufgrund der [fehlenden Dorfbewohner](specials.md#no-villagers) auf dem Survival-Server nicht anderweitig erhältlich.
+>
+{style="tip"}
+</tab>
+
+<!-- CLOCK -->
+<tab title="Uhr des Händlers" id="trader-clock">
+<deflist>
+<def title="Uhr des Händlers" id="get-trader-clock">
+
+Die erworbene Uhr zeigt euch durch einen Klick an, wann der nächste Händler an den Spawns vorbeireist.
+
+- **Kosten:** `50.000 %main_currency%s` pro Uhr
+
 </def>
 </deflist>
 </tab>
+
 </tabs>
