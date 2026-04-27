@@ -29,7 +29,7 @@ Freundschaft kündigen {id="remove-friend"}
 : Mit dem Befehl `/friend remove <player>` kannst du eine bestehende Freundschaft beenden.
 
 Freundschaften auflisten {id="list-friends"}
-: Mit dem Befehl `/friend list` oder `/fl` kannst du alle deine Freunde auflisten lassen. 
+: Mit dem Befehl `/friend list` oder `/fl` kannst du alle deine Freunde auflisten lassen.
 Du siehst, ob sie online sind und in welcher Welt sie sich gerade befinden.
 
 Freundschaft-Info {id="info-friend"}
