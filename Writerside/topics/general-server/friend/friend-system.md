@@ -20,7 +20,7 @@ Freundschaftsanfrage ablehnen {id="decline-friend-request"}
 : Mit dem Befehl `/friend decline <player>` kannst du die offene Freundschaftsanfrage von einem Spieler ablehnen.
 
 Freundschaftsanfragen auflisten {id="friend-requests"}
-: Mit dem Befehl `/friend requests` kannst du alle für dich offenen Freundschaftsanfragen auflisten lassen.
+: Mit dem Befehl `/friend requests` kannst du dir alle offenen Freundschaftsanfragen anzeigen lassen, die an dich gesendet wurden.
 
 #### Freundschaft {collapsible="true" default-state="collapsed" id="friendship"}
 
