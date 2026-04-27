@@ -1,6 +1,6 @@
 # Spawn-System
 
-![thumbnail](central-spawn.png){ border-effect="rounded" thumbnail="false"}
+![thumbnail](central-spawn.png){border-effect="rounded" thumbnail="false"}
 
 Auf dem Survival-Server gibt es in der Oberwelt und in dem Nether jeweils **9 feste Spawnpunkte**. \
 Diese sorgen dafür, dass sich die Spieler gleichmäßig in der Welt verteilen.
@@ -16,4 +16,4 @@ Diese sorgen dafür, dass sich die Spieler gleichmäßig in der Welt verteilen.
 ## Spawn-Raster {id="spawn-grid" collapsible="true"}
 Die neun Spawns sind in einem **3x3-Raster** angeordnet und in der Oberwelt jeweils `25.000` Blöcke auseinander. Im Nether sind es nur `3.125` Blöcke, da die Entfernung im Nether im Vergleich zur Oberwelt um den Faktor 8 reduziert ist.
 
-![Spawn-Raster](spawn-grid.png){ border-effect="rounded" thumbnail="false"}
+![Spawn-Raster](spawn-grid.png){border-effect="rounded" thumbnail="false"}
