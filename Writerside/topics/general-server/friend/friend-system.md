@@ -30,7 +30,7 @@ Freundschaft kündigen {id="remove-friend"}
 
 Freundschaften auflisten {id="list-friends"}
 : Mit dem Befehl `/friend list` oder `/fl` kannst du alle deine Freunde auflisten lassen. 
-Du siehst ob sie online sind und in welcher Welt sie gerade sind.
+Du siehst, ob sie online sind und in welcher Welt sie sich gerade befinden.
 
 Freundschaft-Info {id="info-friend"}
 : Mit dem Befehl `/friend info <player>` kannst du erfahren, seit welchem Zeitpunkt du mit diesem Spieler befreundet bist.
