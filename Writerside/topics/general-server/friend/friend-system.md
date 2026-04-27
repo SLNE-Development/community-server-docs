@@ -1,11 +1,8 @@
 # Freundschaftssystem
 
-Das Freundschaftssystem erlaubt es Spielern, Freundschaften Ingame zu schließen.
-Eine Freundschaft ist dann geschlossen, wenn eine Freundschaftsanfrage vom anderen Spieler akzeptiert wird.
-Diese Freundschaft hilft dir dabei zu erkennen, ob der andere Spieler online ist.
-Beim jedem betreten einer Welt, wird im Chat angezeigt wieviele deiner Freunde gerade auf dieser Welt spielen 
-und ob du noch offene Freundschaftsanfragen hast.
-Zudem bekommst du eine Benachrichtigung im Chat, wenn ein Freund deine Welt betritt oder verlässt.
+Das Freundschaftssystem ermöglicht es Spielern, direkt im Spiel Verbindungen zu knüpfen. Eine Freundschaft entsteht, sobald eine gesendete Anfrage vom anderen Spieler angenommen wird. Dadurch kannst du jederzeit erkennen, ob deine Freunde online sind.
+
+Beim Betreten einer Welt erhältst du im Chat eine Übersicht darüber, wie viele deiner Freunde sich aktuell dort befinden und ob noch offene Freundschaftsanfragen vorliegen. Zusätzlich wirst du benachrichtigt, sobald ein Freund deine Welt betritt oder verlässt.
 
 #### Freundschaftsanfrage {collapsible="true" default-state="collapsed" id="friend-request"}
 
