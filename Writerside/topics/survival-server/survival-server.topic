@@ -28,6 +28,8 @@
                   summary="Auf dem Server gibt es verschiedene Währungen, darunter z. B. %main_currency%s. Wie du sie bekommst und wofür du sie ausgeben kannst, erfährst du hier."/>
             <card href="custom-enchantments.md" badge="experiment"
                   summary="Auf dem Server gibt es spezielle Verzauberungen, die du auf deinen Gegenständen anwenden kannst. Erfahre hier mehr!"/>
+            <card href="skill-system.topic" badge="idea"
+                  summary="Auf dem Server gibt es ein Skillsystem mit unterschiedlichen Skills, welche dir einen optionalen Ausgleich schaffen."/>
         </primary>
 
         <secondary>
