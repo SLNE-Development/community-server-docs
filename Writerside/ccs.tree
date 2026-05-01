@@ -87,6 +87,7 @@
         <toc-element topic="clan-management.md"/>
         <toc-element topic="clan-more-info.md"/>
     </toc-element>
+    <toc-element topic="friend-system.md"/>
     <toc-element topic="contribution.md">
         <toc-element topic="doc-contribution.md">
             <toc-element topic="fork-repo.md"/>
