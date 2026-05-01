@@ -67,10 +67,11 @@ Die Livestream-Status-Anzeige ermöglicht es, den Live-Status der Spieler server
 Sobald ein verknüpfter Twitch-Account live ist, wird dies durch einen roten Punkt hinter dem Namen sowohl
 in der Spielerliste als auch im Nametag im Spiel angezeigt.
 
+
 ![player-not-streaming](livestream-display-player-not-streaming.png)
 ![player-streaming](livestream-display-player-streaming.png)
 
-> Wenn du den Namen deines Twitch-Accounts nach der Whitelist änderst, funktioniert die Livestream-Statusanzeige nicht mehr.
+> Der Minecraft Account muss mit dem Twitch Account über `/link twitch` verknüpft sein.
 > 
 {style="warning" id="livestream-display-warning"}
 

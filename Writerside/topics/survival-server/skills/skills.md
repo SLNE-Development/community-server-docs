@@ -29,11 +29,9 @@ verlinkt.
 
 ## Das Skillmenu
 
-![skill-start-menu](skills-menu.png)
+![skill-start-menu](skill-menu.png)
 
 Das Skillmenü gibt euch einen Überblick über alle Skills, deren Belohnungen und euren Fortschritt.
-In Zukunft wird es auch möglich sein, über das Skillmenü auf die aktuellen Leaderboards zuzugreifen, in denen ihr euch
-mit anderen Spielern messen könnt.
 
-> Ihr könnt auf dem Server mithilfe des Befehls `/skills` auf das Skillmenü zugreifen
+> Ihr könnt auf dem Server mithilfe des Befehls `/skill` auf das Skillmenü zugreifen
 > 
