@@ -197,4 +197,68 @@
         <description>Created after removal of "Shop verwalten" from Community Server Docs</description>
         <accepts>shop-myshop.html</accepts>
     </rule>
+    <rule id="55e96dbc">
+        <description>Created after removal of "Repository anlegen" from Community Server Docs</description>
+        <accepts>fork-repo.html</accepts>
+    </rule>
+    <rule id="1341733a">
+        <description>Created after removal of "WriterSide Installieren" from Community Server Docs</description>
+        <accepts>install-writerside.html</accepts>
+    </rule>
+    <rule id="7f909ab7">
+        <description>Created after removal of "Dokumentation schreiben" from Community Server Docs</description>
+        <accepts>write-documentation.html</accepts>
+    </rule>
+    <rule id="56c687f0">
+        <description>Created after removal of "Markdown in WriterSide verwenden" from Community Server Docs
+        </description>
+        <accepts>function-overviews.html</accepts>
+    </rule>
+    <rule id="4d33e987">
+        <description>
+            <![CDATA[Created after removal of "Projekt & Fork Updaten" from Community Server Docs]]></description>
+        <accepts>update-project.html</accepts>
+    </rule>
+    <rule id="11441a35">
+        <description>Created after removal of "Änderungen Veröffentlichen" from Community Server Docs</description>
+        <accepts>publish-changes.html</accepts>
+    </rule>
+    <rule id="5613633c">
+        <description>Created after removal of "Merge Request erstellen" from Community Server Docs</description>
+        <accepts>create-merge-request.html</accepts>
+    </rule>
+    <rule id="79fbfb6b">
+        <description>Created after removal of "Markdown in WriterSide verwenden" from Community Server Docs
+        </description>
+        <accepts>function-overviews.html</accepts>
+    </rule>
+    <rule id="45f3ef57">
+        <description>Created after removal of "Dokumentation Contribution" from Community Server Docs</description>
+        <accepts>doc-contribution.html</accepts>
+    </rule>
+    <rule id="1672ff95">
+        <description>Created after removal of "Repository anlegen" from Community Server Docs</description>
+        <accepts>fork-repo.html</accepts>
+    </rule>
+    <rule id="1c6c53b6">
+        <description>Created after removal of "WriterSide Installieren" from Community Server Docs</description>
+        <accepts>install-writerside.html</accepts>
+    </rule>
+    <rule id="18650fe4">
+        <description>Created after removal of "Dokumentation schreiben" from Community Server Docs</description>
+        <accepts>write-documentation.html</accepts>
+    </rule>
+    <rule id="166fddac">
+        <description>
+            <![CDATA[Created after removal of "Projekt & Fork Updaten" from Community Server Docs]]></description>
+        <accepts>update-project.html</accepts>
+    </rule>
+    <rule id="378c2000">
+        <description>Created after removal of "Änderungen Veröffentlichen" from Community Server Docs</description>
+        <accepts>publish-changes.html</accepts>
+    </rule>
+    <rule id="27a5507a">
+        <description>Created after removal of "Merge Request erstellen" from Community Server Docs</description>
+        <accepts>create-merge-request.html</accepts>
+    </rule>
 </rules>
