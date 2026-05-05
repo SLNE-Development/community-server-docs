@@ -11,13 +11,13 @@ permissions:
 
 env:
   INSTANCE: Writerside/ccs
-  DOCKER_VERSION: 2025.04.8412
+  DOCKER_VERSION: 2026.04.8711
 
   ALGOLIA_APP_NAME: C86V8LU863
   ALGOLIA_INDEX_NAME: docs_cast_crafter_community_server
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: CCS
-  CONFIG_JSON_VERSION: 1.21.8 # This value should be updated with the version of the product
+  CONFIG_JSON_VERSION: 1.21.11 # This value should be updated with the version of the product
 
 jobs:
   build:
@@ -96,18 +96,19 @@ jobs:
         run: unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d cf-pages
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v3.14.1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy cf-pages --project-name=community-server-docs --branch=main
-          wranglerVersion: 3.101.0
+          #wranglerVersion: 3.101.0
 
+# see: https://youtrack.jetbrains.com/issue/WRS-7233/Algolia-publisher-2.0.32-3-fails-with-UnrecognizedPropertyException-for-contentBoost-field-generated-by-Writerside-builder
   publish-indexes:
     needs: [ build, test, deploy ]
     runs-on: ubuntu-latest
     container:
-      image: registry.jetbrains.team/p/writerside/builder/algolia-publisher:2.0.32-3
+      image: registry.jetbrains.team/p/writerside/builder/algolia-publisher:latest
 
     steps:
       - name: Download artifact
@@ -118,6 +119,15 @@ jobs:
 
       - name: Unzip Algolia artifact
         run: unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.algolia_artifact }}" -d algolia-indexes
+
+      - name: Remove contentBoost field from index files
+        run: |
+          apt-get update && apt-get install -y jq
+          cd algolia-indexes
+          for f in *.json; do
+            [ -e "$f" ] || continue
+            jq 'walk(if type == "object" then del(.contentBoost) else . end)' "$f" > tmp.json && mv tmp.json "$f"
+          done
 
       - name: Update Algolia Index
         run: |

@@ -164,7 +164,7 @@ und [AngelEvents](events.md#fishing-event) statt.
 
 > Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%)
 > unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
-> {style="note"}
+> {style="tip"}
 
 </def>
 <def title="Hat man als Veteran Vorteile?" id="veteran-info">
@@ -173,8 +173,8 @@ Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevor
 Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz
 frei wird.
 
-> Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `200` Spielstunden hatte.
-> {style="note"}
+> Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `550` Spielstunden hatte.
+> {style="tip"}
 
 </def>
 <def title="Wieso gibt es keine Teleportation?" id="why-no-teleportation">

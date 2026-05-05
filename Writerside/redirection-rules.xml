@@ -120,4 +120,81 @@
         <description>Created after removal of "Köpfe und Rüstungsständer" from Community Server Docs</description>
         <accepts>cosmetics.html</accepts>
     </rule>
+    <rule id="4c021011">
+        <description>Created after removal of "Die verschiedenen Server" from Community Server Docs</description>
+        <accepts>servers.html</accepts>
+    </rule>
+    <rule id="2dce195f">
+        <description>Created after removal of "Whitelist erstellen" from Community Server Docs</description>
+        <accepts>Whitelist-erstellen.html</accepts>
+    </rule>
+    <rule id="4ac9954c">
+        <description>Created after removal of "Shop herstellen" from Community Server Docs</description>
+        <accepts>make-shop.html</accepts>
+    </rule>
+    <rule id="3ef1967d">
+        <description>Created after removal of "Shop erstellen" from Community Server Docs</description>
+        <accepts>create-shop.html</accepts>
+    </rule>
+    <rule id="4b2c9bc3">
+        <description>Created after removal of "Shop verwalten" from Community Server Docs</description>
+        <accepts>manage-shop.html</accepts>
+    </rule>
+    <rule id="62620174">
+        <description>Created after removal of "Shop löschen" from Community Server Docs</description>
+        <accepts>delete-shop.html</accepts>
+    </rule>
+    <rule id="1df12c2">
+        <description>Created after removal of "Shop löschen" from Community Server Docs</description>
+        <accepts>delete-shop.html</accepts>
+    </rule>
+    <rule id="2ea9ad0f">
+        <description>Created after removal of "Shops" from Community Server Docs</description>
+        <accepts>shops-starting-page.html</accepts>
+    </rule>
+    <rule id="252c103d">
+        <description>Created after removal of "Shop herstellen" from Community Server Docs</description>
+        <accepts>make-shop.html</accepts>
+    </rule>
+    <rule id="6c9096d5">
+        <description>Created after removal of "Shop erstellen" from Community Server Docs</description>
+        <accepts>create-shop.html</accepts>
+    </rule>
+    <rule id="53c9b298">
+        <description>Created after removal of "Shop verwalten" from Community Server Docs</description>
+        <accepts>manage-shop.html</accepts>
+    </rule>
+    <rule id="2e5b6818">
+        <description>
+            <![CDATA[Created after removal of "Aktuelle Probleme & Fehler" from Community Server Docs]]></description>
+        <accepts>current-server-issues.html</accepts>
+    </rule>
+    <rule id="1d885347">
+        <description>Created after removal of "shop-item-buy" from Community Server Docs</description>
+        <accepts>shop-item-buy.html</accepts>
+    </rule>
+    <rule id="ec1a84a">
+        <description>Created after removal of "Topic title" from Community Server Docs</description>
+        <accepts>shops-overview.html</accepts>
+    </rule>
+    <rule id="6a9ff403">
+        <description>Created after removal of "Items auslagern" from Community Server Docs</description>
+        <accepts>shop-item-unstore.html</accepts>
+    </rule>
+    <rule id="1ebc6b53">
+        <description>Created after removal of "Items einlagern" from Community Server Docs</description>
+        <accepts>shop-item-store.html</accepts>
+    </rule>
+    <rule id="37c6fb9f">
+        <description>Created after removal of "Preise anpassen" from Community Server Docs</description>
+        <accepts>shop-edit-price.html</accepts>
+    </rule>
+    <rule id="698b2010">
+        <description>Created after removal of "Topic title" from Community Server Docs</description>
+        <accepts>shop-overview.html</accepts>
+    </rule>
+    <rule id="32307f5c">
+        <description>Created after removal of "Shop verwalten" from Community Server Docs</description>
+        <accepts>shop-myshop.html</accepts>
+    </rule>
 </rules>

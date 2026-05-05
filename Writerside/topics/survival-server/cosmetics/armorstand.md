@@ -30,7 +30,7 @@ Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kanns
 
 > Wenn du das Flint in der Hand hälst und <shortcut>Shift + Mausrad</shortcut>, kannst du die Achsen auch durch Drehen
 > des Mausrades einstellen.
-> {style="note"}
+> {style="tip"}
 
 {type="medium"}
 x-Achse einstellen

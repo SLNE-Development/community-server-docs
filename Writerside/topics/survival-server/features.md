@@ -57,7 +57,7 @@ Somit weißt du immer genau, wie viele XP du beim Leeren des Ofens erhältst.
 
 > Deine Hände müssen bei diesem Vorgang leer sein.
 >
-{style="note" title="Hinweis"}
+{style="note"}
 
 </def>
 
@@ -67,22 +67,19 @@ Die Livestream-Status-Anzeige ermöglicht es, den Live-Status der Spieler server
 Sobald ein verknüpfter Twitch-Account live ist, wird dies durch einen roten Punkt hinter dem Namen sowohl
 in der Spielerliste als auch im Nametag im Spiel angezeigt.
 
+
 ![player-not-streaming](livestream-display-player-not-streaming.png)
 ![player-streaming](livestream-display-player-streaming.png)
 
-> Um dieses Feature verwenden zu können, musst du dich auf der [Whitelist](support.md "%click-more-info%") befinden.
->
-{style="note" title="Voraussetzungen" id="livestream-display-requirements"}
-
-> Wenn du den Namen deines Twitch-Accounts nach der Whitelist änderst, funktioniert die Livestream-Statusanzeige nicht mehr.
+> Der Minecraft Account muss mit dem Twitch Account über `/link twitch` verknüpft sein.
 > 
-{style="warning" title="Achtung" id="livestream-display-warning"}
+{style="warning" id="livestream-display-warning"}
 
 > - Ohne viele Worte ist sofort sichtbar, ob jemand streamt oder nicht.
 > - Spieler sehen sofort, wer gerade live ist – das sorgt für mehr Aufmerksamkeit und Interaktion.
 > - Spieler, die nicht im Stream auftauchen möchten, können auf einen Blick erkennen, wer gerade streamt, und entsprechend den Stream meiden.
 >
-{style="note" title="Vorteile der Livestream-Status-Anzeige" id="livestream-display-benefits"}
+{style="tip" title="Vorteile der Livestream-Status-Anzeige" id="livestream-display-benefits"}
 
 </def>
 </deflist>

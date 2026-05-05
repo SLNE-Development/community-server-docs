@@ -34,7 +34,7 @@ herunterladen.**
 unter Umständen zu einem Ausschluss des Servers führen.**
 > **Wir übernehmen keine Verantwortung für modifizierte Versionen des Modpacks.**
 >
-{style="note" title="Offizielles Server Modpack"}
+{style="tip" title="Offizielles Server Modpack"}
 
 </snippet>
 
@@ -49,8 +49,6 @@ unter Umständen zu einem Ausschluss des Servers führen.**
 
 </snippet>
 
-<snippet id="compostable-items">
-
 <snippet id="voicechat-available">
 
 In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über den ihr mit anderen Spielern
@@ -62,6 +60,8 @@ Den Download der Mod findet ihr
 hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
 
 </snippet>
+
+<snippet id="compostable-items">
 
 Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompostierbar:
 

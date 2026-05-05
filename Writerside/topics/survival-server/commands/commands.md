@@ -4,14 +4,15 @@
 
 #### Chat und Textnachrichten {collapsible="true" default-state="collapsed" id="survival-server-chat-commands"}
 
-/msg &lt;player&gt; &lt;message&gt; {id="msg"}
-: Schickt eine Privatnachricht an den angegebenen Spieler.
-
-/r &lt;message&gt; {id="reply"}
-: Schreibe dem Spieler, der dich zuletzt angeschrieben hat, eine Nachricht.
-
 <deflist>
-<def title="/ignore <player>" id="ignore"> 
+<def title="/msg &lt;player&gt; &lt;message&gt;" id="msg"> 
+Schickt eine Privatnachricht an den angegebenen Spieler.
+
+> Die Privatnachrichten können über Das Einstellungsmenü in der [Lobby](how-to-join.md "%click-more-info%") ausgestellt werden
+>
+</def>
+
+<def title="/ignore &lt;player&gt;" id="ignore"> 
 Blockiert den angegebenen Spieler im Chat.
 
 > Um einen Spieler wieder freizugeben, gebe den Befehl erneut ein.
@@ -19,15 +20,12 @@ Blockiert den angegebenen Spieler im Chat.
 </def>
 </deflist>
 
-/toggle pm {id="toggle-pm"}
-: Aktiviere oder deaktiviere deine Privatnachrichten.
-
 #### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
 
 /playtime {id="playtime"}
 : Zeigt die aktuelle <tooltip term="Spielstunde">Spielzeit</tooltip> auf dem Server an.
 
-/balance &lt;%main_currency%|%event_coin%&gt; {id="balance"}
+/balance %main_currency% {id="balance"}
 : Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
 
 #### Köpfe {collapsible="true" default-state="collapsed" id="survival-server-head-commands"}
