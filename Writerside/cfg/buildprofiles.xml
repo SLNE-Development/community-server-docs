@@ -11,14 +11,14 @@
         <download-title>Spenden</download-title>
         <download-page>https://www.paypal.com/paypalme/SLNEDEV</download-page>
         <custom-favicons>logo.svg</custom-favicons>
-        <generate-sitemap-url-prefix>https://server.castcrafter.de/</generate-sitemap-url-prefix>
-        <product-web-url>https://server.castcrafter.de/</product-web-url>
+        <generate-sitemap-url-prefix>https://docs.castcrafter.de/</generate-sitemap-url-prefix>
+        <product-web-url>https://docs.castcrafter.de/</product-web-url>
 
         <!-- algolia search -->
         <algolia-id>C86V8LU863</algolia-id>
         <algolia-index>docs_cast_crafter_community_server</algolia-index>
         <algolia-api-key>7cf09b7ca00ee35aefbe99fa74174ed6</algolia-api-key>
-        <web-root>https://server.castcrafter.de/</web-root>
+        <web-root>https://docs.castcrafter.de/</web-root>
         <algolia-show-logo>true</algolia-show-logo>
 
         <enable-contribution>true</enable-contribution>

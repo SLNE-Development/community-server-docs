@@ -18,7 +18,7 @@ jobs:
         id: "master_branch"
         if: github.head_ref == 'master'
        # with:
-        #  comment: "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://server.castcrafter.de/write-documentation.html#new-branch) for more information."
+        #  comment: "Please do not open pull requests from the `master` branch, create a new branch instead. See [here](https://docs.castcrafter.de/write-documentation.html#new-branch) for more information."
 
       - uses: superbrothers/close-pull-request@v3
         id: "org_account"
