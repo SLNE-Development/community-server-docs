@@ -52,7 +52,7 @@ sprechen, wenn diese die Mod ebenfalls installiert haben.
 
 <seealso style="cards">
     <category ref="spotlight">
-        <a href="events.md" summary="Auf dem Server finden auch regelmäßig Events statt. 
+        <a href="survival-events.md" summary="Auf dem Server finden auch regelmäßig Events statt. 
         Hier findest du alle Informationen dazu."/>
         <a href="changed-vanilla-mechanics.md" summary="Auf dem Server wurden einige Vanilla Mechaniken geändert 
         wie z.B. das Mobcap. Weitere Informationen findest du hier."/>

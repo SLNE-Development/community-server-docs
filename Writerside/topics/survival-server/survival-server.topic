@@ -38,7 +38,7 @@
                   summary="Auf dem Server gibt es einige veränderte Vanilla-Mechaniken. Welche das sind, erfährst du hier."/>
             <card href="armorstand.md" badge="creative"
                   summary="Auf dem Server gibt es verschiedene Cosmetics, die du nutzen kannst. Welche das sind, erfährst du hier."/>
-            <card href="events.md" badge="community"
+            <card href="survival-events.md" badge="community"
                   summary="Auf dem Server finden regelmäßig Events statt. Welche das sind, erfährst du hier."/>
             <card href="specials.md" badge="idea"
                   summary="Hier findest du eine Übersicht über alle Besonderheiten, die du sonst noch auf dem Server finden kannst."/>

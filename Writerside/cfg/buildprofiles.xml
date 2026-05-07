@@ -7,7 +7,7 @@
         <color-preset>vivid</color-preset>
 
         <header-logo>logo.svg</header-logo>
-        <showDownloadButton>true</showDownloadButton>
+        <showDownloadButton>false</showDownloadButton>
         <download-title>Spenden</download-title>
         <download-page>https://www.paypal.com/paypalme/SLNEDEV</download-page>
         <custom-favicons>logo.svg</custom-favicons>

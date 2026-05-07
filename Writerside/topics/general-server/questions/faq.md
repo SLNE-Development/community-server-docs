@@ -159,8 +159,8 @@ massenhaft neue Chunks.
 </def>
 <def title="Wann findet wieder ein Event statt?" id="next-event">
 
-Auf dem Survival Server finden regelmäßige [MiningEvents](events.md#mining-event)
-und [AngelEvents](events.md#fishing-event) statt.
+Auf dem Survival Server finden regelmäßige [MiningEvents](survival-events.md#mining-event)
+und [AngelEvents](survival-events.md#fishing-event) statt.
 
 > Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%)
 > unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
