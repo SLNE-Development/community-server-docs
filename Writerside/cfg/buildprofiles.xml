@@ -3,7 +3,7 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <primary-color>emerald</primary-color>
+        <primary-color>#00B46F</primary-color>
         <color-preset>vivid</color-preset>
 
         <header-logo>logo.svg</header-logo>
