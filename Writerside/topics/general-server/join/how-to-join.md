@@ -53,7 +53,7 @@ unter [%com_updates_channel_display%](%com_updates_channel%) angekündigt.
 <def title="Anforderungen für den Event Server" id="event-dependencies">
 
 Für die Teilnahme an Events gibt es **keine besonderen Voraussetzungen**.\
-Sollten spezifische Anforderungen gelten, werden diese in der Event-Übersicht unter dem Reiter [Events](events.md "%click-more-info%") aufgeführt.
+Sollten spezifische Anforderungen gelten, werden diese in der Event-Übersicht unter dem Reiter [Events](survival-events.md "%click-more-info%") aufgeführt.
 
 Wie du an einem Event teilnimmst, erfährst du [hier](how-to-take-part-in-an-event.md "%click-more-info%").
 
