@@ -13,8 +13,8 @@ Diese sorgen dafür, dass sich die Spieler gleichmäßig in der Welt verteilen.
 - **Teleportation:** Es ist möglich, sich von jedem Spawn zu den benachbarten zu teleportieren.
 - **Händler:** Weitere Infos zu den Spawn-Händlern findest du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
->Falls ein Spieler zu einem Spawnpunkt möchte, gibt es **kein /spawn-Befehl**, sondern er muss dorthin hinlaufen.
-> 
+> Falls ein Spieler zu einem Spawnpunkt möchte, gibt es **kein `/spawn`-Befehl**, sondern er muss dorthin hinlaufen.
+>
 {title="Allgemein gilt:" style="note"}
 
 ## Spawn-Raster {id="spawn-grid" collapsible="true"}
