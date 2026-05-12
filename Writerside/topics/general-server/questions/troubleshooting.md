@@ -47,7 +47,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 **Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
 :
 1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat beheben.
-2. **Einstellungen:** Stelle sicher, dass die [Chateinstellungen](https://de.minecraft.wiki/w/Menü/Optionen/Chateinstellungen) richtig konfiguriert sind. 
+2. **Einstellungen:** Stelle sicher, dass die [Chateinstellungen](https://de.minecraft.wiki/w/Menü/Optionen/Chateinstellungen) richtig konfiguriert sind.
    - Überprüfe, ob die `Sichtbarkeit des Chats` auf `Sichtbar` gestellt ist.
    - Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
 3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
@@ -56,6 +56,18 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 5. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
    zu vermeiden.
 6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein.
+
+</tab>
+
+<tab title="NoRisk Client Voice Chat Probleme" id="nrc-voicechat-issues">
+
+**Du hast Probleme mit dem NoRisk Client Voice Chat, weil er sich nicht verbindet? Die folgenden Schritte können dir helfen, das Problem selbst zu beheben.**
+:
+1. **Einstellungen öffnen:** Du klickst auf den Pfeil, der nach unten zeigt. ![](nrc-open-profile-list.png)
+2. **Profil suchen:** Nun klickst du in der Liste auf dein Profil. Anschließend solltest du zu einer Ansicht gelangen, in der du rechts bei Content „NoRiskClient“ auswählst. ![](nrc-mod-list.png)
+3. **NoRisk Client Voice Chat deaktivieren:** Nun suchst du nach „Voice“, wo du die beiden Ergebnisse deaktivierst. ![](nrc-disable-voicechat.png)
+4. **Simple Voice Chat installieren:** Zum Schluss wechselst du bei Content noch einmal zu Mods und prüfst, ob die [Simple Voice Chat Mod](https://modrinth.com/mod/simple-voice-chat) installiert und aktiviert ist.
+5. **Minecraft starten:** Jetzt kannst du Minecraft wieder starten und alles sollte wieder funktionieren.
 
 </tab>
 </tabs>
