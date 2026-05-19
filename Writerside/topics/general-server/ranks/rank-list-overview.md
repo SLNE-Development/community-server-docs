@@ -208,7 +208,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium-plus">
 
-*Soon™*
+Premium ist ein erwerbbarer Rang, der dir zusätzliche Features auf dem Server bietet. Ziel von Premium ist es, dein Spielerlebnis angenehmer und individueller zu gestalten. Dieser Rang ist [hier](https://server.castcrafter.de/shop "%click-more-info%") erhältlich.
 
 </def>
 </deflist>
@@ -218,7 +218,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium">
 
-*Soon™*
+Priority ist ein erwerbbarer Rang, der dir beim Verbinden mit den Servern einen Vorteil in der Warteschlange verschafft. Dieser Rang ist [hier](https://server.castcrafter.de/shop "%click-more-info%") erhältlich. 
 
 </def>
 </deflist>
