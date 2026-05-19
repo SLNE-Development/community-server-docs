@@ -15,7 +15,7 @@ Spawn Limit
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="spawn-limits-ambient" summary="%click-more-info%">Ambient</a></td>
     <td>15</td>
-    <td>4</td>
+    <td>2</td>
 </tr>
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="spawn-limits-axolotl" summary="%click-more-info%">Axolotl</a></td>
@@ -28,9 +28,24 @@ Spawn Limit
     <td>25</td>
 </tr>
 <tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="spawn-limits-animals" summary="%click-more-info%">Tiere</a></td>
+    <td>10</td>
+    <td>7</td>
+</tr>
+<tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="spawn-limits-water-ambient" summary="%click-more-info%">Wasser Ambient</a></td>
     <td>20</td>
-    <td>10</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="spawn-limits-water-animals" summary="%click-more-info%">Wasser Tiere</a></td>
+    <td>15</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="spawn-limits-water-underground-creature" summary="%click-more-info%">Wasser Untergrund Kreatur</a></td>
+    <td>5</td>
+    <td>3</td>
 </tr>
 </table>
 
@@ -47,6 +62,15 @@ Die Konstante, die verwendet wird, um zu bestimmen, wie viele Monster pro Welt n
 </def>
 <def title="Wasser Ambient" id="spawn-limits-water-ambient">
 Die Konstante, die verwendet wird, um zu bestimmen, wie viele Wasser Ambient Mobs pro Welt natürlich gespawnt werden sollen.
+</def>
+<def title="Tiere" id="spawn-limits-animals">
+Die Konstante, die verwendet wird, um zu bestimmen, wie viele Tiere pro Welt natürlich gespawnt werden sollen.
+</def>
+<def title="Wasser Tiere" id="spawn-limits-water-animals">
+Die Konstante, die verwendet wird, um zu bestimmen, wie viele Wasser Tiere pro Welt natürlich gespawnt werden sollen.
+</def>
+<def title="Wasser Untergrund Kreatur" id="spawn-limits-water-underground-creature">
+Die Konstante, die verwendet wird, um zu bestimmen, wie viele Wasser Untergrund Kreaturen pro Welt natürlich gespawnt werden sollen.
 </def>
 </deflist>
 
@@ -79,7 +103,7 @@ Ticks-Per
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-monster-spawn" summary="%click-more-info%">Monster Spawn</a></td>
     <td>1</td>
-    <td>10</td>
+    <td>3</td>
 </tr>
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-water-ambient-spawn" summary="%click-more-info%">Wasser Ambient Spawn</a></td>
@@ -99,22 +123,12 @@ Ticks-Per
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-hopper-check" summary="%click-more-info%">Trichter Check</a></td>
     <td>1</td>
-    <td>4</td>
-</tr>
-<tr>
-    <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-hopper-transfer" summary="%click-more-info%">Trichter Transfer</a></td>
-    <td>1</td>
-    <td>8</td>
+    <td>2</td>
 </tr>
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-container-update" summary="%click-more-info%">Container Update</a></td>
     <td>1</td>
     <td>3</td>
-</tr>
-<tr>
-    <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-grass-spread" summary="%click-more-info%">Verbreitung von Gras</a></td>
-    <td>1</td>
-    <td>4</td>
 </tr>
 <tr>
     <td><a href="changed-vanilla-mechanics.md" anchor="ticks-per-mob-spawner" summary="%click-more-info%">Mob Spawner</a></td>
@@ -148,14 +162,8 @@ Anzahl der Ticks zwischen jedem Versuch, Wasser Untergrund Mobs zu spawnen
 <def title="Trichter Check" id="ticks-per-hopper-check">
 Die Anzahl der Ticks, die zwischen den Überprüfungen vergehen, um Gegenstände aus oder in einen Trichter zu ziehen.
 </def>
-<def title="Trichter Transfer" id="ticks-per-hopper-transfer">
-Die Anzahl der Ticks, die zwischen den Bewegungen von Gegenständen in einem Trichter vergehen.
-</def>
 <def title="Container Update" id="ticks-per-container-update">
 Die Anzahl der Ticks, die zwischen den Aktualisierungen von Containern und Inventaren vergehen.
-</def>
-<def title="Verbreitung von Gras" id="ticks-per-grass-spread">
-Die Anzahl der Ticks, die zwischen den Versuchen vergehen, Gras zu verbreiten.
 </def>
 <def title="Mob Spawner" id="ticks-per-mob-spawner">
 Die Anzahl der Ticks, die zwischen den Versuchen vergehen, Monster aus einem Mob Spawner zu spawnen.
@@ -190,6 +198,16 @@ Entity Activation Range
     <td>16</td>
     <td>8</td>
 </tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="entity-activation-range-water" summary="%click-more-info%">Wasser</a></td>
+    <td>16</td>
+    <td>8</td>
+</tr>
+<tr>
+    <td><a href="changed-vanilla-mechanics.md" anchor="entity-activation-range-villagers" summary="%click-more-info%">Villager</a></td>
+    <td>32</td>
+    <td>16</td>
+</tr>
 </table>
 
 <deflist id="entity-activation-range-def" collapsible="true" default-state="collapsed" type="medium">
@@ -201,6 +219,12 @@ Die Entfernung, in der Monster aktiv sind.
 </def>
 <def title="Sonstige" id="entity-activation-range-misc">
 Die Entfernung, in der sonstige Entitäten aktiv sind.
+</def>
+<def title="Wasser" id="entity-activation-range-water">
+Die Entfernung, in der Wasser-Entitäten aktiv sind.
+</def>
+<def title="Villager" id="entity-activation-range-villagers">
+Die Entfernung, in der Villager aktiv sind.
 </def>
 </deflist>
 
@@ -467,14 +491,14 @@ Entity Despawn Rules
     <td>Kreatur</td>
     <td>N/A</td>
     <td>128</td>
-    <td>N/A</td>
+    <td>32</td>
     <td>72</td>
 </tr>
 <tr>
     <td>Untergrund Wasser Kreatur</td>
     <td>N/A</td>
     <td>128</td>
-    <td>N/A</td>
+    <td>32</td>
     <td>72</td>
 </tr>
 <tr>
@@ -482,13 +506,13 @@ Entity Despawn Rules
     <td>32</td>
     <td>N/A</td>
     <td>28</td>
-    <td>N/A</td>
+    <td>64</td>
 </tr>
 <tr>
     <td>Sonstige</td>
     <td>N/A</td>
     <td>128</td>
-    <td>N/A</td>
+    <td>32</td>
     <td>72</td>
 </tr>
 </table>
@@ -513,6 +537,108 @@ In einfacheren Worten: Wenn eine Entität – wie ein Monster, Tier oder eine an
 </tip>
 </def>
 </deflist>
+
+## Simulationsdistanz {collapsible="true" default-state="collapsed" id="simulation-distance"}
+
+Simulationsdistanz
+: Bestimmt, in welchem Radius um den Spieler herum die Welt aktiv simuliert wird (Mob-KI, Redstone, Pflanzenwachstum etc.).
+
+<table style="both">
+<tr>
+    <td></td>
+    <td>Vanilla</td>
+    <td>Community Server</td>
+</tr>
+<tr>
+    <td>Simulationsdistanz</td>
+    <td>10 Chunks</td>
+    <td>3 Chunks</td>
+</tr>
+</table>
+
+## Schatzkarten {collapsible="true" default-state="collapsed" id="treasure-maps"}
+
+Schatzkarten
+: Schatzkarten, die normalerweise in generierten Strukturen gefunden werden können, sind auf dem Server deaktiviert. Dies betrifft sowohl Beutetabellen als auch den Handel mit Kartographen.
+
+## Pillager-Patrouillen {collapsible="true" default-state="collapsed" id="pillager-patrols"}
+
+Pillager-Patrouillen
+: Die automatisch spawnenden Pillager-Patrouillen sind auf dem Server deaktiviert. Pillager können weiterhin in Plünderer-Außenposten gefunden werden.
+
+## Erlaubte Exploits {collapsible="true" default-state="collapsed" id="allowed-exploits"}
+
+Auf dem Server sind bestimmte Duplikations- und Block-Exploits bewusst aktiviert, um technische Spielweisen (z. B. TNT-Duplikatoren) zu ermöglichen.
+
+<table style="both">
+<tr>
+    <td>Exploit</td>
+    <td>Vanilla</td>
+    <td>Community Server</td>
+</tr>
+<tr>
+    <td>Kolben-Duplikation (TNT etc.)</td>
+    <td>Behoben</td>
+    <td>Erlaubt</td>
+</tr>
+<tr>
+    <td>Headless Pistons</td>
+    <td>Behoben</td>
+    <td>Erlaubt</td>
+</tr>
+<tr>
+    <td>Permanente Block-Break-Exploits</td>
+    <td>Behoben</td>
+    <td>Erlaubt</td>
+</tr>
+</table>
+
+## Behobene Minecraft-Bugs {collapsible="true" default-state="collapsed" id="canvas-bugfixes"}
+
+Durch die Verwendung von [CanvasMC](https://canvasmc.io) werden einige bekannte Minecraft-Bugs serverseitig behoben, die in Vanilla weiterhin existieren.
+
+<table style="both">
+<tr>
+    <td>Bug</td>
+    <td>Beschreibung</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-298464">MC-298464</a></td>
+    <td>Speicherleck bei Hoglin-Farmen durch fehlerhaftes Entity-Removal bei Dimensionswechsel</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-223153">MC-223153</a></td>
+    <td>Rohkupferblock verwendet Stein-Sounds statt Kupfer-Sounds</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-94054">MC-94054</a></td>
+    <td>Höhlenspinnen drehen sich im Kreis beim Laufen</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-231743">MC-231743</a></td>
+    <td>Statistik für das Eintopfen von Pflanzen in Blumentöpfe wird nicht erhöht</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-227337">MC-227337</a></td>
+    <td>Wenn eine Shulker-Kugel eine Entität trifft, werden kein Explosionssound und keine Partikel erzeugt</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-221257">MC-221257</a></td>
+    <td>Shulker-Kugeln erzeugen keine Blasenpartikel beim Bewegen durch Wasser</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-121706">MC-121706</a></td>
+    <td>Skelette und Illusioner schauen beim Strafing nicht nach oben oder unten auf ihr Ziel</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-100991">MC-100991</a></td>
+    <td>Kills mit einer Angel werden nicht als Kill gezählt</td>
+</tr>
+<tr>
+    <td><a href="https://bugs.mojang.com/browse/MC-183990">MC-183990</a></td>
+    <td>Gruppen-KI einiger Mobs funktioniert nicht mehr, wenn ihr Ziel stirbt</td>
+</tr>
+</table>
 
 ## Angelbare Gegenstände {collapsible="true" default-state="collapsed" id="additionally-fishing-loot"}
 
