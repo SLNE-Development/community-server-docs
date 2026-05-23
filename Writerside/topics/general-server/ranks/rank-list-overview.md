@@ -214,16 +214,6 @@ Premium ist ein erwerbbarer Rang, der dir zusätzliche Features auf dem Server b
 </deflist>
 </tab>
 
-<tab title="Priority Queue" id="premium">
-<deflist>
-<def title="Beschreibung" id="description-premium">
-
-Priority ist ein erwerbbarer Rang, der dir beim Verbinden mit den Servern einen Vorteil in der Warteschlange verschafft. Dieser Rang ist [hier](https://server.castcrafter.de/shop "%click-more-info%") erhältlich. 
-
-</def>
-</deflist>
-</tab>
-
 <tab title="Veteran" id="veteran">
 <deflist>
 <def title="Beschreibung" id="description-veteran">
