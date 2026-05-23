@@ -83,7 +83,7 @@ Wenn du denkst, dir wurde mit einem Ausschluss vom Server unrecht getan, öffne 
 Wenn du Teil unseres Teams werden möchtest, öffne während einer aktiven Bewerbungsphase ein Bewerbungs-Ticket.
 
 > Wir erwarten einen **ehrlichen** und **selbstgeschriebenen** Bewerbungstext.
-> Täuschungsversuche oder „KI-generierte" Texte führen zur Ablehnung.
+> Täuschungsversuche oder "KI-generierte" Texte führen zur Ablehnung.
 
 </tab>
 <tab title="Twitch Support" id="twitch-ticket">
