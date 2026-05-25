@@ -208,7 +208,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium-plus">
 
-Premium ist ein erwerbbarer Rang, der dir zusätzliche Features auf dem Server bietet. Ziel von Premium ist es, dein Spielerlebnis angenehmer und individueller zu gestalten. Dieser Rang ist [hier](https://server.castcrafter.de/shop "%click-more-info%") erhältlich.
+Premium ist ein erwerbbarer Rang, der dir zusätzliche Features und Vorteile auf dem Server bietet. Ziel von Premium ist es, dein Spielerlebnis individueller und angenehmer zu gestalten. Du kannst den Rang [hier](https://server.castcrafter.de/shop "%click-more-info%") erwerben.
 
 </def>
 </deflist>

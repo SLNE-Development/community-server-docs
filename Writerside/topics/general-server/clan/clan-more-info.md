@@ -17,7 +17,7 @@ Indem du deinen Discord-Link zum Clan hinzufügst, erleichterst du es anderen, s
 Das Hinzufügen eines Discord-Links ist erst ab 30 Mitgliedern möglich.
 
 Clan-Chat {id="clan-chat"}
-: Mit dem Befehl `/clanchat <Nachricht>` (oder kurz `/cc <Nachricht>`) schreibst du im internen Clan-Chat. Diese Nachrichten sind ausschließlich für deine Clan-Mitglieder sichtbar und perfekt für die interne Absprache.
+: Mit dem Befehl `/clanchat <Nachricht>` (oder kurz `/cc <Nachricht>`) schreibst du im internen Clan-Chat. Diese Nachrichten sind ausschließlich für deine Clan-Mitglieder sichtbar und eignen sich perfekt für interne Absprachen.
 
 Clan-Farbe {id="clan-color"}
 : Mit dem Befehl `/clan options tagcolor foreground <Hex-Code>` passt du die Farbe deines Clan-Tags an. Der Farbcode wird im Hexadezimalformat ohne das `#`-Zeichen angegeben (z. B. `FF0000` für Rot). Dieses Feature steht nur **Clan-Erstellern mit Premium-Status** zur Verfügung.
