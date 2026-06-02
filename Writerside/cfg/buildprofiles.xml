@@ -7,9 +7,9 @@
         <color-preset>vivid</color-preset>
 
         <header-logo>logo.svg</header-logo>
-        <showDownloadButton>false</showDownloadButton>
-        <download-title>Spenden</download-title>
-        <download-page>https://www.paypal.com/paypalme/SLNEDEV</download-page>
+        <showDownloadButton>true</showDownloadButton>
+        <download-title>Zur Hauptseite</download-title>
+        <download-page>https://server.castcrafter.de</download-page>
         <custom-favicons>logo.svg</custom-favicons>
         <generate-sitemap-url-prefix>https://docs.castcrafter.de/</generate-sitemap-url-prefix>
         <product-web-url>https://docs.castcrafter.de/</product-web-url>
@@ -25,6 +25,7 @@
         <contribute-url>https://github.com/SLNE-Development/community-server-docs/blob/master/Writerside/</contribute-url>
         <custom-css>custom.css</custom-css>
         <noindex-content>false</noindex-content>
+        <include-in-head>static/google-search-console.html</include-in-head>
 
         <ignore-problems>MRK015</ignore-problems>
 
@@ -34,7 +35,7 @@
         <variables>
             <noindex-content>false</noindex-content>
         </variables>
-        <sitemap priority="0.5" change-frequency="daily"/>
+        <sitemap priority="0.5" change-frequency="monthly"/>
         <llms-txt/>
     </build-profile>
     <footer>
