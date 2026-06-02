@@ -119,7 +119,7 @@ Richtig:
 
 ```md
 10 %
-````
+```
 
 Falsch:
 
