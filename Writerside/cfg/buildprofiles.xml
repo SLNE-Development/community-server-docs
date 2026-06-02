@@ -28,6 +28,7 @@
         <include-in-head>static/google-search-console.html</include-in-head>
 
         <ignore-problems>MRK015</ignore-problems>
+        <generate-canonicals>true</generate-canonicals>
 
     </variables>
 
