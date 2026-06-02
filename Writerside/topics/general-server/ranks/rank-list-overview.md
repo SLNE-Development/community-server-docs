@@ -208,17 +208,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium-plus">
 
-*Soon™*
-
-</def>
-</deflist>
-</tab>
-
-<tab title="Priority Queue" id="premium">
-<deflist>
-<def title="Beschreibung" id="description-premium">
-
-*Soon™*
+Premium ist ein erwerbbarer Rang, der dir zusätzliche Features und Vorteile auf dem Server bietet. Ziel von Premium ist es, dein Spielerlebnis individueller und angenehmer zu gestalten. Du kannst den Rang [hier](https://server.castcrafter.de/shop "%click-more-info%") erwerben.
 
 </def>
 </deflist>
