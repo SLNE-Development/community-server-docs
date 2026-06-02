@@ -1,72 +1,242 @@
-# Richtlinien für Codex Agents
+# Richtlinien für Agents
 
-Diese Datei erläutert, wie Änderungen in diesem Repository vorgenommen werden sollen. Das Repository verwendet [Writerside](https://www.jetbrains.com/help/writerside/) von JetBrains für die Dokumentation. Writerside basiert auf Markdown, bietet jedoch zusätzliche Funktionen wie Snippets, Variablen und spezielle Tags.
+Diese Datei beschreibt, wie KI-Agents und andere automatisierte Werkzeuge Änderungen in diesem Repository durchführen sollen.
 
-## Allgemeine Regeln
-- Schreibe alle neuen Inhalte auf Deutsch.
-- Achte auf eine freundliche, leicht verständliche Ausdrucksweise.
-- Bestehende Dateien dürfen nicht ohne Grund gelöscht werden.
-- Nutze Pull Requests mit aussagekräftigen Beschreibungen.
+Das Repository verwendet Writerside von JetBrains für die Dokumentation. Writerside basiert auf Markdown und erweitert es um XML-Tags, Includes, Variablen und spezielle Attribute.
+
+Der verbindliche Sprach- und Formatierungsstandard steht in [`STYLEGUIDE.md`](STYLEGUIDE.md).
+
+## Grundregeln
+
+- Schreibe alle neuen und überarbeiteten Inhalte auf Deutsch.
+- Befolge den Styleguide in [`STYLEGUIDE.md`](STYLEGUIDE.md).
+- Verwende grundsätzlich die direkte Ansprache mit „du“.
+- Verwende keine gegenderte Sprache wie `Spielende`, `jede*r`, `Nutzer:innen` oder ähnliche Formen.
+- Erhalte alle vorhandenen Informationen vollständig.
+- Lösche keine bestehenden Inhalte ohne klaren Grund.
+- Ändere keine Regeln, Warnungen oder Hinweise inhaltlich.
+- Verwende eine freundliche, klare und leicht verständliche Sprache.
+- Erstelle Pull Requests mit aussagekräftiger Beschreibung.
+
+## Wichtige Arbeitsweise
+
+Bei jeder Änderung gilt:
+
+1. Lies die betroffene Datei vollständig genug, um den Kontext zu verstehen.
+2. Ändere nur das, was zur Aufgabe gehört.
+3. Erhalte Struktur, Reihenfolge und Bedeutung der Inhalte.
+4. Prüfe nach der Änderung, ob keine Information verloren gegangen ist.
+5. Prüfe Links, IDs, Variablen und Writerside-Markup besonders sorgfältig.
+
+Wenn eine Formulierung unklar ist, formuliere konservativ um oder lasse sie unverändert.
+
+## Sprachstil
+
+Die Dokumentation spricht Leser grundsätzlich mit „du“ an.
+
+Bevorzugte Formulierungen:
+
+- „du kannst …“
+- „du erhältst …“
+- „du findest …“
+- „wenn du …“
+- „beachte …“
+
+Vermeide unnötige Wechsel zwischen:
+
+- „du“
+- „ihr“
+- „man“
+- „die Spieler“
+
+„Ihr“ ist nur erlaubt, wenn eindeutig eine Gruppe gemeinsam angesprochen wird.
+
+## Gender-Regeln
+
+Verwende keine gegenderte Sprache mit Sonderzeichen oder künstlichen Ersatzformen.
+
+Nicht verwenden:
+
+- `Spielende`
+- `Nutzende`
+- `Teilnehmende`
+- `jede*r`
+- `Nutzer:innen`
+- `Spieler/innen`
+- `SpielerInnen`
+
+Verwende stattdessen das generische Maskulinum oder eine natürliche neutrale Formulierung.
+
+Beispiele:
+
+- `Spieler`
+- `Nutzer`
+- `Teilnehmer`
+- `jeder`
+- `die Community`
+- `alle`
+- `das Team`
+
+Neutrale Formulierungen sind erlaubt, wenn sie natürlich und unauffällig wirken.
+
+## Einheitliche Terminologie
+
+Verwende die Schreibweisen aus dem Styleguide.
+
+Besonders wichtig:
+
+- `Community-Server`
+- `Survival-Server`
+- `Event-Server`
+- `SMP-Server`
+- `Serverregeln`
+- `Shopsystem`
+- `Skillsystem`
+- `Skillmenü`
+- `Befehl`
+- `Modifikation`
+- `Minecraft-Version`
+- `TNT-Duper`
+
+Eigennamen, Itemnamen, Plugin-Namen, UI-Bezeichnungen, Variablen und Befehle dürfen nicht unnötig verändert werden.
+
+## Typografie
+
+Achte auf korrekte deutsche Typografie.
+
+Beispiele:
+
+- `z. B.`
+- `d. h.`
+- `u. a.`
+- `10 %`
+- `550 Spielstunden`
+
+Verwende geschützte Leerzeichen, wo Begriffe nicht getrennt werden sollen.
+
+Verändere keine technischen Variablen wie:
+
+- `%main_currency%`
+- `%dc_link%`
+- `%required_game_version%`
 
 ## Writerside-spezifische Hinweise
- - Writerside unterstützt Standard-Markdown sowie erweiterte Tags und eine XML-basierte Semantik.
-    - Wiederverwendbare Inhalte definierst du mit `<snippet id="...">...</snippet>`.
-    - Über `<include from="DATEI" element-id="ID"/>` bindest du Snippets in andere Seiten ein.
-    - Variablen aus `Writerside/v.list` kannst du über `%varname%` nutzen.
-    - Hinweise und Warnungen werden mit `{style="note"}` bzw. `{style="warning"}` erzeugt.
-    - Registerkarten lassen sich mit `<tabs>` und `<tab title="Titel" id="name">` aufbauen.
-    - Definitionen verwendest du mit `<deflist>` und `<def title="...">`.
-    - Neue Dokumentationsdateien legst du unter `Writerside/topics/` an. Die Struktur sollte zu den vorhandenen Unterordnern passen.
-    - Bilder kommen in `Writerside/images/`, Videos in `Writerside/videos/`.
- - Achte darauf, IDs für Überschriften zu vergeben (`## Titel {id="..."}`), damit Links stabil bleiben.
- - Bevor du Inhalte veröffentlichst, führe das Writerside-Build-Skript aus (falls vorhanden), um sicherzustellen, dass die Dokumentation fehlerfrei gerendert wird.
 
-### Kurzübersicht zum Writerside-Markup
-Writerside kombiniert CommonMark mit zahlreichen XML‑Tags. Ein paar der wichtigsten Funktionen aus der Dokumentation sind:
+Writerside unterstützt Standard-Markdown sowie zusätzliche XML- und Attribut-Syntax.
 
-- **Absätze und Text**: Einfache Absätze brauchen keine besonderen Tags. Für Textblöcke kannst du `<p>` verwenden und über `{id="..."}` eigene IDs setzen.
-- **Strukturelle Blöcke**: Verwende `<chapter>` für längere Themenblöcke oder `<procedure>` mit `<step>` für Schritt‑an‑Schritt-Anleitungen. Inhaltslisten baust du mit `<list type="ordered">` oder `<list type="unordered">`, Tabellen mit `<table>`, `<tr>`, `<td>`.
-- **Ein- und ausklappbare Abschnitte**: `<collapsible>` bzw. `<expander>` ermöglichen Akkordeon-ähnliche Inhalte.
-- **Links und Querverweise**: `[Linktext](url)` funktioniert wie gewohnt. Für interne Verweise gibt es `<xref href="topic.id"/>`.
-- **Medieneinbindung**: Bilder bindest du über `![Alt-Text](path)` oder `<img src="path" alt="Text">` ein, Videos mit `<video src="..." poster="...">`.
-- **Weitere Blöcke**: `tabs` mit `tab` für Registerkarten, `code-block` für längere Beispiele, `diagram` für Mermaid-, PlantUML- oder D2-Grafiken, `math` für Formeln.
-- **Inline-Tags**: `link`, `control`, `path`, `var`, `shortcut` oder `tooltip` ergänzen Textstellen semantisch. Für kurze Code-Snippets nutzt du `` `code` `` oder `<code>`.
-- **Hinweiskästen**: `{style="note"}`, `{style="tip"}`, `{style="warning"}`, `<tldr>` oder `<summary>` heben wichtige Informationen hervor.
-- **Weitere Funktionen**: Dateien zum Download deklarierst du mit `<download>`, Startseiten über `<section-starting-page>`, Beschriftungen mit `labels="tag1,tag2"`.
-Eine kompakte Übersicht aller Elemente steht in der [Semantic Markup Reference](https://www.jetbrains.com/help/writerside/semantic-markup-reference.html). Weitere Infos zu Paragraphs, Structural Elements und anderen Themen findest du in den Writerside-Seiten.
-## Writerside lokal oder mit Docker bauen
+Erhalte insbesondere:
 
-Um deine Änderungen zu testen, kannst du den in Writerside integrierten Builder oder das von JetBrains bereitgestellte Docker-Image verwenden.
+- `<include from="..." element-id="..."/>`
+- `<tabs>`
+- `<tab title="..." id="...">`
+- `<deflist>`
+- `<def title="..." id="...">`
+- `<chapter title="..." id="...">`
+- `<tooltip term="...">`
+- `{style="note"}`
+- `{style="tip"}`
+- `{style="warning"}`
+- `%variable%`
 
-1. **Docker-Image herunterladen**
+Ändere keine technischen IDs, wenn es nicht ausdrücklich notwendig ist.
 
-   ```bash
-   docker pull jetbrains/writerside-builder:2025.04.8412
-   ```
+Dazu gehören:
 
-2. **Dokumentation bauen**
+- Überschriften-IDs wie `{id="economy-trading"}`
+- XML-IDs wie `id="install-voicechat"`
+- Include-IDs wie `element-id="mod-pack"`
+- Linkziele und Anker
+- Dateipfade
+- Bildpfade
 
-   Starte den Build aus dem Projektstammverzeichnis heraus und mounte die Quelldateien in den Container:
+Sichtbare Texte in Attributen dürfen sprachlich korrigiert werden, wenn technische Werte unverändert bleiben.
 
-   ```bash
-   docker run --rm -v "$PWD":/opt/sources \
-     -e SOURCE_DIR=/opt/sources \
-     -e MODULE_INSTANCE=Writerside/hi \
-     -e OUTPUT_DIR=/opt/sources/output \
-     -e RUNNER=other \
-     jetbrains/writerside-builder:2025.04.8412
-   ```
+Beispiele für sichtbare Texte:
 
-   Das Ergebnis findest du anschließend im Ordner `output`.
+- `title`
+- `summary`
+- `<title>`
+- `<description>`
+- `<def title="...">`
 
-## Projektstruktur
-- `Writerside/writerside.cfg` steuert die wichtigsten Einstellungen des Projekts.
-- Kategorien und Labels befinden sich in `Writerside/c.list` und `Writerside/labels.list`.
-- In `templates/` findest du Vorlagen, die du bei Bedarf einbinden kannst.
+## Dateien und Struktur
 
-## Hinweise für Pull Requests
-- Stelle sicher, dass die Git-Historie sauber ist (`git status` sollte keine Änderungen zeigen).
-- Führe vor dem Commit alle im Projekt definierten Tests oder Builds aus.
-- Beschreibe im PR-Text kurz, welche Dateien du geändert hast und warum.
-- Füge der PR-Beschreibung eine Zusammenfassung auf Deutsch hinzu.
+Neue Dokumentationsdateien gehören grundsätzlich nach `Writerside/topics/`.
 
+Bilder gehören nach:
+
+```md
+Writerside/images/
+````
+
+Videos gehören nach:
+
+```md
+Writerside/videos/
+```
+
+Achte darauf, dass neue Dateien zur vorhandenen Struktur passen.
+
+## Formatierung
+
+* Erhalte Markdown-Listen, Tabellen, Blockquotes und Codeblöcke.
+* Erhalte absichtliche Zeilenumbrüche mit `\`, wenn sie für das Rendering nötig sind.
+* Entferne keine Codeblöcke.
+* Ändere keinen Inhalt in Codeblöcken, außer die Aufgabe verlangt es ausdrücklich.
+* Korrigiere offensichtliche Tippfehler im Fließtext.
+* Entferne doppelte Leerzeichen und unnötige Leerzeilen.
+* Achte auf saubere Einrückung in XML- und Writerside-Dateien.
+
+## Qualitätsprüfung
+
+Vor dem Abschluss einer Änderung prüfen:
+
+* Ist die Ansprache einheitlich?
+* Wurden gegenderte Formen entfernt?
+* Sind Begriffe einheitlich geschrieben?
+* Sind Prozentangaben und Abkürzungen korrekt formatiert?
+* Sind Links, IDs, Variablen und Includes unverändert funktionsfähig?
+* Ist die Writerside-/Markdown-Struktur intakt?
+* Wurde keine Information entfernt?
+* Hat sich die Bedeutung von Regeln, Warnungen oder Hinweisen nicht verändert?
+
+## Build-Prüfung
+
+Wenn möglich, führe den Writerside-Build aus.
+
+Beispiel:
+
+```bash
+docker run --rm -v "$PWD":/opt/sources \
+  -e SOURCE_DIR=/opt/sources \
+  -e MODULE_INSTANCE=Writerside/hi \
+  -e OUTPUT_DIR=/opt/sources/output \
+  -e RUNNER=other \
+  jetbrains/writerside-builder:2025.04.8412
+```
+
+Wenn der Build nicht ausgeführt werden kann, prüfe die geänderten Dateien manuell auf offensichtliche Markdown-, XML- und Writerside-Fehler.
+
+## Pull-Request-Beschreibung
+
+Eine Pull-Request-Beschreibung soll enthalten:
+
+* kurze Zusammenfassung der Änderung
+* betroffene Bereiche oder Dateien
+* Hinweis, ob der Writerside-Build ausgeführt wurde
+* Hinweis, falls nur manuell geprüft wurde
+
+Beispiel:
+
+```md
+## Zusammenfassung
+
+- Ansprache in mehreren Dokumentationsseiten auf „du“ vereinheitlicht
+- gegenderte Formen entfernt
+- Typografie bei Abkürzungen und Prozentangaben korrigiert
+- Writerside-Markup unverändert erhalten
+
+## Prüfung
+
+- Writerside-Build erfolgreich ausgeführt
+```
