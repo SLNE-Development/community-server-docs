@@ -1,8 +1,8 @@
-# Lightblocks, unsichtbare ItemFrames & Globe Banner Vorlagen
+# Lightblocks, unsichtbare ItemFrames & Globe-Banner-Vorlagen
 
-> Für alle Spielenden bieten wir die Möglichkeit, Lightblocks, unsichtbare ItemFrames sowie Globe-Banner-Vorlagen auch
+> Für alle Spieler bieten wir die Möglichkeit, Lightblocks, unsichtbare ItemFrames sowie Globe-Banner-Vorlagen auch
 > auf dem Survival-Server zu erwerben.  
-> An den Spawns reist bei gutem Wetter alle 10 Spieltage ein Händler an, der auf den Verkauf dieser besonderen
+> An den Spawns reist bei gutem Wetter alle 10 Spieltage ein Händler an, der auf den Verkauf dieser besonderen
 > Gegenstände spezialisiert ist.
 >
 > Der Erwerb der Gegenstände erfolgt über %main_currency%s.
@@ -18,9 +18,9 @@
 <deflist>
 <def title="Lightblocks" id="get-lightblocks">
 
-Die erworbenen Lightblocks könnt ihr wie gewohnt in eurer Welt platzieren und wieder abbauen.  
-Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem ihr sie mit einem weiteren
-Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
+Die erworbenen Lightblocks kannst du wie gewohnt in deiner Welt platzieren und wieder abbauen.\
+Die Leuchtstärke der Lightblocks lässt sich einfach anpassen, indem du sie mit einem weiteren
+Lightblock per <shortcut>Rechtsklick</shortcut> modifizierst.
 
 - **Kosten:** `250 %main_currency%s` pro Lightblock
 
@@ -38,7 +38,7 @@ Lightblock per <shortcut>Rechtsklick</shortcut> modifiziert.
 <deflist>
 <def title="Unsichtbare ItemFrames" id="get-invisible-itemframes">
 
-Die unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
+Die unsichtbaren ItemFrames kannst du nach Belieben in deiner Welt anbringen.
 
 - **Kosten:** `500 %main_currency%s` pro ItemFrame
 
@@ -52,11 +52,11 @@ Die unsichtbaren ItemFrames könnt ihr nach Belieben in eurer Welt anbringen.
 </tab>
 
 <!-- BANNER PATTERN -->
-<tab title="Globe Banner Vorlage" id="globe-banner-pattern">
+<tab title="Globe-Banner-Vorlage" id="globe-banner-pattern">
 <deflist>
-<def title="Globe Banner Vorlage" id="get-globe-banner-pattern">
+<def title="Globe-Banner-Vorlage" id="get-globe-banner-pattern">
 
-Diese Banner-Vorlage könnt ihr beliebig im Webstuhl verwenden.
+Diese Banner-Vorlage kannst du beliebig im Webstuhl verwenden.
 
 - **Kosten:** `1.000 %main_currency%s` pro Vorlage
 
@@ -73,7 +73,7 @@ Diese Banner-Vorlage könnt ihr beliebig im Webstuhl verwenden.
 <deflist>
 <def title="Uhr des Händlers" id="get-trader-clock">
 
-Die erworbene Uhr zeigt euch durch einen Klick an, wann der nächste Händler an den Spawns vorbeireist.
+Die erworbene Uhr zeigt dir durch einen Klick an, wann der nächste Händler an den Spawns vorbeireist.
 
 - **Kosten:** `50.000 %main_currency%s` pro Uhr
 

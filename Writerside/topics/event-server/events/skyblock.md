@@ -8,53 +8,53 @@
 
 ## Über das Event {id="general-info"}
 
-In dem Skyblock-Event findet ihr euch in einer kompletten Void-Welt wieder.
-Das Einzige, was ihr habt, ist eine kleine Insel und ein paar Starter Items.
-Werdet ihr es schaffen zu überleben?
+Im Skyblock-Event findest du dich in einer kompletten Void-Welt wieder.
+Das Einzige, was du hast, ist eine kleine Insel und ein paar Starter-Items.
+Wirst du es schaffen, zu überleben?
 
-Auf eurer Insel findet ihr eine Kiste mit nützlichen Items und einen Baum, die euch den Start erleichtern
+Auf deiner Insel findest du eine Kiste mit nützlichen Items und einen Baum, die dir den Start erleichtern
 sollen.
 
-> Beim Betreten des Events wird versucht, eure Starterinsel an einer zufälligen Position in der Welt zu platzieren. Sollte
-> nach mehreren Versuchen kein freier Platz gefunden werden, werdet ihr vom Server getrennt. Bitte versucht es dann
+> Beim Betreten des Events wird versucht, deine Starterinsel an einer zufälligen Position in der Welt zu platzieren. Sollte
+> nach mehreren Versuchen kein freier Platz gefunden werden, wirst du vom Server getrennt. Bitte versuche es dann
 > erneut.
 >
-{style="tip" title="Hinweis:"}
+{style="tip" title="Hinweis"}
 
 ### Trades {id="trades"}
 
-In den ersten 24 Stunden des Events steht euch mit `/trades` jede Stunde ein neuer Trade zu Verfügung, in dem ihr wertvolle und einzigartige Items erhalten könnt!
+In den ersten 24 Stunden des Events steht dir mit `/trades` jede Stunde ein neuer Trade zur Verfügung, in dem du wertvolle und einzigartige Items erhalten kannst!
 
 >
-> Sobald ein Trade freigeschaltet wurde, bleibt dieser für den Rest des Events freigeschaltet. Ihr müsst also zu dem Zeitpunkt nicht online sein.
+> Sobald ein Trade freigeschaltet wurde, bleibt dieser für den Rest des Events freigeschaltet. Du musst also zu dem Zeitpunkt nicht online sein.
 >
 {style="tip" title="Was passiert, wenn ich einen Trade verpasse?"}
 
 ### Teleportation {id="teleportation"}
 
-Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit `/tpa <Spieler>` zu euren Freunden zu teleportieren.
+Um dir das Zusammenspiel zu erleichtern, hast du bei diesem Event die Möglichkeit, dich mit `/tpa <Spieler>` zu deinen Freunden zu teleportieren.
 
-Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch mit `/home` dorthin zurück teleportieren.
+Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mit `/home` dorthin zurückteleportieren.
 
-> **Achtung:** Ihr könnt diese Befehle nur alle 10 Minuten verwenden!
+> **Achtung:** Du kannst diese Befehle nur alle 10 Minuten verwenden!
 >
 {style="warning"}
 
 ### VoiceChat {id="voicechat"}
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
+In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
 
-Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
 
 
 ## Regeln {id="rules"}
 
 > Bei diesem Event gibt es keine Regeländerungen. \
-> Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
+> Es gelten die allgemeinen Serverregeln, die du [hier](rules.md) einsehen kannst.
 >
-> **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
+> **Bitte mache dich vor der Teilnahme mit den Regeln vertraut!**
 >
 {style="note" title="Es gelten die allgemeinen Serverregeln!"}
 
@@ -68,12 +68,12 @@ Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21** stattfinden.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
-: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
+: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Halte dich
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
 
 Ist PvP aktiviert? {id="event-pvp"}
 : Nein, PvP ist während des Events deaktiviert. Allerdings kann es manuell durch CastCrafter aktiviert werden.
 
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
+Kann ich dem Event auch später noch beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.

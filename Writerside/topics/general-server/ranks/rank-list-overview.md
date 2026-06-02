@@ -32,7 +32,7 @@ langfristigen Weiterentwicklung des Servers.
 
 Das Team-Management bildet die Brücke zwischen dem technischen Hintergrund und dem täglichen Betrieb
 mit der Spielerschaft.
-Sie stellen sicher, dass interne Prozesse im Team reibungslos laufen und stehen den Spielern bei
+Es stellt sicher, dass interne Prozesse im Team reibungslos laufen, und steht den Spielern bei
 komplexeren Anliegen zur Verfügung.
 
 </def>
@@ -41,7 +41,7 @@ komplexeren Anliegen zur Verfügung.
 - Verwaltung spielbezogener Themen wie Rückerstattungen oder Rollbacks.
 - Organisation und Leitung des Teams:
     - Bearbeitung interner Beschwerden über Teammitglieder.
-    - Durchführung von Team-Meetings und Feedbackgesprächen.
+    - Durchführung von Team-Meetings und Feedback-Gesprächen.
     - Überwachung des Teamverhaltens und Förderung einer positiven Teamkultur.
     - Auswahl sowie Einarbeitung neuer Teammitglieder (Supporter und Moderatoren).
     - Planung zukünftiger Bewerbungsprozesse.
@@ -100,7 +100,7 @@ Sie greifen bei Konflikten ein und kümmern sich um eine faire Spielumgebung.
 - Unterstützung bei allgemeinen Fragen und Konflikten.
 - Einschreiten bei Regelverstößen und Durchsetzung der Regeln.
 - Einarbeitung und Begleitung neuer Supporter.
-- Bearbeitung erweiterter Tickets (z. B. Entbannungsanträge).
+- Bearbeitung erweiterter Tickets (z. B. Entbannungsanträge).
 - Entscheidung über Sanktionen (Verwarnungen, Banns).
 
 </def>
@@ -188,7 +188,7 @@ und den Spielspaß fördern.
 <deflist>
 <def title="Beschreibung" id="description-creator">
 
-Content Creator, die von CastCrafter ausgewählt worden sind.
+Content Creator, die von CastCrafter ausgewählt wurden.
 
 </def>
 </deflist>
@@ -218,7 +218,7 @@ Premium ist ein erwerbbarer Rang, der dir zusätzliche Features und Vorteile auf
 <deflist>
 <def title="Beschreibung" id="description-veteran">
 
-Spieler, welche auf dem 1.21 Survival Server mehr als 550 Stunden aktive Spielzeit hatten.
+Spieler, die auf dem 1.21-Survival-Server mehr als 550 Stunden aktive Spielzeit hatten.
 
 </def>
 </deflist>

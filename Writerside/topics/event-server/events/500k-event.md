@@ -2,7 +2,7 @@
 <secondary-label ref="500k-block-event-mc-version"/>
 <secondary-label ref="500k-block-event-date"/>
 
-# 50.000.000 Blöcke Event (500k Special)
+# 50.000.000-Blöcke-Event (500k Special)
 
 <video src="https://www.youtube.com/watch?v=RnIOyeooSWU"/>
 
@@ -21,9 +21,9 @@ Wie schnell werden wir es gemeinsam schaffen, dieses Ziel zu erreichen?
 ## Regeln {id="rules"}
 
 > Bei diesem Event gibt es keine Regeländerungen. \
-> Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
+> Es gelten die allgemeinen Serverregeln, die du [hier](rules.md) einsehen kannst.
 >
-> **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
+> **Bitte mache dich vor der Teilnahme mit den Regeln vertraut!**
 >
 {style="note" title="Es gelten die allgemeinen Serverregeln!"}
 
@@ -46,7 +46,7 @@ Während des Events können spezielle Powerups bei jedem abgebauten Block ersche
 </tab>
 <tab title="Meilensteine" id="advancements">
 
-Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine, die manchmal mit besonderen Belohnungen verbunden sind.
+Durch das Abbauen einer bestimmten Anzahl von Blöcken erreichst du Meilensteine, die manchmal mit besonderen Belohnungen verbunden sind.
 
 | Abgebaute Blöcke | Beschreibung                            | Belohnung               |
 |------------------|-----------------------------------------|-------------------------|
@@ -60,7 +60,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 | 250.000          | Viel Speed für viele Leute              | Leuchtfeuer             |
 | 500.000          | 500.000 für 500.000!                    | 16 Schulkerschalen      |
 | 1.000.000        | Wie hast du es bis hierhin geschafft?!  | Effizienz VI, 500k Rang |
-| 2.000.000        | Hierfür gibt’s Respekt. Verdient.	      | Elytra                  |
+| 2.000.000        | Hierfür gibt’s Respekt. Verdient.       | Elytra                  |
 
 
 </tab>
@@ -68,7 +68,7 @@ Durch das Abbauen einer bestimmten Anzahl von Blöcken erreicht man Meilensteine
 
 Eine Stunde nach dem Eventstart sind auf der Spawninsel bei den Koordinaten `0 ~ 0` verschiedene Händler verfügbar, die spezielle Gegenstände anbieten. \
 Diese können mit normalen [Smaragden](https://de.minecraft.wiki/w/Smaragd) gekauft werden. \
-Welche Gegenstände das sind, müsst ihr selbst herausfinden!
+Welche Gegenstände das sind, musst du selbst herausfinden!
 
 </tab>
 
@@ -89,17 +89,17 @@ Um die Mobilität und den Austausch zwischen den Spielern zu fördern, stehen fo
 : Schickt dem angegebenen Spieler eine Teleportationsanfrage, um sich zu ihm zu teleportieren.
 
 /spawn
-: Teleportiert euch zurück auf die Insel an den Koordinaten `0 ~ 0`.
-Dieser Befehl hat einen Cooldown von 5 Minuten.
+: Teleportiert dich zurück auf die Insel an den Koordinaten `0 ~ 0`.
+Dieser Befehl hat einen Cooldown von 5 Minuten.
 
 </tab>
 <tab title="VoiceChat" id="voice-chat">
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über den ihr mit anderen Spielern sprechen könnt.
+In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
 
-Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
 
 </tab>
 </tabs>
@@ -108,9 +108,9 @@ Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plu
 Start des Events {id="event-start"}
 :
 - Alle Spieler starten gleichzeitig.
-- Ihr könnt dem Event erst beitreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
+- Du kannst dem Event erst beitreten, nachdem CastCrafter den ersten Block offiziell abgebaut hat.
 - Alle Spieler werden beim Start auf der ganzen Welt verteilt, damit sie sich nicht gegenseitig blockieren.
-- Der Spawn ist eine fliegende Insel bei `0 ~ 0`. Beim Verlassen dieser Insel erhaltet ihr eine einmalige Elytra, die für mehr Mobilität sorgt.
+- Der Spawn ist eine fliegende Insel bei `0 ~ 0`. Beim Verlassen dieser Insel erhältst du eine einmalige Elytra, die für mehr Mobilität sorgt.
  
 Ziel des Events {id="event-goal"}
 : 
@@ -139,7 +139,7 @@ Weitere Informationen zum Event {id="event-info"}
 > - `DamanKery`
 > - `Unbeweglicher`
 > 
-{style="note" title="Folgende Spieler haben den Stone-Rang im Event für 90 Tage erhalten" id="500k-statistics"}
+{style="note" title="Folgende Spieler haben den Stone-Rang im Event für 90 Tage erhalten" id="500k-statistics"}
 
 ## Q&A {id="q-a"}
 
@@ -152,8 +152,8 @@ Welche Version von Minecraft wird benötigt? {id="event-version"}
 : Das Event wird in der Version **1.21.4 & 1.21.5** stattfinden.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
-: Regelverstöße können zum Ausschluss vom Server führen. Haltet euch an die [Serverregeln](rules.md).
+: Regelverstöße können zum Ausschluss vom Server führen. Halte dich an die [Serverregeln](rules.md).
 
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
+Kann ich dem Event auch später noch beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.

@@ -3,13 +3,13 @@
 ![thumbnail](armorstands-heads-thumbnail.png){ border-effect="rounded" thumbnail="false"}
 
 Für alle kreativen Baumeister auf unserem Server bieten wir die Möglichkeit, mit verschiedenen Köpfen und individuell anpassbaren Rüstungsständern zu arbeiten.
-Du hast Zugriff auf eine [Vielzahl von Köpfen](armorstand.md#heads), die dir beim Bau und der Gestaltung deiner Bauten helfen,
-zudem kannst du Körperteile der [Rüstungsständer separat anpassen](armorstand.md#armorstands). 
-Somit kannst du ihm beispielsweise Arme geben oder ihn so aussehen lassen als ob er gerade läuft.
+Du hast Zugriff auf eine [Vielzahl von Köpfen](armorstand.md#heads), die dir beim Bau und der Gestaltung deiner Bauten helfen.
+Zudem kannst du Körperteile der [Rüstungsständer separat anpassen](armorstand.md#armorstands).
+Somit kannst du ihm beispielsweise Arme geben oder ihn so aussehen lassen, als ob er gerade läuft.
 
 ## Köpfe {id="heads" collapsible="true"}
 
-Mit dem Befehl `/hdb` hast du Zugriff auf ein Menü, in welchem sich verschiedene Köpfe befinden, die du zum Bauen
+Mit dem Befehl `/hdb` hast du Zugriff auf ein Menü, in dem sich verschiedene Köpfe befinden, die du zum Bauen
 verwenden kannst.
 
 Mit dem Befehl `/phead <player>` kannst du dir den Kopf des angegebenen Spielers geben.
@@ -28,7 +28,7 @@ Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kanns
 
 ### Achsen einstellen {collapsible="true" default-state="collapsed" id="axis"}
 
-> Wenn du das Flint in der Hand hälst und <shortcut>Shift + Mausrad</shortcut>, kannst du die Achsen auch durch Drehen
+> Wenn du den Feuerstein in der Hand hältst und <shortcut>Shift + Mausrad</shortcut> nutzt, kannst du die Achsen auch durch Drehen
 > des Mausrades einstellen.
 > {style="tip"}
 
@@ -62,11 +62,11 @@ Stelle zunächst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den <b>
 möchtest.
 </step>
 <step>
-Klicke in dem Menü auf die <b>Lore</b>.
+Klicke im Menü auf die <b>Lore</b>.
 </step>
 <step>
 Um den Rüstungsständer zu verschieben, führe mit dem Feuerstein einen 
-<shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+<shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 <procedure title="Rotieren">
@@ -75,11 +75,11 @@ Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den <b>ges
 lassen möchtest.
 </step>
 <step>
-Klicke in dem Menü auf den <b>Kompass</b>.
+Klicke im Menü auf den <b>Kompass</b>.
 </step>
 <step>
 Um den Rüstungsständer zu rotieren, führe mit dem Feuerstein einen 
-<shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+<shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 
@@ -90,11 +90,11 @@ Um den Rüstungsständer zu rotieren, führe mit dem Feuerstein einen
 Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den Kopf des Rüstungsständers rotieren möchtest.
 </step>
 <step>
-Klicke in dem Menü auf den <b>Leder Helm</b>.
+Klicke im Menü auf den <b>Lederhelm</b>.
 </step>
 <step>
 Um den Rüstungsständer zu rotieren, führe mit dem Feuerstein einen 
-<shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+<shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 <procedure title="Rotieren der Arme" collapsible="true" default-state="collapsed" id="rotation-of-arm">
@@ -102,12 +102,12 @@ Um den Rüstungsständer zu rotieren, führe mit dem Feuerstein einen
 Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den Arm des Rüstungsständers rotieren möchtest.
 </step>
 <step>
-Klicke in dem Menü zum Rotieren des rechten Arms auf den <b>linken Stock</b> und für den linken Arm auf den
+Klicke im Menü zum Rotieren des rechten Arms auf den <b>linken Stock</b> und für den linken Arm auf den
 <b>rechten Stock</b>.
 </step>
 <step>
 Um den jeweiligen Arm des Rüstungsständers zu rotieren, führe mit dem Feuerstein
-einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
+einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 <procedure title="Rotieren des Körpers" collapsible="true" default-state="collapsed" id="rotation-of-body">
@@ -115,11 +115,11 @@ einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
 Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du den Körper des Rüstungsständers rotieren möchtest.
 </step>
 <step>
-Klicke in dem Menü auf die <b>Leder Brustplatte</b>.
+Klicke im Menü auf die <b>Lederbrustplatte</b>.
 </step>
 <step>
 Um den Körper des Rüstungsständers zu rotieren, führe mit dem Feuerstein einen 
-<shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
+<shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 <procedure title="Rotieren der Beine" collapsible="true" default-state="collapsed" id="rotation-of-leg">
@@ -127,21 +127,21 @@ Um den Körper des Rüstungsständers zu rotieren, führe mit dem Feuerstein ein
 Stelle zuerst die <b>Stärke</b> und die <b>Achse</b> ein, auf der du das Bein des Rüstungsständers rotieren möchtest.
 </step>
 <step>
-Klick in dem Menü zum Rotieren des rechten Beines auf die <b>linke Lederhose</b> und für das linke Bein auf die 
+Klicke im Menü zum Rotieren des rechten Beins auf die <b>linke Lederhose</b> und für das linke Bein auf die
 <b>rechte Lederhose</b>.
 </step>
 <step>
 Um das jeweilige Bein des Rüstungsständers zu rotieren, führe mit dem Feuerstein
-einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
+einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 <procedure title="Zurücksetzen der gesamten Pose" collapsible="true" default-state="collapsed" id="resetting-pose">
 <step>
-Um die Pose des Rüstungsständers komplett zurückzusetzen, klicke im Menü auf den <b>Hebel</b>.
+Um die Pose des Rüstungsständers vollständig zurückzusetzen, klicke im Menü auf den <b>Hebel</b>.
 </step>
 <step>
-Um jegliche Posen des gesamten Rüstungsständers zurückzusetzen <shortcut>Links-Klick</shortcut> ihn mit dem 
-Feuerstein.   
+Um jegliche Posen des gesamten Rüstungsständers zurückzusetzen, führe mit dem Feuerstein einen
+<shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 </procedure>
 
@@ -150,21 +150,21 @@ Feuerstein.
 <procedure>
 <img src="armorstand-inventory-menu.png" alt="chest-menu"/>
 <step>
-Klick in dem Menü zum Bearbeiten des Inventars auf die <b>Kiste</b>.
+Klicke im Menü zum Bearbeiten des Inventars auf die <b>Kiste</b>.
 </step>
 <step>
 Um das Inventar des Rüstungsständers zu bearbeiten, führe mit dem Feuerstein einen 
-<shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.   
+<shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 </step>
 <step>
-Ein Menü öffnet sich, in dem du deine Items in die entsprechenden, hier mit 1 bis 6 beschrifteten, Plätze legen kannst.
+Ein Menü öffnet sich, in dem du deine Items in die entsprechenden, hier mit 1 bis 6 beschrifteten Plätze legen kannst.
 </step>
 <step>
-Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1–6 einlegen.
+Wie oben gezeigt, kannst du nun einen <b>Gegenstand</b> in Slot 1–6 einlegen.
 </step>
 </procedure>
 
-#### Slots von 1-6 {id="slots-1-6"}
+#### Slots von 1–6 {id="slots-1-6"}
 
 1. Helm
 2. Brustplatte
@@ -179,32 +179,32 @@ Wie oben gezeigt kannst du nun ein <b>Gegenstand</b> in Slot 1–6 einlegen.
 Arme ein- oder ausschalten
 : 
 1. Klicke im Menü auf den ganz rechts befindlichen **Stock**.
-2. Um die Arme ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+2. Um die Arme ein- oder auszuschalten, führe einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 
 Sichtbarkeit ein- oder ausschalten
 :
 1. Klicke im Menü auf den **Trank** auf den Rüstungsständer.
-2. Um die Sichtbarkeit ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den Rüstungsständer
+2. Um die Sichtbarkeit ein- oder auszuschalten, führe einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer
    aus.
 
 Größe verändern
 :
 1. Klicke im Menü auf den **Pufferfisch**.
-2. Um die Größe umzustellen, führe ein <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus.
+2. Um die Größe umzustellen, führe einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer aus.
 
 Erdanziehungskraft ein- oder ausschalten
 :
 _Die Erdanziehungskraft kann zwar ein- und ausgeschaltet werden, hat aber auf dem Server keine
-Auswirkungen. Beachtet jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die
+Auswirkungen. Beachte jedoch, dass beim Herunterladen des Community-Servers alle Rüstungsständer, die
 Erdanziehungskraft besitzen, herunterfallen werden._
 1. Klicke im Menü auf **Sand**.
-2. Um die Erdanziehungskraft ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den
+2. Um die Erdanziehungskraft ein- oder auszuschalten, führe einen <shortcut>Linksklick</shortcut> auf den
    Rüstungsständer aus.
 
 Bodenplatte ein- oder ausschalten
 :
 1. Klicke im Menü auf die **Steinstufe**.
-2. Um die Erdanziehungskraft ein- oder auszuschalten, führe ein <shortcut>Links-Klick</shortcut> auf den
+2. Um die Bodenplatte ein- oder auszuschalten, führe einen <shortcut>Linksklick</shortcut> auf den
    Rüstungsständer aus.
 
 ### Kopieren und Einfügen {collapsible="true" default-state="collapsed" id="copy-paste"}
@@ -217,7 +217,7 @@ Wähle im Menü eine der <b>Blumen</b> für ein Profil aus.
 Klicke im Menü auf das <b>Buch mit Feder</b>.
 </step>
 <step>
-Führe nun einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus, um die Einstellungen zu kopieren.
+Führe nun einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer aus, um die Einstellungen zu kopieren.
 </step>
 </procedure>
 <procedure title="Einfügen" collapsible="true" default-state="collapsed">
@@ -228,6 +228,6 @@ Wähle im Menü eine der <b>Blumen</b> für ein Profil aus.
 Klicke im Menü auf das <b>verzauberte Buch</b>.
 </step>
 <step>
-Führe nun einen <shortcut>Links-Klick</shortcut> auf den Rüstungsständer aus, um die Einstellungen einzufügen.
+Führe nun einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer aus, um die Einstellungen einzufügen.
 </step>
 </procedure>

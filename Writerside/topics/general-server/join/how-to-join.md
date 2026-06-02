@@ -1,8 +1,8 @@
 [rules]: survial-rules.md "Zurück zu den Regeln"
 
-# Wie könnt ihr dem Netzwerk beitreten?
+# Wie kannst du dem Netzwerk beitreten?
 
-Sobald ihr das Netzwerk betretet, findet ihr euch in der **Lobby** wieder.  
+Sobald du das Netzwerk betrittst, findest du dich in der **Lobby** wieder.
 Diese kann auch von anderen Servern aus jederzeit über den Befehl `/hub` erreicht werden.
 
 ## Server-Auswahl {id="select-server"}
@@ -10,21 +10,21 @@ Diese kann auch von anderen Servern aus jederzeit über den Befehl `/hub` erreic
 In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver anwählen:
 
 <tabs>
-<tab title="Survival Server" id="survival">
+<tab title="Survival-Server" id="survival">
 
 <deflist>
-<def title="Beschreibung des Survival Servers" id="survival-server-description">
+<def title="Beschreibung des Survival-Servers" id="survival-server-description">
 
-Der [Survival Server](survival-server.topic "Klicke für weitere Informationen zum Survival Server!") ist der Hauptserver des Community Servers. \
-Hier kannst du mit anderen Spielern zusammen spielen, bauen und handeln. \
-Auf dem Survival Server gibt es allerdings auch ein paar kleine Änderungen, welche das Vanilla Gameplay etwas beeinflussen. \
+Der [Survival-Server](survival-server.topic "Klicke für weitere Informationen zum Survival-Server!") ist der Hauptserver des Community-Servers. \
+Hier kannst du mit anderen Spielern zusammenspielen, bauen und handeln. \
+Auf dem Survival-Server gibt es allerdings auch ein paar kleine Änderungen, die das Vanilla-Gameplay etwas beeinflussen. \
 Diese Änderungen sind in der
-Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla Mechaniken anzusehen!") aufgelistet.
+Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla-Mechaniken anzusehen!") aufgelistet.
 </def>
 
-<def title="Anforderungen für den Survival Server" id="survival-dependencies">
+<def title="Anforderungen für den Survival-Server" id="survival-dependencies">
 
-Um auf dem Survival Server zu spielen, müssen folgende Bedingungen erfüllt sein:
+Um auf dem Survival-Server zu spielen, müssen folgende Bedingungen erfüllt sein:
 * **Version:** [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) [%required_game_version%](%required_game_version_link%).
 * **Discord:** Ein aktiver Discord-Account ist zwingend erforderlich.
 * **Whitelist:** Du musst eine [Whitelist](survival-server-whitelist.md "%click-more-info%") auf unserem [Discord-Server](%dc_link%)
@@ -32,17 +32,17 @@ Um auf dem Survival Server zu spielen, müssen folgende Bedingungen erfüllt sei
 * **Aktivität:** Sobald du auf der Whitelist bist, darfst du den Discord-Server nicht mehr verlassen, da sonst der
   Zugriff entfällt.
 
-Weitere Informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%")
+Weitere Informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%").
 </def>
 </deflist>
 
 </tab>
-<tab title="Event Server" id="events">
+<tab title="Event-Server" id="events">
 
 <deflist>
-<def title="Beschreibung des Event Servers" id="event-server-description">
+<def title="Beschreibung des Event-Servers" id="event-server-description">
 
-Auf dem [Event Server](event-server.topic "%click-more-info%") finden regelmäßig Events
+Auf dem [Event-Server](event-server.topic "%click-more-info%") finden regelmäßig Events
 statt.
 Diese werden von CastCrafter auf [Twitch](%twitch_cast%) gestreamt.
 Zusätzlich werden Videos auf [YouTube](%youtube_cast%) veröffentlicht.
@@ -50,7 +50,7 @@ Die Events werden frühzeitig im Livestream und im [Discord](%dc_link%)
 unter [%com_updates_channel_display%](%com_updates_channel%) angekündigt.
 
 </def>
-<def title="Anforderungen für den Event Server" id="event-dependencies">
+<def title="Anforderungen für den Event-Server" id="event-dependencies">
 
 Für die Teilnahme an Events gibt es **keine besonderen Voraussetzungen**.\
 Sollten spezifische Anforderungen gelten, werden diese in der Event-Übersicht unter dem Reiter [Events](survival-events.md "%click-more-info%") aufgeführt.

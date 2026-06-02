@@ -11,7 +11,7 @@ Die Menge der gewonnenen Erfahrung hängt von der Nutzpflanze oder der Tierart a
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Farming Skill bietet dir je nach Level folgende Vorteile:
+Der Farming-Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Earthbound Durability" id="earthbound-durability">

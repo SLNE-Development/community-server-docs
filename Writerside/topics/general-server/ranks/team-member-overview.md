@@ -1,4 +1,4 @@
-# Teammitglieder Übersicht
+# Übersicht der Teammitglieder
 
 Diese Liste zeigt alle Teammitglieder, die den Server auf vielfältige Weise unterstützen.
 Ohne ihr Engagement wäre der Server nicht das, was er heute ist.

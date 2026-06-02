@@ -5,13 +5,13 @@
 
 ## Wie erhalte ich Erfahrung? {id="how-to-get-experience"}
 
-Du erhöhst dein Combat Level durch das Besiegen von feindlichen Kreaturen.
+Du erhöhst dein Combat-Level durch das Besiegen von feindlichen Kreaturen.
 \
 Die Menge der gewonnenen Erfahrung hängt von der Seltenheit und der Stärke des Monsters ab.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Combat Skill bietet dir je nach Level folgende Vorteile:
+Der Combat-Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Battle Hardened" id="battle-hardened">

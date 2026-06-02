@@ -5,11 +5,11 @@
 
 ## Wie erhalte ich Erfahrung? {id="how-to-get-experience"}
 
-Du erhöhst dein Fishing Level, indem du Fische fängst, Schätze angelst oder Meerestiere erlegst.
+Du erhöhst dein Fishing-Level, indem du Fische fängst, Schätze angelst oder Meerestiere erlegst.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Fishing Skill bietet dir je nach Level folgende Vorteile:
+Der Fishing-Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Magnetic Rod" id="magnetic-rod">

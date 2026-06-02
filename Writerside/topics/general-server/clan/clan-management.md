@@ -1,9 +1,9 @@
-# Clan Management
+# Clan-Verwaltung
 
 ## Mitgliederverwaltung {id="member-management"}
 
 > Das Hinzufügen oder Entfernen von Mitgliedern kann ausschließlich von Offizieren, Anführern oder
-> dem Clanbesitzer vorgenommen werden!
+> dem Clan-Besitzer vorgenommen werden!
 >
 {style="note"}
 
@@ -40,7 +40,7 @@ herabgestuft werden.
 
 ## Clanauflösung {id="clan-dissolution"}
 
-Mit dem Befehl `/clan disband` kann der Clanbesitzer seinen Clan auflösen.
+Mit dem Befehl `/clan disband` kann der Clan-Besitzer seinen Clan auflösen.
 
 
 

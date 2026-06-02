@@ -3,17 +3,17 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Community Server Dokumentation" id="community-server-landing-page">
+       title="Community-Server-Dokumentation" id="community-server-landing-page">
 
     <section-starting-page>
-        <title>Community Server Dokumentation</title>
+        <title>Community-Server-Dokumentation</title>
         <description>
-            Der Community Server teilt sich in zwei Bereiche: den Survival- und den Event-Server, welche ihr über die Lobby erreichen könnt. Genauere Informationen zu den beiden Bereichen findet ihr weiter unten.
+            Der Community-Server teilt sich in zwei Bereiche: den Survival-Server und den Event-Server, die du über die Lobby erreichst. Genauere Informationen zu beiden Bereichen findest du weiter unten.
         </description>
 
         <spotlight>
             <card href="survival-server.topic" badge="container"
-                  summary="Lerne den Survival Server kennen und informiere dich über seine Funktionen und Features"/>
+                  summary="Lerne den Survival-Server kennen und informiere dich über seine Funktionen und Features"/>
             <card href="event-server.topic" badge="cup"
                   summary="Informiere dich über aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst"/>
         </spotlight>
@@ -23,7 +23,7 @@
             <card href="rules-overview.topic" badge="check-list"
                   summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
             <card href="verified-mods.md" badge="cross-check"
-                  summary="Eine Liste mit geprüften Modifikationen, welche ihr auf dem Server verwenden dürft"/>
+                  summary="Eine Liste mit geprüften Modifikationen, die du auf dem Server verwenden darfst"/>
         </primary>
 
         <secondary>
@@ -31,7 +31,7 @@
             <card href="faq.md" badge="search"
                   summary="In diesem Artikel findest du Antworten auf die am häufigsten gestellten Fragen!"/>
             <card href="troubleshooting.md" badge="tools"
-                  summary="Du hast Probleme? Dieser Artikel hilft dir sie selber zu lösen!"/>
+                  summary="Du hast Probleme? Dieser Artikel hilft dir, sie selbst zu lösen."/>
         </secondary>
 
     </section-starting-page>

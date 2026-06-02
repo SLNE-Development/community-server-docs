@@ -18,18 +18,18 @@ Zeig uns deine Ideen für das Energiesystem der Zukunft!
 ## Das Wichtigste in Kürze {id="overview"}
 
 * Baue deine Vision für die **Energieversorgung der Zukunft** in Minecraft
-* Du kannst **allein** oder im **Team** teilnehmen (maximal 5 Personen)
+* Du kannst **allein** oder im **Team** teilnehmen (maximal 5 Personen)
 * Teilnahmealter: **ab 12 Jahren**
 * Zeitraum: **30. Mai bis 21. September 2025**
-* Die besten Einreichungen gewinnen Preise im Wert von **80 bis 300 €**
-* Einreichungen und Gewinnabwicklung erfolgen ausschließlich durch das [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft) 
+* Die besten Einreichungen gewinnen Preise im Wert von **80 bis 300 €**
+* Einreichungen und Gewinnabwicklung erfolgen ausschließlich durch das [BMFTR](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft)
 
-> **Bitte macht euch mit den [Teilnahmebedingungen](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft/minecraft-datenschutz-teilnahmebedingungen) vertraut!**
+> **Bitte mache dich mit den [Teilnahmebedingungen](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft/minecraft-datenschutz-teilnahmebedingungen) vertraut!**
 >
 {style="warning"}
 
-> Sie wollen den Wettbewerb für Ihren Unterricht, eine AG oder außerschulische Aktivität nutzen?
-> Hier erfahren Sie mehr zu
+> Du willst den Wettbewerb für deinen Unterricht, eine AG oder außerschulische Aktivität nutzen?
+> Hier erfährst du mehr zu
 > den [Online-Workshops des BMFTR](https://games.jff.de/zukunftsenergie/)
 >
 {style="note" title="Für Lehrkräfte und pädagogische Fachkräfte:"}
@@ -41,22 +41,22 @@ Du hast die Möglichkeit, dem Event-Server auf zwei verschiedene Arten beizutret
 in der Lobby ein spezielles Item, das sich in deiner Hotbar befindet, oder du verbindest dich direkt
 über die Server-Adresse `wj25.castcrafter.de`.
 
-Auf dem Server habt ihr die Möglichkeit, eure Projektideen im Creative-Modus umzusetzen.
+Auf dem Server hast du die Möglichkeit, deine Projektideen im Creative-Modus umzusetzen.
 Jeder Spieler erhält dabei seine eigene Welt, auf die er bis zu vier Freunde einladen kann.
 
-Bei der Welterstellung könnt ihr zwischen vier verschiedenen Weltentypen wählen, welche an
+Bei der Welterstellung kannst du zwischen vier verschiedenen Weltentypen wählen, die an
 die jeweiligen Themenbereiche angepasst sind.
 
-> Unabhängig vom Weltentyp, dürft ihr natürlich in jeder Welt zu jedem
+> Unabhängig vom Weltentyp darfst du natürlich in jeder Welt zu jedem
 > beliebigen Thema bauen.
-> Die Welten dienen nur als eine solide Grundlage für eure Projekte.
+> Die Welten dienen nur als eine solide Grundlage für deine Projekte.
 >
 {style="tip"}
 
 Jede Welt bietet eine Baufläche von `350 x 350 Blöcken`.
 
-In der Lobby, die als „Stadt der Zukunft“ gestaltet ist, erwartet euch außerdem ein kurzes Tutorial,
-in dem NPCs euch alles genau erklären. Alternativ könnt ihr auch direkt über den Navigator in eure
+In der Lobby, die als „Stadt der Zukunft“ gestaltet ist, erwartet dich außerdem ein kurzes Tutorial,
+in dem NPCs dir alles genau erklären. Alternativ kannst du auch direkt über den Navigator in deine
 Projekte einsteigen und sofort loslegen.
 
 ## Die Themenbereiche {id="topics"}
@@ -157,7 +157,7 @@ Folgende Befehle kannst du während des Events auf unserem Server nutzen:
 
 ## Tools & Plugins {id="tools"}
 
-Um euch das Bauen zu erleichtern, stehen euch in euer Welt folgende Plugins & Tools zur Verfügung:
+Um dir das Bauen zu erleichtern, stehen dir in deiner Welt folgende Plugins & Tools zur Verfügung:
 
 - [**Arceon**](https://github.com/Brennian/Arceon-1.14/wiki)
 - [**goBrush**](https://www.spigotmc.org/resources/gobrush.23118/)
@@ -184,11 +184,11 @@ Kann ich auch später einsteigen? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen.
 
 Wo reiche ich mein Projekt ein? {id="event-submit"}
-: Die Einreichung erfolgt über das [online Formular](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft/minecraft-anmeldung).
+: Die Einreichung erfolgt über das [Online-Formular](https://www.wissenschaftsjahr.de/2025/aktionen/minecraft/minecraft-anmeldung).
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
-führen. Haltet euch
+führen. Halte dich
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten!
 
 ## Veranstalter & Disclaimer

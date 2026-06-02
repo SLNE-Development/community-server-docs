@@ -1,20 +1,20 @@
 # Flags bearbeiten
 
-## So kannst du deine Grundstück Flags anpassen: {id="plot-edit-flags"}
+## So kannst du deine Grundstücks-Flags anpassen: {id="plot-edit-flags"}
 
-1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
+1. Gib `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke**, um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls weitere Informationen zu deinen
-   Grundstücken, wie z. B. die Größe oder die Koordinaten deines Grundstückes.
+   Grundstücken, wie z. B. die Größe oder die Koordinaten deines Grundstücks.
    ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-2. Wähle nun das Grundstück aus, auf welchem du die Mitglieder bearbeiten möchtest.
+2. Wähle nun das Grundstück aus, auf dem du die Flags bearbeiten möchtest.
    ![select plot](plot-select-plot.png) {border-effect="rounded" thumbnail="false" width="480"}
 
 3. Klicke auf die **Rotsteinfackel**.
    ![select flags](plot-edit-flags.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-4. Nun kannst du die Flags deines ausgewählten Grundstückes anpassen.\
-   Du kannst z. B. auswählen, ob andere Spieler auf deine Truhen Zugriff haben oder auf Tieren reiten können.
+4. Nun kannst du die Flags deines ausgewählten Grundstücks anpassen.\
+   Du kannst z. B. auswählen, ob andere Spieler auf deine Truhen Zugriff haben oder auf Tieren reiten können.
    ![plot flags](plot-flags.png) {border-effect="rounded" thumbnail="false" width="480" width="480"}
 
 5. Um den Status eines Flags zu ändern, führe einen <shortcut>Linksklick</shortcut> aus.
@@ -30,12 +30,12 @@
 | Blockbenutzung           | Legt fest, ob fremde Spieler interaktive Blöcke wie Türen, Hebel oder Knöpfe nutzen dürfen.      | Mitglieder     |
 | Tiere verletzen          | Legt fest, ob fremde Spieler Tiere verletzen dürfen.                                             | Mitglieder     |
 | Schlafen                 | Legt fest, ob fremde Spieler in Betten schlafen dürfen.                                          | Mitglieder     |
-| Fahrzeuge platzieren     | Legt fest, ob fremde Spieler Fahrzeuge wie bspw. Boote oder Loren platzieren dürfen.             | Mitglieder     |
-| Fahrzeuge zerstören      | Legt fest, ob Fahrzeuge zerstören dürfen.                                                        | Mitglieder     |
+| Fahrzeuge platzieren     | Legt fest, ob fremde Spieler Fahrzeuge wie z. B. Boote oder Loren platzieren dürfen.             | Mitglieder     |
+| Fahrzeuge zerstören      | Legt fest, ob fremde Spieler Fahrzeuge zerstören dürfen.                                         | Mitglieder     |
 | Reiten                   | Legt fest, ob fremde Spieler auf Tieren oder in Fahrzeugen reiten dürfen.                        | Mitglieder     |
 | Gegenstandsrahmen drehen | Legt fest, ob fremde Spieler Gegenstände in Rahmen drehen dürfen.                                | Mitglieder     |
 | Amboss benutzen          | Legt fest, ob fremde Spieler einen Amboss benutzen dürfen.                                       | Mitglieder     |
-| Tropfblatt Nutzung       | Legt fest, ob fremde Spieler große Tropfblätter auslösen dürfen.                                 | Mitglieder     |
+| Tropfblatt-Nutzung       | Legt fest, ob fremde Spieler große Tropfblätter auslösen dürfen.                                 | Mitglieder     |
 | Explosionsschaden        | Legt fest, ob Explosionen auf dem Grundstück Schaden verursachen dürfen.                         | Verboten       |
 | Enderman‑Griefing        | Legt fest, ob Endermänner Blöcke aufnehmen oder platzieren dürfen.                               | Verboten       |
 | Feuerausbreitung         | Legt fest, ob sich Feuer auf dem Grundstück natürlich ausbreiten darf.                           | Verboten       |

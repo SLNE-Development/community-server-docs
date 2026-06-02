@@ -8,8 +8,8 @@
 <def title="Wie verknüpfe ich meinen Twitch-Account mit Discord?" id="link-twitch">
 
 1. Klicke in Discord auf Benutzereinstellungen.
-2. Klicke auf den Punkt "Verknüpfungen".
-3. Klicke auf das "Twitch-Symbol".
+2. Klicke auf den Punkt „Verknüpfungen“.
+3. Klicke auf das „Twitch-Symbol“.
 4. Logge dich mit deinem Twitch-Account ein und warte, bis diese Meldung erscheint: `Connected your Twitch to Discord`.
    Der Vorgang kann einige Minuten dauern.
 
@@ -17,7 +17,7 @@
 > {style="note"}
 </def>
 
-<def title="Wie installiere ich das offizielle Server Modpack" id="install-official-server-modpack">
+<def title="Wie installiere ich das offizielle Server-Modpack?" id="install-official-server-modpack">
    <include from="util.md" element-id="mod-pack"/>
 
 1. **Modrinth installieren**
@@ -44,7 +44,7 @@
     - Öffne die Modrinth App
     - Erstelle ein neues Profil
       - Loader-Version: Fabric
-      - Minecraft Version: [%required_game_version%](%required_game_version_link%)
+      - Minecraft-Version: [%required_game_version%](%required_game_version_link%)
     - Klicke im Profil auf `Inhalte installieren`
     - Suche im Suchfeld nach `Simple Voice Chat`
     - Klicke auf `Installieren`
@@ -60,8 +60,8 @@
 
 <def title="Wie teile ich meinen Log?" id="how-to-share-log">
 
-Es gibt verschiedene Webseiten, auf denen man Log-Dateien hochladen kann und dann einen Link dazu posten kann.
-**Bitte nie den Log als lange Nachricht in einen Chat posten!**
+Es gibt verschiedene Webseiten, auf denen du Log-Dateien hochladen und anschließend einen Link dazu posten kannst.
+**Bitte poste den Log nie als lange Nachricht in einen Chat!**
 
 - [PasteBin](https://pastebin.com)
 - [GitHub](https://gist.github.com)
@@ -105,17 +105,17 @@ oben genannten Seiten hochladen.
 </tab>
 <tab title="Andere Launcher" id="minecraft-log-other-launcher">
 
-In deinem `.minecraft` Ordner findest du den Ordner `logs`.
+In deinem `.minecraft`-Ordner findest du den Ordner `logs`.
 Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer der oben genannten Seiten hochladen.
 </tab>
 </tabs>
 
 </chapter>
 
-> - Der Log ist nicht der CrashReport.
+> - Der Log ist nicht der Crash-Report.
 > - Wenn du den Log als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!
 > - Ohne Log brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Log zu finden, wird dir gerne
-    geholfen.
+>   geholfen.
 > - Bitte verändere den Log nicht!
 >
 {style="note" title="Wichtig"}
@@ -128,7 +128,7 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 </def>
 <def title="Wie gehe ich vor, wenn ich einen Bug entdecke?" id="bugreport">
 
-Öffne hierzu ein [Bugreport Ticket](support.md#bugreport-ticket "%click-more-info%").
+Öffne hierzu ein [Bugreport-Ticket](support.md#bugreport-ticket "%click-more-info%").
 
 > Ein absichtliches Ausnutzen eines dir bekannten Bugs oder Missbrauch wird als Exploit angesehen und wird mit einem
 > Ausschluss vom Server bestraft!
@@ -137,7 +137,7 @@ Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](
 </def>
 <def title="Was kann ich tun, wenn ich zu Unrecht gebannt wurde?" id="false-ban">
 
-Wenn du denkst, dir ist mit einem Ausschluss vom Server unrecht getan, erstelle
+Wenn du denkst, dir ist mit einem Ausschluss vom Server Unrecht getan, erstelle
 einen [Entbannungsantrag](support.md#unban-ticket)!
 
 </def>
@@ -150,49 +150,49 @@ einen [Entbannungsantrag](support.md#unban-ticket)!
 
 Diese Änderung ist für uns in mehrerlei Hinsicht sinnvoll.
 Es gestaltet das „Ende des Spiels“ anspruchsvoller, erhält
-den Wert von Elytren und anderen Items aus dem End, welche vorher einfach verschenkt wurden, und es verbessert die
+den Wert von Elytren und anderen Items aus dem End, die vorher einfach verschenkt wurden, und es verbessert die
 Performance und spart uns einiges an Festplattenspeicher.
 \
-Das End ist die einzige Dimension, welche nicht vorher generiert wird und es generiert somit bei einem Überflug
+Das End ist die einzige Dimension, die nicht vorher generiert wird, und es generiert somit bei einem Überflug
 massenhaft neue Chunks.
 
 </def>
 <def title="Wann findet wieder ein Event statt?" id="next-event">
 
-Auf dem Survival Server finden regelmäßige [MiningEvents](survival-events.md#mining-event)
-und [AngelEvents](survival-events.md#fishing-event) statt.
+Auf dem Survival-Server finden regelmäßige [Mining-Events](survival-events.md#mining-event)
+und [Angel-Events](survival-events.md#fishing-event) statt.
 
 > Wenn ein größeres Event stattfindet, wirst du im [Discord](%dc_link%)
 > unter [%com_updates_channel_display%](%com_updates_channel%) darüber informiert.
 > {style="tip"}
 
 </def>
-<def title="Hat man als Veteran Vorteile?" id="veteran-info">
+<def title="Hast du als Veteran Vorteile?" id="veteran-info">
 
 Als Dankeschön für die vielen Stunden Spielzeit erhalten Veteranen einen bevorzugten Platz in der
 Warteschlange und haben somit die Möglichkeit, schneller auf den Server zu gelangen, wenn ein Platz
 frei wird.
 
-> Den Rang hat man erhalten, wenn man auf dem letzten Server mindestens `550` Spielstunden hatte.
+> Den Rang hast du erhalten, wenn du auf dem letzten Server mindestens `550` Spielstunden hattest.
 > {style="tip"}
 
 </def>
 <def title="Wieso gibt es keine Teleportation?" id="why-no-teleportation">
 
-Auf dem Server funktioniert die Fortbewegung noch altmodisch wie in Vanilla Minecraft. Es gibt keine
+Auf dem Server funktioniert die Fortbewegung noch altmodisch wie in Vanilla-Minecraft. Es gibt keine
 Möglichkeit der
-Teleportation, sondern die Spieler müssen die Strecken z. B. über die von der Community erbauten
-Nether Highways
+Teleportation, sondern die Spieler müssen die Strecken z. B. über die von der Community erbauten
+Nether-Highways
 zurücklegen. Die einzige Ausnahme bildet hier der Übergang zwischen den verschiedenen Servern. Um
 die Server zu
-wechseln, müsst ihr jedoch trotzdem immer zurück zum Spawn um mit dem Schiffskapitän zu sprechen,
-welcher euch dann an
+wechseln, musst du jedoch trotzdem immer zurück zum Spawn, um mit dem Schiffskapitän zu sprechen,
+der dich dann an
 den gewünschten Ort bringt.
 
 </def>
 <def title="Kann ich Lichtblöcke und unsichtbare Rahmen bekommen?" id="lightblocks-and-invisible-itemframes">
 
-Für alle Baubegeisterten bieten wir die Möglichkeit Lichtblöcke und unsichtbare Rahmen auch im Survival zu
+Für alle Baubegeisterten bieten wir die Möglichkeit, Lichtblöcke und unsichtbare Rahmen auch im Survival zu
 erhalten und auch zu verwenden.
 Wie du die Gegenstände bekommst, erfährst
 du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").

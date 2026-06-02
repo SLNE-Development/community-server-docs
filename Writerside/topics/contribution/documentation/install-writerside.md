@@ -1,13 +1,13 @@
-# WriterSide Installieren
+# Writerside installieren
 
 
-Writerside ist ein JetBrains-IDE, das auf der IntelliJ-Plattform basiert. Mit Writerside kannst du einfach und schnell
+Writerside ist eine JetBrains-IDE, die auf der IntelliJ-Plattform basiert. Mit Writerside kannst du einfach und schnell
 Dokumentationen schreiben.
 
 <procedure title="Installation" id="install">
 <step>
-Lade dir die neuste Version von Writerside 
-<a href="https://www.jetbrains.com/de-de/writerside/download/" summary="WriterSide Download">hier</a>
+Lade dir die neueste Version von Writerside
+<a href="https://www.jetbrains.com/de-de/writerside/download/" summary="Writerside-Download">hier</a>
 herunter.
 </step>
 <step>
@@ -19,12 +19,12 @@ Installiere das Plugin
 <img src="install-writerside-first.png" alt="Conventional Commit installieren" style="block" thumbnail="true"/>
 </step>
 <step>
-Starte WriterSide neu um das Plugin zu aktivieren.
-Klicke dazu einfach auf <code>Restart IDE</code> wo vorher <code>Install</code> stand.
+Starte Writerside neu, um das Plugin zu aktivieren.
+Klicke dazu einfach auf <code>Restart IDE</code>, wo vorher <code>Install</code> stand.
 </step>
 <step>
-Öffne WriterSide und klicke auf <code>Get from VCS</code>.
-Füge dann den Link zu dem Git-Repository ein was du im vorherigen Schritt geforkt hast 
+Öffne Writerside und klicke auf <code>Get from VCS</code>.
+Füge dann den Link zu dem Git-Repository ein, das du im vorherigen Schritt geforkt hast
 (siehe <a href="fork-repo.md" anchor="fork">hier</a>) und drücke auf <code>Clone</code>.
 <img src="install-writerside-second.png" alt="Get from VCS" style="block" thumbnail="true"/>
 </step>

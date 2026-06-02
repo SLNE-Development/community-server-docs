@@ -1,7 +1,7 @@
-# Markdown in WriterSide verwenden
+# Markdown in Writerside verwenden
 
-In WriterSide kannst du Markdown verwenden, um deinen Text zu formatieren und stilisieren. Hier sind einige grundlegende
-Formatierungsanweisungen, die du in WriterSide verwenden kannst:
+In Writerside kannst du Markdown verwenden, um deinen Text zu formatieren und zu gestalten. Hier sind einige grundlegende
+Formatierungsanweisungen, die du in Writerside verwenden kannst:
 
 ## Fett {id="bold"}
 
@@ -15,7 +15,7 @@ Beispiel:
 
 ## Kursiv {id="italic"}
 
-Verwende ein einzelnes Sternchen `*` oder ein einzelner Unterstrich `_`, um Text kursiv zu formatieren.
+Verwende ein einzelnes Sternchen `*` oder einen einzelnen Unterstrich `_`, um Text kursiv zu formatieren.
 
 Beispiel:
 
@@ -54,7 +54,7 @@ Beispiel:
 ![Alternativer Text](fork-repo-first.png)
 ```
 
-> Die Bilder sollten in dem `images` Ordner liegen, damit sie auch auf der Website angezeigt werden können. \
+> Die Bilder sollten im `images`-Ordner liegen, damit sie auch auf der Website angezeigt werden können. \
 > Hier ist eine [Anleitung](https://www.jetbrains.com/help/writerside/visual-elements.html#img) dazu, allerdings auf
 > Englisch. Es folgt bald eine deutsche Version.
 > 
@@ -82,7 +82,7 @@ public static void main(String[] args) {
 ## Weitere Formatierungen {id="more"}
 
 > Es gibt noch viel mehr Formatierungen, die du verwenden kannst. Eine vollständige Dokumentation dazu findest du
-> direkt auf der [WriterSide Dokumentation](https://www.jetbrains.com/help/writerside/markup-reference.html). \
+> direkt in der [Writerside-Dokumentation](https://www.jetbrains.com/help/writerside/markup-reference.html). \
 > Dort wird unter anderem erklärt, wie du Tabellen, Listen, Überschriften und mehr erstellen kannst.
 
 {style="note"}

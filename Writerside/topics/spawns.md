@@ -2,7 +2,7 @@
 
 ![thumbnail](central-spawn.png){border-effect="rounded" thumbnail="false"}
 
-Auf dem Survival-Server gibt es in der Oberwelt und in dem Nether jeweils **neun feste Spawnpunkte**. \
+Auf dem Survival-Server gibt es in der Oberwelt und im Nether jeweils **neun feste Spawnpunkte**. \
 Diese sorgen dafür, dass sich die Spieler gleichmäßig in der Welt verteilen.
 
 ## Grundprinzip {id="general"}
@@ -10,7 +10,7 @@ Diese sorgen dafür, dass sich die Spieler gleichmäßig in der Welt verteilen.
 - **Respawn:** Nach dem Tod spawnst du an dem nächstgelegenen Spawnpunkt.
 - **Bett/Seelenanker:** Betten und Seelenanker funktionieren wie gewohnt.
 - **Nether/End:** An jedem Spawn befindet sich ein Netherportal, jedoch nur ein Endportal am Central Spawn.
-- **Teleportation:** Es ist möglich, sich von jedem Spawn zu den benachbarten zu teleportieren.
+- **Teleportation:** Du kannst dich von jedem Spawn zu den benachbarten Spawns teleportieren.
 - **Händler:** Weitere Infos zu den Spawn-Händlern findest du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
 > Es gibt **keinen `/spawn`-Befehl**.  

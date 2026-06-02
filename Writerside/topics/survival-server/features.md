@@ -22,7 +22,7 @@ Der Server bietet die Möglichkeit an, Karten vor weiteren Kopien zu schützen.
 </def>
 <def title="Todesnachrichten" id="deathmessages">
 
-Auf dem Survival Server wurden die standardmäßigen Todesnachrichten durch unterhaltsame und lustige Nachrichten ersetzt,
+Auf dem Survival-Server wurden die standardmäßigen Todesnachrichten durch unterhaltsame und lustige Nachrichten ersetzt,
 um den Spielspaß zu erhöhen!
 Anstatt der gewohnten Meldungen erwarten dich nun witzige Kommentare, wenn du oder andere Spieler
 das Zeitliche segnen.
@@ -71,8 +71,8 @@ in der Spielerliste als auch im Nametag im Spiel angezeigt.
 ![player-not-streaming](livestream-display-player-not-streaming.png)
 ![player-streaming](livestream-display-player-streaming.png)
 
-> Der Minecraft Account muss mit dem Twitch Account über `/link twitch` verknüpft sein.
-> 
+> Der Minecraft-Account muss mit dem Twitch-Account über `/link twitch` verknüpft sein.
+>
 {style="warning" id="livestream-display-warning"}
 
 > - Ohne viele Worte ist sofort sichtbar, ob jemand streamt oder nicht.

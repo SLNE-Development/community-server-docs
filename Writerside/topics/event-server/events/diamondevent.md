@@ -8,29 +8,29 @@
 
 ## Über das Event {id="general-info"}
 
-Das Diamond Event ist ein Special, zur Feier der 400.000 Abonnenten auf YouTube und Twitch.
-Das Ziel ist es, gemeinsam mit der Community so schnell wie möglich 400.000 Diamanterze abzubauen. 
+Das Diamond-Event ist ein Special zur Feier der 400.000 Abonnenten auf YouTube und Twitch.
+Das Ziel ist es, gemeinsam mit der Community so schnell wie möglich 400.000 Diamanterze abzubauen.
 
 Zu Beginn des Events erhalten alle Spieler beim ersten Beitritt auf den Server ein Starterinventar,
-welches CastCrafter zuvor innerhalb einer Stunde im Stream erfarmt hat.
+das CastCrafter zuvor innerhalb einer Stunde im Stream erfarmt hat.
 
 Wie schnell werden wir es gemeinsam schaffen, dieses Ziel zu erreichen?
 
 ## Regeln {id="rules"}
 
 > Bei diesem Event gibt es keine Regeländerungen. \
-> Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
+> Es gelten die allgemeinen Serverregeln, die du [hier](rules.md) einsehen kannst.
 >
-> **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
+> **Bitte mache dich vor der Teilnahme mit den Regeln vertraut!**
 >
 {style="note" title="Es gelten die allgemeinen Serverregeln!"}
 
 ### Spendenaktion {id="diamond-charity"}
 
-Während des Events spendet CastCrafter für jedes abgebaute Diamanterz 0,01 € (also insgesamt 4.000 €, wenn das Ziel erreicht wird). 
+Während des Events spendet CastCrafter für jedes abgebaute Diamanterz 0,01 € (also insgesamt 4.000 €, wenn das Ziel erreicht wird).
 Weitere Details zu der Aktion werden von CastCrafter im Livestream bekanntgegeben.
 
 ### Diamond Rang {id="diamond-rank"}
 
-Während des Events habt ihr bei jedem abgebauten Erz eine geringe Chance, einen speziellen Rang zu gewinnen: den Diamond-Rang. 
-Dieser Rang wird euch für insgesamt 90 Tage verliehen und bietet euch unter anderem Priority Queue für zukünftige Events sowie für den Survival-Server.
+Während des Events hast du bei jedem abgebauten Erz eine geringe Chance, einen speziellen Rang zu gewinnen: den Diamond-Rang.
+Dieser Rang wird dir für insgesamt 90 Tage verliehen und bietet dir unter anderem Priority Queue für zukünftige Events sowie für den Survival-Server.

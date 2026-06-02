@@ -5,12 +5,12 @@
 <tabs>
 <tab title="Mitglied hinzufügen" id="add-member">
 
-1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
+1. Gib `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke**, um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls weitere Informationen zu deinen
-   Grundstücken, wie z. B. die Größe oder die Koordinaten deines Grundstückes.
+   Grundstücken, wie z. B. die Größe oder die Koordinaten deines Grundstücks.
    ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-2. Wähle nun das Grundstück aus, auf welchem du die Mitglieder bearbeiten möchtest.
+2. Wähle nun das Grundstück aus, auf dem du die Mitglieder bearbeiten möchtest.
    ![select plot](plot-select-plot.png) {border-effect="rounded" thumbnail="false" width="480"}
 
 3. Klicke **links auf den Spielerkopf**.
@@ -25,7 +25,7 @@
 
 
 > - Achte darauf, dass der eingetippte Spielername den Voraussetzungen entspricht und keine
-    > Leerzeichen oder ungültige Zeichen enthält!
+>   Leerzeichen oder ungültige Zeichen enthält!
 > - Der Spieler muss bereits einmal auf dem Server gespielt haben, damit er hinzugefügt werden kann.
 >
 {style="note"}
@@ -33,13 +33,13 @@
 </tab>
 <tab title="Mitglied entfernen" id="remove-member">
 
-1. Gebe `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke** um dir
+1. Gib `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke**, um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls weitere Informationen zu deinen
-   Grundstücken, wie z. B. die Größe oder die Koordinaten deines Grundstückes.
+   Grundstücken, wie z. B. die Größe oder die Koordinaten deines Grundstücks.
 
    ![select my plots](plot-my-plot.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-2. Wähle nun das Grundstück aus, auf welchem du die Mitglieder bearbeiten möchtest.
+2. Wähle nun das Grundstück aus, auf dem du die Mitglieder bearbeiten möchtest.
 
    ![select plot](plot-select-plot.png) {border-effect="rounded" thumbnail="false" width="480"}
 
@@ -47,7 +47,7 @@
 
    ![select member](plot-member-menu.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-4. Klicke auf den Kopf des Spielers, welchen du von deinem grundstück entfernen möchtest.
+4. Klicke auf den Kopf des Spielers, den du von deinem Grundstück entfernen möchtest.
 
    ![plot edit member menu](plot-edit-member.png) {border-effect="rounded" thumbnail="false" width="480"}
 
