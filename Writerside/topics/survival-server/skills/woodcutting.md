@@ -11,7 +11,7 @@ Die Menge der gewonnenen Erfahrung hängt von der Holzart ab.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Farming Skill bietet dir je nach Level folgende Vorteile
+Der Woodcutting-Skill bietet dir je nach Level folgende Vorteile.
 
 <deflist >
 <def title="Craftsmanship" id="craftsmanship">
@@ -30,7 +30,7 @@ Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x 
 </def>
 <def title="Master Lumberjack" id="master-lumberjack">
 
-Verringert den Cooldown des [Lumberjack](custom-enchantments.md) Enchantments um <tooltip term="depends-on-level">
+Verringert den Cooldown des [Lumberjack](custom-enchantments.md)-Enchantments um <tooltip term="depends-on-level">
 `0 → 15 Sekunden`</tooltip>
 
 **Verfügbar ab Level: 21**

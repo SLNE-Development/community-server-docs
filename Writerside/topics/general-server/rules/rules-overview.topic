@@ -3,10 +3,10 @@
     SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Server-Regelwerk" id="rules-overview">
+       title="Serverregeln" id="rules-overview">
 
   <section-starting-page>
-    <title>Regelwerk</title>
+    <title>Serverregeln</title>
     <description>
       Hier findest du das Regelwerk unseres Servers, damit du dich vor deinem ersten Besuch auf dem Server mit den Regeln vertraut machen kannst.
     </description>
@@ -14,7 +14,7 @@
     <primary>
       <title>Informationsübersicht</title>
       <card href="rules.md" badge="library"
-            summary="Das allgemeine Serverregelwerk"/>
+            summary="Die allgemeinen Serverregeln"/>
       <card href="verified-mods.md" badge="support"
             summary="Eine Liste mit Modifikationen, die vom Server-Team überprüft wurden und ohne Bedenken auf dem Server verwendbar sind."/>
     </primary>

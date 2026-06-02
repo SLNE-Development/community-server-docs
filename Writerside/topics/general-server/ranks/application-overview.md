@@ -1,6 +1,6 @@
 # Bewerbungsinformationen
 
-Du möchtest dich für das Serverteam **bewerben**? Hier findest du alle wichtigen Informationen zu
+Du möchtest dich für das Server-Team **bewerben**? Hier findest du alle wichtigen Informationen zu
 den verschiedenen Rängen und deren Anforderungen.
 
 
@@ -23,10 +23,10 @@ Deine Aufgaben umfassen die Entwicklung und Anpassung von Plugins sowie die Fehl
 - Du beherrschst die Programmiersprachen Java und **[Kotlin](https://kotlinlang.org/)**.
 - Du hast bereits Erfahrung in der Entwicklung von Paper- und Velocity-Plugins.
 - Asynchrone Programmierung und die Arbeit mit Packets
-  bzw. [PacketEvents](https://github.com/retrooper/packetevents) sollte kein Problem darstellen.
+  bzw. [PacketEvents](https://github.com/retrooper/packetevents) sollten kein Problem darstellen.
 - Du hältst Fristen zuverlässig ein und informierst regelmäßig über den aktuellen Stand deines Projekts.
 - Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server.
-  Ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich.
+  Ein Mikrofon sowie die Preisgabe deiner Stimme sind daher erforderlich.
 
 </def>
 </deflist>
@@ -52,7 +52,7 @@ Funktionen und Features des Servers.
 - Du bist teamfähig und besitzt eine gewisse geistige Reife.
 - Du besitzt ein <tooltip term="application-replay-requirement">Aufnahmeprogramm</tooltip>.
 - Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server.
-  Ein Mikrofon sowie die Preisgabe deiner Stimme sind daher unausweichlich.
+  Ein Mikrofon sowie die Preisgabe deiner Stimme sind daher erforderlich.
 - Du hast bereits selbst einige Zeit auf dem Server verbracht.
 
 </def>
@@ -80,7 +80,7 @@ Diese werden anschließend für kommende Events oder in der Lobby eingesetzt.
 - Du beherrschst mehrere Baustile.
 - Du bist teamfähig und besitzt eine gewisse geistige Reife.
 - Die teaminterne Kommunikation erfolgt über den Discord- und TeamSpeak-Server.
-  Ein Mikrofon und die Offenbarung deiner Stimme sind daher unausweichlich.
+  Ein Mikrofon sowie die Preisgabe deiner Stimme sind daher erforderlich.
 
 </def>
 </deflist>
@@ -97,11 +97,11 @@ Position ist.
 </def>
 <def title="Anforderungen als Dokumentationshelfer" id="requirements-documentation">
 
-- Erfahrung mit GitHub und wie du eine Pull Request erstellst.
+- Erfahrung mit GitHub und damit, wie du einen Pull Request erstellst.
 - Writerside (IDE-Plugin).
 - Sichere Beherrschung der deutschen Sprache in Grammatik, Rechtschreibung und Stil.
 
-Weitere Informationen findest du **[hier](doc-contribution.md "Dokumentation Contribution")**.
+Weitere Informationen findest du **[hier](doc-contribution.md "Dokumentationsbeitrag")**.
 
 </def>
 </deflist>

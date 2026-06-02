@@ -26,7 +26,7 @@
 <tab title="Lager verwalten" id="shop-manage-storage">
 
 1. Klicke auf das **Item** des Shops, bei dem du Items ein- oder auslagern möchtest.
-2. Drücke auf die **Kiste** in der Mitte
+2. Drücke auf die **Kiste** in der Mitte.
    ![shop-storage-edit](shop-storage_edit.png) {border-effect="rounded" thumbnail="false" width="480"}
 
 <tabs>
@@ -44,9 +44,9 @@
 1. Zum Auslagern klicke auf den **Block rechts (-)**.
    ![shop-unstore-item](shop-unstore-item.png) {border-effect="rounded" thumbnail="false" width="480"}
 2. Wähle nun die **Anzahl** der Items, die du auslagern möchtest.
-    - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst du in Einer- oder 
-      Zehnerschritten den Preis verändern.
-    - Mit dem **Block oben ($)** in der Mitte kannst du einen eigenen Preis eingeben. \
+    - Mit den **Blöcken** links **(-)(-)** und rechts **(+)(+)** kannst du in Einer- oder
+      Zehnerschritten die Anzahl verändern.
+    - Mit dem **Block oben ($)** in der Mitte kannst du eine eigene Anzahl eingeben. \
       Mit einem Klick auf **Bestätigen** schließt du den Vorgang ab.
 3. Mit einem Klick auf den **Block unten** schließt du die Auslagerung ab und bekommst die Items direkt ins Inventar.
 
@@ -62,7 +62,7 @@
 Wenn ein Shop nicht mehr benötigt wird, weil beispielsweise das Lager ausverkauft ist, mache einen <shortcut>Shift + Linksklick</shortcut> auf den Shop und bestätige den
 Vorgang mit dem **Block rechts**.
 
-> Du kannst deine Shops nur bei dem NPC am Spawn löschen.
+> Du kannst deine Shops nur beim NPC am Spawn löschen.
 >
 {style="tip"}
 

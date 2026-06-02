@@ -8,7 +8,7 @@
     <section-starting-page>
         <title>Skills</title>
         <description>
-            Erfahre mehr über das Skillsystem
+            Erfahre mehr über das Skillsystem.
         </description>
 
       <spotlight>
@@ -25,15 +25,15 @@
             <cards narrow="true">
                 <title>Alle Skills im Überblick</title>
               <card href="combat.md" badge="community"
-                    summary="Erfahre mehr über den Combat Skill und seine Fähigkeiten"/>
+              summary="Erfahre mehr über den Combat-Skill und seine Fähigkeiten"/>
               <card href="mining.md" badge="tools"
-                    summary="Erfahre mehr über den Mining Skill und seine Fähigkeiten"/>
+                    summary="Erfahre mehr über den Mining-Skill und seine Fähigkeiten"/>
               <card href="woodcutting.md" badge="container"
-                    summary="Erfahre mehr über den Woodcutting Skill und seine Fähigkeiten"/>
+                    summary="Erfahre mehr über den Woodcutting-Skill und seine Fähigkeiten"/>
               <card href="farming.md" badge="experiment"
-                    summary="Erfahre mehr über den Farming Skill und seine Fähigkeiten"/>
+                    summary="Erfahre mehr über den Farming-Skill und seine Fähigkeiten"/>
               <card href="fishing.md" badge="world"
-                    summary="Erfahre mehr über den Fishing Skill und seine Fähigkeiten"/>
+                    summary="Erfahre mehr über den Fishing-Skill und seine Fähigkeiten"/>
             </cards>
         </misc>
     </section-starting-page>

@@ -4,26 +4,26 @@
 
 # Zivilisationsprojekt
 
-> Zum Ausgleich des angedachten 400 000 Abonnenten Event wurde sich in der Nacht noch eine Kleinigkeit überlegt.
+> Zum Ausgleich des angedachten 400.000-Abonnenten-Events wurde in der Nacht noch eine Kleinigkeit überlegt.
 >
-{style="note" title="Das aktuell geplante Event kann aus technischen Problemen nicht stattfinden!"}
+{style="note" title="Das aktuell geplante Event kann wegen technischer Probleme nicht stattfinden!"}
 
 <video src="https://www.youtube.com/watch?v=q-LH1eAgnMs"/>
 
 ## Über das Event {id="general-info"}
 
-Dieses Event stellt die Spielenden in einem intensiven 24-Stunden-Wettbewerb vor spannende Herausforderungen.
+Dieses Event stellt die Spieler in einem intensiven 24-Stunden-Wettbewerb vor spannende Herausforderungen.
 Drei Fraktionen treten in verschiedenen Biomen gegeneinander an, wobei sie in verschiedenen Kategorien punkten können.
 Ein Bewertungssystem, das Multiplikatoren und Community-Engagement berücksichtigt, sorgt für ein faires und dynamisches
 Spielerlebnis.
-Das Event läuft für 24 Stunden.
+Das Event läuft für 24 Stunden.
 
 ## Fraktionen {collapsible="true" id="fraction"}
 
-Es gibt drei verschiedene Fraktionen, welche jeweils unterschiedliche Biome besiedeln und dort verschiedenste
+Es gibt drei verschiedene Fraktionen, die jeweils unterschiedliche Biome besiedeln und dort verschiedenste
 Fähigkeiten unter Beweis stellen müssen.
 
-> Da jedes Biome seine Vor- und Nachteile mit sich bringt, werden die Bewertungen der drei
+> Da jedes Biom seine Vor- und Nachteile mit sich bringt, werden die Bewertungen der drei
 > Fraktionen im Nachhinein angepasst und mit einem Multiplikator multipliziert.
 > Der Multiplikator sorgt für eine faire Bewertung.
 >
@@ -33,7 +33,7 @@ Fähigkeiten unter Beweis stellen müssen.
 |------------|---------------|---------------|-----------------------------------------------------------------------------------|
 | Fraktion 1 | Eis           | `1`           | <img src="ice-biom.png" width="256" thumbnail="true" border-effect="rounded"/>    |
 | Fraktion 2 | Flachland     | `0.8`         | <img src="plains-biom.png" width="256" thumbnail="true" border-effect="rounded"/> |
-| Fraktion 3 | Sumpf/ Ödland | `1.2`         | <img src="swamp-biom.png" width="256" thumbnail="true" border-effect="rounded"/>  |
+| Fraktion 3 | Sumpf/Ödland  | `1.2`         | <img src="swamp-biom.png" width="256" thumbnail="true" border-effect="rounded"/>  |
 
 ## Kriterien {collapsible="true" id="requirements"}
 
@@ -45,7 +45,7 @@ Folgende Kriterien müssen die verschiedenen Fraktionen erfüllen. Diese fließe
 <def title="Redstone">
 
 Diese Kategorie sollte sich vorrangig auf Redstone-Techniken konzentrieren, da in den letzten Events deutlich wurde,
-dass einige Spielende dies perfekt beherrschen.
+dass einige Spieler dies perfekt beherrschen.
 Es geht jedoch nicht nur darum, was gebaut wurde, sondern auch darum, wie
 die Schaltungen in die Umgebung integriert wurden und wie sie insgesamt funktionieren.
 
@@ -95,7 +95,7 @@ Meisterwerk der Detailkunst
 <deflist>
 <def title="Sammeln">
 
-Diese Kategorie bewertet die Fähigkeit der Spielenden, ihren Fleiß und Einsatz im Spiel unter Beweis zu stellen.
+Diese Kategorie bewertet die Fähigkeit der Spieler, ihren Fleiß und Einsatz im Spiel unter Beweis zu stellen.
 
 Schatzkammer
 : Die Seltenheit der gesammelten Gegenstände.
@@ -118,7 +118,7 @@ Integration
 <tab title="Kriterium 4">
 
 Twitch-Chat
-: Die letzten Kriterien definiert der Twitch-Chat. Heiko wird sich vor Beginn des Events gemeinsam mit dem Twitch-Chat
+: Das letzte Kriterium definiert der Twitch-Chat. Heiko wird sich vor Beginn des Events gemeinsam mit dem Twitch-Chat
 fünf zusätzliche Unterkriterien ausdenken, sodass auch der Chat aktiv zur Bewertung beitragen kann. Nach dem Event
 erhält
 der Chat die Möglichkeit, über die Twitch-Vote-Funktion abzustimmen, welche Fraktion eines der festgelegten Kriterien
@@ -132,7 +132,7 @@ beitragen.
 
 Die Kriterien 1 bis 3 werden jeweils mit 1 bis 10 Punkten durch Heiko und eventuelle Gäste bewertet.
 \
-Kriterium 4 kann, durch Twitch bedingt, nur mit 10 Punkten bewertet werden.
+Kriterium 4 kann durch Twitch bedingt nur mit 10 Punkten bewertet werden.
 
 ## Q&amp;A {id="q-a"}
 
@@ -141,7 +141,7 @@ Wann beginnt das Event? {id="event-date"}
 : Das Event läuft voraussichtlich vom **10.08.2024** um **14:00 Uhr** bis **11.08.2024** um **14:00 Uhr**.
 
 Wie lange läuft das Event? {id="event-time"}
-: Das Event läuft 24 Stunden.
+: Das Event läuft 24 Stunden.
 
 Welche Version von Minecraft wird benötigt?
 : Das Event wird in der Version **1.21** stattfinden.
@@ -150,7 +150,7 @@ Behalte ich mein Inventar nach dem Tod? {id="event-keep-inventory"}
 : Ja, jeder Spieler behält sein Inventar nach dem Tod.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
-: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
+: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Halte dich
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
 
 Ist PvP aktiviert? {id="event-pvp"}
@@ -159,4 +159,4 @@ Ist PvP aktiviert? {id="event-pvp"}
 Kann ich auch später noch dem Event beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
-Das Startequipment bekommst du, sobald du den [Eventserver](how-to-take-part-in-an-event.md) betrittst.
+Das Startequipment bekommst du, sobald du den [Event-Server](how-to-take-part-in-an-event.md) betrittst.

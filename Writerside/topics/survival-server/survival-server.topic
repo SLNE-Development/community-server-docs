@@ -3,14 +3,14 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Survival Server" id="survival-server">
+       title="Survival-Server" id="survival-server">
 
     <section-starting-page>
-        <title>Survival Server Dokumentation</title>
+        <title>Survival-Server-Dokumentation</title>
         <description>
-            Der Survival Server ist dauerhaft online und ermöglicht der Community zusammen Unglaubliches zu erschaffen!
+            Der Survival-Server ist dauerhaft online und ermöglicht der Community, zusammen Unglaubliches zu erschaffen!
             Er wurde so gestaltet, dass den Spielern möglichst viele Freiheiten geboten werden.
-            Aus diesem Grund gibt es auf dem Server deutlich weniger Einschränkungen, als man es von anderen öffentlichen SMP Servern kennt.
+            Aus diesem Grund gibt es auf dem Server deutlich weniger Einschränkungen, als du es von anderen öffentlichen SMP-Servern kennst.
         </description>
 
         <spotlight>
@@ -29,7 +29,7 @@
             <card href="custom-enchantments.md" badge="experiment"
                   summary="Auf dem Server gibt es spezielle Verzauberungen, die du auf deinen Gegenständen anwenden kannst. Erfahre hier mehr!"/>
             <card href="skill-system.topic" badge="idea"
-                  summary="Auf dem Server gibt es ein Skillsystem mit unterschiedlichen Skills, welche dir einen optionalen Ausgleich schaffen."/>
+                  summary="Auf dem Server gibt es ein Skillsystem mit unterschiedlichen Skills, die dir einen optionalen Ausgleich bieten."/>
         </primary>
 
         <secondary>
@@ -51,7 +51,7 @@
                 <card href="support.md" badge="support"
                       summary="Hier erfährst du, wie du den Support kontaktierst, um z. B. Griefing oder einen Bug zu melden."/>
                 <card href="commands.md" badge="keyboard"
-                      summary="Hier findest du eine Übersicht über alle Commands, die du auf dem Server nutzen kannst."/>
+                      summary="Hier findest du eine Übersicht über alle Befehle, die du auf dem Server nutzen kannst."/>
                 <card href="faq.md" badge="search"
                       summary="Hier findest du Antworten auf häufig gestellte Fragen."/>
                 <card href="troubleshooting.md" badge="tools"

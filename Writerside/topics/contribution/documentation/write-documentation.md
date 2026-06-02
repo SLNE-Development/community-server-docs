@@ -2,14 +2,14 @@
 
 # Dokumentation schreiben
 
-> Du solltest regelmäßig dein Projekt [updaten](update-project.md#update), damit du immer die neuste Version hast.
-> 
+> Du solltest dein Projekt regelmäßig [aktualisieren](update-project.md#update), damit du immer die neueste Version hast.
+>
 {style="note"}
 
 <procedure title="Neuen Branch erstellen" id="new-branch">
 <step>
 
-Gehe auf die Github Seite des zuvor [geforkten Projekts](fork-repo.md).
+Gehe auf die GitHub-Seite des zuvor [geforkten Projekts](fork-repo.md).
 
 </step>
 <step>
@@ -20,7 +20,7 @@ Klicke auf den Branch-Button und gib den Namen eines neuen Branches ein.
 
 > Der Name sollte kurz und prägnant sein und die Änderungen beschreiben, die du vornehmen möchtest.
 >
-{style="note" title="Branch Name"}
+{style="note" title="Branch-Name"}
 
 </step>
 </procedure>
@@ -51,10 +51,10 @@ Klicke auf das <code>+</code> und dann auf <code>Empty MD Topic</code>.
 <img src="write-documentation-second.png" alt="Create Topic" style="block" thumbnail="true" theme="dark"/>
 </step>
 <step>
-Nun gibst du der Seite einen Namen und einen Dateinamen
+Nun gibst du der Seite einen Namen und einen Dateinamen.
 <img src="write-documentation-third.png" alt="New Topic" style="block"/>
 <note>
-In dem Dateinamen solltest du keine Leerzeichen verwenden. Stattdessen einen Bindestrich.
+Im Dateinamen solltest du keine Leerzeichen verwenden. Verwende stattdessen einen Bindestrich.
 Außerdem solltest du den Dateinamen in Kleinbuchstaben und auf Englisch schreiben.
 Aus <code>Tutorial Seite</code> wird also <code>tutorial-site</code>.
 </note>
@@ -65,11 +65,11 @@ Klicke auf <code>Add</code>.
 <img src="write-documentation-fourth.png" alt="Add File to Git" style="block"/>
 </step>
 <step>
-Jetzt klicke links am Rand auf <code>Project</code>
+Klicke jetzt links am Rand auf <code>Project</code>.
 <img src="write-documentation-fifth.png" alt="Project" style="block"/>
 </step>
 <step>
-Dann klappe die Ordner aus
+Klappe dann die Ordner aus.
 <img src="write-documentation-sixth.png" alt="Expand directories" style="block" thumbnail="true"/>
 </step>
 <step>

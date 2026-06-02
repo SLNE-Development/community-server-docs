@@ -11,7 +11,7 @@ Die Menge der gewonnenen Erfahrung hängt von der Seltenheit der Blöcke ab.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Mining Skill bietet dir je nach Level folgende Vorteile:
+Der Mining-Skill bietet dir je nach Level folgende Vorteile:
 
 <deflist >
 <def title="Skillful Extraction" id="skillful-extraction">
@@ -30,7 +30,7 @@ Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x 
 </def>
 <def title="Dynamic Mining" id="dynamic-mining">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 1%`</tooltip> Chance beim Abbauen von Stein oder Deepslate
+Erhalte eine <tooltip term="depends-on-level">`0% → 1%`</tooltip> Chance, beim Abbauen von Stein oder Deepslate
 für <tooltip term="depends-on-level">`3 → 12 Sekunden`</tooltip> Haste VIII zu erhalten
 
 **Verfügbar ab Level: 21**

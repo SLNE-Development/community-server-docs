@@ -3,18 +3,18 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Event Server" id="event-server">
+       title="Event-Server" id="event-server">
 
     <section-starting-page>
-        <title>Event Server</title>
+        <title>Event-Server</title>
         <description>
-            Dies ist der Event Server für die Zuschauer von CastCrafter. Hier findest du alle Informationen,
+            Dies ist der Event-Server für die Zuschauer von CastCrafter. Hier findest du alle Informationen,
             die du brauchst, um an den Events teilzunehmen und zu gewinnen. Wir wünschen dir viel Spaß und Erfolg!
         </description>
 
         <spotlight>
             <card href="rules.md" badge="check-list"
-                  summary="Lerne die Regeln kennen, bevor du an einem Event teilnimmst. Beachte das darüber hinaus eventuell spezifische Eventregeln gelten."/>
+                  summary="Lerne die Regeln kennen, bevor du an einem Event teilnimmst. Beachte, dass darüber hinaus eventuell spezifische Eventregeln gelten."/>
             <card href="how-to-take-part-in-an-event.md" badge="start"
                   summary="Wie du an einem Event teilnehmen kannst, erfährst du hier."/>
         </spotlight>

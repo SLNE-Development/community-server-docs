@@ -2,14 +2,14 @@
 <secondary-label ref="ca-cube-all-mc-version"/>
 <secondary-label ref="ca-cube-all-date"/>
 
-# CraftAttack Würfel Bau Event
+# CraftAttack-Würfel-Bau-Event
 
 ## Über das Event {id="general-info"}
 
 Das Streamer-Projekt **CraftAttack 12** neigt sich dem Ende. Das Problem ist: Das Bau-Projekt von CastCrafter, ein Würfel, ist noch nicht fertig.
-In diesem Event habt ihr die Möglichkeit, einen Teil des Würfels zu bauen.
+In diesem Event hast du die Möglichkeit, einen Teil des Würfels zu bauen.
 
-Das Ziel: Den CraftAttack Würfel mithilfe der Community fertigzustellen. **CastCrafter** wird am Ende des Events die besten Würfel auswählen und diese in CraftAttack nachbauen.
+Das Ziel: den CraftAttack-Würfel mithilfe der Community fertigzustellen. **CastCrafter** wird am Ende des Events die besten Würfel auswählen und diese in CraftAttack nachbauen.
 Jeder baut seinen eigenen Würfel. Deinen Plot kannst du mit `/plot auto` claimen und mit `/plot home` jederzeit betreten.
 Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler mit `/plot trust <player>` zu deinem Plot einladen.
  
@@ -22,9 +22,9 @@ Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler 
 
 ## Regeln {id="rules"}
 
-> Neben den allgemeinen [Serverregeln](rules.md), gilt folgender Zusatz:
+> Neben den allgemeinen [Serverregeln](rules.md) gilt folgender Zusatz:
 >
-> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic Mods nicht gestattet** und kann zu einem Ausschluss führen!
+> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic-Mods nicht gestattet** und kann zu einem Ausschluss führen!
 >
 {style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
 
@@ -34,7 +34,7 @@ Folgende Befehle können während des Events verwendet werden:
 #### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
 
 /plot claim {id="plot-claim-command"}
-: Beansprucht das Plot, auf dem du dich aktuell befindest.
+: Beansprucht den Plot, auf dem du dich aktuell befindest.
 
 #### Teleportieren {collapsible="true" default-state="collapsed" id="commands-teleport"}
 
@@ -66,17 +66,17 @@ Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für
 - Redstone ist deaktiviert
 - Items können weder gedroppt noch aufgehoben werden
 - Nether und End sind deaktiviert
-- Es stehen nur reguläre Items zur Verfügung; modifizierte Items (z. B. aus dem Singleplayer) sind nicht nutzbar
+- Es stehen nur reguläre Items zur Verfügung; modifizierte Items (z. B. aus dem Singleplayer) sind nicht nutzbar
 - Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden
 - Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
 
 ### VoiceChat {id="voicechat"}
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
+In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
 
-Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
 
 
 ## Q&amp;A {id="q-a"}
@@ -89,9 +89,9 @@ Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event findet in der Version **1.21.4** & **1.21.5** statt.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
-: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
-bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten und beachtet die Eventspezifischen Regeln für dieses Event!
+: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Halte dich
+bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten, und beachte die eventspezifischen Regeln für dieses Event!
 
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
+Kann ich dem Event auch später noch beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.

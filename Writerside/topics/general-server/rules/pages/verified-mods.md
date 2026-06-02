@@ -12,13 +12,13 @@ switcher-label: Language
 
 Die folgende Liste enthält Modifikationen, die ohne Bedenken auf dem Server verwendet werden können.
 Die Modifikationen wurden vom Team getestet und sind mit dem Server kompatibel.\
-Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, die **nicht gegen das [Regelwerk](rules.md) verstoßen**.
+Bitte beachte, dass **auch andere Modifikationen erlaubt** sind, die **nicht gegen das [Regelwerk](rules.md) verstoßen**.
 
 > Aufgrund von vermehrten Banns weisen wir hier noch einmal darauf hin, dass **MouseWheelie mit dem Server nicht
-> kompatibel ist**, weil diese die Kommunikation zwischen Client und Server verändert!
+> kompatibel ist**, weil diese Modifikation die Kommunikation zwischen Client und Server verändert!
 >
 > **Auch Freecam ist auf unserem Server nicht erlaubt**.
-> Sie bietet Spielern einen unfairen Vorteil, da sie wie X-Ray eingesetzt werden kann, um z. B. Erze zu finden.
+> Sie bietet Spielern einen unfairen Vorteil, da sie wie X-Ray eingesetzt werden kann, um z. B. Erze zu finden.
 >
 {style="warning"}
 
@@ -28,9 +28,9 @@ Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, die **nicht ge
 
 ## Überprüfte Modifikationen {switcher-key="Deutsch" id="verified-modifications-ger"}
 
-- **Performance Mods und Shader**
-    - Performance Mods wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
-      Diese könnt ihr verwenden.
+- **Performance-Mods und Shader**
+    - Performance-Mods wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
+      Diese kannst du verwenden.
 
 - AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin))
@@ -59,7 +59,7 @@ Bitte beachtet, dass **auch andere Modifikationen erlaubt** sind, die **nicht ge
 - Light Overlay ([Modrinth](https://modrinth.com/mod/light-overlay),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay))
 - Litematica ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica))
-    - Die Verwendung von **EasyPlace** oder dem **Printer** ist jedoch **strengstens untersagt** und kann zum **Ausschluss vom Server** führen. 
+    - Die Verwendung von **EasyPlace** oder dem **Printer** ist jedoch **strengstens untersagt** und kann zum **Ausschluss vom Server** führen.
 - Not Enough Animations ([Modrinth](https://modrinth.com/mod/not-enough-animations),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
 - Simple Voice Chat ([Modrinth](https://modrinth.com/plugin/simple-voice-chat),

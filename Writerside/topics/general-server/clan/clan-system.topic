@@ -15,11 +15,11 @@
         <primary>
             <title>Alles im Überblick</title>
             <card href="create-clan.md" badge="community"
-                  summary="Hier erfahrt ihr, wie ihr einen eigenen Clan gründet."/>
+                  summary="Hier erfährst du, wie du einen eigenen Clan gründest."/>
             <card href="clan-management.md" badge="settings"
-                  summary="Hier erfahrt ihr mehr über die Verwaltung des Clans und dessen Mitglieder."/>
+                  summary="Hier erfährst du mehr über die Verwaltung des Clans und seiner Mitglieder."/>
             <card href="clan-more-info.md" badge="library"
-                  summary="Hier findet ihr weitere Informationen und Funktionen zum Clansystem."/>
+                  summary="Hier findest du weitere Informationen und Funktionen zum Clansystem."/>
         </primary>
     </section-starting-page>
 

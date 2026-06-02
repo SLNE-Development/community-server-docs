@@ -10,14 +10,14 @@ Mitgliederliste {id="clan-members"}
 Clan verlassen {id="clan-leave"}
 : Mit dem Befehl `/clan leave` kannst du deinen aktuellen Clan verlassen.
 
-Dicord-Server hinzufügen {id="clan-link-discord"}
+Discord-Server hinzufügen {id="clan-link-discord"}
 : Mit dem Befehl `/clan setdiscord <URL>` kannst du deinem Clan einen eigenen Discord-Server zuweisen.
-Dieser Link wird dann angezeigt, wenn man sich die [Informationen zum Clan](clan-more-info.md#clan-info) ansieht.
+Dieser Link wird dann angezeigt, wenn du dir die [Informationen zum Clan](clan-more-info.md#clan-info) ansiehst.
 Indem du deinen Discord-Link zum Clan hinzufügst, erleichterst du es anderen, sich zu verbinden, auszutauschen und Teil eines aktiven Clans zu werden. \
-Das Hinzufügen eines Discord-Links ist erst ab 30 Mitgliedern möglich.
+Das Hinzufügen eines Discord-Links ist erst ab 30 Mitgliedern möglich.
 
 Clan-Chat {id="clan-chat"}
 : Mit dem Befehl `/clanchat <Nachricht>` (oder kurz `/cc <Nachricht>`) schreibst du im internen Clan-Chat. Diese Nachrichten sind ausschließlich für deine Clan-Mitglieder sichtbar und eignen sich perfekt für interne Absprachen.
 
 Clan-Farbe {id="clan-color"}
-: Mit dem Befehl `/clan options tagcolor foreground <Hex-Code>` passt du die Farbe deines Clan-Tags an. Der Farbcode wird im Hexadezimalformat ohne das `#`-Zeichen angegeben (z. B. `FF0000` für Rot). Dieses Feature steht nur **Clan-Erstellern mit Premium-Status** zur Verfügung.
+: Mit dem Befehl `/clan options tagcolor foreground <Hex-Code>` passt du die Farbe deines Clan-Tags an. Der Farbcode wird im Hexadezimalformat ohne das `#`-Zeichen angegeben (z. B. `FF0000` für Rot). Dieses Feature steht nur **Clan-Erstellern mit Premium-Status** zur Verfügung.

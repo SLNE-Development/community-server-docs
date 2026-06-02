@@ -44,13 +44,13 @@ Microsoft, ist von diesen nicht gebilligt oder gesponsert und wird auch nicht mi
 Verbindung gebracht. Die Verantwortung für den Server und seine Inhalte liegt ausschließlich beim
 CastCrafter Community-Team und seinen benannten Administratoren.
 
-> Für Anfragen, Unterstützung oder weitere Informationen, bitte ein Support-Ticket im
-> Kanal [#tickets](%tickets_channel%) auf unserem [Discord-Server](%dc_link%) eröffnen.
+> Für Anfragen, Unterstützung oder weitere Informationen öffne bitte ein Support-Ticket im
+> Kanal [#tickets](%tickets_channel%) auf unserem [Discord-Server](%dc_link%).
 >
 
 ## Einhaltung der Minecraft-Nutzungsrichtlinien {switcher-key="Deutsch"}
 
-In Übereinstimmung mit den [Minecraft-Nutzungsrichtlinien][MUG] verpflichten wir uns zu folgenden
+In Übereinstimmung mit den [Minecraft-Nutzungsrichtlinien][MUG] verpflichten wir uns zu den folgenden
 Grundsätzen:
 
 - **Unabhängigkeit**: Unsere Server und Inhalte klar von offiziellen Produkten und Dienstleistungen
