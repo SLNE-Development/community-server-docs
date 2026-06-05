@@ -184,7 +184,14 @@
   <secondary-label id="oneblock-event-date" name="21.02.2026—01.03.2026" color="blue">
     Das Event läuft vom 21.02.2026 um 15:00 Uhr bis zum 01.03.2026 um 18:00 Uhr.
   </secondary-label>
+  
+  <secondary-label id="rich-event-mc-version" name="1.21.11+" color="purple">
+    Das Event findet in der Minecraft Java Version 1.21.11 statt. Du kannst mit neueren Versionen trotzdem teilnehmen.
+  </secondary-label>
 
+  <secondary-label id="rich-event-date" name="06.06.2026—07.06.2026" color="blue">
+    Das Event läuft vom 06.06.2026 um 15:00 Uhr bis zum 07.06.2026 um 15:00 Uhr.
+  </secondary-label>
 
   <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
     Das maximal erreichbare Level dieses Skills beträgt 50.
