@@ -79,6 +79,7 @@
             <toc-element topic="flatworld.md"/>
             <toc-element topic="stoneblock-event.md"/>
             <toc-element topic="anarchy-event.md"/>
+            <toc-element topic="rich-event.md"/>
         </toc-element>
     </toc-element>
   <toc-element topic="rank-overview.topic">
