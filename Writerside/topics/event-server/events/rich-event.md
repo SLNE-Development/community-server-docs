@@ -9,7 +9,7 @@
 **100 Spieler** starten gleichzeitig auf einer riesigen Welt und haben **24 Stunden Zeit**, um so reich wie möglich zu werden. 
 Ob durch Farmen, Handeln oder das Entdecken **wertvoller Ressourcen** – jeder Weg zum Vermögen ist möglich.
 
-![OneBlock Event Banner](rich-thumbnail.png) {border-effect="rounded"}
+![Rich Event Banner](rich-thumbnail.png) {border-effect="rounded"}
 
 
 ## Regeln {id="rules"}
