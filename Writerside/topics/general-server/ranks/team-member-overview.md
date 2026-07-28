@@ -12,5 +12,5 @@ Ohne ihr Engagement wäre der Server nicht das, was er heute ist.
 | ![Supporter](support.png)           | <ul><li>`Bizarom10`</li><li>`bringeis1`</li><li>`Cookiiieee`</li><li>`_Danilo`</li><li>`Dorlino_`</li><li>`EinePapiertonne`</li><li>`_Gonik`</li><li>`Schniekenike`</li><li>`Sherly_`</li></ul> |
 | ![Designer](designer.png)           | <ul><li>`Kyloschmeilo`</li><li>`lissj`</li></ul>                                                                                                                              |
 | ![Builder](builder.png)             | <ul><li>`Konstantin_S`</li><li>`PEKK29`</li><li>`Skyfox2`</li><li>`TatatuckRenegade`</li></ul>                                                                                |
-| ![Community Manager](community.png) | <ul><li>`Floweryalina`</li><li>`Iloveschnitzel09`</li><li>`_Satar_`</li></ul>                                                                                                 |
+| ![Community Manager](community.png) | <ul><li>`Floweryalina`</li><li>`_Satar_`</li></ul>                                                                                                 |
 
