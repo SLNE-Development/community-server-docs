@@ -28,6 +28,9 @@
   <secondary-label id="no-date" name="Kein Datum" color="red">
     Aktuell steht noch kein Datum für dieses Event fest.
   </secondary-label>
+  <secondary-label id="ca13-event-date" name="07.08.2026 – offen" color="blue">
+  Das Event findet ab dem 07.08.2026 statt. Das genaue Enddatum wird noch bekannt gegeben.
+  </secondary-label>
   <secondary-label id="anarchy-event-date" name="8.10.2023 - 15.10.2023" color="blue">Das Event
     läuft
     vom 8.10.2023 bis zum 15.10.2023.

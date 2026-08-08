@@ -1,6 +1,6 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="ca13-event-mc-version"/>
-<secondary-label ref="no-date"/>
+<secondary-label ref="ca13-event-date"/>
 
 # CraftAttack-Schiff-Bau-Event
 
@@ -110,9 +110,11 @@ den Befehl nur auf deinem eigenen Grundstück verwenden.
 
 ## Tools und Plugins {id="tools"}
 
-Um dir das Bauen zu erleichtern, steht dir auf deinem Grundstück folgendes Tool zur Verfügung:
+ Um dir das Bauen zu erleichtern, stehen dir auf deinem Grundstück folgende Tools zur Verfügung:
 
 - [**WorldEdit**](https://intellectualsites.gitbook.io/fastasyncworldedit)
+- [**Axiom Builder Mode**](https://axiomdocs.moulberry.com/builder/intro.html) - verfügbar für alle Spieler
+- [**Axiom Editor Mode**](https://axiomdocs.moulberry.com/editor/intro.html) - verfügbar für Spieler mit Premium- oder Veteran-Rang
 
 ## Häufige Fragen {id="q-a"}
 
@@ -122,7 +124,7 @@ Was soll ich bauen? {id="event-building-goal"}
 beispielsweise einen Gabelstapler. Das Schiff kannst du dir am Spawn ansehen.
 
 Wann findet das Event statt? {id="event-date"}
-: Der genaue Termin steht noch nicht fest. Das Event soll ungefähr eine Woche laufen.
+: Das Event findet ab dem 07.08.2026 statt. Das genaue Enddatum wird noch bekannt gegeben. 
 
 Welche Minecraft-Version benötige ich? {id="event-mc-version"}
 : Du musst dem Event mit **Minecraft 26.2** beitreten. Zum Bauen stehen ausschließlich Blöcke und Items bis
