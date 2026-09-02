@@ -134,17 +134,18 @@
 }
 
 /* ===== Scrollbar CSS ===== */
-/* Firefox */
+html {
+    scrollbar-gutter: stable;
+}
+
 * {
     scrollbar-width: auto;
     scrollbar-color: var(--actual-primary-color) var(--wh-color-bg-main);
-    scrollbar-gutter: stable;
 }
 
 /* Chrome, Edge, and Safari */
 *::-webkit-scrollbar {
     width: 0.5em;
-    scrollbar-gutter: stable;
 }
 
 *::-webkit-scrollbar-track {
@@ -198,14 +199,14 @@
 .see-also__card {
     border-radius: 0.5em;
     border: 1px solid var(--primary-color-25);
-    border-bottom-color: var(--primary-color-25) !important; /* YOU. YOU FUCKER. */
+    border-bottom-color: var(--primary-color-25) !important; /* Override the stronger default bottom-border color. */
     mask-border: unset;
     mask-image: unset;
 }
 
 .see-also__card:hover {
     border: 1px solid var(--wh-color-primary);
-    border-bottom-color: var(--wh-color-primary) !important; /* YOU. YOU FUCKER. */
+    border-bottom-color: var(--wh-color-primary) !important; /* Override the stronger default bottom-border color. */
     animation: cardpulse 2s infinite !important;
     mask-image: none;
 }
@@ -227,12 +228,12 @@
     }
 }
 
-/* Search and Theme Switcher */
-._modeClear_joawza_434._dark_joawza_62 {
+/* Search and Theme Switcher. */
+[class*="_modeClear_"][class*="_dark_"] {
     color: var(--primary-color-75);
 }
 
-._modeClear_joawza_434._dark_joawza_62:hover {
+[class*="_modeClear_"][class*="_dark_"]:hover {
     color: var(--wh-color-primary);
 }
 
@@ -274,12 +275,13 @@
     border-radius: 0.5em;
 }
 
-/* weird bar right at the end of secondary in topics and top of footer, aka where the footer nav links are ig */
+/* Divider bar at the end of a topic's secondary content and the top of the footer,
+   where the footer navigation links sit. */
 .navigation-links {
     border-top: 1px transparent;
 }
 
-/* label and title backdrop roudning and gradient adjustment */
+/* Label and title backdrop rounding and gradient adjustment. */
 .title__backdrop {
     background-image: linear-gradient(180deg, var(--primary-color-25), transparent 50%);
     border-radius: 0.5em 0.5em 0.5em 0;
@@ -294,11 +296,11 @@
     align-items: center;
     justify-content: center;
     padding: 8px;
-    overflow: unset; /* WE RAN INTO A CHROMIUM BUG AND WORKED AROUND THIS STUPID FUCKER */
+    overflow: unset; /* Works around a Chromium clipping bug on the tab element. */
 }
 
-/* hover card when hovering over links with information */
-._card_1uu62mp_6 {
+/* Hover card shown when hovering over links with extra information. */
+[class*="_card_"] {
     border-radius: 0.5em;
     border-color: var(--primary-color-75);
 }
@@ -309,14 +311,14 @@
     border-radius: 0.5em 0.5em 0.5em 0;
 }
 
-/* footer links bullshit down to the last rs-text-3 thingy */
+/* Footer links, down to the last rs-text-3 element. */
 .footer {
     --app-link-color-dark: var(--wh-color-primary);
     --app-link-border-color-dark: var(--wh-color-primary);
     color: var(--wh-color-primary);
 }
 
-/* stop being so fucking picky holy shit */
+/* Force the footer link color through the more specific default rules. */
 .rs-text-3_theme_dark {
     color: var(--wh-color-primary);
 }
@@ -332,14 +334,14 @@
     border: 1px solid var(--primary-color-25);
 }
 
-/* prodedures */
+/* Procedures. */
 .procedure-steps {
     border-radius: 0.5em;
     border: 1px solid var(--primary-color-25);
 }
 
 /* video player */
-.video-player.article__bordered-element.child { /* this took me 15m to figure out the fuckin class. */
+.video-player.article__bordered-element.child {
     border-radius: 0.5em;
     border: 1px transparent;
 }
@@ -487,4 +489,9 @@
 .navigation-links__prev {
     font-family: "Eudoxus Sans", sans-serif;
     font-weight: bold;
+}
+
+.keystroke {
+    border-radius: 0.35em;
+    background-color: var(--primary-color-5);
 }

@@ -11,7 +11,7 @@ permissions:
 env:
   INSTANCE: Writerside/ccs
   ARTIFACT: webHelpCCS2-all.zip
-  DOCKER_VERSION: 2025.03.8312
+  DOCKER_VERSION: 2026.08.0328
 
 jobs:
   build:
