@@ -3,7 +3,6 @@
 <tldr>
     <p>Villager sind deaktiviert, um das Gleichgewicht der Economy zu erhalten.</p>
     <p>Totems können durch Fischen erhalten werden, auch wenn die Villager deaktiviert sind.</p>
-    <p>Das Umrechnungsverhältnis für das Portal von Nether zu Overworld beträgt <code>1:4</code> für größere Netherwelten.</p>
 </tldr>
 
 
