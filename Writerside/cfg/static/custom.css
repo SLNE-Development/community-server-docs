@@ -12,3 +12,9 @@
     /* REPLACE 247, 92, 98 WITH YOUR BRANDING'S COLOR IN RGB */
     --actual-primary-color: 0, 180, 111;
 }
+
+.wh-header__product-name {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

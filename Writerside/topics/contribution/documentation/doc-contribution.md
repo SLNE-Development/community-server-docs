@@ -1,12 +1,12 @@
-# Dokumentation Contribution
+# Dokumentationsbeitrag
 
 ## Voraussetzungen
 
-- einen [Github Account](https://github.com)
-- [WriterSide](https://www.jetbrains.com/de-de/writerside/download/#section=windows)
-- Erstellen von Pull und Merge Requests
-- Fehlerfrei, übersichtlich und verständlich schreiben können
+- einen [GitHub-Account](https://github.com)
+- [Writerside](https://www.jetbrains.com/de-de/writerside/download/#section=windows)
+- Kenntnisse im Erstellen von Pull- und Merge-Requests
+- die Fähigkeit, fehlerfrei, übersichtlich und verständlich zu schreiben
 
-> Eine grobe Übersicht findet ihr in den folgenden Abschnitten.
+> Eine grobe Übersicht findest du in den folgenden Abschnitten.
 
 {style="note"}

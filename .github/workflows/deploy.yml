@@ -11,13 +11,13 @@ permissions:
 
 env:
   INSTANCE: Writerside/ccs
-  DOCKER_VERSION: 2026.04.8711
+  DOCKER_VERSION: 2026.08.0328
 
   ALGOLIA_APP_NAME: C86V8LU863
   ALGOLIA_INDEX_NAME: docs_cast_crafter_community_server
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   CONFIG_JSON_PRODUCT: CCS
-  CONFIG_JSON_VERSION: 1.21.11 # This value should be updated with the version of the product
+  CONFIG_JSON_VERSION: 26.2 # This value should be updated with the version of the product
 
 jobs:
   build:

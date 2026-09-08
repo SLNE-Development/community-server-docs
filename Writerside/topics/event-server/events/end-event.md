@@ -2,17 +2,17 @@
 <secondary-label ref="end-event-mc-version"/>
 <secondary-label ref="end-event-date"/>
 
-# End Event
+# End-Event
 
 <video src="https://www.youtube.com/watch?v=36eVUWBDtCA"/>
 
 ## Über das Event {id="general-info"}
 
-Ihr seid für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein
+Du bist für 48 Stunden im End eingesperrt. Es gibt nur diese Dimension – keine Overworld, kein
 Nether!
-Erkundet neue Strukturen und bekämpft unbekannte Monster.
-Diese lassen Items fallen, mit denen ihr
-neue, bislang unbekannte Gegenstände herstellen könnt.
+Erkunde neue Strukturen und bekämpfe unbekannte Monster.
+Diese lassen Items fallen, mit denen du
+neue, bislang unbekannte Gegenstände herstellen kannst.
 
 ![End Event Banner](only-end-banner.png)
 
@@ -29,7 +29,7 @@ neue, bislang unbekannte Gegenstände herstellen könnt.
 : Akzeptiert eine eingehende Teleportationsanfrage.
 
 `/spawn`
-: Bringt dich zum Spawnpunkt zurück. Dieser Befehl hat einen Cooldown von 1 Minute.
+: Bringt dich zum Spawnpunkt zurück. Dieser Befehl hat einen Cooldown von 1 Minute.
 
 `/back`
 : Bringt dich zu deinem vorherigen Standort.
@@ -47,5 +47,5 @@ Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server
 führen.
 
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
+Kann ich dem Event auch später noch beitreten? {id="event-join-later"}
 : Ja, du kannst jederzeit teilnehmen, solange noch Plätze frei sind.

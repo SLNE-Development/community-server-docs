@@ -14,9 +14,9 @@
     <primary>
       <title>Informationsübersicht</title>
       <card href="rank-list-overview.md" badge="creative"
-            summary="Informiere dich über die Ränge auf unseren Server und welche Aufgabe sie besitzen."/>
+            summary="Informiere dich über die Ränge auf unserem Server und welche Aufgaben sie haben."/>
       <card href="team-member-overview.md" badge="server"
-            summary="Hier findest du eine Liste aller Teammitglieder und deren Position."/>
+            summary="Hier findest du eine Liste aller Teammitglieder und ihrer Positionen."/>
       <card href="application-overview.md" badge="container"
             summary="Erfahre, wie du dich für das Team bewerben kannst und welche Anforderungen du mitbringen musst."/>
     </primary>

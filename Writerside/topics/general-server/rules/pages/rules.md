@@ -1,16 +1,16 @@
 
 [support]: support.md "Support, Erstattungen & Bugreport"
 
-[verified-mods]: verified-mods.md "Liste der Geprüfte Modifikationen"
+[verified-mods]: verified-mods.md "Liste der geprüften Modifikationen"
 
 [economy]: economy.md "Economy-System"
 
 # Serverregeln
 
-Es wird davon ausgegangen, dass sich alle Spielenden gesittet und freundlich verhalten
+Es wird davon ausgegangen, dass sich alle Spieler gesittet und freundlich verhalten
 und sich keinen unfairen Vorteil gegenüber anderen Spielern verschaffen oder ihnen auf andere Weise schaden.
-Solltet ihr vermehrt negativ mit Aktionen auffallen oder gegen die Regeln verstoßen, müsst ihr
-mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser findet ihr weiter unten.
+Solltest du vermehrt negativ mit Aktionen auffallen oder gegen die Regeln verstoßen, musst du
+mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung findest du weiter unten.
 
 1. **Griefing wird zu keiner Zeit toleriert**. Sollte uns auffallen, dass du Gebäude oder Bauwerke
    von anderen Spielern zerstörst oder andere Spieler bestiehlst, wirst du sofort
@@ -32,26 +32,26 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Ebenso sind Modifikationen zur Umgehung oder Täuschung von Anti-Cheat-Maßnahmen nicht erlaubt.
 
    Bereits das Betreten des Servers mit einer unerlaubten Modifikation gilt als Verstoß und kann zum
-   Ausschluss führen. Wenn also unklar ist, ob eine Modifikation erlaubt ist, verwendet sie
-   nicht, [schaut in die Liste geprüfter Modifikationen][verified-mods] oder [kontaktiert den Support][support].
+   Ausschluss führen. Wenn also unklar ist, ob eine Modifikation erlaubt ist, verwende sie
+   nicht, [schau in die Liste geprüfter Modifikationen][verified-mods] oder [kontaktiere den Support][support].
 
    > **<tooltip term="MouseWheelie">MouseWheelie</tooltip>**, **<tooltip term="Freecam">Freecam</tooltip>**,
-   > **AutoClicker** und **Macros**, **SeedCracker**, sowie **jegliche Formen X-Ray** oder **Hacked Clients**!
+   > **AutoClicker** und **Macros**, **SeedCracker** sowie **jegliche Formen von X-Ray** oder **Hacked-Clients**!
    >
    {title="Explizit verbotene Modifikationen sind unter anderem:" style="warning"}
 
    <include from="util.md" element-id="mod-pack"/>
 
-3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, sind
+3. **Exploiting, also das Ausnutzen von Fehlern oder Funktionen, die offensichtlich nicht so beabsichtigt sind, ist
    untersagt.**
-   Darunter zählt beispielsweise das Dupen von Items, Versuche den Server absichtlich zum
+   Darunter zählen beispielsweise das Dupen von Items, Versuche, den Server absichtlich zum
    Absturz zu bringen, aber auch das Ausnutzen von Fehlern in Plugins oder sonstigen Features, um sich z. B. einen
    Vorteil zu verschaffen.
    Bedrock Deletion und <tooltip term="flying-tnt-duper">stationäre TNT-Duper</tooltip> sind von dieser Regel
    ausgenommen.
 
-   > Beispiele sind der Missbrauch des `/unstuck` Befehls um sich zurück zum Spawn zu teleportieren, obwohl man gar
-   nicht festgesteckt hat oder das absichtliche Wechseln des Server kurz vor dem Tod, nur um seine Items zu sichern.
+   > Beispiele sind der Missbrauch des `/unstuck`-Befehls, um dich zurück zum Spawn zu teleportieren, obwohl du gar
+   nicht festgesteckt hast, oder das absichtliche Wechseln des Servers kurz vor dem Tod, nur um deine Items zu sichern.
    >
    {style="tip"}
 
@@ -60,23 +60,23 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    Alle Spieler sind verpflichtet, ein respektvolles und faires Miteinander zu wahren. Jegliche Form von Belästigung, Beleidigung, Anfeindung, Scamming, Trolling oder provozierendem Verhalten wird nicht toleriert.
 
    **Mobbing, Hetze und das wiederholte Herabsetzen einzelner Personen sind ausdrücklich untersagt.**
-   Dazu zählt insbesondere das bewusste Schlechtreden anderer Spieler, etwa durch das Aufgreifen von vergangenen Konflikten oder Fehlverhalten in abwertender Weise – insbesondere dann, wenn sich die betroffenen Personen nachweislich um ein verbessertes Verhalten bemühen. Der Server soll ein Ort sein, an dem jede\*r die Möglichkeit hat, sich weiterzuentwickeln und ohne Vorverurteilung Teil der Gemeinschaft zu sein.
+   Dazu zählt insbesondere das bewusste Schlechtreden anderer Spieler, etwa durch das Aufgreifen von vergangenen Konflikten oder Fehlverhalten in abwertender Weise – insbesondere dann, wenn sich die betroffenen Personen nachweislich um ein verbessertes Verhalten bemühen. Der Server soll ein Ort sein, an dem jeder die Möglichkeit hat, sich weiterzuentwickeln und ohne Vorverurteilung Teil der Gemeinschaft zu sein.
 
    **Kritik ist erlaubt – jedoch nur in sachlicher und konstruktiver Form.**
    Es ist zulässig, auf eigene Angebote oder Alternativen hinzuweisen oder eine persönliche Meinung zu äußern, solange dies sachlich und ohne diffamierende Sprache geschieht.
 
    **Beispiel:**
 
-   Nicht okay: *"Kauft den Mist dort bloß nicht."* \
-   Okay: *"Ich finde die Preise in Shop XY fairer – schaut mal bei X:1, Y:1, Z:1 vorbei."*
+   Nicht okay: *„Kauft den Mist dort bloß nicht.“* \
+   Okay: *„Ich finde die Preise in Shop XY fairer – schaut mal bei X:1, Y:1, Z:1 vorbei.“*
 
-   Herabwürdigende, spöttische oder gezielt stimmungsbildende Äußerungen gegen bestimmte Personen – auch in Form von "Insiderwitzen", Sarkasmus oder Gruppenverhalten – gelten als Verstoß gegen diese Regel. Gleiches gilt für die Verbreitung von Gerüchten oder Falschinformationen, die das soziale Miteinander negativ beeinflussen.
+   Herabwürdigende, spöttische oder gezielt stimmungsbildende Äußerungen gegen bestimmte Personen – auch in Form von „Insiderwitzen“, Sarkasmus oder Gruppenverhalten – gelten als Verstoß gegen diese Regel. Gleiches gilt für die Verbreitung von Gerüchten oder Falschinformationen, die das soziale Miteinander negativ beeinflussen.
 
    **Sprachchat-Regelung:**
 
-   Das Verwenden von Soundboards sowie das Abspielen von Musik oder sonstigen Geräuschen ist grundsätzlich untersagt, sofern kein klarer und sinnvoller Kontext besteht (z. B. bei Musikevents, DJ-Clubs oder vergleichbaren Aktivitäten). In allen anderen Fällen ist davon abzusehen – insbesondere wenn es der Kommunikation schadet oder andere Spieler stört.
+   Das Verwenden von Soundboards sowie das Abspielen von Musik oder sonstigen Geräuschen ist grundsätzlich untersagt, sofern kein klarer und sinnvoller Kontext besteht (z. B. bei Musikevents, DJ-Clubs oder vergleichbaren Aktivitäten). In allen anderen Fällen ist davon abzusehen – insbesondere wenn es der Kommunikation schadet oder andere Spieler stört.
 
-   Widerholte Verstöße gegen diese Verhaltensrichtlinien führen abhängig vom Schweregrad zu Ermahnungen, temporären Ausschlüssen oder einem dauerhaften Bann.
+   Wiederholte Verstöße gegen diese Verhaltensrichtlinien führen abhängig vom Schweregrad zu Ermahnungen, temporären Ausschlüssen oder einem dauerhaften Bann.
    > **Hinweis bei Konflikten:**
    >
    > Sollte es zu Meinungsverschiedenheiten kommen, wird erwartet, dass diese zunächst eigenständig und respektvoll gelöst werden. Sollte dies nicht möglich sein, ist der [Moderation][support] ein klarer, sachlicher Bericht zu übermitteln. Offene oder eskalierende Streitigkeiten im öffentlichen Raum des Servers werden nicht geduldet und können zu moderativen Maßnahmen führen.
@@ -105,13 +105,13 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
    > - Als Scherz oder Ironie gemeinte Aussagen werden nicht toleriert und können Konsequenzen nach sich ziehen.
    > - Das Zitieren oder Nachahmen unangemessener Aussagen, unabhängig vom Kontext, wird nicht toleriert.
    > - Das bewusste Ansprechen oder Nachfragen nach verbotenen oder unangemessenen Inhalten wird ebenfalls geahndet.
-   > - Falls ihr Zeuge eines Regelverstoßes werdet, meldet dies bitte umgehend im [Support](support.md#report-ticket "Estelle ein Report-Ticket!") bei der Moderation und stellt, wenn möglich, Beweise (z. B. Screenshots, Chatlogs, Videos) bereit.
+   > - Falls du Zeuge eines Regelverstoßes wirst, melde dies bitte umgehend im [Support](support.md#report-ticket "Erstelle ein Report-Ticket!") bei der Moderation und stelle, wenn möglich, Beweise (z. B. Screenshots, Chatlogs, Videos) bereit.
    >
    {style="warning" title="Ein Verstoß kann zu einem permanenten Ausschluss vom gesamten Netzwerk und allen anderen Plattformen führen!"}
 
 7. **Moderatoren und Admins haben stets das letzte Wort**, auch wenn dies im Widerspruch zu den offiziellen Regeln
-   stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn euch ein Moderator oder Admin
-   auffordert, etwas zu unterlassen, respektiert dies bitte ohne weitere Erklärungen. Es gibt immer einen guten Grund
+   stehen sollte. Wir bitten darum, auf längere Diskussionen zu verzichten. Wenn dich ein Moderator oder Admin
+   auffordert, etwas zu unterlassen, respektiere dies bitte ohne weitere Erklärungen. Es gibt immer einen guten Grund
    für solche Entscheidungen.
 
 

@@ -6,7 +6,7 @@
 <deflist>
 <def title="Besitzer herausfinden" id="plot-get-owner">
 
-Um den Besitzer eines Grundstücks herauszufinden, nutze den Befehl `/pwho` während du auf einem Grundstück stehst.
+Um den Besitzer eines Grundstücks herauszufinden, nutze den Befehl `/pwho`, während du auf einem Grundstück stehst.
 
 </def>
 </deflist>
@@ -28,7 +28,7 @@ zum Spawn zu gelangen.
 <deflist>
 <def title="Grundstücksnachrichten" id="plot-messages">  
 
-Beim Betreten oder Verlassen eines Grundstückes bekommst du im Chat eine Nachricht.
+Beim Betreten oder Verlassen eines Grundstücks bekommst du im Chat eine Nachricht.
 Diese Funktion lässt sich jedoch ein- oder ausschalten.
 
 1. Führe hierzu den Befehl `/protect` im Chat aus.
@@ -41,7 +41,7 @@ Diese Funktion lässt sich jedoch ein- oder ausschalten.
 <tab title="Berechnung" id="plot-calculation">
 
 <deflist>
-<def title="Berechnung des Grundstückes" id="plot-price-calculation">
+<def title="Berechnung des Grundstücks" id="plot-price-calculation">
 
 $$
 p(d) = \max( 4, - \frac {d} {600} + \frac {37} {3} )

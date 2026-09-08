@@ -4,7 +4,7 @@ Das Freundschaftssystem ermöglicht es Spielern, direkt im Spiel Verbindungen zu
 
 Beim Betreten einer Welt erhältst du im Chat eine Übersicht darüber, wie viele deiner Freunde sich aktuell dort befinden und ob noch offene Freundschaftsanfragen vorliegen. Zusätzlich wirst du benachrichtigt, sobald ein Freund deine Welt betritt oder verlässt.
 
-#### Freundschaftsanfrage {collapsible="true" default-state="collapsed" id="friend-request"}
+## Freundschaftsanfrage {collapsible="true" default-state="collapsed" id="friend-request"}
 
 {type="medium"}
 Freundschaftsanfrage senden {id="add-friend-request"}
@@ -22,7 +22,7 @@ Freundschaftsanfrage ablehnen {id="decline-friend-request"}
 Freundschaftsanfragen auflisten {id="friend-requests"}
 : Mit dem Befehl `/friend requests` kannst du dir alle offenen Freundschaftsanfragen anzeigen lassen, die an dich gesendet wurden.
 
-#### Freundschaft {collapsible="true" default-state="collapsed" id="friendship"}
+## Freundschaft {collapsible="true" default-state="collapsed" id="friendship"}
 
 {type="medium"}
 Freundschaft kündigen {id="remove-friend"}
@@ -32,5 +32,5 @@ Freundschaften auflisten {id="list-friends"}
 : Mit dem Befehl `/friend list` oder `/fl` kannst du alle deine Freunde auflisten lassen.
 Du siehst, ob sie online sind und in welcher Welt sie sich gerade befinden.
 
-Freundschaft-Info {id="info-friend"}
+Freundschaftsinfo {id="info-friend"}
 : Mit dem Befehl `/friend info <player>` kannst du erfahren, seit welchem Zeitpunkt du mit diesem Spieler befreundet bist.

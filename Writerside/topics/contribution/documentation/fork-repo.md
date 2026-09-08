@@ -1,28 +1,28 @@
 # Repository anlegen
 
-Damit du Pull-Requests erstellen kannst, musst du zuerst die Repository forken.
+Damit du Pull-Requests erstellen kannst, musst du zuerst das Repository forken.
 
 <procedure title="Repository forken" id="fork">
 <step>
-Gehe auf die 
-<a href="%git-repo-link%" summary="Community Server Dokumentation">Github Seite</a>
-der Community Server Dokumentation
+Gehe auf die
+<a href="%git-repo-link%" summary="Community-Server-Dokumentation">GitHub-Seite</a>
+der Community-Server-Dokumentation.
 </step>
 <step>
-Klicke auf den Button <code>Fork</code> oben rechts
+Klicke oben rechts auf den Button <code>Fork</code>.
 <img src="fork-repo-first.png" alt="Fork Repository" style="block" thumbnail="true"/>
 </step>
 <step>
-Nun kannst du der Repository einen Namen geben und auf <code>Create Fork</code> klicken.
+Nun kannst du dem Repository einen Namen geben und auf <code>Create Fork</code> klicken.
 <img src="fork-repo-second.png" alt="Fork Repository" style="block" thumbnail="true"/>
 </step>
 <step>
-Nun hast du eine Kopie der Repository auf deinem Account.
-Diesen solltest du regelmäßig 
-<a href="update-project.md" anchor="update-fork" summary="Hier erfährst du wie deinen Fork updatest">updaten</a>
-um auf dem neusten Stand zu bleiben.
+Nun hast du eine Kopie des Repositorys in deinem Account.
+Diesen Fork solltest du regelmäßig
+<a href="update-project.md" anchor="update-fork" summary="Hier erfährst du, wie du deinen Fork aktualisierst">aktualisieren</a>,
+um auf dem neuesten Stand zu bleiben.
 </step>
 </procedure>
 
-> Ein Fork ist eine Kopie einer Repository. Diese Kopie ist nun auf deinem Account zu finden und du kannst Änderungen
-> vornehmen. Diese Änderungen kannst du dann in Form eines Pull-Requests an die ursprüngliche Repository senden.
+> Ein Fork ist eine Kopie eines Repositorys. Diese Kopie findest du nun in deinem Account und du kannst Änderungen
+> vornehmen. Diese Änderungen kannst du dann in Form eines Pull-Requests an das ursprüngliche Repository senden.

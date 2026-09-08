@@ -1,6 +1,6 @@
 # Shop erstellen
 
-## So kannst du deinen eigenen Shop erstellen: {id="shop-create"}
+## So kannst du deinen eigenen Shop erstellen {id="shop-create"}
 
 1. Klicke unten in der Mitte auf den **Holzblock (+)**, um einen eigenen Shop zu erstellen.
    ![shop-create-new](shop-create-new.png) {border-effect="rounded" thumbnail="false" width="480"}

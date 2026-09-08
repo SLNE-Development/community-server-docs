@@ -32,7 +32,7 @@ langfristigen Weiterentwicklung des Servers.
 
 Das Team-Management bildet die Brücke zwischen dem technischen Hintergrund und dem täglichen Betrieb
 mit der Spielerschaft.
-Sie stellen sicher, dass interne Prozesse im Team reibungslos laufen und stehen den Spielern bei
+Es stellt sicher, dass interne Prozesse im Team reibungslos laufen, und steht den Spielern bei
 komplexeren Anliegen zur Verfügung.
 
 </def>
@@ -41,7 +41,7 @@ komplexeren Anliegen zur Verfügung.
 - Verwaltung spielbezogener Themen wie Rückerstattungen oder Rollbacks.
 - Organisation und Leitung des Teams:
     - Bearbeitung interner Beschwerden über Teammitglieder.
-    - Durchführung von Team-Meetings und Feedbackgesprächen.
+    - Durchführung von Team-Meetings und Feedback-Gesprächen.
     - Überwachung des Teamverhaltens und Förderung einer positiven Teamkultur.
     - Auswahl sowie Einarbeitung neuer Teammitglieder (Supporter und Moderatoren).
     - Planung zukünftiger Bewerbungsprozesse.
@@ -100,7 +100,7 @@ Sie greifen bei Konflikten ein und kümmern sich um eine faire Spielumgebung.
 - Unterstützung bei allgemeinen Fragen und Konflikten.
 - Einschreiten bei Regelverstößen und Durchsetzung der Regeln.
 - Einarbeitung und Begleitung neuer Supporter.
-- Bearbeitung erweiterter Tickets (z. B. Entbannungsanträge).
+- Bearbeitung erweiterter Tickets (z. B. Entbannungsanträge).
 - Entscheidung über Sanktionen (Verwarnungen, Banns).
 
 </def>
@@ -140,7 +140,7 @@ Sie sammeln Feedback, vermitteln bei Anliegen und sorgen für gute Kommunikation
 - Bearbeitung vertraulicher Anliegen und Probleme.
 - Informieren der Spieler über Updates, Wartungsarbeiten und Fehler.
 - Aktives Einholen und Auswerten von Feedback.
-- Betreuung von Social-Media (optional).
+- Betreuung der Social-Media-Kanäle (optional).
 - Vermittlung bei allgemeinen Themen zwischen Spielern und Team.
 
 </def>
@@ -188,7 +188,7 @@ und den Spielspaß fördern.
 <deflist>
 <def title="Beschreibung" id="description-creator">
 
-Content Creator, die von CastCrafter ausgewählt worden sind.
+Content Creator, die von CastCrafter ausgewählt wurden.
 
 </def>
 </deflist>
@@ -208,17 +208,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-premium-plus">
 
-*Soon™*
-
-</def>
-</deflist>
-</tab>
-
-<tab title="Priority Queue" id="premium">
-<deflist>
-<def title="Beschreibung" id="description-premium">
-
-*Soon™*
+Premium ist ein erwerbbarer Rang, der dir zusätzliche Features und Vorteile auf dem Server bietet. Ziel von Premium ist es, dein Spielerlebnis individueller und angenehmer zu gestalten. Du kannst den Rang [hier](https://server.castcrafter.de/shop "%click-more-info%") erwerben.
 
 </def>
 </deflist>
@@ -228,7 +218,7 @@ Ehemalige Teammitglieder oder andere Spieler, die uns unterstützt haben.
 <deflist>
 <def title="Beschreibung" id="description-veteran">
 
-Spieler, welche auf dem 1.21 Survival Server mehr als 550 Stunden aktive Spielzeit hatten.
+Spieler, die auf dem 1.21-Survival-Server mehr als 550 Stunden aktive Spielzeit hatten.
 
 </def>
 </deflist>

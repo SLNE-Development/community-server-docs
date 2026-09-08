@@ -1,7 +1,7 @@
 name: Close Invalid Pull Requests
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, reopened, synchronize]
   workflow_dispatch:
 
@@ -10,31 +10,42 @@ permissions:
   contents: read
   issues: write
 
-
 jobs:
   close_invalid_pr:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Get Default Branch
-        id: get-default-branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          DEFAULT_BRANCH=$(gh repo view --json defaultBranchRef --template '{{.defaultBranchRef.name}}')
-          echo "default_branch=$DEFAULT_BRANCH" >> "$GITHUB_OUTPUT"
-
       - name: Close PRs from Default Branch
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+          EVENT_NAME: ${{ github.event_name }}
+          CURRENT_PR_NUMBER: ${{ github.event.pull_request.number }}
+          CURRENT_HEAD_BRANCH: ${{ github.event.pull_request.head.ref }}
         run: |
-          DEFAULT_BRANCH=${{ steps.get-default-branch.outputs.default_branch }}
-          PR_NUMBERS=$(gh pr list --state open --json number,headRefName --template '{{range .}}{{if eq .headRefName "'"$DEFAULT_BRANCH"'"}}{{.number}} {{end}}{{end}}')
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]]; then
+            mapfile -t PR_NUMBERS < <(
+              gh pr list --state open --json number,headRefName |
+                jq -r --arg branch "$DEFAULT_BRANCH" '.[] | select(.headRefName == $branch) | .number'
+            )
+          elif [[ "$CURRENT_HEAD_BRANCH" == "$DEFAULT_BRANCH" ]]; then
+            PR_NUMBERS=("$CURRENT_PR_NUMBER")
+          else
+            echo "PR #$CURRENT_PR_NUMBER uses feature branch '$CURRENT_HEAD_BRANCH'; nothing to do."
+            exit 0
+          fi
 
-          for PR_NUMBER in $PR_NUMBERS; do
+          COMMENT=$(cat <<EOF
+          This pull request was closed automatically because it was opened from the default branch \`$DEFAULT_BRANCH\`.
+
+          The default branch of a fork should remain a clean copy of the upstream default branch. Putting pull-request changes directly on it makes it harder to synchronize the fork, separate unrelated changes, and prepare future pull requests.
+
+          Please update or reset your default branch from upstream, create a new feature branch for these changes, push that branch, and open a new pull request from it.
+          EOF
+          )
+
+          for PR_NUMBER in "${PR_NUMBERS[@]}"; do
             echo "Closing PR #$PR_NUMBER from default branch '$DEFAULT_BRANCH'."
-            gh pr close $PR_NUMBER --comment "This pull request is invalid because it's created from the default branch '$DEFAULT_BRANCH'. Please use a feature branch."
+            gh pr close "$PR_NUMBER" --comment "$COMMENT"
           done
         shell: bash

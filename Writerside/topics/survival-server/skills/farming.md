@@ -11,26 +11,26 @@ Die Menge der gewonnenen Erfahrung hängt von der Nutzpflanze oder der Tierart a
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Farming Skill bietet dir je nach Level folgende Vorteile:
+Der Farming-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Earthbound Durability" id="earthbound-durability">
 
-Schaufeln und Hacken verlieren <tooltip term="depends-on-level">`0% → 50%`</tooltip> weniger Haltbarkeit
+Schaufeln und Hacken verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Green Thumb" id="green-thumb">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von Nutzpflanzen zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Nutzpflanzen zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Satiation" id="satiation">
 
-Verliere <tooltip term="depends-on-level">`0% → 60%`</tooltip> weniger Hunger
+Verliere <tooltip term="depends-on-level">`0 % → 60 %`</tooltip> weniger Hunger.
 
 **Verfügbar ab Level: 21**
 
@@ -97,5 +97,18 @@ gesammelt haben musst.
 | 48    | 3.400.000    | 47.472.425 |
 | 49    | 3.700.000    | 51.172.425 |
 | 50    | 4.000.000    | 55.172.425 |
+
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
+
+| Level | Belohnung                              |
+|-------|----------------------------------------|
+| 10    | Seltsame Suppe mit 2 Stunden Sättigung |
+| 20    | Trank mit Eile X                      |
+| 30    | Verzaubertes Buch mit Reparatur        |
+| 40    | Verzaubertes Buch mit Effizienz VI      |
+| 50    | Verzaubertes Buch mit Federfall VII      |
+
 
 ****

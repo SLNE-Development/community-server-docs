@@ -1,6 +1,6 @@
 # Shop durchsuchen
 
-## So kannst du einen Shop durchsuchen: {id="shop-search"}
+## So kannst du einen Shop durchsuchen {id="shop-search"}
 
 1. Um ein Item im Shop zu suchen, klicke unten links auf den **Pinsel**.
    ![shop-search](shop-search.png) {border-effect="rounded" thumbnail="false" width="480"}

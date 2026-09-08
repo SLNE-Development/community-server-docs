@@ -13,13 +13,13 @@
     Dieses Event läuft gerade.
   </primary-label>
   <primary-label id="survival-closed" short-name="G" name="Geschlossen" color="red">
-    Der Survival Server ist derzeit geschlossen.
+    Der Survival-Server ist derzeit geschlossen.
   </primary-label>
   <primary-label id="under-development" short-name="E" name="In Entwicklung" color="purple">
     Dieses Feature befindet sich noch in Entwicklung.
   </primary-label>
-  <primary-label id="survival-server" short-name="O" name="Survival Server" color="purple">
-    Willkommen auf dem Survival Server!
+  <primary-label id="survival-server" short-name="O" name="Survival-Server" color="purple">
+    Willkommen auf dem Survival-Server!
   </primary-label>
   <primary-label id="skills" short-name="S" name="Skillsystem" color="tangerine">
   </primary-label>
@@ -28,60 +28,63 @@
   <secondary-label id="no-date" name="Kein Datum" color="red">
     Aktuell steht noch kein Datum für dieses Event fest.
   </secondary-label>
+  <secondary-label id="ca13-event-date" name="07.08.2026 – offen" color="blue">
+  Das Event findet ab dem 07.08.2026 statt. Das genaue Enddatum wird noch bekannt gegeben.
+  </secondary-label>
   <secondary-label id="anarchy-event-date" name="8.10.2023 - 15.10.2023" color="blue">Das Event
     läuft
     vom 8.10.2023 bis zum 15.10.2023.
   </secondary-label>
   <secondary-label id="anarchy-event-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="stoneblock-event-date" name="26.05.2024 - 28.05.2024" color="blue">Das Event
     läuft
     vom 26.05.2024 bis zum 28.05.2024.
   </secondary-label>
   <secondary-label id="stoneblock-event-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="flatworld-event-date" name="07.06.2024 - 09.06.2024" color="blue">Das Event
     läuft
     vom 07.06.2024 bis zum 09.06.2024.
   </secondary-label>
   <secondary-label id="flatworld-event-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="oceanblock-event-date" name="21.06.2024 - 21.06.2024" color="blue">Das Event
     läuft
     vom 21.06.2024 bis zum 21.06.2024.
   </secondary-label>
   <secondary-label id="oceanblock-event-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="diamond-date" name="12.10.2024 bis 13.10.2024" color="blue">Das Event läuft
     ab dem 12.10.2024 bis zum Erreichen der 400.000 Diamanterze
   </secondary-label>
   <secondary-label id="diamond-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="skyblock-date" name="01.08.2024 - 03.08.2024" color="blue">Das Event läuft
     vom 01.08.2024 bis zum 03.08.2024.
   </secondary-label>
   <secondary-label id="skyblock-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="one-block-date" name="15.10.2024 - 17.10.2024" color="blue">Das Event läuft
-    vom 01.08.2024 bis zum 03.08.2024.
+    vom 15.10.2024 bis zum 17.10.2024.
   </secondary-label>
   <secondary-label id="civilisation-date" name="10.08.2024 - 11.08.2024" color="blue">
-    Das Event läuft vom 10.08.2024 um 14:00 Uhr bis 11.08.2024 um 14:00 Uhr.
+    Das Event läuft vom 10.08.2024 um 14:00 Uhr bis zum 11.08.2024 um 14:00 Uhr.
   </secondary-label>
   <secondary-label id="civilisation-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="one-block-mc-version" name="1.21" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21 stattfinden.
   </secondary-label>
   <secondary-label id="tilted-world-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 stattfinden.
   </secondary-label>
   <secondary-label id="tilted-world-date" name="26.01.2025 - 28.01.2025" color="blue">Das Event
     läuft
@@ -92,49 +95,49 @@
     vom 08.02.2025 bis zum 10.02.2025.
   </secondary-label>
   <secondary-label id="limitless-hights-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 stattfinden.
   </secondary-label>
   <secondary-label id="creative2-date" name="15.02.2025 - 22.02.2025" color="blue">Das Event
     läuft
     vom 15.02.2025 bis zum 22.02.2025.
   </secondary-label>
   <secondary-label id="creative2-mc-version" name="1.21.4" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 stattfinden.
   </secondary-label>
   <secondary-label id="ca-cube-self-date" name="15.02.2025 - 22.02.2025" color="blue">Das Event
     läuft
     vom 15.02.2025 bis zum 22.02.2025.
   </secondary-label>
   <secondary-label id="ca-cube-self-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 und 1.21.5 stattfinden.
   </secondary-label>
   <secondary-label id="ca-cube-all-date" name="27.04.2025 - 03.05.2025" color="blue">Das Event
     läuft
     vom 27.04.2025 bis zum 03.05.2025.
   </secondary-label>
   <secondary-label id="ca-cube-all-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 und 1.21.5 stattfinden.
   </secondary-label>
   <secondary-label id="buildit2-date" name="04.05.2025" color="blue">Das Event
     läuft
     am 04.05.2025
   </secondary-label>
   <secondary-label id="buildit2-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 und 1.21.5 stattfinden.
   </secondary-label>
   <secondary-label id="nether-event-date" name="22.03.2025 - 24.03.2025" color="blue">Das Event
     läuft
     vom 22.03.2025 bis zum 24.03.2025.
   </secondary-label>
   <secondary-label id="nether-event-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 und 1.21.5 stattfinden.
   </secondary-label>
   <secondary-label id="500k-block-event-date" name="24.05.2025 - 25.05.2025" color="blue">Das Event
     läuft
     vom 24.05.2025 bis zum 25.05.2025.
   </secondary-label>
   <secondary-label id="500k-block-event-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 und 1.21.5 stattfinden.
   </secondary-label>
   <secondary-label id="crafting-challenge-event-date" name="30.05.2025 - 21.09.2025" color="blue">
     Das Event
@@ -142,7 +145,7 @@
     vom 30.05.2025 bis zum 21.09.2025.
   </secondary-label>
   <secondary-label id="crafting-challenge-mc-version" name="1.21.7" color="purple">
-    Das Event findet in der Minecraft Java Version 1.21.7 statt.
+    Das Event findet in der Minecraft-Java-Version 1.21.7 statt.
   </secondary-label>
 
   <secondary-label id="end-event-date" name="08.06.2025 - 10.06.2025" color="blue">Das Event
@@ -150,7 +153,7 @@
     vom 08.06.2025 um 14:00 Uhr bis zum 10.06.2025 um 18:00 Uhr.
   </secondary-label>
   <secondary-label id="end-event-mc-version" name="1.21.4 &amp; 1.21.5" color="purple">
-    Das Event wird in der Minecraft Java Version 1.21.4 und 1.21.5 stattfinden.
+    Das Event wird in der Minecraft-Java-Version 1.21.4 und 1.21.5 stattfinden.
   </secondary-label>
 
   <secondary-label id="hardcore-event-date" name="21.06.2025 - 22.06.2025" color="blue">Das Event
@@ -158,7 +161,7 @@
     vom 21.06.2025 um 11:00 Uhr bis zum 22.06.2025 um 18:00 Uhr.
   </secondary-label>
   <secondary-label id="hardcore-event-mc-version" name="1.21.6 empfohlen" color="purple">
-    Empfohlen wird die Minecraft Java Version 1.21.6, da nur damit Mini-Events funktionieren.
+    Empfohlen wird die Minecraft-Java-Version 1.21.6, da nur damit Mini-Events funktionieren.
     1.21.4 ist ebenfalls möglich, allerdings ohne Mini-Events.
   </secondary-label>
 
@@ -167,24 +170,31 @@
     vom 04.07.2025 um 16:00 Uhr bis zum 06.07.2025 um 18:00 Uhr.
   </secondary-label>
   <secondary-label id="random-drop-event-mc-version" name="1.21.6 empfohlen" color="purple">
-    Empfohlen wird die Minecraft Java Version 1.21.6.
-    Ihr könnt jedoch auch die Version 1.21.4 verwenden.
+    Empfohlen wird die Minecraft-Java-Version 1.21.6.
+    Du kannst jedoch auch die Version 1.21.4 verwenden.
   </secondary-label>
   <secondary-label id="desert-event-date" name="16.08.2025 - 19.08.2025" color="blue">Das Event
     läuft
     vom 16.08.2025 um 10:00 Uhr bis zum 19.08.2025 um 18:00 Uhr.
   </secondary-label>
   <secondary-label id="desert-event-mc-version" name="1.21.7+" color="purple">
-    Das Event findet in der Minecraft Java Version 1.21.8 statt.
+    Das Event findet in der Minecraft-Java-Version 1.21.8 statt.
     Zum Teilnehmen wird mindestens die Version 1.21.7 benötigt.
   </secondary-label>
   <secondary-label id="oneblock-event-mc-version" name="1.21.11" color="purple">
-    Das Event findet in der Minecraft Java Version 1.21.11 statt.
+    Das Event findet in der Minecraft-Java-Version 1.21.11 statt.
   </secondary-label>
   <secondary-label id="oneblock-event-date" name="21.02.2026—01.03.2026" color="blue">
     Das Event läuft vom 21.02.2026 um 15:00 Uhr bis zum 01.03.2026 um 18:00 Uhr.
   </secondary-label>
+  
+  <secondary-label id="rich-event-mc-version" name="1.21.11+" color="purple">
+    Das Event findet in der Minecraft-Java-Version 1.21.11 statt. Du kannst mit neueren Versionen trotzdem teilnehmen.
+  </secondary-label>
 
+  <secondary-label id="rich-event-date" name="06.06.2026—07.06.2026" color="blue">
+    Das Event läuft vom 06.06.2026 um 15:00 Uhr bis zum 07.06.2026 um 15:00 Uhr.
+  </secondary-label>
 
   <secondary-label id="max-skill-level-50" name="Maximales Level: 50" color="blue">
     Das maximal erreichbare Level dieses Skills beträgt 50.
@@ -195,11 +205,21 @@
     können.
   </secondary-label>
 
-  <secondary-label id="wip" name="WIP" color="purple">Work in progress</secondary-label>
+  <secondary-label id="wip" name="WIP" color="purple">In Arbeit</secondary-label>
   <secondary-label id="beta" name="β" color="tangerine">Beta</secondary-label>
 
-  <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental
-    feature
+  <secondary-label id="experimental" name="Experimental" color="purple">Dies ist eine experimentelle
+    Funktion
   </secondary-label>
-  <secondary-label id="2023.3" name="2023.3" color="blue">New in version 2023.3</secondary-label>
+  <secondary-label id="2023.3" name="2023.3" color="blue">Neu in Version 2023.3</secondary-label>
+  <secondary-label id="anarchy-event-2-date" name="11.07.2026-18.07.2026" color="blue">Das Event
+    läuft
+    vom 11.07.2026 bis zum 18.07.2026.
+  </secondary-label>
+  <secondary-label id="anarchy-event-2-mc-version" name="26.2" color="purple">
+    Das Event wird in der Minecraft-Java-Version 26.2 stattfinden.
+  </secondary-label>
+  <secondary-label id="ca13-event-mc-version" name="26.2" color="purple">
+    Das Event wird in der Minecraft-Java-Version 26.2 stattfinden.
+  </secondary-label>
 </labels>

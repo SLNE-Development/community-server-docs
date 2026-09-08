@@ -2,13 +2,13 @@
 <secondary-label ref="hardcore-event-mc-version"/>
 <secondary-label ref="hardcore-event-date"/>
 
-# Hardcore Event
+# Hardcore-Event
 
 <video src="https://www.youtube.com/watch?v=qiNBtgdj93U"/>
 
 ## Über das Event {id="general-info"}
 
-Im Hardcore Event hast du nur **ein einziges Leben**. Wenn du stirbst, scheidest du endgültig aus
+Im Hardcore-Event hast du nur **ein einziges Leben**. Wenn du stirbst, scheidest du endgültig aus
 dem
 Event aus. Bis zum großen Finale ist PvP deaktiviert, sodass du dich in Ruhe auf den entscheidenden
 Kampf vorbereiten kannst.
@@ -57,6 +57,6 @@ Die Version **1.21.4** kannst du ebenfalls verwenden, dann jedoch ohne Mini-Even
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße führen zum Ausschluss vom Event und gegebenenfalls vom gesamten Server.
 
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
+Kann ich dem Event auch später noch beitreten? {id="event-join-later"}
 : Nein, nach Beginn des Finales ist kein Nachjoinen mehr möglich. Vorher darfst du teilnehmen,
 solange Plätze frei sind.

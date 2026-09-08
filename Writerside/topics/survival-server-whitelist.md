@@ -1,24 +1,24 @@
-# Whitelist erstellen
+# Discord-Minecraft-Verbindung einrichten
 
-Um auf dem **Survival Server** spielen zu können, ist eine Registrierung auf unserer Whitelist **zwingend erforderlich**.\
-Ohne diesen Eintrag ist ein Betreten des Servers nicht möglich.\
-Die Whitelist-Erstellung erfolgt vollautomatisch über unseren Discord-Bot.
+Um auf dem **Survival-Server** spielen zu können, benötigst du keine klassische Whitelist mehr.\
+Stattdessen ist eine **aktive Verbindung zwischen deinem Discord- und Minecraft-Account** erforderlich.
 
-### Schritt-für-Schritt-Anleitung {id="whitelist-registration-step-by-step"}
+## Schritt-für-Schritt-Anleitung {id="discord-minecraft-link-step-by-step"}
 
-1.  **Discord beitreten:** Stelle sicher, dass du Mitglied auf unserem [Discord-Server](%dc_link%) bist.
-2.  **Tickets-Channel:** Navigiere in den Kanal [**%ticket_channel_display%**](%tickets_channel%).
-3.  **Whitelist-Button:** Im Kanal findest du eine Nachricht. Unterhalb dieser befindet sich neben dem normalen Knopf für das [Ticketsystem](support.md#ticket-types) der Knopf **"Whitelist erstellen"**. Klicke diesen an.
-4.  **Daten eingeben:** Anschließend öffnet sich ein Formularfenster. Gib dort deinen Minecraft-Namen und alle weiteren geforderten Daten **korrekt** ein.
-5.  **Formular absenden:** Sobald du das Formular absendest, werden die Angaben automatisch geprüft und du wirst auf die Whitelist hinzugefügt.
+1. **Discord beitreten:** Stelle sicher, dass du Mitglied auf unserem [Discord-Server](%dc_link%) bist.
+2. **Accounts verknüpfen:** Öffne die [Account-Verwaltung](https://auth.castcrafter.de/account?tab=accounts) und melde dich an.
+3. **Discord und Minecraft verbinden:** Verknüpfe dort deinen **Discord-Account** und deinen **Minecraft-Account**.
+4. **Server betreten:** Sobald beide Accounts erfolgreich miteinander verbunden sind, kannst du den Survival-Server direkt betreten.
 
+## Verbindungsstatus prüfen {id="connection-status"}
 
-### Weitere Hinweise zur Whitelist {id="additional-whitelist-info"}
+Ob dein Account für den Survival-Server freigeschaltet ist, kannst du jederzeit im Kanal [**%ticket_channel_display%**](%tickets_channel%) über den Button **„Whitelist überprüfen“** einsehen.
 
-Die Whitelist für den Survival-Server ist direkt mit deinem Discord-Account verknüpft.\
-Diese Verknüpfung wird benötigt, damit wir dich bei Problemen oder Support-Anfragen eindeutig zuordnen und direkt kontaktieren können.
+## Weitere Hinweise {id="additional-connection-info"}
 
-> Wenn du den **Discord-Server verlässt**, wird dein Zugang zum Survival-Server **automatisch gesperrt**.\
-> Der Discord-Server ist somit ein fester Bestandteil des Zugangs zum Server.
+Die Verbindung zwischen deinem Discord- und Minecraft-Account ist Voraussetzung für den Zugriff auf den Survival-Server.\
+Dadurch können wir deinen Account eindeutig zuordnen und dir bei Problemen oder Support-Anfragen schneller helfen.
+
+> Wenn du den **Discord-Server verlässt** oder die Verbindung zwischen deinem Discord- und Minecraft-Account nicht mehr besteht, wird dein Zugriff auf den Survival-Server **automatisch gesperrt**.
 >
-{style="note" title="Discord als Vorraussetzung für den Survival Server"}
+{style="note" title="Discord-Verbindung als Voraussetzung für den Survival-Server"}

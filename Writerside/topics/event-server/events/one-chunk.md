@@ -8,9 +8,9 @@
 
 ## Über das Event {id="general-info"}
 
-Im OneChunk-Event findet ihr euch in einer Welt wieder, in der jeder zweite Chunk fehlt.\
-Beim Betreten des Servers spawnt ihr in eurem eigenen Chunk.
-Jegliche Blöcke, die außerhalb eines generierten Chunks platziert werden, verschwinden automatisch nach 10 Sekunden.\
+Im OneChunk-Event findest du dich in einer Welt wieder, in der jeder zweite Chunk fehlt.\
+Beim Betreten des Servers spawnst du in deinem eigenen Chunk.
+Jegliche Blöcke, die außerhalb eines generierten Chunks platziert werden, verschwinden automatisch nach 10 Sekunden.\
 Am Ende des Events ist eine PvP-Phase geplant, in der PvP aktiviert wird.
 
 ![thumbnail](one-chunk-world.png){border-effect="rounded"}
@@ -25,13 +25,13 @@ Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21** stattfinden.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
-: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Haltet euch
+: Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Halte dich
 bitte an die Regeln, um ein faires und spaßiges Event für alle zu gewährleisten.
 
-Kann man auch später noch dem Event beitreten? {id="event-join-later"}
+Kann ich dem Event auch später noch beitreten? {id="event-join-later"}
 : Ja, auch wenn das Event bereits begonnen hat, kannst du jederzeit dem Event beitreten. Wenn allerdings die maximale
 Spieleranzahl erreicht ist, kann es sein, dass du dich in die Warteschlange einreihen musst.
 
-Wie viel Spieler können auf den Server? {id="event-min-players"}
+Wie viele Spieler können auf den Server? {id="event-min-players"}
 : Der Server bietet Platz für mindestens `100` Spieler.
-Je nach performance lassen sich die Plätze erweitern.
+Je nach Performance lassen sich die Plätze erweitern.

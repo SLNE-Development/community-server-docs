@@ -12,7 +12,7 @@
 
 <snippet id="survival-closed">
 
-> Der Community Server ist derzeit geschlossen.
+> Der Community-Server ist derzeit geschlossen.
 >
 {style="warning"}
 
@@ -20,30 +20,30 @@
 
 <snippet id="mod-pack">
 
-> Um das Spielerlebnis auf dem Server zu optimieren gibt es ein offizielles Modpack, welches
+> Um das Spielerlebnis auf dem Server zu optimieren, gibt es ein offizielles Modpack, das
 > ausschließlich getestete
 > Modifikationen enthält.
-> Alle enthaltenen Mods sind erlaubt und mit dem Server kompatibel.
+> Alle enthaltenen Modifikationen sind erlaubt und mit dem Server kompatibel.
 > \
-> **Das Modpack könnt ihr
-auf [Modrinth](https://modrinth.com/modpack/castcrafter-survival-server "Klicke, um zum Modpack zu gelangen!")
-herunterladen.**
+> **Das Modpack kannst du
+> auf [Modrinth](https://modrinth.com/modpack/castcrafter-survival-server "Klicke, um zum Modpack zu gelangen!")
+> herunterladen.**
 > \
 > \
-> **Änderungen am Modpack oder das Hinzufügen zusätzlicher Mods können zu Inkompatibilitäten und
-unter Umständen zu einem Ausschluss des Servers führen.**
+> **Änderungen am Modpack oder das Hinzufügen zusätzlicher Modifikationen können zu Inkompatibilitäten und
+> unter Umständen zu einem Ausschluss vom Server führen.**
 > **Wir übernehmen keine Verantwortung für modifizierte Versionen des Modpacks.**
 >
-{style="tip" title="Offizielles Server Modpack"}
+{style="tip" title="Offizielles Server-Modpack"}
 
 </snippet>
 
 <snippet id="no-rules-changed">
 
 > Bei diesem Event gibt es keine Regeländerungen. \
-> Es gelten die allgemeinen Serverregeln, welche ihr [hier](rules.md) einsehen k&ouml;nnt.
+> Es gelten die allgemeinen Serverregeln, die du [hier](rules.md) einsehen kannst.
 >
-> **Bitte macht euch vor der Teilnahme mit den Regeln vertraut!**
+> **Bitte mache dich vor der Teilnahme mit den Regeln vertraut!**
 >
 {style="note" title="Es gelten die allgemeinen Serverregeln!"}
 
@@ -51,19 +51,19 @@ unter Umständen zu einem Ausschluss des Servers führen.**
 
 <snippet id="voicechat-available">
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über den ihr mit anderen Spielern
-sprechen könnt.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern
+sprechen kannst.
 
-Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findet ihr
-hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du
+hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 </snippet>
 
 <snippet id="compostable-items">
 
-Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompostierbar:
+Folgende Items sind auf dem Survival-Server zusätzlich in einem Komposter kompostierbar:
 
 - Verrottetes Fleisch
 - Kabeljau
@@ -78,7 +78,7 @@ Folgende Items sind auf dem Survival Server zusätzlich in einem Komposter kompo
 
 <snippet id="additionally-fishing-loot">
 
-Folgende Gegenstände sind auf dem Survival Server zusätzlich angelbar:
+Folgende Gegenstände sind auf dem Survival-Server zusätzlich angelbar:
 
 - Keramikscherben
     - Abschabe-Töpferscherbe
@@ -111,42 +111,42 @@ Folgende Gegenstände sind auf dem Survival Server zusätzlich angelbar:
 <tabs>
 <tab title="Teleportation" id="teleportation">
 
-Um euch das Zusammenspiel zu erleichtern, habt ihr bei diesem Event die Möglichkeit, euch mit `/tpa <player>` zu euren Freunden zu teleportieren.
+Um dir das Zusammenspiel zu erleichtern, hast du bei diesem Event die Möglichkeit, dich mit `/tpa <player>` zu deinen Freunden zu teleportieren.
 
-Darüber hinaus könnt ihr euch mit `/sethome` einen Home-Punkt setzen und euch mit `/home` dorthin zurück teleportieren.
+Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mit `/home` dorthin zurückteleportieren.
 
-> **Achtung:** Ihr könnt diese Befehle nur alle 10 Minuten verwenden!
+> **Achtung:** Du kannst diese Befehle nur alle 10 Minuten verwenden!
 >
 {style="note"}
 
 </tab>
-<tab title="VoiceChat" id="voice-chat">
+<tab title="Sprachchat" id="voice-chat">
 
-In diesem Event steht euch ein Ingame-VoiceChat zur Verfügung, über welchen ihr mit anderen Spielern sprechen könnt.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, müsst ihr euch die SimpleVoiceChat Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findet ihr hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 </tab>
 <tab title="ChestProtect" id="chestprotect">
 
-Um Griefing vorzubeugen, habt ihr die Möglichkeit eure Kisten zu sichern. Verwendet dazu folgende Befehle:
+Um Griefing vorzubeugen, hast du die Möglichkeit, deine Kisten zu sichern. Verwende dazu folgende Befehle:
 
 /chestprotect
-: Öffnet das Hauptmenü von Chestprotect.
-Hier könnt ihr verschiedene Einstellungen vornehmen und habt einen Überblick über alle Sicherungen.
+: Öffnet das Hauptmenü von ChestProtect.
+Hier kannst du verschiedene Einstellungen vornehmen und hast einen Überblick über alle Sicherungen.
 
 /lock
 : Sperrt eine Kiste nach anschließendem Anklicken.
 
 /trust &lt;player&gt;
-: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nachdem du die Kiste angeklickt hast.
 
 /untrust &lt;player&gt;
-: Entfernt den angegebenen Spieler aus der Sicherung nach anschließendem Anklicken der Kiste.
+: Entfernt den angegebenen Spieler aus der Sicherung, nachdem du die Kiste angeklickt hast.
 
-> Ihr könnt das automatische Sichern von Kisten im ChestProtect Menu ein- und ausschalten.
+> Du kannst das automatische Sichern von Kisten im ChestProtect-Menü ein- und ausschalten.
 >
 {style="tip"}
 

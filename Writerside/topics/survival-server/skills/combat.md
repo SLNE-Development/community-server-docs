@@ -5,32 +5,32 @@
 
 ## Wie erhalte ich Erfahrung? {id="how-to-get-experience"}
 
-Du erhöhst dein Combat Level durch das Besiegen von feindlichen Kreaturen.
+Du erhöhst dein Combat-Level durch das Besiegen von feindlichen Kreaturen.
 \
 Die Menge der gewonnenen Erfahrung hängt von der Seltenheit und der Stärke des Monsters ab.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Combat Skill bietet dir je nach Level folgende Vorteile:
+Der Combat-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Battle Hardened" id="battle-hardened">
 
-Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit
+Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Reapers's Fortune" id="reapers-fortune">
 
-Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Monstern zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Monstern zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Strong Impact" id="strong-impact">
 
-Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Schaden gegen feindliche Kreaturen
+Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Schaden gegen feindliche Kreaturen.
 
 **Verfügbar ab Level: 21**
 
@@ -97,3 +97,14 @@ Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie vie
 | 49    | 3.700.000    | 51.172.425  |
 | 50    | 4.000.000    | 55.172.425  |
 
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
+
+| Level | Belohnung                             |
+|-------|---------------------------------------|
+| 10    | Trank mit Resistenz IV               |
+| 20    | Totem der Unsterblichkeit             |
+| 30    | Verzaubertes Buch mit Experience IV     |
+| 40    | Verzaubertes Buch mit Plünderung V    |
+| 50    | Bogen mit Reparatur und Unendlichkeit |

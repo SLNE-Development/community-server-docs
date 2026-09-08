@@ -1,76 +1,113 @@
 # Häufige Probleme
 
-In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unserem Server selber beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
+In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unserem Server selbst
+beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
 <tabs>
 
-<tab title="Verbindungsprobleme / Netzwerk Lags" id="connection-issues">
+<tab title="Verbindungsprobleme / Netzwerk-Lags" id="connection-issues">
 
-**Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server geworfen oder hast regelmäßig starke Lags?**
-**Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
+**Du kannst dich nicht mit dem Server verbinden, wirst wegen `Unstable Connection` vom Server**
+**geworfen oder hast regelmäßig starke Lags?**
+**Die folgenden Tipps können dir helfen, das Problem selbst zu beheben.**
 :
-1. **Minecraft Neustart:** Ein Neustart des Spiels kann sowohl Verbindungsprobleme als auch Lag
+1. **Minecraft-Neustart:** Ein Neustart des Spiels kann sowohl Verbindungsprobleme als auch Lag
    beheben.
-2. **Aktuelle Version verwenden:** Verwende die neueste Version von Minecraft, um die
-   bestmögliche Performance und Kompatibilität sicherzustellen.
-3. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
-   zu vermeiden, die Verbindungsprobleme oder Lag verursachen könnten.
+2. **Aktuelle Version verwenden:** Verwende die neueste Version von Minecraft, um die bestmögliche
+   Performance und Kompatibilität sicherzustellen.
+3. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Modifikationen, um mögliche
+   Konflikte zu vermeiden, die Verbindungsprobleme oder Lag verursachen könnten.
 4. **Computer neu starten:** Ein Neustart deines Computers kann Netzwerkprobleme und
    Performance-Einbußen lösen.
-5. **Router neu starten:** Ein Neustart deines Routers kann nicht nur Verbindungsprobleme
-   beheben, sondern auch die Internetgeschwindigkeit verbessern.
-6. **LAN-Verbindung verwenden:** Wenn du die Möglichkeit hast, verwende eine stabile LAN-Verbindung. Sie kann Verbindungsprobleme und Lag im Vergleich zu WLAN
-   signifikant reduzieren.
+5. **Router neu starten:** Ein Neustart deines Routers kann nicht nur Verbindungsprobleme beheben,
+   sondern auch die Internetgeschwindigkeit verbessern.
+6. **LAN-Verbindung verwenden:** Wenn du die Möglichkeit hast, verwende eine stabile LAN-Verbindung.
+   Sie kann Verbindungsprobleme und Lag im Vergleich zu WLAN signifikant reduzieren.
 7. **Downloads pausieren:** Begrenze die Netzwerkbelastung, indem du Hintergrunddownloads pausierst,
    um die Latenz zu verringern.
-8. **VPN deaktivieren:** VPN Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere deine VPN und versuche es erneut.
+8. **VPN deaktivieren:** VPN-Verbindungen werden möglicherweise vom Server blockiert. Deaktiviere
+   deine VPN-Verbindung und versuche es erneut.
 
 </tab>
 <tab title="Probleme mit dem Ressourcenpaket" id="resourcepack-issues">
 
-**Das Ressourcenpaket läd nicht richtig oder du erhältst dauerhaft die Nachricht `Aktiviere Ressourcenpaket...`?**
-**Die folgenden Tipps können dir helfen das Problem selber zu beheben.**
+**Das Ressourcenpaket lädt nicht richtig oder du erhältst dauerhaft die Nachricht**
+**`Aktiviere Ressourcenpaket...`?**
+**Die folgenden Tipps können dir helfen, das Problem selbst zu beheben.**
 :
-1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Ressourcenpaket beheben.
+1. **Minecraft-Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem
+   Ressourcenpaket beheben.
 2. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
    um Kompatibilitätsprobleme zu vermeiden.
-3. **Vanilla Client verwenden:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
-   zu vermeiden
+3. **Vanilla-Client verwenden:** Versuche es mit dem Vanilla-Minecraft-Client ohne Modifikationen, um mögliche
+   Konflikte zu vermeiden.
 4. **Computer neu starten:** Ein Neustart kann diverse Probleme lösen und ist auch bei
    Schwierigkeiten mit dem Ressourcenpaket empfehlenswert.
-5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den Servereinstellungen aktiviert hast. ![](server-settings.gif)
-6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft Verzeichnis in den `downloads` Ordner und lösche alle vorhandenen Dateien. Starte anschließend deinen Minecraft-Client neu, damit das Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
-7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
+5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den
+   Servereinstellungen aktiviert hast. ![](server-settings.gif)
+6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft-Verzeichnis in den `downloads`-Ordner
+   und lösche alle vorhandenen Dateien. Starte anschließend deinen Minecraft-Client neu, damit das
+   Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird. ![](delete-packs.gif)
+7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus
+   und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
 </tab>
 <tab title="Chat-Probleme" id="chat-issues">
 
-**Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung `Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
+**Du hast Probleme mit dem Chat, Nachrichten werden nicht gesendet, oder du erhältst die Meldung**
+**`Der Chat wurde aufgrund eines fehlenden öffentlichen Profilschlüssels deaktiviert`?**
 :
-1. **Minecraft Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat beheben.
-2. **Einstellungen:** Stelle sicher, dass die [Chateinstellungen](https://de.minecraft.wiki/w/Menü/Optionen/Chateinstellungen) richtig konfiguriert sind.
-   - Überprüfe, ob die `Sichtbarkeit des Chats` auf `Sichtbar` gestellt ist.
-   - Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschalten ist.
+1. **Minecraft-Neustart:** Oftmals kann ein einfacher Neustart des Spiels Probleme mit dem Chat
+   beheben.
+2. **Einstellungen:** Stelle sicher, dass
+   die [Chateinstellungen](https://de.minecraft.wiki/w/Menü/Optionen/Chateinstellungen) richtig
+   konfiguriert sind.
+      - Überprüfe, ob die `Sichtbarkeit des Chats` auf `Sichtbar` gestellt ist.
+      - Überprüfe, ob die Einstellung `Nur sicheren Chat anzeigen` ausgeschaltet ist.
 3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
    um Kompatibilitätsprobleme zu vermeiden.
 4. **Modifikationen:** Solltest du Modifikationen für den Chat installiert haben, lösche diese.
-5. **Vanilla Client nutzen:** Versuche es mit dem Vanilla Minecraft-Client ohne Mods, um mögliche Konflikte
-   zu vermeiden.
-6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein.
+5. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Modifikationen, um mögliche
+   Konflikte zu vermeiden.
+6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus
+   und wieder ein.
+7. **Xbox-Chateinstellungen prüfen:** Stelle sicher, dass dein Xbox-/Microsoft-Konto den Chat
+   erlaubt.
+   Unter [Chat-Zugriff in Minecraft: Java Edition freischalten](java-edition-chat-access.md)
+   erfährst du, wie du die Einstellung anpasst.
+8. **Microsoft-Konto neu hinzufügen:** Ein veralteter Anmeldetoken kann dazu führen, dass du dem
+   Server zwar beitreten kannst, die für den Chat erforderliche Zertifikatsanfrage jedoch abgelehnt
+   wird. Entferne dein Microsoft-Konto vollständig aus dem Minecraft-Launcher und schließe den
+   Launcher anschließend komplett. Starte ihn danach neu, füge dein Konto wieder hinzu und versuche
+   erneut, eine Nachricht zu senden. Ein einfaches Ab- und erneutes Anmelden ohne zwischenzeitliches
+   Schließen des Launchers reicht möglicherweise nicht aus.
+9. **Gespeicherte Anmeldedaten löschen:** Sollte das Problem weiterhin bestehen, schließe den
+   Minecraft-Launcher vollständig. Öffne unter Windows den Ordner <path>%\appdata%\.minecraft</path> und lösche
+   die Datei `launcher_accounts.json`. Starte den Launcher anschließend neu und melde dich erneut
+   mit deinem Microsoft-Konto an.
 
 </tab>
 
-<tab title="NoRisk Client Voice Chat Probleme" id="nrc-voicechat-issues">
+<tab title="NoRisk-Client-Voice-Chat-Probleme" id="nrc-voicechat-issues">
 
-**Du hast Probleme mit dem NoRisk Client Voice Chat, weil er sich nicht verbindet? Die folgenden Schritte können dir helfen, das Problem selbst zu beheben.**
+**Du hast Probleme mit dem NoRisk Client Voice Chat, weil er sich nicht verbindet? Die folgenden**
+**Schritte können dir helfen, das Problem selbst zu beheben.**
 :
-1. **Einstellungen öffnen:** Du klickst auf den Pfeil, der nach unten zeigt. ![](nrc-open-profile-list.png)
-2. **Profil suchen:** Nun klickst du in der Liste auf dein Profil. Anschließend solltest du zu einer Ansicht gelangen, in der du rechts bei Content „NoRiskClient“ auswählst. ![](nrc-mod-list.png)
-3. **NoRisk Client Voice Chat deaktivieren:** Nun suchst du nach „Voice“, wo du die beiden Ergebnisse deaktivierst. ![](nrc-disable-voicechat.png)
-4. **Simple Voice Chat installieren:** Zum Schluss wechselst du bei Content noch einmal zu Mods und prüfst, ob die [Simple Voice Chat Mod](https://modrinth.com/mod/simple-voice-chat) installiert und aktiviert ist.
-5. **Minecraft starten:** Jetzt kannst du Minecraft wieder starten und alles sollte wieder funktionieren.
+1. **Einstellungen öffnen:** Du klickst auf den Pfeil, der nach unten
+   zeigt. ![](nrc-open-profile-list.png)
+2. **Profil suchen:** Nun klickst du in der Liste auf dein Profil. Anschließend solltest du zu einer
+   Ansicht gelangen, in der du rechts bei Content „NoRiskClient“ auswählst. ![](nrc-mod-list.png)
+3. **NoRisk Client Voice Chat deaktivieren:** Nun suchst du nach „Voice“, wo du die beiden
+   Ergebnisse deaktivierst. ![](nrc-disable-voicechat.png)
+4. **Simple Voice Chat installieren:** Zum Schluss wechselst du bei Content noch einmal zu Mods und
+   prüfst, ob die Modifikation [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) installiert
+   und aktiviert ist.
+5. **Minecraft starten:** Jetzt kannst du Minecraft wieder starten und alles sollte wieder
+   funktionieren.
 
 </tab>
 </tabs>
 
-Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in unserem [Discord](%dc_link%).
-Damit wir dir effizient helfen können, füge zudem deinen [Client-Log](faq.md#how-to-share-log) an und führe bei Verbindungsproblemen einen [MTR-Test](mtr.md) durch.
+Sollten dir diese Tipps nicht weitergeholfen haben, kontaktiere bitte den Support in
+unserem [Discord](%dc_link%). Damit wir dir effizient helfen können, füge zudem
+deinen [Client-Log](faq.md#how-to-share-log) an und führe bei Verbindungsproblemen
+einen [MTR-Test](mtr.md) durch.

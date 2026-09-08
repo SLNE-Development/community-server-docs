@@ -5,30 +5,30 @@
 
 ## Wie erhalte ich Erfahrung? {id="how-to-get-experience"}
 
-Du erhöhst dein Fishing Level, indem du Fische fängst, Schätze angelst oder Meerestiere erlegst.
+Du erhöhst dein Fishing-Level, indem du Fische fängst, Schätze angelst oder Meerestiere erlegst.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Fishing Skill bietet dir je nach Level folgende Vorteile:
+Der Fishing-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Magnetic Rod" id="magnetic-rod">
 
-Fische beißen <tooltip term="depends-on-level">`0% → 25%`</tooltip> schneller an
+Fische beißen <tooltip term="depends-on-level">`0 % → 25 %`</tooltip> schneller an.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Neptune's Favor" id="neptunes-favor">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von Meerestieren zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Meerestieren zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Bigger Lungs" id="bigger-lungs">
 
-Du kannst unter Wasser <tooltip term="depends-on-level">`0% → 300%`</tooltip> länger atmen
+Du kannst unter Wasser <tooltip term="depends-on-level">`0 % → 300 %`</tooltip> länger atmen.
 
 **Verfügbar ab Level: 21**
 
@@ -95,5 +95,17 @@ gesammelt haben musst.
 | 48    | 68.000       | 950.235   |
 | 49    | 80.000       | 1.030.235 |
 | 50    | 100.000      | 1.130.235 |
+
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
+
+| Level | Belohnung                       |
+|-------|---------------------------------|
+| 10    | Trank mit Dolphin's Grace IV      |
+| 20    | Herz des Meeres                 |
+| 30    | Verzaubertes Buch mit Reparatur |
+| 40    | Verzaubertes Buch mit Köder IV   |
+| 50    | Verzaubertes Buch mit Sog VI     |
 
 ****

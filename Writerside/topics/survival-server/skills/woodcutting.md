@@ -11,27 +11,27 @@ Die Menge der gewonnenen Erfahrung hängt von der Holzart ab.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Farming Skill bietet dir je nach Level folgende Vorteile
+Der Woodcutting-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Craftsmanship" id="craftsmanship">
 
-Äxte verlieren <tooltip term="depends-on-level">`0% → 50%`</tooltip> weniger Haltbarkeit
+Äxte verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Forest's Gift" id="forests-gift">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von geerntetem Holz zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von geerntetem Holz zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Master Lumberjack" id="master-lumberjack">
 
-Verringert den Cooldown des [Lumberjack](custom-enchantments.md) Enchantments um <tooltip term="depends-on-level">
-`0 → 15 Sekunden`</tooltip>
+Verringert den Cooldown des [Lumberjack](custom-enchantments.md)-Enchantments um <tooltip term="depends-on-level">
+`0 → 15 Sekunden`</tooltip>.
 
 **Verfügbar ab Level: 21**
 
@@ -98,5 +98,17 @@ gesammelt haben musst.
 | 48    | 3.400.000    | 47.472.425 |
 | 49    | 3.700.000    | 51.172.425 |
 | 50    | 4.000.000    | 55.172.425 |
+
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
+
+| Level | Belohnung                         |
+|-------|-----------------------------------|
+| 10    | Eisenblock                        |
+| 20    | Trank mit Eile X                 |
+| 30    | Verzaubertes Buch mit Soulbound   |
+| 40    | Verzaubertes Buch mit Effizienz XI |
+| 50    | Verzaubertes Buch mit Effizienz XII |
 
 ****

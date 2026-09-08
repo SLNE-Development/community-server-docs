@@ -20,7 +20,7 @@ env:
   # Replace HI with the ID of the instance in capital letters
   ARTIFACT: webHelpCCS2-all.zip
   # Writerside docker image version
-  DOCKER_VERSION: 233.14389
+  DOCKER_VERSION: 2026.08.0328
 
 jobs:
   build:
