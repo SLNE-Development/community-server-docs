@@ -24,7 +24,7 @@ Bitte beachte, dass **auch andere Modifikationen erlaubt** sind, die **nicht geg
 
 <include from="util.md" element-id="mod-pack"/>
 
-## Überprüfte Modifikationen {switcher-key="Deutsch" id="verified-modifications-ger"}
+## Überprüfte Modifikationen
 
 - **Performance-Modifikationen und Shader**
     - Performance-Modifikationen wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
@@ -36,8 +36,10 @@ Bitte beachte, dass **auch andere Modifikationen erlaubt** sind, die **nicht geg
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-third-person))
 - BetterF3 ([Modrinth](https://modrinth.com/mod/betterf3),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3))
+- Bobby ([Modrinth](https://modrinth.com/mod/bobby), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bobby))
 - Chat Sounds ([Modrinth](https://modrinth.com/mod/chatsounds),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-sounds))
+- Command Keys ([Modrinth](https://modrinth.com/mod/commandkeys))
 - Distant Horizons ([Modrinth](https://modrinth.com/mod/distanthorizons),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/distant-horizons))
 - Enchantment Descriptions ([Modrinth](https://modrinth.com/mod/enchantment-descriptions),
@@ -50,8 +52,6 @@ Bitte beachte, dass **auch andere Modifikationen erlaubt** sind, die **nicht geg
 - Jade ([Modrinth](https://modrinth.com/mod/jade), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade))
 - JourneyMap ([Modrinth](https://modrinth.com/mod/journeymap),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap))
-- Just Enough Items (JEI) ([Modrinth](https://modrinth.com/mod/jei),
-  [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei))
 - LambDynamicLights ([Modrinth](https://modrinth.com/mod/lambdynamiclights),
   [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights))
 - Light Overlay ([Modrinth](https://modrinth.com/mod/light-overlay),
