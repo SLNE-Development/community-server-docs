@@ -222,4 +222,13 @@
   <secondary-label id="ca13-event-mc-version" name="26.2" color="purple">
     Das Event wird in der Minecraft-Java-Version 26.2 stattfinden.
   </secondary-label>
+
+  <secondary-label id="xp-event-date" name="26.09.2026—27.09.2026" color="blue">
+    Das Event läuft am 26.09.2026 von 12:00 Uhr bis 00:00 Uhr und am 27.09.2026 von 10:00 Uhr bis 22:00 Uhr.
+  </secondary-label>
+
+  <secondary-label id="xp-event-mc-version" name="26.3" color="purple">
+    Das Event findet in der Minecraft-Java-Version 26.3 statt.
+  </secondary-label>
+
 </labels>

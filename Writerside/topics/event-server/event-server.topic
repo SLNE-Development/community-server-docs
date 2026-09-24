@@ -19,6 +19,11 @@
                   summary="Wie du an einem Event teilnehmen kannst, erfährst du hier."/>
         </spotlight>
 
+        <secondary>
+            <title>Kommende Events</title>
+            <card href="xp-event.md" badge="experiment" />
+        </secondary>
+
         <misc>
             <cards narrow="true">
                 <title>Bereits stattgefundene Events</title>
