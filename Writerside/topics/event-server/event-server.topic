@@ -20,7 +20,7 @@
         </spotlight>
 
         <secondary>
-            <title>Kommende Events</title>
+            <title>Laufende Events</title>
             <card href="xp-event.md" badge="experiment" />
         </secondary>
 

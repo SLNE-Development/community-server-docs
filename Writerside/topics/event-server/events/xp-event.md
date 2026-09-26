@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="xp-event-mc-version"/>
 <secondary-label ref="xp-event-date"/>
 
