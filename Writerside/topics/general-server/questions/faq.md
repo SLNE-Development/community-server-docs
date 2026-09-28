@@ -5,7 +5,7 @@
 ## FAQ
 
 <deflist collapsible="true" default-state="collapsed">
-<def title="Wie verknüpfe ich meinen Twitch-Account mit Discord" id="link-twitch">
+<def title="Wie verknüpfe ich meinen Twitch-Account mit Discord?" id="link-twitch">
 
 1. Klicke in Discord auf Benutzereinstellungen.
 2. Klicke auf den Punkt „Verknüpfungen“.
