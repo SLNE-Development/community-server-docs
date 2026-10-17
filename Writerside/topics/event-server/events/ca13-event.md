@@ -1,4 +1,4 @@
-<primary-label ref="event-running"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="ca13-event-mc-version"/>
 <secondary-label ref="ca13-event-date"/>
 
