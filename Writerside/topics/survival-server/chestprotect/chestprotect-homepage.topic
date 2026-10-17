@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Chestprotect" id="chestprotect-homepage">
+
+    <section-starting-page id="plots">
+        <title>Chestprotect</title>
+        <description id="plots-desc">
+            Auf dem Server gibt es die Möglichkeit mit Chestprotect, Truhen und andere Container vor unbefugtem Zugriff zu schützen. Dies geschieht durch das erstellen einer sogenannten "Sicherung".
+        </description>
+    </section-starting-page>
+</topic>
