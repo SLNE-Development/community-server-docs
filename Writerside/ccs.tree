@@ -33,6 +33,7 @@
       <toc-element accepts-web-file-names-ref="5a6fc3f" topic="plots-homepage.topic">
         <toc-element topic="plot-creation.md"/>
         <toc-element topic="plot-expand.md"/>
+        <toc-element topic="plot-structure-surcharge.md"/>
         <toc-element topic="plot-add-member.md"/>
         <toc-element topic="plot-edit-flags.md"/>
         <toc-element topic="plot-rename.md"/>

@@ -19,3 +19,8 @@
    aus und mache einen <shortcut>Rechtsklick</shortcut>.
 
    ![hotbar](plot-create-confirm-cancel.png) {border-effect="rounded" width="380" thumbnail="false"}
+
+> Liegt dein Grundstück auf einer Struktur, kommt zum Grundpreis ein
+> [Strukturzuschlag](plot-structure-surcharge.md) dazu.
+>
+{style="note"}
