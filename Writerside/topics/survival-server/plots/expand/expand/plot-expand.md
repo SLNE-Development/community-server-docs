@@ -23,3 +23,9 @@
    aus und mache einen <shortcut>Rechtsklick</shortcut>.
 
    ![hotbar](plot-create-confirm-cancel.png) {border-effect="rounded" width="380" thumbnail="false"}
+
+> Liegt die neue Fläche auf einer Struktur, kommt zum Grundpreis ein
+> [Strukturzuschlag](plot-structure-surcharge.md) dazu. Du zahlst ihn nur für die Strukturfläche, die neu
+> zu deinem Grundstück dazukommt.
+>
+{style="note"}

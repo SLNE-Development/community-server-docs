@@ -27,6 +27,8 @@
       <title>Grundstücke</title>
       <card href="plot-expand.md" badge="integration"
             summary="So kannst du dein Grundstück erweitern."/>
+      <card href="plot-structure-surcharge.md" badge="offer"
+            summary="Hier erfährst du, wann ein Strukturzuschlag anfällt und was er kostet."/>
       <card href="plot-edit-flags.md" badge="settings"
             summary="So kannst du die Flags deines Grundstücks bearbeiten."/>
 

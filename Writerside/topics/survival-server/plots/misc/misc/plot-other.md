@@ -55,5 +55,14 @@ Hierbei gilt:
 </def>
 </deflist>
 
+<deflist>
+<def title="Strukturzuschlag" id="plot-structure-surcharge-info">
+
+Liegt dein Grundstück auf einer Struktur, kommt zum Grundpreis ein Strukturzuschlag dazu. Wie er sich
+zusammensetzt und was er je Struktur kostet, erfährst du unter [Strukturzuschlag](plot-structure-surcharge.md).
+
+</def>
+</deflist>
+
 </tab>
 </tabs>
