@@ -1,6 +1,6 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-running"/>
 <secondary-label ref="ca14-event-mc-version"/>
-<secondary-label ref="no-date"/>
+<secondary-label ref="ca14-event-date"/>
 
 # CraftAttack-Ölbohrinsel-Bau-Event
 
@@ -146,7 +146,7 @@ Was soll ich bauen? {id="event-building-goal"}
 ansehen.
 
 Wann findet das Event statt? {id="event-date"}
-: Ein genaues Datum steht noch nicht fest. Es wird bekannt gegeben, sobald es feststeht.
+: Das Event startet am 08.11.2026. Das Enddatum ist noch unbekannt.
 
 Welche Minecraft-Version benötige ich? {id="event-mc-version"}
 : Du musst dem Event mit **Minecraft 26.3** beitreten. Zum Bauen stehen dir alle Blöcke und Items dieser Version zur
