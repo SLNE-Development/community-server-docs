@@ -31,6 +31,9 @@
   <secondary-label id="ca13-event-date" name="07.08.2026 – 26.09.2026" color="blue">
   Das Event läuft vom 07.08.2026 bis zum 26.09.2026.
   </secondary-label>
+  <secondary-label id="ca14-event-date" name="08.11.2026 – unbekannt" color="blue">
+    Das Event startet am 08.11.2026 das Enddatum ist noch unbekannt.
+  </secondary-label>
   <secondary-label id="anarchy-event-date" name="8.10.2023 - 15.10.2023" color="blue">Das Event
     läuft
     vom 8.10.2023 bis zum 15.10.2023.
@@ -221,6 +224,9 @@
   </secondary-label>
   <secondary-label id="ca13-event-mc-version" name="26.2" color="purple">
     Das Event wird in der Minecraft-Java-Version 26.2 stattfinden.
+  </secondary-label>
+  <secondary-label id="ca14-event-mc-version" name="26.3" color="purple">
+    Das Event wird in der Minecraft-Java-Version 26.3 stattfinden.
   </secondary-label>
 
   <secondary-label id="xp-event-date" name="26.09.2026—27.09.2026" color="blue">
