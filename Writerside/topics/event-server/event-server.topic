@@ -19,9 +19,10 @@
                   summary="Wie du an einem Event teilnehmen kannst, erfährst du hier."/>
         </spotlight>
 
-<!--        <secondary>-->
-<!--            <title>Laufende Events</title>-->
-<!--        </secondary>-->
+        <secondary>
+           <title>Laufende Events</title>
+            <card href="ca14-event.md" badge="experiment" />
+        </secondary>
 
         <misc>
             <cards narrow="true">
