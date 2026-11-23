@@ -24,6 +24,8 @@
             <title>Features</title>
             <card href="plots-homepage.topic" badge="key"
                   summary="Auf dem Server können Spieler Grundstücke beanspruchen und gestalten. Erfahre hier mehr!"/>
+            <card href="chestprotect-homepage.topic" badge="lock"
+                  summary="Auf dem Server gibt es ein ChestProtect-System, mit dem du deine Kisten und andere Container schützen kannst. Erfahre hier mehr!"/>
             <card href="economy.md" badge="offer"
                   summary="Auf dem Server gibt es verschiedene Währungen, darunter z. B. %main_currency%s. Wie du sie bekommst und wofür du sie ausgeben kannst, erfährst du hier."/>
             <card href="custom-enchantments.md" badge="experiment"
